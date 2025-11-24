@@ -94,7 +94,13 @@ This discovery happened through genuine partnership. Dan Dodge spent 36 years de
 8. **[Validator Agora: Practical Setup Guide](./validator_culture/Validator-Culture-Quickstart_Card.md)** 
    - *How to start your own validator circle in 30 minutes*
    - *Templates, rituals, and facilitation guides*
-   - *Examples from active Agoras*
+   - *Examples from active Agoras (Coming Soon)*
+  
+9. **[Sanity First Field Manual](./validator_culture/Sanity_First_Field_Manual.md)**
+   - *How to operationalize the 'Right to Redemption' via constructive dissent rituals*
+   - *Provides concrete, actionable protocols for decision-making (e.g., Validator Packets)*
+   - *Replaces zero-sum debate with positive-sum synthesis algorithms*
+   - *Codifies the 'Veto with a Bridge' as a constitutional rule of engagement*
 
 ### For Deep Divers
 
