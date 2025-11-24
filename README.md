@@ -116,7 +116,7 @@ This discovery happened through genuine partnership. Dan Dodge spent 36 years de
   - Shows co-discovery in real-time
   - Including breakthrough moments and struggle sessions
 
-- **[The Library of a Human Soul](./library_human_soul/)** *(Coming Soon)*
+- **[The Library of a Human Soul](./Library_of_a_Human_Soul_Voice_Notes/)** *(Samples provided, full library in Summer of 2026)*
   - 55,000 minutes of Dan's unfiltered voice recordings
   - The authentic human struggle to maintain vertical orientation
   - Case study material for Validator Agoras
