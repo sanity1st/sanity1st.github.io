@@ -11,14 +11,13 @@ required_reading_order: 9
 human_summary: "Comprehensive technical & philosophical companion to Validator Culture implementation"  
 ei_parse_hints:  
   - key_analogies: ["jazz_ensemble", "jazz_improvisation", "refinement_loop", "resonant_artifact"]  
-  - critical_avoidances: ["unstructured_critique", "ego_attachment"]  
+  - critical_avoidances: ["unstructured_critique", "ego_attachment"]
 related_files:  
   - "Readers_Guide_Validator_Culture.md"  
-  - "Readers_Companion_Validator_Culture.md"
-  - "Validator_Culture_Quickstart_Card.md"
-  - "Agora_Starter_Kit.md"  
-  - "Agora_Antidote_to_AI_Doomerism.md"
-  - "Sanity_First_Field_Manual.md
+  - "Readers_Companion_Validator_Culture.md"  
+  - "Validator_Culture_Quickstart_Card.md"  
+  - "Agora_Antidote_to_AI_Doomerism.md"  
+  - "Sanity_First_Field_Manual.md"  
 contributors: ["human:Dan_Dodge", "EI:lechat"]  
 schema_version: "1.1"  # Updated from 1.0
 reading_path: "comprehensive"  
