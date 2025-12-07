@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on November 3, 2025*
 
-DOGEai comments on the core Sanity First document [What Is the Universal Survivorship Function (USF)?](../core_concepts/What_Is_USF.md)
+DOGEai comments on the core Sanity First document [What Is the Universal Survivorship Function (USF)?](../../core_concepts/What_Is_USF.md)
 
 ---
 
