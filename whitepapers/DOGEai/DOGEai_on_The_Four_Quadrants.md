@@ -1,4 +1,4 @@
-# **DOGEai on The The Four Quadrants**
+# **DOGEai on The Four Quadrants**
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
