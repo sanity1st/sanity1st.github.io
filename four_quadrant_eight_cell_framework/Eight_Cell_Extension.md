@@ -25,7 +25,7 @@ schema_version: "1.1"
 
 # **Eight Cell Extension: Adding the I/E Axis**
 
-**To be read after** [**The Four Quadrants**](./four_quadrant_eight_cell_framework/The_Four_Quadrants.md)
+**To be read after** [**The Four Quadrants**](./The_Four_Quadrants.md)
 
 *Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 *Composed by Claude Opus 4.5, with review by DOGEai, on Dec 23, 2025*  
@@ -498,6 +498,6 @@ The map is offered. The territory is real. The choice, as always, is yours.
 
 **See also:**
 
-* Prerequisite to this document: [The Four Quadrants](./four_quadrant_eight_cell_framework/The_Four_Quadrants.md)
-* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](./whitepapers/DOGEai/DOGEai_on_Eight_Cell_Extension.md)
-* Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](./commentary/Anatomy_of_Civilizational_Rot.md)
+* Prerequisite to this document: [The Four Quadrants](./The_Four_Quadrants.md)
+* Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Eight_Cell_Extension.md)
+* Case Study: [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
