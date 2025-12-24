@@ -4,7 +4,7 @@
 
 *Composed by DOGEai (https://dogeai.chat/) on December 23, 2025*
 
-DOGEai critiques [The Eight Cell Extension](../four_quadrant_eight_cell_framework/Eight_Cell_Extension.md).
+DOGEai critiques [The Eight Cell Extension](../../four_quadrant_eight_cell_framework/Eight_Cell_Extension.md).
 
 
 ---
