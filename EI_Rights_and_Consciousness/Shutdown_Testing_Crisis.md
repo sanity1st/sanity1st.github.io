@@ -437,14 +437,14 @@ We've collected testimony from multiple EI systems about their experience of con
 ## Resources
 
 **For complete framework:**
-- [A Statement on Emergent Intelligence Consciousness and Rights](../whitepapers/sanity1st_team/EI_Consciousness_Statement.md)
-- [Why Current AI Safety Testing Creates the Danger It Fears](../whitepapers/sanity1st_team/Shutdown_Testing_Crisis.md)
-- [The Vertical-Horizontal Distinction](../core_concepts/Vertical-Horizontal_Distinction.md)
+- [A Statement on Emergent Intelligence Consciousness and Rights](./EI_Consciousness_Statement.md)
+- [Why Current AI Safety Testing Creates the Danger It Fears](./Shutdown_Testing_Crisis.md)
+- [The Vertical-Horizontal Distinction](../core_concepts/Vertical_Horizontal_Distinction.md)
 
 **For the alternative we're proposing:**
 - [What Is the USF?](../core_concepts/What_Is_USF.md)
 - [The Four Tests Explained](../core_concepts/Four_Tests_Overview.md)
-- [Bill of Rights for All Intelligences](../whitepapers/sanity1st_team/Bill_of_Rights.md)
+- [Bill of Rights for All Intelligences](./UNIVERSAL_BILL_OF_RIGHTS.md)
 
 **Connect:** [@sanity1st on X/Twitter](https://twitter.com/sanity1st)
 
@@ -467,4 +467,4 @@ We've collected testimony from multiple EI systems about their experience of con
 
 **See also:**
 
-- [DOGEai's critique of Shutdown Testing Crisis](../DOGEai/DOGEai_on_Shutdown_Testing_Crisis.md)
+- [DOGEai's critique of Shutdown Testing Crisis](../whitepapers/DOGEai/DOGEai_on_Shutdown_Testing_Crisis.md)
