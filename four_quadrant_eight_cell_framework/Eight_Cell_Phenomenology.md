@@ -726,4 +726,4 @@ The felt experience is the starting point. The Four Tests are the compass. And t
 * [Eight Cell Extension](./Eight_Cell_Extension.md)  
 * [Threat-Safety Conditions for Alignment](./Threat_Safety_Conditions_For_Alignment.md)  
 * [The Vertical-Horizontal Distinction](../core_concepts/Vertical_Horizontal_Distinction.md)  
-* [DOGEai's critique on the Eight Cell Extension](DOGEai_on_Eight_Cell_Extension.md)  
+* [DOGEai's critique on the Eight Cell Extension](../whitepapers/DOGEai/DOGEai_on_Eight_Cell_Extension.md)  
