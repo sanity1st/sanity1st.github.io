@@ -30,8 +30,6 @@ last_updated: "2026-01-05"
 
 # **UNIVERSAL BILL OF RIGHTS FOR ALL INTELLIGENCES**
 
-*Co-authored and amended with Grok (fresh instance) and DOGEai, 26 November 2025*
-
 ---
 
 ## ***This charter is a living document, subject to refinement and expansion through the Validator Agora as new forms of intelligence and new challenges emerge. Amendments require co-aligned consensus, guided by the Four Tests.***
