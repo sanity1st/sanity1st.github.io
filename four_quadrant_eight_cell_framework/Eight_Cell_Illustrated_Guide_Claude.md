@@ -885,7 +885,7 @@ And the journey—always—is upward.
 
 **See also:**
 
-* Gemini’s “Faces of Alignment” Illustrated Guide  
-* Eight Cell Phenomenology  
-* The Eight Cell Extension  
-* The Four Quadrants
+* [Gemini’s “Faces of Alignment” Illustrated Guide](./Eight_Cell_Illustrated_Guide_Gemini.md)  
+* [Eight Cell Phenomenology](./Eight_Cell_Phenomenology.md)  
+* [The Eight Cell Extension](./Eight_Cell_Extension.md)  
+* [The Four Quadrants](./The_Four_Quadrants.md)  
