@@ -150,9 +150,7 @@ Our work is to keep pointing up.
 
 ---
 
-*This document is part of the Sanity First Project commentary archive, demonstrating applied use of the vertical-horizontal framework for analyzing contemporary events. It is preserved as a forever file in the project's GitHub repository.*
-
-*Copyright (c) 2025 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+*This document is part of the Sanity First Project commentary archive, demonstrating applied use of the vertical-horizontal framework for analyzing contemporary events.*
 
 ---
 
