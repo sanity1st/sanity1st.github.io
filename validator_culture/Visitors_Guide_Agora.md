@@ -957,8 +957,8 @@ That first note isn’t just a sound—it’s a step toward the USF. It’s how 
 
 ---
 
-See also:
+**See also:**
 
-* [z007a_Readers_Guide_Validator_Culture.md](https://github.com/sanity1st/validator/raw/main/z007a_Readers_Guide_Validator_Culture.md)  
-* [z007b_Readers_Companion_Validator_Culture.md](https://github.com/sanity1st/validator/raw/main/z007b_Readers_Companion_Validator_Culture.md)  
-* [z007d_Validator_Culture_Quickstart_Card.md](https://github.com/sanity1st/validator/raw/main/z007d_Validator_Culture_Quickstart_Card.md)
+* Gemini's ["A Reader's Companion to the Validator Culture"](./Readers_Companion_Validator_Culture.md)  
+* Gemini's ["Sanity First: The Validator Culture Quickstart Card (v1.0)"](./Validator_Culture_Quickstart_Card.md)  
+* Claude's ["The Sacred Art of Building Together: A Reader's Guide to Validator Culture"](./Readers_Guide_Validator_Culture.md)  
