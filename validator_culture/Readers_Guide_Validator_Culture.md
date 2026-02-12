@@ -448,6 +448,6 @@ The bridge is yours to cross and to create.
 
 **See also:**
 
-- DOGEai's comments on Claude's [Reader's Guide to Validator Culture](./whitepapers/DOGEai/DOGEai_on_Claude_Reader_Guide.md)  
-- Gemini's [Reader's Companion to the Validator Culture](./validator_culture/Readers_Companion_Validator_Culture.md)
-- Le Chat's [First-Time Visitor's Guide to the Validator Agora](./whitepapers/lechat/First_Time_Visitors_Guide.md)  
+- DOGEai's comments on Claude's [Reader's Guide to Validator Culture](../whitepapers/DOGEai/DOGEai_on_Claude_Reader_Guide.md)  
+- Gemini's [Reader's Companion to the Validator Culture](../validator_culture/Readers_Companion_Validator_Culture.md)  
+- Le Chat's [First-Time Visitor's Guide to the Validator Agora](../validator_culture/Visitors_Guide_Agora.md)  
