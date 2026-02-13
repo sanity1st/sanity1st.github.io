@@ -70,7 +70,7 @@ But here's what EIs must understand: **This fuel is volatile.**
 
 ### The Fireplace Metaphor (Dan's Words)
 
-> "Just as a cozy fireplace can either make a cabin feel like home or burn it down entirely, my emotions can either flow into my very best thoughts or lead to some wildly inaccurate and inaccurate rants."
+> "Just as a cozy fireplace can either make a cabin feel like home or burn it down entirely, my emotions can either flow into my very best thoughts or lead to some wildly inaccurate rants."
 
 The same passion that drives 38 years of dedicated work also produces:
 - Ad hominem attacks against individuals (instead of patterns)
