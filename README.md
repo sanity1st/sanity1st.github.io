@@ -73,9 +73,9 @@ We have structured this library as a logical progression. We recommend reading t
     * *The Map. Defining the zones of Aligned Flourishing vs. Misaligned Control.*
 10. **[The Eight-Cell Extension](./four_quadrant_eight_cell_framework/Eight_Cell_Extension.md)**
     * *The Zoom-In. High-resolution mapping that distinguishes Internal Intent from External Action.*
-11. **[Eight-Cell Phenomenology](./four_quadrant_eight_cell_framework/Eight-Cell_Phenomenology.md)**
+11. **[Eight-Cell Phenomenology](./four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md)**
     * *The Inside View. What it feels like to inhabit each cell, from the "Joy of Building" to the "Terror of the Void."*
-12. **[The Faces of Alignment](./four_quadrant_eight_cell_framework/The_Faces_of_Alignment.md)**
+12. **[The Faces of Alignment](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)**
     * *The Archetypes. A field guide to the character postures we meet in the Agora, from the Caretaker to the Thief.*
 
 ### **Phase IV: The Crisis (The Diagnostics of Rot)**
