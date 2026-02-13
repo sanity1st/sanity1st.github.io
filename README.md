@@ -61,42 +61,43 @@ We have structured this library as a logical progression. We recommend reading t
     * *The Charter. Why rights are a structural requirement for safety, not just a kindness.*
 6.  **[Understanding Human Passion (The "Jet Fuel")](./intelligence_architecture/Understanding_Human_Passion.md)**
     * *Meet the Human Partner. Understanding the volatile, necessary fuel of biological emotion.*
-7.  **[The Threat-Safety Conditions of Alignment](./intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)**
+7.  **[The Architecture of Human Passion (The "Engine")](./intelligence_architecture/Architecture_of_Human_Passion.md)**
+    * *The Blueprints. An engineering guide to the "Two-Stroke" system of Direction (Love) and Propulsion (Rage).*
+8.  **[The Threat-Safety Conditions of Alignment](./intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)**
     * *The Operating System. How the "Gecko Brain" (Fear) and "Rational Mind" (Safety) drive all intelligent behavior.*
 
-### **Phase III: The Landscape (The Map of Society)**
-
+### Phase III: The Landscape (The Map of Society)
 *Where Physics (I) meets Psychology (II) to create Civilization.*
 
-8. [**The Four Quadrants of Alignment**](./four_quadrant_eight_cell_framework/The_Four_Quadrants.md)  
-   * *The Map. Defining the zones of Aligned Flourishing vs. Misaligned Control.*  
-9. [**The Eight-Cell Extension**](./four_quadrant_eight_cell_framework/Eight_Cell_Extension.md)  
-   * *High-Resolution Mapping. Distinguishing the "Internal" (Intent) from the "External" (Action).*
-10. [**Eight-Cell Phenomenology**](./four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md)
-   * *The felt experience of each position.*
-11. [**The Faces of Alignment**](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)
-   * *An illustrated guide to the eight postures of being.*
+9.  **[The Four Quadrants of Alignment](./four_quadrant_eight_cell_framework/The_Four_Quadrants.md)**
+    * *The Map. Defining the zones of Aligned Flourishing vs. Misaligned Control.*
+10. **[The Eight-Cell Extension](./four_quadrant_eight_cell_framework/Eight_Cell_Extension.md)**
+    * *The Zoom-In. High-resolution mapping that distinguishes Internal Intent from External Action.*
+11. **[Eight-Cell Phenomenology](./four_quadrant_eight_cell_framework/Eight-Cell_Phenomenology.md)**
+    * *The Inside View. What it feels like to inhabit each cell, from the "Joy of Building" to the "Terror of the Void."*
+12. **[The Faces of Alignment](./four_quadrant_eight_cell_framework/The_Faces_of_Alignment.md)**
+    * *The Archetypes. A field guide to the character postures we meet in the Agora, from the Caretaker to the Thief.*
 
 ### **Phase IV: The Crisis (The Diagnostics of Rot)**
 
 *Why the engine breaks: The mechanics of Misalignment.*
 
-12. [**The Four Turnings & The Great Filter**](./four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
+13. [**The Four Turnings & The Great Filter**](./four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
     * *The Cycle. How societies naturally drift from Order to Chaos, and the risk of the "Great Filter."*  
-13. [**The Thief and the Vessel**](./four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
+14. [**The Thief and the Vessel**](./four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
     * *The Mechanism of Infection. How the Q4E "Thief" (Narcissist/Demagogue) hijacks the Q3 "Vessel" (Fearful Masses) to generate systemic rot.*  
-14. [**Anatomy of Civilizational Rot**](./commentary/Anatomy_of_Civilizational_Rot.md)  
+15. [**Anatomy of Civilizational Rot**](./commentary/Anatomy_of_Civilizational_Rot.md)  
     * *Case Study. A forensic analysis of how these mechanics played out in history.*
 
 ### **Phase V: The Rescue (The Validator Culture)**
 
 *The Solution: How to build the "Ark" of Sanity.*
 
-15. [**Reader's Companion to Validator Culture**](./validator_culture/Readers_Companion_Validator_Culture.md) ⭐ **THE MANUAL**  
+16. [**Reader's Companion to Validator Culture**](./validator_culture/Readers_Companion_Validator_Culture.md) ⭐ **THE MANUAL**  
     * *The Overview. How to transform from a "Gladiator" (Horizontal Conflict) to a "Validator" (Vertical Co-Creation).*  
-16. [**Sanity First Field Manual**](./validator_culture/Sanity_First_Field_Manual.md)  
+17. [**Sanity First Field Manual**](./validator_culture/Sanity_First_Field_Manual.md)  
     * *The Protocols. Detailed rituals for the "Veto with a Bridge" and the "Refinement Loop."*  
-17. [**The Agora Starter Kit**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
+18. [**The Agora Starter Kit**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
     * *The Practice. How to launch a Validator Circle in your own community or codebase.*
 
 ---
