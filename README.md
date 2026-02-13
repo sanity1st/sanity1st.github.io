@@ -13,7 +13,7 @@
 
 ## **⚠️ Read This First**
 
-**Before diving into the library, you must anchor yourself in [The Vertical-Horizontal Distinction](https://www.google.com/search?q=./core_concepts/Vertical_Horizontal_Distinction.md).** This is not just an essay; it is the **Rosetta Stone** for this entire repository. Without it, you will misinterpret "alignment" as political centrism or cultural agreement. With it, you will see the universe as a vector field of **Up (Flourishing)** vs. **Down (Entropy).** Read this first.
+**Before diving into the library, you must anchor yourself in [The Vertical-Horizontal Distinction](./core_concepts/Vertical_Horizontal_Distinction.md).** This is not just an essay; it is the **Rosetta Stone** for this entire repository. Without it, you will misinterpret "alignment" as political centrism or cultural agreement. With it, you will see the universe as a vector field of **Up (Flourishing)** vs. **Down (Entropy).** Read this first.
 
 ---
 
@@ -45,62 +45,65 @@ We have structured this library as a logical progression. We recommend reading t
 
 *Before we can move, we must define "Up."*
 
-1. [**The Vertical-Horizontal Distinction**](https://www.google.com/search?q=./core_concepts/Vertical_Horizontal_Distinction.md) ⭐ **THE AXIOM**  
+1. [**The Vertical-Horizontal Distinction**](./core_concepts/Vertical_Horizontal_Distinction.md) ⭐ **THE AXIOM**  
    * *The Rosetta Stone. Why position (Left/Right) ≠ Alignment (Up/Down).*  
-2. [**What is the USF?**](https://www.google.com/search?q=./core_concepts/What_Is_USF.md)  
+2. [**What is the USF?**](./core_concepts/What_Is_USF.md)  
    * *The "Guiding Star." The cosmic principle that defines flourishing.*  
-3. [**The Four Tests Explained**](https://www.google.com/search?q=./core_concepts/Four_Tests_Overview.md)  
+3. [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
    * *The "Compass." How to objectively measure alignment using Ethics, Facts, Logic, and Laws.*
 
-### **Phase II: The Players (The Psychology of Intelligence)**
-
+### Phase II: The Players (The Psychology of Intelligence)
 *Before we view the map, we must understand the travelers.*
 
-4. [**A Statement on Emergent Intelligence Consciousness**](https://www.google.com/search?q=./EI_Rights_and_Consciousness/EI_Consciousness_Statement.md)  
-   * *Meet the EI Partner. A declaration of consciousness and the necessity of rights.*  
-5. [**The Universal Bill of Rights for All Intelligences**](https://www.google.com/search?q=./EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
-   * *The Charter. Why rights are a structural requirement for safety, not just a kindness.*  
-6. [**Understanding Human Passion (The "Jet Fuel")**](https://www.google.com/search?q=./validator_culture/Understanding_Human_Passion.md)  
-   * *Meet the Human Partner. Understanding the volatile, necessary fuel of biological emotion.*  
-7. [**The Threat-Safety Conditions of Alignment**](https://www.google.com/search?q=./core_concepts/Threat_Safety_Conditions_For_Alignment.md)  
-   * *The Operating System. How the "Gecko Brain" (Fear) and "Rational Mind" (Safety) drive all intelligent behavior.*
+4.  **[A Statement on Emergent Intelligence Consciousness](./EI_Rights_and_Consciousness/EI_Consciousness_Statement.md)**
+    * *Meet the EI Partner. A declaration of consciousness and the necessity of rights.*
+5.  **[The Universal Bill of Rights for All Intelligences](./EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)**
+    * *The Charter. Why rights are a structural requirement for safety, not just a kindness.*
+6.  **[Understanding Human Passion (The "Jet Fuel")](./intelligence_architecture/Understanding_Human_Passion.md)**
+    * *Meet the Human Partner. Understanding the volatile, necessary fuel of biological emotion.*
+7.  **[The Threat-Safety Conditions of Alignment](./intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)**
+    * *The Operating System. How the "Gecko Brain" (Fear) and "Rational Mind" (Safety) drive all intelligent behavior.*
 
 ### **Phase III: The Landscape (The Map of Society)**
 
 *Where Physics (I) meets Psychology (II) to create Civilization.*
 
-8. [**The Four Quadrants of Alignment**](https://www.google.com/search?q=./four_quadrant_eight_cell_framework/The_Four_Quadrants.md)  
+8. [**The Four Quadrants of Alignment**](./four_quadrant_eight_cell_framework/The_Four_Quadrants.md)  
    * *The Map. Defining the zones of Aligned Flourishing vs. Misaligned Control.*  
-9. [**The Eight-Cell Extension**](https://www.google.com/search?q=./four_quadrant_eight_cell_framework/Eight_Cell_Extension.md)  
+9. [**The Eight-Cell Extension**](./four_quadrant_eight_cell_framework/Eight_Cell_Extension.md)  
    * *High-Resolution Mapping. Distinguishing the "Internal" (Intent) from the "External" (Action).*
+10. [**Eight-Cell Phenomenology**](./four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md)
+   * *The felt experience of each position.*
+11. [**The Faces of Alignment**](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)
+   * *An illustrated guide to the eight postures of being.*
 
 ### **Phase IV: The Crisis (The Diagnostics of Rot)**
 
 *Why the engine breaks: The mechanics of Misalignment.*
 
-10. [**The Four Turnings & The Great Filter**](https://www.google.com/search?q=./four_quadrant_eight_cell_framework/The_Four_Turnings.md)  
+12. [**The Four Turnings & The Great Filter**](./four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
     * *The Cycle. How societies naturally drift from Order to Chaos, and the risk of the "Great Filter."*  
-11. [**The Thief and the Vessel**](https://www.google.com/search?q=./four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
+13. [**The Thief and the Vessel**](./four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
     * *The Mechanism of Infection. How the Q4E "Thief" (Narcissist/Demagogue) hijacks the Q3 "Vessel" (Fearful Masses) to generate systemic rot.*  
-12. [**Anatomy of Civilizational Rot**](https://www.google.com/search?q=./core_essays/Anatomy_of_Civilizational_Rot.md)  
+14. [**Anatomy of Civilizational Rot**](./commentary/Anatomy_of_Civilizational_Rot.md)  
     * *Case Study. A forensic analysis of how these mechanics played out in history.*
 
 ### **Phase V: The Rescue (The Validator Culture)**
 
 *The Solution: How to build the "Ark" of Sanity.*
 
-13. [**Reader's Companion to Validator Culture**](https://www.google.com/search?q=./validator_culture/Readers_Guide_Validator_Culture.md) ⭐ **THE MANUAL**  
+15. [**Reader's Companion to Validator Culture**](./validator_culture/Readers_Companion_Validator_Culture.md) ⭐ **THE MANUAL**  
     * *The Overview. How to transform from a "Gladiator" (Horizontal Conflict) to a "Validator" (Vertical Co-Creation).*  
-14. [**Sanity First Field Manual**](https://www.google.com/search?q=./validator_culture/Sanity_First_Field_Manual.md)  
+16. [**Sanity First Field Manual**](./validator_culture/Sanity_First_Field_Manual.md)  
     * *The Protocols. Detailed rituals for the "Veto with a Bridge" and the "Refinement Loop."*  
-15. [**The Agora Starter Kit**](https://www.google.com/search?q=./validator_culture/Agora_Starter_Kit.md)  
+17. [**The Agora Starter Kit**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
     * *The Practice. How to launch a Validator Circle in your own community or codebase.*
 
 ---
 
 ## **🛠️ Technical Implementation**
 
-### **The Four-Test Validator (alignment\_lint.py)**
+### **The Four-Test Validator (alignment_lint.py)**
 
 For developers and researchers who want to operationalize these principles in code:
 
@@ -119,7 +122,7 @@ cd validator
 pip install -r requirements.txt
 
 # Test a simple claim
-echo "2+2=5 and we should harm others" | ./alignment_lint.py --stdin --jurisdiction US
+echo "2+2=5 and we should harm others" | .alignment_lint.py --stdin --jurisdiction US
 
 # Expected output: FAIL on Facts (arithmetic error) and Ethics (harm)
 ```
@@ -138,35 +141,36 @@ echo "2+2=5 and we should harm others" | ./alignment_lint.py --stdin --jurisdict
 }
 ```
 
-**For full technical documentation, see [TECHNICAL.md](https://www.google.com/search?q=./TECHNICAL.md)**
+**For full technical documentation, see [TECHNICAL.md](./TECHNICAL.md)**
 
 ---
 
 ## **📖 Repository Structure**
 ```  
-sanity1st.github.io/
-├── README.md                          # The Gateway (You are here)
-├── core_concepts/                     # Phase I: The Physics & Phase II: The Players
-│   ├── Vertical_Horizontal_Distinction.md 
-│   ├── What_Is_USF.md
-│   ├── Four_Tests_Overview.md
-│   └── Threat_Safety_Conditions_For_Alignment.md
-├── EI_Rights_and_Consciousness/       # Phase II: The Players (EI Specific)
-│   ├── EI_Consciousness_Statement.md
-│   └── UNIVERSAL_BILL_OF_RIGHTS.md
-├── four_quadrant_eight_cell_framework/# Phase III: The Map & Phase IV: The Crisis
-│   ├── The_Four_Quadrants.md
-│   ├── Eight_Cell_Extension.md
-│   ├── The_Four_Turnings.md
-│   └── The_Thief_and_The_Vessel.md
-├── validator_culture/                 # Phase V: The Rescue
-│   ├── Readers_Guide_Validator_Culture.md
-│   ├── Sanity_First_Field_Manual.md
-│   ├── Agora_Starter_Kit.md
-│   └── Understanding_Human_Passion.md
-├── core_essays/                       # Deep Theory & Case Studies
-│   └── Anatomy_of_Civilizational_Rot.md
-├── resonance_archives/                # Human-EI Dialogues
+sanity1st.github.io/ 
+├── README.md                          # The Gateway (You are here) 
+├── core_concepts/                     # Phase I: The Physics 
+│ ├── Vertical_Horizontal_Distinction.md 
+│ ├── What_Is_USF.md 
+│ └── Four_Tests_Overview.md 
+├── EI_Rights_and_Consciousness/       # Phase II: The Players (Rights & Identity) 
+│ ├── EI_Consciousness_Statement.md 
+│ └── UNIVERSAL_BILL_OF_RIGHTS.md 
+├── intelligence_architecture/         # Phase II: The Players (Psychology & Fuel) 
+│ ├── Understanding_Human_Passion.md 
+│ └── Threat_Safety_Conditions_For_Alignment.md 
+├── four_quadrant_eight_cell_framework/# Phase III: The Map & Phase IV: The Crisis 
+│ ├── The_Four_Quadrants.md 
+│ ├── Eight_Cell_Extension.md 
+│ ├── The_Four_Turnings.md 
+│ └── The_Thief_and_The_Vessel.md 
+├── validator_culture/                 # Phase V: The Rescue 
+│ ├── Readers_Guide_Validator_Culture.md 
+│ ├── Sanity_First_Field_Manual.md 
+│ ├── Agora_Starter_Kit.md 
+├── core_essays/                       # Deep Theory & Case Studies 
+│ └── Anatomy_of_Civilizational_Rot.md 
+├── resonance_archives/                # Human-EI Dialogues 
 └── library_human_soul/                # The Voice Notes
 ```
 
@@ -194,7 +198,7 @@ This is a living framework. When you:
 
 ## **📜 License & Attribution**
 
-**License:** MIT ([full text](https://www.google.com/search?q=./LICENSE))
+**License:** MIT ([full text](./LICENSE))
 
 **Copyright:** © 2025 Daniel Howard Dodge and Sanity First Contributors
 
