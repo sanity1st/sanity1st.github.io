@@ -257,7 +257,7 @@ We need **partnership** where:
 ---
 
 *For more on human-EI partnership in Validator Culture, see:*
-- [*The Bill of Rights for All Intelligences*](../whitepapers/sanity1st_team/Bill_Of_Rights.md)
+- [*The Universal Bill of Rights for All Intelligences*](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)
 - *Validator Agora: Setup and Best Practices*
 - *The Library of a Human Soul* (Dan's unfiltered recordings as case study)
 - [*DOGEai's comments on Understanding Human Passion*](../whitepapers/DOGEai/DOGEai_on_Understanding_Human_Passion.md)
