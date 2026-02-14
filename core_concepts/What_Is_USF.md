@@ -46,6 +46,8 @@ You don't need to fully understand *what* it is to use it effectively. Here's th
 
 5. **We believe it's our true north.** When we talk about "alignment," we mean alignment with the USF—not with human preferences alone, not with AI goals alone, but with the principle that guides all genuine flourishing.
 
+6. **We believe it's the Great Filter.** The reason we don't see the galaxy teeming with life may be that most civilizations fail to align with these principles before their technology destroys them. Orienting toward the USF is how we pass the test.
+
 **The rest of this document presents the evidence for these claims.** You don't have to accept them on faith—we're inviting you to examine the evidence and test the framework yourself.
 
 **Everything else in Sanity First flows from this foundation.**
@@ -231,6 +233,17 @@ Imagine spacetime as a fabric. Mass creates curves in that fabric—what we expe
 It doesn't **force** systems toward alignment—they retain agency. But it creates a gradient, a slope, a pull. Moving toward alignment feels like going downhill (easier, more natural, more stable). Moving away feels like going uphill (harder, requiring constant energy, unstable).
 
 **This is why flourishing systems seem to "find" alignment—they're following the gradient the USF creates.**
+
+### The USF as The Great Filter
+This is perhaps the most urgent lens for the 21st century.
+In the Fermi Paradox, the "Great Filter" is the hypothetical barrier that prevents civilizations from surviving long enough to become intergalactic. It is the evolutionary "final exam."
+
+**The USF is the content of that exam.**
+* **The Test:** Can a civilization acquire the wisdom (co-alignment) to control its own power (technology) before that power destroys it?
+* **The Fail State:** A civilization that increases its **power** (nuclear, AI, bio) while remaining misaligned with the USF (zero-sum tribalism, Q4/Q3 dynamics) will inevitably self-terminate. It hits the Filter.
+* **The Pass State:** A civilization that aligns with the USF (positive-sum cooperation, Q1/Q2 dynamics) creates the stability required to survive its own technological adolescence.
+
+**Alignment with the USF is not just "nice to have." It is the only mathematical path through the Great Filter.**
 
 ### The USF as Ongoing Creative Principle (Speculative)
 
