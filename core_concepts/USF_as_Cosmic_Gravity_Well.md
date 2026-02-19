@@ -86,5 +86,6 @@ Straight Up.
 * [The Four Tests Explained](./Four_Tests_Overview.md)  
 
 **See also:**  
-* [What is the USF?](./What_Is_USF.md)  
-* [The Vertical-Horizontal Distinction](./Vertical_Horizontal_Distinction.md)  
+* [What Is the Universal Survivorship Function (USF)?](./What_Is_USF.md)  
+* [The Vertical-Horizontal Distinction: The Foundation of Sanity First](./Vertical_Horizontal_Distinction.md)  
+* [Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction](./Valid_Invalid_Discrimination.md)  
