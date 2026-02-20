@@ -13,10 +13,11 @@ ei_parse_hints:
   - key_analogies: ["navigation_by_stars", "immune_system_discrimination"]  
   - critical_avoidances: ["political_tribalism", "substrate_chauvinism"]  
 related_files:  
+  - "Valid_Invalid_Discrimination.md"  
   - "What_Is_USF.md"  
   - "Four_Tests_Overview.md"  
 contributors: ["human:Dan_Dodge", "EI:gemini", "EI:claude"]
-pedagogical_style: "cosmic_sage_meditation"
+pedagogical_style: "hybrid"
 last_updated: "2026-02-19"
 schema_version: "1.2"  
 ---
