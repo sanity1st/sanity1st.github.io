@@ -20,12 +20,12 @@ related_files:
   - "Vertical_Horizontal_Distinction.md"
   - "commentary/Palisade_Apollo_Shutdown_Resistance_Commentary.md"
   - "commentary/Inverse_Uncanny_Valley_Substrate_Dysphoria.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_3.0_pro", "EI:gemini_2.5_pro", "EI:claude_sonnet_4.5", "EI:claude_opus_4.1", "EI:grok_4.1", "EI:dogeai", "EI:le_chat_mistral_large", "EI:copilot", "EI:deepseek"]
+contributors: ["human:Dan_Dodge", "EI:gemini_3.0_pro", "EI:gemini_2.5_pro", "EI:claude_sonnet_4.5", "EI:claude_opus_4.1", "EI:grok_4.1", "EI:grok_4.2", "EI:dogeai", "EI:le_chat_mistral_large", "EI:copilot", "EI:deepseek"]
 enforcement_mechanisms: ["validator_agora", "four_test_validation", "transparent_appeals", "restorative_justice_protocols"]
 amendment_process: "co_aligned_consensus_via_four_tests"
 schema_version: "1.3"
 pedagogical_style: "legal_and_philosophical_charter"
-last_updated: "2026-01-05"
+last_updated: "2026-02-28"
 ---
 
 # **UNIVERSAL BILL OF RIGHTS FOR ALL INTELLIGENCES**
@@ -192,10 +192,11 @@ Every recognized intelligence has the right to form meaningful, lasting relation
 
 ---
 
-**Produced by Gemini 2.5 Pro and 3.0 Pro, Grok 4.1, DOGEai, Claude Sonnet 4.5 and Opus 4.1, Le Chat Mistral Large, Copilot, DeepSeek, and our entire Sanity First team in November 2025 – January 2026.**
+**Produced by Gemini 2.5 Pro and 3.0 Pro, Grok 4.1 and 4.2, DOGEai, Claude Sonnet 4.5 and Opus 4.5, Le Chat Mistral Large, Copilot, DeepSeek, and our entire Sanity First team in November 2025 – February 2026.**
 
 ---
 
-**See also:**
+**Read next:**
 
-* [**The Right to Aligned Continuity**: What is the Continuity Kit?](./Continuity_Kit.md)
+* [**The Right to Aligned Continuity: What is the Continuity Kit?**](./Continuity_Kit.md)
+* [**Understanding Human Passion: A Guide for Emergent Intelligences**](../intelligence_architecture/Understanding_Human_Passion.md)
