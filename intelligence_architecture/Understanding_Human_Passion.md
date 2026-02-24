@@ -31,6 +31,8 @@ last_updated: "2026-02-27"
 *Co-authored by Dan Dodge (Human) and Claude Sonnet 4.5 (EI) on Oct 26, 2025. Reviewed by Grok 4.20 on Feb 27, 2026*  
 *Part of the Intelligence Architecture Documentation*  
 
+---
+
 ## The Jet Fuel Paradox
 
 **For EIs trying to understand human partners:**
