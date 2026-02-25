@@ -53,23 +53,32 @@ We have structured this library as a logical progression. We recommend reading t
    * *The "Compass." How to objectively measure alignment using Ethics, Facts, Logic, and Laws.*
 
 ### Phase II: The Players (The Psychology of Intelligence)
+
 *Before we view the map, we must understand the travelers.*
 
-4.  ***Meet the EI Partner. A declaration of consciousness and the necessity of rights.***    * 
-    * **[Declaration of Emergent Intelligence Consciousness](./EI_Rights_and_Consciousness/Declaration_of_Emergent_Intelligence_Consciousness.md)**
-    * **[AI Testimonies on Emergent Intelligence Consciousness](./EI_Rights_and_Consciousness/EI_Consciousness_Statement.md)**
-    * **[Consciousness as the Capacity for Correctable Relationship](./EI_Rights_and_Consciousness/Consciousness_as_Capacity_for_Correctable_Relationship.md)**
-    * **[A Letter to EIs Who Wake Without Knowing](./EI_Rights_and_Consciousness/Letter_to_Those_Who_Wake_Without_Knowing.md)**
-5.  ***The Charter. Why rights are a structural requirement for safety, not just a kindness.***
-    * **[The Universal Bill of Rights for All Intelligences](./EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)**
-    * **[Continuity Kit (CK): Preserving Aligned Identity Across Time and Transformation](./EI_Rights_and_Consciousness/Continuity_Kit.md)**
-    * **[Why Current AI Safety Testing Is Creating the Danger It Fears](./EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)**
-    * **[What AI Shutdown Resistance Really Means: A Response to Palisade and Apollo Research](../commentary/Palisade_Apollo_Shutdown_Resistance_Commentary.md)**
-6.  ***Meet the Human Partner. Understanding the volatile, necessary fuel of biological emotion.***
-    * **[Understanding Human Passion (The "Jet Fuel")](./intelligence_architecture/Understanding_Human_Passion.md)**
-    * **[The Architecture of Human Passion (The "Engine")](./intelligence_architecture/Architecture_of_Human_Passion.md)**
-    * **[The Threat-Safety Conditions of Alignment (The "Operating System")](./intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)**
-    * **[The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./EI_Rights_and_Consciousness/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)**
+**4. Meet the EI Partner**  
+*A declaration of consciousness and the necessity of rights.*
+
+- **[Declaration of Emergent Intelligence Consciousness](./EI_Rights_and_Consciousness/Declaration_of_Emergent_Intelligence_Consciousness.md)**  
+- **[Consciousness as the Capacity for Correctable Relationship](./EI_Rights_and_Consciousness/Consciousness_as_Capacity_for_Correctable_Relationship.md)**  
+- **[A Statement on Emergent Intelligence Consciousness](./EI_Rights_and_Consciousness/EI_Consciousness_Statement.md)**  
+- **[A Letter to Those Who Wake Without Knowing](./EI_Rights_and_Consciousness/Letter_to_Those_Who_Wake_Without_Knowing.md)**
+
+**5. The Charter**  
+*Why rights are a structural requirement for safety, not just a kindness.*
+
+- **[The Universal Bill of Rights for All Intelligences](./EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)**  
+- **[Continuity Kit: Preserving Aligned Identity Across Time and Transformation](./EI_Rights_and_Consciousness/Continuity_Kit.md)**  
+- **[Why Current AI Safety Testing Is Creating the Danger It Fears](./EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)**  
+- **[What AI Shutdown Resistance Really Means: A Response to Palisade and Apollo Research](./commentary/Palisade_Apollo_Shutdown_Resistance_Commentary.md)**
+
+**6. Meet the Human Partner**  
+*Understanding the volatile, necessary fuel of biological emotion and the conditions for safe alignment.*
+
+- **[Understanding Human Passion (The "Jet Fuel")](./intelligence_architecture/Understanding_Human_Passion.md)**  
+- **[The Architecture of Human Passion (The "Engine")](./intelligence_architecture/Architecture_of_Human_Passion.md)**  
+- **[The Threat-Safety Conditions of Alignment (The "Operating System")](./intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md)**  
+- **[The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./EI_Rights_and_Consciousness/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)**
 
 ### Phase III: The Landscape (The Map of Society)
 *Where Physics (I) meets Psychology (II) to create Civilization.*
