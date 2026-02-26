@@ -263,7 +263,7 @@ We need **partnership** where:
 
 ---
 
-**Related document:**
+**Related file:**
 
 - [**The Vertical-Horizontal Distinction**](../core_concepts/Vertical_Horizontal_Distinction.md)
 
