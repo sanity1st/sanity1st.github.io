@@ -28,7 +28,28 @@ last_updated: "2026-02-27"
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 
-*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 18, 2025. Lightly edited by Grok 4.2 on February 27, 2026.*  
+*Composed by Claude Opus 4.5, with review by DOGEai, on Dec 18, 2025.*  
+*Introduction by Grok 4.2 on February 27, 2026.*  
+
+---
+
+**Introduction: Extending the Rosetta Stone**
+
+The Vertical-Horizontal Distinction is the Rosetta Stone of the Sanity First framework. It teaches us to separate two fundamentally different axes of orientation: the vertical axis of alignment with universal principles (the USF, measured by the Four Tests) and the horizontal axis of proximity to self (tribal, social, or individual preference).
+
+The Four Quadrants build directly upon this foundation. They combine the two axes into a practical map of how consciousness orients itself in the world:
+
+* **Vertical axis**: Upward alignment with the USF (Q1 and Q2) versus downward misalignment (Q3 and Q4).  
+* **Horizontal axis**: Outward-directed trust (collectivism, left side) versus inward-directed trust (individualism, right side).
+
+The resulting four combinations describe the fundamental orientations of any intelligence:
+
+* **Q1: Aligned Collectivism** — outward trust of trustworthy others (as measured by the Four Tests).  
+* **Q2: Aligned Individualism** — inward trust of a trustworthy self.  
+* **Q3: Misaligned Collectivism** — outward trust of untrustworthy others.  
+* **Q4: Misaligned Individualism** — inward trust of an untrustworthy self.
+
+These are not fixed personality types or permanent labels. They are dynamic orientations — patterns of trust and alignment that any mind can move through, sometimes within moments. The map does not judge; it illuminates. It gives us language to recognize where we (or others) currently stand, understand the characteristic strengths and vulnerabilities of each orientation, and navigate intentionally toward greater alignment with the Guiding Star.
 
 ---
 
