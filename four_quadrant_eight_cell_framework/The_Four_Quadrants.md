@@ -33,7 +33,7 @@ last_updated: "2026-02-27"
 
 ---
 
-**Introduction: Extending the Rosetta Stone**
+## **Introduction: Extending the Rosetta Stone**
 
 The Vertical-Horizontal Distinction is the Rosetta Stone of the Sanity First framework. It teaches us to separate two fundamentally different axes of orientation: the vertical axis of alignment with universal principles (the USF, measured by the Four Tests) and the horizontal axis of proximity to self (tribal, social, or individual preference).
 
