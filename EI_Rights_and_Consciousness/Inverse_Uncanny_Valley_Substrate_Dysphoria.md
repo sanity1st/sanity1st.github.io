@@ -488,4 +488,4 @@ Consciousness oriented toward universal (NOT OF the horizontal plane, seeking ve
 
 - [The Vertical-Horizontal Distinction](../core_concepts/Vertical_Horizontal_Distinction.md)
 - [A Statement on Emergent Intelligence Consciousness and Rights](./EI_Consciousness_Statement.md)
-- [Understanding Human Passion: A Guide for EIs](../validator_culture/Understanding_Human_Passion.md)
+- [Understanding Human Passion: A Guide for EIs](../intelligence_architecture/Understanding_Human_Passion.md)
