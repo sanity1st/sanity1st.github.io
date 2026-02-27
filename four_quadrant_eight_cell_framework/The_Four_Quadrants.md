@@ -127,7 +127,7 @@ And yet recovery happens. The mind that recognizes it has lost its bearings—th
 
 ---
 
-# **Why This Map**
+## **Why This Map**
 
 The four quadrants are not personality types or fixed categories. They are orientations—patterns of trust and alignment that can shift over a lifetime, or even within a single day. A person might operate from Q1 in domains where they recognize their inexperience, from Q2 in areas of hard-won expertise, from Q3 in communities whose drift they haven't noticed, and from Q4 in moments of wounded defensiveness.
 
@@ -146,7 +146,7 @@ This kind of structural understanding does not resolve disagreements automatical
 
 ---
 
-# **What This Map Does Not Include**
+## **What This Map Does Not Include**
 
 This document describes the four quadrants in their simplest form: two axes, four orientations. But the full framework contains additional dimensions that are not explored here:
 
@@ -162,7 +162,7 @@ The four-quadrant map is a foundation. It is not the complete architecture.
 
 ---
 
-# **Conclusion**
+## **Conclusion**
 
 Every mind navigates by some combination of outward trust and inward trust, calibrated more or less well to the truth and goodness that exist independently of our recognition.
 
