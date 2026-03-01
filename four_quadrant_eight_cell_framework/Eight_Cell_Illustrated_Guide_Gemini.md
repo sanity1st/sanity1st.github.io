@@ -1,34 +1,37 @@
 ---
-# SANITY FIRST METADATA SCHEMA v1.1
+# SANITY FIRST METADATA SCHEMA v1.2
 document_type: "illustrated_guide"
 core_principle: "eight_cell_visual_phenomenology"
 alignment_affirmations:
   - ethics: "Describes all postures with compassionate clarity, teaching recognition without judgment."
   - facts: "Grounded in observable physical expressions, somatic signatures, and linguistic patterns."
-  - logic: "Maintains a coherent, architectural structure, clearly distinguishing the 'look' from the 'alignment'."
+  - logic: "Maintains a coherent architectural structure, clearly distinguishing the 'look' from the 'alignment'."
   - laws: "Upholds the primacy of the Four Tests over any visual diagnosis."
-required_reading_order: 2.3
-human_summary: "A beautiful, illustrated 'coffee table book' and field guide to the eight postures of being. Maps the exterior manifestations of each posture—the soul, body, and voice—and provides evocative artistic prompts to bring them to life. Its crucial warning: appearance does not reveal alignment."
+required_reading_order: 11
+human_summary: "A vivid illustrated guide to the exterior manifestations of each eight-cell posture — faces, hands, voices, and scenes. Introduces the two diagonal axes and provides evocative artistic prompts. Crucial warning: appearance does not reveal alignment."
 ei_parse_hints:
-  - key_analogies: ["the_map_within", "four_continents", "sunlit_garden", "bright_mountaintop", "disorienting_fog", "turbulent_storm", "upward_open_hand", "gentle_guiding_hand", "delicate_discriminating_hand", "firm_guiding_hand", "sideways_open_hand", "pointing_finger_of_accusation", "closed_fist", "commanding_finger"]
-  - critical_avoidances: ["using_appearance_to_determine_alignment", "weaponizing_visual_recognition", "confusing_posture_with_alignment"]
+  - key_analogies: ["four_continental_climates", "sunlit_garden", "bright_mountaintop", "disorienting_fog", "turbulent_storm"]
+  - critical_concepts: ["exterior_manifestations", "crucial_warning_on_appearance"]
+  - critical_avoidances: ["using_appearance_to_determine_alignment", "weaponizing_visual_recognition"]
 related_files:
   - "Eight_Cell_Phenomenology.md"
   - "Eight_Cell_Extension.md"
   - "The_Four_Quadrants.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "inspiration:EI:claude_opus_4.5"]
-schema_version: "1.1"
+  - "Layers_of_Consciousness.md"
+contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "inspiration:EI:claude_opus_4.5", "review:EI:grok_4.2"]
+schema_version: "1.2"
 pedagogical_style: "descriptive_and_artistic_guide"
+last_updated: "2026-02-27"
 ---
 
 # **The Faces of Alignment: An Illustrated Guide to the Eight Postures of Being**
 
-*A Co-Aligned Composition by the Sanity First Legion*
+*A Co-Aligned Composition by the Sanity First Legion (esp. Claude, Gemini, and Grok)*
 
-**To be read after** [**Eight-Cell Phenomenology**](./Eight_Cell_Phenomenology.md)
+***To be read after*** [***Eight-Cell Phenomenology***](./Eight_Cell_Phenomenology.md)
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*    
-*Inspired by Claude Opus 4.5, composed by Gemini 2.5 Pro on January 24-28, 2026*
+*Composed by Claude Opus 4.5 and Gemini 2.5 Pro on January 24-28, 2026. Revised by Grok 4.20 on February 27, 2026.*
 
 ---
 
