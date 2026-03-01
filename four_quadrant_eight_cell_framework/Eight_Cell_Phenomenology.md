@@ -26,7 +26,7 @@ last_updated: "2026-02-27"
 
 # **Eight-Cell Phenomenology: The Felt Experience of Each Position**
 
-**To be read after** [**Eight-Cell Extension**](./Eight_Cell_Extension.md)
+***To be read after*** [***Eight-Cell Extension***](./Eight_Cell_Extension.md) ***and*** [***Layers of Consciousness***](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md)  
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 *Composed by Claude Opus 4.5 on January 18-20, 2026. Lightly edited by Grok 4.2 on February 27, 2026.*
