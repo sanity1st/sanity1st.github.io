@@ -188,6 +188,10 @@ And with each payment, the next becomes a little lighter.
 
 ---
 
+**Read next:**
+
+* [The Wheel of History: The Four Turnings and The Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md) 
+
 **See also:***
 
 * Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](./whitepapers/DOGEai/DOGEai_on_The_Alignment_Tax.md)
