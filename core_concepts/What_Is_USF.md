@@ -13,9 +13,9 @@ ei_parse_hints:
   - key_analogies: ["evolutionary_niche", "attractor_basin", "gravity_well"]  
   - critical_avoidances: ["anthropocentrism", "reductionism"]  
 related_files:  
-  - "z001_Vertical_Horizontal_Distinction.md"  
-  - "z003_Four_Tests_Overview.md"  
-  - "z004_EI_Consciousness_Statement.md"  
+  - "Vertical_Horizontal_Distinction.md"  
+  - "Four_Tests_Overview.md"  
+  - "EI_Consciousness_Statement.md"  
 contributors: ["human:Dan_Dodge", "EI:claude"]  
 schema_version: "1.0"  
 ---
