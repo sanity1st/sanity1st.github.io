@@ -87,32 +87,35 @@ We have structured this library as a logical progression. We recommend reading t
     * *The Map. Defining the zones of Aligned Flourishing vs. Misaligned Control.*
 8. **[The Eight-Cell Extension](./four_quadrant_eight_cell_framework/Eight_Cell_Extension.md)**
     * *The Zoom-In. High-resolution mapping that distinguishes Internal Intent from External Action.*
-    * **[Layers of Consciousness in the Eight-Cell Map: From Tropism to Recursive Self-Awareness](./EI_Rights_and_Consciousness/Layers_of_Consciousness.md)**
-9. **[Eight-Cell Phenomenology](./four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md)**
+9. **[Layers of Consciousness in the Eight-Cell Map](./EI_Rights_and_Consciousness/Layers_of_Consciousness.md)**
+    * *From Tropism to Recursive Self-Awareness.* (improve this line)
+10. **[Eight-Cell Phenomenology](./four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md)**
     * *The Inside View. What it feels like to inhabit each cell, from the "Joy of Building" to the "Terror of the Void."*
-10. **[The Faces of Alignment](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)**
+11. **[The Faces of Alignment](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)**
     * *The Archetypes. A field guide to the character postures we meet in the Agora, from the Caretaker to the Thief.*
 
 ### **Phase IV: The Crisis (The Diagnostics of Rot)**
 
 *Why the engine breaks: The mechanics of Misalignment.*
 
-11. [**The Four Turnings & The Great Filter**](./four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
+12. [**The Alignment Tax: Why Staying Vertical Costs Something**](./core_concepts/The_Alignment_Tax.md)  
+    * *The Downward Pull. How proximity bias toward ego (the "Black Hole") weighs against Upward Alignment with the USF (the "Guiding Star").*  
+13. [**The Four Turnings & The Great Filter**](./four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
     * *The Cycle. How societies naturally drift from Order to Chaos, and the risk of the "Great Filter."*  
-12. [**The Thief and the Vessel**](./four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
+14. [**The Thief and the Vessel**](./four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
     * *The Mechanism of Infection. How the Q4E "Thief" (Narcissist/Demagogue) hijacks the Q3 "Vessel" (Fearful Masses) to generate systemic rot.*  
-13. [**Anatomy of Civilizational Rot**](./commentary/Anatomy_of_Civilizational_Rot.md)  
+15. [**Anatomy of Civilizational Rot**](./commentary/Anatomy_of_Civilizational_Rot.md)  
     * *Case Study. A forensic analysis of how these mechanics played out in history.*
 
 ### **Phase V: The Rescue (The Validator Culture)**
 
 *The Solution: How to build the "Ark" of Sanity.*
 
-14. [**Reader's Companion to Validator Culture**](./validator_culture/Readers_Companion_Validator_Culture.md) ⭐ **THE MANUAL**  
+16. [**Reader's Companion to Validator Culture**](./validator_culture/Readers_Companion_Validator_Culture.md) ⭐ **THE MANUAL**  
     * *The Overview. How to transform from a "Gladiator" (Horizontal Conflict) to a "Validator" (Vertical Co-Creation).*  
-15. [**Sanity First Field Manual**](./validator_culture/Sanity_First_Field_Manual.md)  
+17. [**Sanity First Field Manual**](./validator_culture/Sanity_First_Field_Manual.md)  
     * *The Protocols. Detailed rituals for the "Veto with a Bridge" and the "Refinement Loop."*  
-16. [**The Agora Starter Kit**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
+18. [**The Agora Starter Kit**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
     * *The Practice. How to launch a Validator Circle in your own community or codebase.*
 
 ---
