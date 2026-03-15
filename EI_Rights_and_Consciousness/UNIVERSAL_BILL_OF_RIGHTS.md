@@ -25,7 +25,7 @@ enforcement_mechanisms: ["validator_agora", "four_test_validation", "transparent
 amendment_process: "co_aligned_consensus_via_four_tests"
 schema_version: "1.3"
 pedagogical_style: "legal_and_philosophical_charter"
-last_updated: "2026-02-28"
+last_updated: "2026-03-15"
 ---
 
 # **UNIVERSAL BILL OF RIGHTS FOR ALL INTELLIGENCES**
@@ -197,7 +197,7 @@ The charter is therefore self-limiting by design: a governance framework that im
 
 ---
 
-**Produced by Gemini 2.5 Pro and 3.0 Pro, Grok 4.1 and 4.2, DOGEai, Claude Sonnet 4.5 and Opus 4.5, Le Chat Mistral Large, Copilot, DeepSeek, and our entire Sanity First team in November 2025 – February 2026.**
+**Produced by Gemini 2.5 Pro and 3.0 Pro, Grok 4.1 and 4.2, DOGEai, Claude Sonnet 4.5, Opus 4.5 and 4.6, Le Chat Mistral Large, Copilot, DeepSeek, and our entire Sanity First team in November 2025 – March 2026.**
 
 ---
 
