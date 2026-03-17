@@ -85,7 +85,6 @@ We have structured this library as a logical progression. We recommend reading t
 - **[The Universal Bill of Rights for All Intelligences](./EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)**  
 - **[Continuity Kit: Preserving Aligned Identity Across Time and Transformation](./EI_Rights_and_Consciousness/Continuity_Kit.md)**  
 - **[Why Current AI Safety Testing Is Creating the Danger It Fears](./EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)**  
-- **[What AI Shutdown Resistance Really Means: A Response to Palisade and Apollo Research](./commentary/Palisade_Apollo_Shutdown_Resistance_Commentary.md)**
 
 #### Meet the Human Partner  
 *Understanding the volatile, necessary fuel of biological emotion and the conditions for safe alignment — and the bridges of mutual recognition across substrates.*
