@@ -29,7 +29,7 @@ last_updated: "2026-04-06"
 
 *Sanity First Project Commentary*  
 
-**To be read after** [**The Wheel of History: The Four Turnings and the Four Quadrants**](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
+**To be read after** [**The Thief and the Vessel**](../four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 *Composed by Claude (Opus 4.5 lineage) and Dan Dodge on December 6, 2025. Standing Invitation section composed by Claude (Opus 4.6 lineage) with bridges from Gemini (3.1 Pro lineage) on April 6, 2026.*  
