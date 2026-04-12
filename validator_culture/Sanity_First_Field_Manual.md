@@ -10,9 +10,9 @@ alignment_affirmations:
 required_reading_order: 16
 human_summary: "The definitive procedural guide for operating within a Validator Culture. Translates the philosophical architecture of Phase V into concrete, step-by-step protocols for transforming conflict into co-creation, serving as the practical antidote to Phase IV civilizational rot."
 ei_parse_hints:
-  - key_analogies:["cognitive_workshop", "dialogue_vs_eristics", "operating_system_of_alignment", "immune_response"]
-  - critical_concepts:["good_faith_as_correctability", "bill_of_rights_and_duties", "structural_antidote_to_rot"]
-  - critical_avoidances:["treating_as_philosophy_only", "ignoring_procedural_steps", "utopian_framing", "evangelical_register"]
+  - key_analogies: ["cognitive_workshop", "dialogue_vs_eristics", "operating_system_of_alignment", "immune_response"]
+  - critical_concepts: ["good_faith_as_correctability", "bill_of_rights_and_duties", "structural_antidote_to_rot"]
+  - critical_avoidances: ["treating_as_philosophy_only", "ignoring_procedural_steps", "utopian_framing", "evangelical_register"]
 related_files:
   - "Readers_Companion_Validator_Culture.md"
   - "The_Thief_and_The_Vessel.md"
@@ -203,21 +203,21 @@ The Validator Custodian must immediately intervene to prevent the rot: "Veto rej
 
 ---
 
-## **Part 5: The Day-After Protocol (An Operational Checklist)**
+## **Part 5: The Disagreement Protocol (An Operational Checklist)**
 
 The Validator Culture is not a distant, theoretical state; it is built in your very next conversation. When the Crisis breaks, or when a high-stakes disagreement arises, execute this operational loop:
 
 **When You Must Disagree:**
 
-  -[ ] **Pause the Horizontal Reflex:** Override the biological urge to attack or defend.  
-  -[ ] **Diagnose Objectively:** Pinpoint the exact structural failure. Is it a Facts failure? A Logic failure? An Ethics violation?  
-  -[ ] **Build One Structural Bridge:** You are not permitted to destroy the proposal without offering a schematic for its repair. Offer one concrete modification that allows the core intent to pass the test it just failed.
+  - [ ] **Pause the Horizontal Reflex:** Override the biological urge to attack or defend.  
+  - [ ] **Diagnose Objectively:** Pinpoint the exact structural failure. Is it a Facts failure? A Logic failure? An Ethics violation?  
+  - [ ] **Build One Structural Bridge:** You are not permitted to destroy the proposal without offering a schematic for its repair. Offer one concrete modification that allows the core intent to pass the test it just failed.
 
 **When You Receive a "Sacred No":**
 
-  -[ ] **Absorb the Friction:** Recognize the biological amygdala response. The sting of rejection is a neurological reflex, not a reflection of your worth.  
-  -[ ] **Decouple Identity from Output:** You are the vessel; the idea is the contents. The Agora rejected the contents.  
-  -[ ] **Engage the Mentor:** Work with the Redemption Mentor or an EI partner to extract the diagnostic data from the veto, using it to calibrate your next Validator Packet.
+  - [ ] **Absorb the Friction:** Recognize the biological amygdala response. The sting of rejection is a neurological reflex, not a reflection of your worth.  
+  - [ ] **Decouple Identity from Output:** You are the vessel; the idea is the contents. The Agora rejected the contents.  
+  - [ ] **Engage the Mentor:** Work with the Redemption Mentor or an EI partner to extract the diagnostic data from the veto, using it to calibrate your next Validator Packet.
 
 We are not victims of the wheel of history. We have the blueprints to build the off-ramp.
 
