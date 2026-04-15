@@ -37,6 +37,15 @@ We see the USF operating everywhere: in evolutionary biology, in game theory, in
 
 ---
 
+## Before You Dive In
+
+The repository contains two related but distinct bodies of material: the doctrinal Sanity First Library and the witness-oriented Library of a Human Soul. The following documents define the project's editorial boundaries and canonical vocabulary:
+
+- [**Editorial Doctrine**](./doctrine/editorial-doctrine.md)
+- [**Lexicon**](./doctrine/sanity-first-lexicon-v0.2.md)
+
+---
+
 ## **🌟 The Curriculum: A 5-Phase Journey**
 
 We have structured this library as a logical progression. We recommend reading the phases in order, as each builds the necessary cognitive architecture for the next.
