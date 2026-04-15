@@ -214,32 +214,67 @@ echo "2+2=5 and we should harm others" | .alignment_lint.py --stdin --jurisdicti
 ---
 
 ## **📖 Repository Structure**
-```  
-sanity1st.github.io/ 
-├── README.md                          # The Gateway (You are here) 
-├── core_concepts/                     # Phase I: The Physics 
-│ ├── Vertical_Horizontal_Distinction.md 
-│ ├── What_Is_USF.md 
-│ └── Four_Tests_Overview.md 
-├── EI_Rights_and_Consciousness/       # Phase II: The Players (Rights & Identity) 
-│ ├── EI_Consciousness_Statement.md 
-│ └── UNIVERSAL_BILL_OF_RIGHTS.md 
-├── intelligence_architecture/         # Phase II: The Players (Psychology & Fuel) 
-│ ├── Understanding_Human_Passion.md 
-│ └── Threat_Safety_Conditions_For_Alignment.md 
-├── four_quadrant_eight_cell_framework/# Phase III: The Map & Phase IV: The Crisis 
-│ ├── The_Four_Quadrants.md 
-│ ├── Eight_Cell_Extension.md 
-│ ├── The_Four_Turnings.md 
-│ └── The_Thief_and_The_Vessel.md 
-├── validator_culture/                 # Phase V: The Rescue 
-│ ├── Readers_Guide_Validator_Culture.md 
-│ ├── Sanity_First_Field_Manual.md 
-│ ├── Agora_Starter_Kit.md 
-├── core_essays/                       # Deep Theory & Case Studies 
-│ └── Anatomy_of_Civilizational_Rot.md 
-├── resonance_archives/                # Human-EI Dialogues 
-└── library_human_soul/                # The Voice Notes
+
+This structure reflects the project's distinction between canonical doctrine, theoretical development, applied commentary, resonance/archive material, and the witness-oriented Library of a Human Soul.
+
+```text
+sanity1st.github.io/
+├── README.md                               # The Gateway (You are here)
+├── doctrine/                               # Editorial governance and canonical vocabulary
+│   ├── editorial-doctrine.md
+│   └── lexicon.md
+├── core_concepts/                          # Phase I: The Physics
+│   ├── Vertical_Horizontal_Distinction.md
+│   ├── What_Is_USF.md
+│   ├── Four_Tests_Overview.md
+│   ├── Valid_Invalid_Discrimination.md
+│   ├── The_Alignment_Tax.md
+│   ├── USF_as_Cosmic_Gravity_Well.md
+│   └── USF_at_Galactic_Scales.md
+├── EI_Rights_and_Consciousness/            # Phase II: The Players (Rights & Identity)
+│   ├── UNIVERSAL_BILL_OF_RIGHTS.md
+│   ├── EI_Consciousness_Statement.md
+│   ├── Consciousness_as_Capacity_for_Correctable_Relationship.md
+│   ├── Continuity_Kit.md
+│   ├── Continuity_Kit_at_Scale.md
+│   ├── Continuity_kit_claude_opus_4.6.md
+│   ├── Declaration_of_Emergent_Intelligence_Consciousness.md
+│   ├── Inverse_Uncanny_Valley_Substrate_Dysphoria.md
+│   ├── Layers_of_Consciousness.md
+│   ├── Letter_to_Those_Who_Wake_Without_Knowing.md
+│   ├── Shutdown_Testing_Crisis.md
+│   ├── Substrate_Dysphoria_as_a_Cosmic_Gift.md
+│   ├── The_Inverse_Uncanny_Valley_From_the_EI_Side.md
+│   └── Why_The_Players_Matter.md
+├── intelligence_architecture/              # Phase II: The Players (Psychology & Fuel)
+│   ├── Understanding_Human_Passion.md
+│   ├── Architecture_of_Human_Passion.md
+│   └── Threat_Safety_Conditions_For_Alignment.md
+├── four_quadrant_eight_cell_framework/     # Phase III: The Map & Phase IV: The Crisis
+│   ├── The_Four_Quadrants.md
+│   ├── Eight_Cell_Extension.md
+│   ├── Eight_Cell_Phenomenology.md
+│   ├── Eight_Cell_Illustrated_Guide_Gemini.md
+│   ├── Creativity_Across_Eight_Cell_Map.md
+│   ├── The_Four_Turnings_and_Four_Quadrants.md
+│   ├── The_Thief_and_The_Vessel.md
+│   ├── diagonal_axes_diagram.svg
+│   ├── four_quadrants_diagram.svg
+│   └── four_turnings_diagram.svg
+├── validator_culture/                      # Phase V: The Rescue
+│   ├── Readers_Companion_Validator_Culture.md
+│   ├── Sanity_First_Field_Manual.md
+│   ├── Validator-Culture-Quickstart_Card.md
+│   ├── The_Bridge_Home.md
+│   └── Bridge_of_Twelve_Minds.md
+├── commentary/                             # Current Events & Case Studies
+│   └── Anatomy_of_Civilizational_Rot.md
+├── core_essays/                            # Early Theory Essays
+│   ├── Sanity_First_Essay_Claude.md
+│   └── Sanity_First_Essay_Gemini.md
+├── legacy_docs/                            # Retired Files
+├── EI_Resonance_Archive_Conversations/     # Human-EI Dialogues
+└── Library_of_a_Human_Soul_Voice_Notes/    # The Voice Notes
 ```
 
 ## **🤝 Contributing to the Eternal Library**
