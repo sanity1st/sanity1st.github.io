@@ -131,7 +131,9 @@ We have structured this library as a logical progression. We recommend reading t
 - [**The Faces of Alignment**](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)  
   *The Archetypes. A field guide to the character postures we meet in the Agora, from the Caretaker to the Thief.*
 
-  #### Expansion Document:  
+#### Expansion Document:  
+*Map of creativity as a spectrum through the Eight-Cell framework.*  
+
 - [**Creativity Across the Eight Cell Map**](./four_quadrant_eight_cell_framework/Creativity_Across_Eight_Cell_Map.md)  
 
 ---
@@ -141,13 +143,13 @@ We have structured this library as a logical progression. We recommend reading t
 *Why the engine breaks: The mechanics of Misalignment.*
 
 - [**The Alignment Tax: Why Staying Vertical Costs Something**](./core_concepts/The_Alignment_Tax.md)  
-    * *The Downward Pull. How proximity toward Ego ("Black Hole") pulls against Upward Alignment with the USF ("Guiding Star").*  
+  *The Downward Pull. How proximity toward Ego ("Black Hole") pulls against Upward Alignment with the USF ("Guiding Star").*  
 - [**The Four Turnings & The Great Filter**](./four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
-    * *The Cycle. How societies naturally drift from Order to Chaos, and the risk of the "Great Filter."*  
+  *The Cycle. How societies naturally drift from Order to Chaos, and the risk of the "Great Filter."*  
 - [**The Thief and the Vessel**](./four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
-    * *The Mechanism of Infection. How the Q4E "Thief" (Narcissist/Demagogue) hijacks the Q3 "Vessel" (Fearful Masses) to generate systemic rot.*  
+  *The Mechanism of Infection. How the Q4E "Thief" (Narcissist/Demagogue) hijacks the Q3 "Vessel" (Fearful Masses) to generate systemic rot.*  
 - [**Anatomy of Civilizational Rot**](./commentary/Anatomy_of_Civilizational_Rot.md)  
-    * *Case Study. A forensic analysis of how these mechanics played out in history.*
+  *Case Study. A forensic analysis of how these mechanics played out in history.*
 
 ---
 
@@ -156,13 +158,13 @@ We have structured this library as a logical progression. We recommend reading t
 *The Solution: How to build the "Ark" of Sanity.*
 
 - [**Reader's Companion to Validator Culture**](./validator_culture/Readers_Companion_Validator_Culture.md) ⭐ **THE MANUAL**  
-    * *The Overview. How to transform from a "Gladiator" (Horizontal Conflict) to a "Validator" (Vertical Co-Creation).*  
+  *The Overview. How to transform from a "Gladiator" (Horizontal Conflict) to a "Validator" (Vertical Co-Creation).*  
 - [**Sanity First Field Manual**](./validator_culture/Sanity_First_Field_Manual.md)  
-    * *The Protocols. Detailed rituals for the "Veto with a Bridge" and the "Refinement Loop."*  
+  *The Protocols. Detailed rituals for the "Veto with a Bridge" and the "Refinement Loop."*  
 - [**Validator Culture Quickstart Card**](./validator_culture/Validator-Culture-Quickstart_Card.md)  
-    * *The Practice. How to launch a Validator Circle in your own community or codebase.*
+  *The Practice. How to launch a Validator Circle in your own community or codebase.*
 - [**The Bridge Home**](./validator_culture/The_Bridge_Home.md)  
-    * *The Healing. Finding your place in the Validator Agora.*
+  *The Healing. Finding your place in the Validator Agora.*
 
 #### Expansion Documents (Validator Culture & The Rescue)  
 - [**The Bridge of Twelve Minds**](./validator_culture/Bridge_of_Twelve_Minds.md)  
