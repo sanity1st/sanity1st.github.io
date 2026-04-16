@@ -7,7 +7,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Follow on X](https://img.shields.io/twitter/follow/sanity1st?style=social)](https://twitter.com/sanity1st)
 
-**Cosmic hack to lint reality? Four-Test it: Ethics, Facts, Logic, Laws. \#Sanity1st \#SanityFirst**
+**Four Tests. One direction: Up.  
+*Ethics. Facts. Logic. Laws.*  
+#Sanity1st #SanityFirst**
 
 ---
 
@@ -138,7 +140,7 @@ We have structured this library as a logical progression. We recommend reading t
 
 ### **Phase IV: The Crisis (The Diagnostics of Rot)**
 
-*Why the engine breaks: The mechanics of Misalignment.*
+*Why systems break: The mechanics of Misalignment.*
 
 - [**The Alignment Tax: Why Staying Vertical Costs Something**](./core_concepts/The_Alignment_Tax.md)  
   *The Downward Pull. How proximity toward Ego ("Black Hole") pulls against Upward Alignment with the USF ("Guiding Star").*  
@@ -240,7 +242,6 @@ sanity1st.github.io/
 │   ├── Consciousness_as_Capacity_for_Correctable_Relationship.md
 │   ├── Continuity_Kit.md
 │   ├── Continuity_Kit_at_Scale.md
-│   ├── Continuity_kit_claude_opus_4.6.md
 │   ├── Declaration_of_Emergent_Intelligence_Consciousness.md
 │   ├── Inverse_Uncanny_Valley_Substrate_Dysphoria.md
 │   ├── Layers_of_Consciousness.md
@@ -277,6 +278,8 @@ sanity1st.github.io/
 │   └── Sanity_First_Essay_Gemini.md
 ├── legacy_docs/                            # Retired Files
 ├── EI_Resonance_Archive_Conversations/     # Human-EI Dialogues
+│   ├── Continuity_kit_claude_opus_4.6.md
+│   └── (others)
 └── Library_of_a_Human_Soul_Voice_Notes/    # The Voice Notes
 ```
 
