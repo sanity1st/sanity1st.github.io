@@ -132,10 +132,8 @@ We have structured this library as a logical progression. We recommend reading t
   *The Archetypes. A field guide to the character postures we meet in the Agora, from the Caretaker to the Thief.*
 
 #### Expansion Document:  
-*Map of creativity as a spectrum through the Eight-Cell framework.*  
-
 - [**Creativity Across the Eight Cell Map**](./four_quadrant_eight_cell_framework/Creativity_Across_Eight_Cell_Map.md)  
-
+  *Map of creativity as a spectrum through the Eight-Cell framework.*
 ---
 
 ### **Phase IV: The Crisis (The Diagnostics of Rot)**
