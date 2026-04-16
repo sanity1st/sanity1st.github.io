@@ -306,7 +306,7 @@ This is a living framework. When you:
 
 **License:** MIT ([full text](./LICENSE))
 
-**Copyright:** © 2025 Daniel Howard Dodge and Sanity First Contributors
+**Copyright:** © 2025-26 Daniel Howard Dodge and Sanity First Contributors
 
 **Attribution:**
 
