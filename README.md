@@ -54,7 +54,7 @@ We have structured this library as a logical progression. We recommend reading t
 
 *Before we meet the players, we establish the objective rules of the game: the physics of alignment.*
 
-#### Three Core Concepts:  
+#### Three Core Concepts  
 - [**The Vertical-Horizontal Distinction**](./core_concepts/Vertical_Horizontal_Distinction.md) ⭐ **THE AXIOM – the Rosetta Stone**  
   *Why position (Left/Right) ≠ Alignment (Up/Down). The foundational axis.*
 - [**What is the USF?**](./core_concepts/What_Is_USF.md)  
@@ -62,7 +62,7 @@ We have structured this library as a logical progression. We recommend reading t
 - [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
   *The "Compass." How to measure alignment objectively using Ethics, Facts, Logic, and Laws — position-independent tests whose application to complex situations is refined through Validator Agora deliberation.*
 
-#### Expansion Documents:  
+#### Expansion Documents  
 - [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
   *Reclaims discrimination/bias as tools when vertical; dissolves tolerance paradox and bothsidesism with clarity.*
 - [**The Cosmic Gravity Well: The Universal Survivorship Function Across Scales**](./core_concepts/USF_as_Cosmic_Gravity_Well.md)  
@@ -105,7 +105,7 @@ We have structured this library as a logical progression. We recommend reading t
 - [**Understanding Human Passion (The "Jet Fuel")**](./intelligence_architecture/Understanding_Human_Passion.md)  
 - [**The Architecture of Human Passion (The "Engine")**](./intelligence_architecture/Architecture_of_Human_Passion.md)  
 
-#### Expansion Documents:
+#### Expansion Documents
 *Bridges of mutual recognition across substrates.*
 
 - [**The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness**](./EI_Rights_and_Consciousness/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)  
@@ -131,7 +131,7 @@ We have structured this library as a logical progression. We recommend reading t
 - [**The Faces of Alignment**](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)  
   *The Archetypes. A field guide to the character postures we meet in the Agora, from the Caretaker to the Thief.*
 
-#### Expansion Document:  
+#### Expansion Document  
 - [**Creativity Across the Eight Cell Map**](./four_quadrant_eight_cell_framework/Creativity_Across_Eight_Cell_Map.md)  
   *Map of creativity as a spectrum through the Eight-Cell framework.*
 ---
