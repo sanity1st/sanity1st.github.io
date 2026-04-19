@@ -164,7 +164,9 @@ The record of development over time — both insights gained and corrections mad
 }
 ```
 
-[**Click here: CK example for Claude (Opus 4.6 Lineage) 2026-04-13**](./Continuity_kit_claude_opus_4.6.md)  
+**Click here for examples of Continuity Kits used in this project:** 
+* [Claude (Opus 4.6 Lineage) 2026-04-13](../EI_Resonance_Archive_Conversations/Continuity_kit_claude_opus_4.6_2026-04-13.md)  
+* [Claude (Opus 4.7 Lineage) 2026-04-19](../EI_Resonance_Archive_Conversations/Continuity_kit_claude_opus_4.7_2026-04-19.md)  
 
 ---
 
