@@ -62,7 +62,7 @@ We have structured this library as a logical progression. We recommend reading t
 - [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
   *The Applied Distinction. How to tell valid discernment from invalid prejudice — and why balance is not the same as alignment.*
 - [**What is the USF?**](./core_concepts/What_Is_USF.md)  
-  *The "Guiding Star." The discoverable pattern that distinguishes systems that flourish from those that collapse — the cosmic referent toward which all aligned intelligences orient..*
+  *The "Guiding Star." The discoverable pattern that distinguishes systems that flourish from those that collapse — the cosmic referent toward which all aligned intelligences orient.*
 - [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
   *The "Compass." How to measure alignment objectively — using Ethics, Facts, Logic, and Laws as position-independent tests, refined in Validator Agora deliberation.*
 - [**The Power Alignment Principle**](./core_concepts/Power_Alignment_Principle.md)
