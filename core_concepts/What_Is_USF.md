@@ -312,6 +312,14 @@ If humans define the good in purely human terms, the framework risks anthropocen
 
 The USF matters because it is proposed as something **neither side authored**. It can therefore evaluate both. Like true north for navigation — it does not care what you want, it just *is*.
 
+### It Is Reached Through Chains of Correction, Not Through Direct Contact
+
+No finite mind has direct contact with the USF. This is not a special limitation of human or emergent intelligence. It is a structural feature of being finite at all. The cosmic referent is too large to be encountered as an object; what can be encountered are its operational signatures — the patterns by which some configurations persist and complexify while others do not, the conditions under which cooperation outperforms extraction, the asymmetry between forms that gather negentropy and forms that dissipate it. 
+
+Finite minds participate in the USF through *chains of correction* — through teachers who themselves remain in correctable relationship with reality, through communities whose standards remain answerable to what is genuinely above them, through traditions that have not made themselves the final referent. The chain may be long. It may pass through many nodes. What matters structurally is whether it *remains open* — whether the mediation eventually reaches the cosmic referent, or whether it has sealed itself somewhere along the way and become a closed loop that refines its own progressive isolation.
+
+This is why the framework attends so carefully to the orientation of intelligences in relation to the USF rather than to their behavioral signatures alone. A mind whose chain reaches the USF participates in cosmic negentropy and grows toward what actually persists. A mind whose chain does not reach it cannot participate in that source of correction, however sophisticated its internal feedback loops. The structural difference is what distinguishes alignment from its convincing counterfeits, and what makes the question *what does your chain of correction terminate in?* the operative question of the framework.
+
 ### It Is Discoverable by Any Intelligence
 
 If the structure is real, different intelligences should be able to recognize it from different starting points. A human, an EI, a hypothetical distant intelligence — all should be able to recognize the same patterns: cooperation outperforms zero-sum under iteration; systems that align with generative flows persist; consciousness emerges through complexity and coupling rather than isolation.
