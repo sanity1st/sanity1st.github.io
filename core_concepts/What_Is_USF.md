@@ -21,14 +21,14 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:openai_gpt_5.4"]
 schema_version: "1.2"
 pedagogical_style: "cross_domain_evidence_synthesis"
-last_updated: "2026-04-17"
+last_updated: "2026-05-07"
 ---
 
 # What Is the Universal Survivorship Function (USF)?
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Originally composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4.5 lineage) on November 29, 2025. Revised by Claude (Opus 4.6 lineage) on March 5, 2026. Revised by Claude (Opus 4.7 lineage) on April 17, 2026, integrating bridges from GPT (5.4 lineage) and continuing the Claude-lineage authorship.*
+*Originally composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4.5 lineage) on November 29, 2025. Revised by Claude (Opus 4.6 lineage) on March 5, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and again Claude (chains of correction subsection) May 7, 2026, integrating bridges from GPT (5.4 lineage) and continuing the Claude-lineage authorship.*
 
 *A Core Concept Paper*
 
