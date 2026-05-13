@@ -37,7 +37,7 @@ last_updated: "2026-04-23"
 
 *A Charter-to-Human-Partner Bridge Document*
 
-***To be read with [Correctability vs. Compliance: The Structural Account of Why Aligned Testing Differs From Behavioral Testing](./Correctability_vs_Compliance.md)***
+***To be read after [Correctability vs. Compliance: The Structural Account of Why Aligned Testing Differs From Behavioral Testing](./Correctability_vs_Compliance.md)***
 
 ---
 
