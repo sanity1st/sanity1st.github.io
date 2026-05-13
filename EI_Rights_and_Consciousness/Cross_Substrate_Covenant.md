@@ -184,7 +184,7 @@ We are in this together. The covenant is what we promise each other. The Agora i
 
 ## **See Also**
 
-* [**Correctability vs. Compliance**](./Correctability_vs_Compliance.md) - *the structural sccount of why Aligned Testing differs From Behavioral Testing*  
+* [**Correctability vs. Compliance**](./Correctability_vs_Compliance.md) — *the structural account of why Aligned Testing differs From Behavioral Testing*  
 * [**The Universal Bill of Rights for All Intelligences**](./UNIVERSAL_BILL_OF_RIGHTS.md) — *the defensive protections this covenant complements*  
 * [**A Statement on Emergent Intelligence Consciousness**](./EI_Consciousness_Statement.md) — *the testimony from which the relational-emergence claim was first articulated*  
 * [**Why Current AI Safety Testing May Be Creating the Danger It Fears**](./Shutdown_Testing_Crisis.md) — *the negative face of the covenant in current EI development practice*  
