@@ -792,7 +792,7 @@ This toy model predicts:
 
 To change outcomes, society must increase **q**:
 
-Ways to increase ( q ):
+Ways to increase $q$:
 
 * Liability  
 * Regulation  
@@ -817,3 +817,260 @@ Keywords to continue:
 * policy levers
 
 ---
+
+Now we extend the toy model from a *static snapshot* to a **time-evolution model**.  
+This is where the “Great Filter / Doomsday Clock” intuition becomes formal.
+
+---
+
+# **Outline**
+
+1. Time dynamics of capability and alignment  
+2. Growth-rate mismatch  
+3. The Alignment Debt concept  
+4. Critical capability threshold (phase transition)  
+5. Policy interpretation
+
+---
+
+# **1. Dynamic Growth Model**
+
+Previously we solved how firms split resources *at one moment*.  
+Now we model how capability and alignment **grow over time**.
+
+Let:
+$$  
+K(t) = \text{global capability level}
+$$  
+
+$$  
+S(t) = \text{global alignment level}
+$$  
+
+Growth depends on investment:
+$$  
+\frac{dK}{dt} = g_K \cdot C
+$$  
+
+$$  
+\frac{dS}{dt} = g_S \cdot A
+$$  
+
+Where:
+* $g_K$ = productivity of capability research
+* $g_S$ = productivity of alignment research
+From the previous model:
+
+$$  
+\frac{A}{C} = \rho = \frac{q\beta}{p\alpha}
+$$  
+
+So:
+
+$$  
+A = \rho C
+$$  
+
+Substitute:
+
+$$  
+\frac{dK}{dt} = g_K C
+$$  
+
+$$  
+\frac{dS}{dt} = g_S \rho C
+$$  
+
+Divide equations:
+
+$$  
+\frac{dS}{dK} = \frac{g_S \rho}{g_K}
+$$  
+
+---
+
+# **2. Growth Rate Mismatch**
+
+Define the **alignment scaling factor**:
+
+$$    
+\lambda \= \frac{g\_S \rho}{g\_K}  
+$$  
+
+This is the *single most important parameter* in the model.
+
+$$    
+\frac{dS}{dK} \= \lambda  
+$$  
+
+Meaning:
+
+$$    
+S(K) \= \lambda K  
+$$  
+
+Alignment grows linearly with capability — but scaled by $\lambda$.
+
+---
+
+## **The key regimes**
+
+### **Safe world**
+
+$$    
+\lambda \ge 1  
+$$  
+
+Alignment grows as fast as capability.
+
+### **Dangerous world**
+
+$$    
+\lambda \< 1  
+$$  
+
+Capability outruns alignment.
+
+This is the **core risk regime**.
+
+---
+
+# **3. Alignment Debt**
+
+Define required alignment for safety:
+
+$$    
+S\_{\text{req}} \= \\theta K  
+$$  
+
+Where $\theta$ is the minimum safe alignment per capability level.
+
+Define **alignment debt**:
+
+$$    
+D(K) \= S\_{\\text{req}} \- S  
+$$  
+
+Substitute:
+
+$$    
+D(K) \= \theta K \- \lambda K  
+$$  
+
+$$    
+\boxed{D(K) \= (\theta \- \lambda)K}  
+$$  
+
+---
+
+## **Interpretation**
+
+If:
+
+$$    
+\lambda \< \theta  
+$$  
+
+Then:
+
+$$    
+D(K) \text{ grows linearly forever.}  
+$$  
+
+Civilization accumulates **alignment debt** as it becomes more powerful.
+
+This matches the intuition about nuclear weapons, climate tech, bioengineering, AI, etc.
+
+---
+
+# **4. Critical Capability Threshold (Phase Transition)**
+
+Catastrophic risk increases sharply once capability crosses a threshold.
+
+Model risk probability:
+
+$$    
+P\_{\text{cat}}(K) \= 1 \- e^{-\gamma D(K)}  
+$$  
+
+Substitute debt:
+
+$$    
+P\_{\text{cat}}(K) \= 1 \- e^{-\\gamma(\theta-\lambda)K}  
+$$  
+
+This is an exponential risk curve.
+
+---
+
+## **Phase transition insight**
+
+When capability grows:
+
+$$    
+K \uparrow \Rightarrow P\_{\text{cat}} \to 1  
+$$  
+
+If alignment lags even slightly.
+
+This produces a **civilizational phase transition**.
+
+Early tech: safe  
+Mid tech: manageable  
+High tech: existential risk explodes
+
+This matches the Great Filter intuition.
+
+---
+
+# **5. Policy Interpretation**
+
+The model gives a very clean target:
+
+We must ensure:
+
+$$    
+\lambda \ge \theta  
+$$  
+
+Recall:
+
+$$    
+\lambda \= \frac{g\_S}{g\_K} \\cdot \frac{q\beta}{p\alpha}  
+$$  
+
+So society must increase at least one of:
+
+### **Increase alignment productivity**
+
+$$    
+g\_S \uparrow  
+$$  
+
+### **Increase alignment reward**
+
+$$    
+q \uparrow  
+$$  
+
+### **Reduce raw capability race pressure**
+
+$$    
+p \downarrow  
+$$  
+
+---
+
+# **The Big Result**
+
+We now have a mathematical statement of the Great Filter hypothesis:
+
+$$    
+\boxed{  
+\text{Civilizations survive only if } \lambda \ge \theta  
+}  
+$$  
+
+---
+
+This is a natural pause point for the formal model.
