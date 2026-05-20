@@ -636,7 +636,7 @@ $$
 Assume diminishing returns:
 
 $$  
-K = $\alpha $\ln(1 + C)  
+K = \alpha \ln(1 + C)  
 $$
 
 ---
@@ -655,9 +655,9 @@ $$
 
 Where:
 
-* ( K ) = capability  
-* ( S ) = safety/alignment  
-* ( $\alpha, \beta$ > 0 ) are productivity constants
+* $K$ = capability  
+* $S$ = safety/alignment  
+* $\alpha, \beta > 0$ are productivity constants
 
 ---
 
