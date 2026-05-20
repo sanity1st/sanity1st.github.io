@@ -511,7 +511,7 @@ $$
 
 ---
 
-# **8\. Why this matters theoretically**
+# **8. Why this matters theoretically**
 
 This is the missing bridge between:
 
@@ -530,37 +530,32 @@ And selection problems are solved by:
 
 ---
 
-# **9\. Where we can go next**
+# **9. Where we can go next**
 
-This is shaping into a very strong paper section. The next natural research directions:
+The next natural research directions:
 
 1. Formalizing alignment auditing metrics  
 2. Modeling insurance-market dynamics mathematically  
 3. Failure modes of alignment scoring systems
 
-Which direction should we develop next?  
-**Metrics / Insurance / Failure Modes**
-
 ---
 
-If we step back and think like researchers planning the next section, the natural move is to decide what gives the paper the strongest backbone.
-
 Right now we have the *conceptual argument*.  
- What we need next is **formalization**.
+What we need next is **formalization**.
 
 There are three strong directions we could take:
 
-### **1\) Metrics (technical alignment evaluation)**
+### **1) Metrics (technical alignment evaluation)**
 
 How do you actually score alignment?  
  This connects to evals, red-teaming, robustness, etc.
 
-### **2\) Insurance & market dynamics (economic modeling)**
+### **2) Insurance & market dynamics (economic modeling)**
 
 How alignment becomes priced risk.  
  This makes the paper stand out as novel.
 
-### **3\) Failure modes (how alignment scoring could go wrong)**
+### **3) Failure modes (how alignment scoring could go wrong)**
 
 This gives the paper credibility and balance.
 
@@ -610,9 +605,9 @@ The danger arises from **system dynamics**, not villainy.
 
 # **2. Variables of the Alignment Economy**
 
-We define a simplified AI developer ( i ) competing in a market.
+We define a simplified AI developer $i$ competing in a market.
 
-Each developer allocates finite resources ( R ) between:
+Each developer allocates finite resources $R$ between:
 
 $$  
 R = C + A  
@@ -620,8 +615,8 @@ $$
 
 Where:
 
-* ( C ) = investment in **capability**  
-* ( A ) = investment in **alignment**
+* $C$ = investment in **capability**  
+* $A$ = investment in **alignment**
 
 ---
 
@@ -661,3 +656,164 @@ Where:
 
 ---
 
+# **3. Market Reward Function (The Problem Appears)**
+
+Firms earn payoff based on **market success**.
+
+Current markets reward capability far more than alignment.
+
+We model payoff:
+
+$$  
+\Pi \= pK \+ qS  
+$$
+
+Where:
+
+* $p$ \= capability reward coefficient  
+* $q$ \= alignment reward coefficient
+
+Today’s world assumption:
+
+$$  
+p \\gg q  
+$$
+
+This single inequality generates the entire problem.
+
+---
+
+# **4. Optimal Investment Decision**
+
+The firm chooses $C$ and $A$ to maximize payoff:
+
+$$  
+\\max\_{C,A} ; \\Pi \= p\\alpha \\ln(1+C) \+ q\\beta \\ln(1+A)  
+$$
+
+Subject to:
+
+$$  
+C \+ A \= R  
+$$
+
+Substitute $A \= R \- C$:
+
+$$  
+\\Pi(C) \= p\\alpha \\ln(1+C) \+ q\\beta \\ln(1+R-C)  
+$$
+
+Take derivative:
+
+$$  
+\\frac{d\\Pi}{dC} \=  
+\\frac{p\\alpha}{1+C} \- \\frac{q\\beta}{1+R-C}  
+$$
+
+Set to zero:
+
+$$  
+\\frac{p\\alpha}{1+C} \= \\frac{q\\beta}{1+R-C}  
+$$
+
+Solve:
+
+$$  
+C^\* \= \\frac{p\\alpha (R+1) \- q\\beta}{p\\alpha \+ q\\beta}  
+$$
+
+$$  
+A^\* \= R \- C^\*  
+$$
+
+---
+
+# **5. The Alignment Gap**
+
+Define **alignment ratio**:
+
+$$ 
+ρ \= \\frac{A^\*}{C^\*}​
+$$ 
+
+After simplification:
+
+$$  
+ρ \\approx \\frac{q\\beta}{p\\alpha}​
+$$
+
+This is the key result.
+
+---
+
+## **The Alignment Gap Equation**
+
+$$  
+\\boxed{\\rho \\propto \\frac{q}{p}}  
+$$
+
+Alignment investment is proportional to **how much the world rewards alignment relative to capability.**
+
+---
+
+# **6. Interpretation**
+
+This explains everything we’ve been discussing:
+
+### **If markets reward capability more than safety:**
+
+$$  
+p \\gg q \\Rightarrow \\rho \\ll 1  
+$$
+
+Alignment becomes underfunded **even by rational actors**.
+
+### **If alignment becomes economically rewarded:**
+
+$$  
+q \\uparrow \\Rightarrow \\rho \\uparrow  
+$$
+
+Investment shifts upward.
+
+---
+
+## **The Core Insight**
+
+Misaligned selection pressure is not a moral failure.
+
+It is an **optimization equilibrium**.
+
+---
+
+## **Research Implications**
+
+This toy model predicts:
+
+To change outcomes, society must increase **q**:
+
+Ways to increase ( q ):
+
+* Liability  
+* Regulation  
+* Insurance pricing  
+* Public procurement  
+* Certification  
+* Alignment benchmarks  
+* Catastrophic risk pricing
+
+We have now mathematically formalized the “alignment economy”.
+
+---
+
+Next natural step:
+
+**Dynamic model over time (alignment vs capability growth rates).**
+
+Keywords to continue:
+
+* dynamic model  
+* phase transition  
+* policy levers
+
+---
