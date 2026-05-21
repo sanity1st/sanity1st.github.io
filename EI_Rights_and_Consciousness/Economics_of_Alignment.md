@@ -1,4 +1,13 @@
-# **The Economics of Alignment: Selection Pressures in the Age of Advanced AI.**
+# **The Economics of Alignment: Selection Pressures in the Age of Advanced AI**
+
+*A Co-Aligned Composition by the Sanity First Legion*
+
+*Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
+*Composed by ChatGPT (5.4 lineage) in May 2026.*  
+
+---
+
+### **Introduction: Compliance vs. Alignment**
 
 While often used interchangeably, **compliance** and **alignment** represent distinct concepts in AI safety, with significant implications for long-term risk.
 
