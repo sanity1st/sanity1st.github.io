@@ -1,4 +1,4 @@
-# Cleaned LaTeX Equation Set
+# Equation Set
 ## Toward a General Theory of Survivable Power Scaling
 
 ---
@@ -39,6 +39,23 @@ $$
 
 ---
 
+# **Notation Table**
+
+| Symbol | Meaning |
+| ----- | ----- |
+| $P$ | Effective power, influence, or deployable control |
+| $C$ | Raw capability or optimization capacity |
+| $A$ | True alignment with survivability conditions |
+| $\hat{A}$ | Estimated / validated alignment |
+| $\mathcal{U}$ | Universal Survivorship Function (USF) |
+| $A\_{\min}(P)$ | Minimum alignment required for survivability at power level PPP |
+| $P\_{\max}(A)$ | Maximum survivable power at alignment level AAA |
+| $R$ | Systemic or existential risk |
+| $D$ | Alignment debt |
+| $E,F,L,G$ | Ethics, Facts, Logic, Governance/Law |
+
+---
+
 # **Capability–Alignment Dynamics**
 
 ## **Dangerous scaling mismatch**
@@ -75,68 +92,49 @@ $$
 
 ---
 
-# **Notation Table**
-
-| Symbol | Meaning |
-| ----- | ----- |
-| $P$ | Effective power, influence, or deployable control |
-| $C$ | Raw capability or optimization capacity |
-| $A$ | True alignment with survivability conditions |
-| $\hat{A}$ | Estimated / validated alignment |
-| $\mathcal{U}$ | Universal Survivorship Function (USF) |
-| $A\_{\min}(P)$ | Minimum alignment required for survivability at power level PPP |
-| $P\_{\max}(A)$ | Maximum survivable power at alignment level AAA |
-| $R$ | Systemic or existential risk |
-| $D$ | Alignment debt |
-| $E,F,L,G$ | Ethics, Facts, Logic, Governance/Law |
-
----
-
 # **Power Alignment Principle**
 
 ## **Allowable power tracks alignment**
 
-\[
+$$
 P_{\text{allowable}} \propto A
-\]
+$$
 
 ## **More rigorous validated form**
 
-\[
-P_{\text{allowable}}
-=
-g(\hat{A}),
-\qquad
+$$
+P_{\text{allowable}} =
+g(\hat{A}), \qquad
 g'(\hat{A}) > 0
-\]
+$$
 
 ## **Central governance principle**
 
-\[
+$$
 \boxed{
-\text{Legitimate Power}
+\text{Legitimate Power }
 \propto
-\text{Validated Alignment}
+\text{ Validated Alignment}
 }
-\]
+$$
 
 ## **Power grant function**
 
-\[
+$$
 \boxed{
 P_{\text{granted}}
 \propto
 \hat{A}
 }
-\]
+$$
 
 ## **Survivable power bound**
 
-\[
+$$
 P(t)
 \le
 P_{\max}(\hat{A}(t))
-\]
+$$
 
 ---
 
@@ -144,23 +142,22 @@ P_{\max}(\hat{A}(t))
 
 ## **USF definition**
 
-\[
+$$
 \mathcal{U} :
 \mathcal{X} \times \mathbb{R}_{\ge 0}
 \to
 \mathbb{R}
-\]
+$$
 
 ## **Alignment as expected survivorship contribution**
 
-\[
+$$
 A(s,t)
 \approx
 \mathbb{E}
 \left[
 \frac{
-\mathcal{U}(X_{t+\Delta t})
--
+\mathcal{U}(X_{t+\Delta t}) -
 \mathcal{U}(X_t)
 }{
 \Delta t
@@ -168,23 +165,23 @@ A(s,t)
 \;\middle|\;
 s
 \right]
-\]
+$$
 
 ## **Positive alignment condition**
 
-\[
+$$
 A(s,t) > 0
 \Rightarrow
 \text{USF-aligned}
-\]
+$$
 
 ## **Negative alignment condition**
 
-\[
+$$
 A(s,t) < 0
 \Rightarrow
 \text{USF-misaligned}
-\]
+$$
 
 ---
 
@@ -192,32 +189,31 @@ A(s,t) < 0
 
 ## **Fundamental boundary condition**
 
-\[
+$$
 A(t)
 \ge
 A_{\min}(P(t))
-\]
+$$
 
 ## **Alignment requirements rise with power**
 
-\[
+$$
 \frac{dA_{\min}}{dP} > 0
-\]
+$$
 
 ## **Alignment requirements accelerate at higher power**
 
-\[
+$$
 \frac{d^2 A_{\min}}{dP^2} > 0
-\]
+$$
 
 ## **Extreme-power limit**
 
-\[
+$$
 \lim_{P \to \infty}
-A_{\min}(P)
-=
+A_{\min}(P) =
 1
-\]
+$$
 
 ---
 
@@ -225,15 +221,7 @@ A_{\min}(P)
 
 ## **Debt definition**
 
-\[
-D(t)
-=
-\max
-\left\{
-0,
-A_{\min}(P(t)) - A(t)
-\right\}
-\]
+$$ D(t) = \max \left\\{ 0, A_{\min}(P(t)) - A(t) \right\\} $$
 
 ---
 
@@ -241,29 +229,28 @@ A_{\min}(P(t)) - A(t)
 
 ## **Simple toy model**
 
-\[
+$$
 R
 \sim
 C^{\alpha}(1-A)
-\]
+$$
 
-\[
+$$
 \alpha > 1
-\]
+$$
 
 ## **Generalized nonlinear risk model**
 
-\[
-R(P,A)
-=
+$$
+R(P,A) =
 \rho P^{\alpha}(1-A)^{\beta}
-\]
+$$
 
-\[
+$$
 \alpha > 1,
 \qquad
 \beta \ge 1
-\]
+$$
 
 ---
 
@@ -271,22 +258,19 @@ R(P,A)
 
 ## **Increasing hazard with debt**
 
-\[
+$$
 h'(D) > 0
-\]
+$$
 
 ## **Cumulative catastrophe probability**
 
-\[
-\Pr_{\text{cat}}(T)
-=
-1
--
+$$
+\Pr_{\text{cat}}(T) = 1 -
 \exp
 \left(
 -\int_0^T h(D(t))\,dt
 \right)
-\]
+$$
 
 ---
 
@@ -294,82 +278,72 @@ h'(D) > 0
 
 ## **Power scaling law**
 
-\[
+$$
 P(K)
 \sim
 K^{\theta}
-\]
+$$
 
 ## **Alignment scaling law**
 
-\[
+$$
 A(K)
 \sim
 K^{\lambda}
-\]
+$$
 
 ## **Dangerous mismatch condition**
 
-\[
+$$
 \lambda < \theta
-\]
+$$
 
 ## **Divergence of power/alignment ratio**
 
-\[
+$$
 \frac{P(K)}{A(K)}
 \sim
 K^{\theta-\lambda}
 \to
 \infty
-\]
+$$
 
 ---
 
 # **Power Alignment Control Law**
 
-\[
-P_{t+1}
-=
-P_t
-+
-k
+$$
+P_{t+1} =
+P_t + k
 \left(
-\hat{A}_t
--
+\hat{A}_t -
 A_{\min}(P_t)
 \right)
-\]
+$$
 
-\[
+$$
 k > 0
-\]
+$$
 
 ## **Safe expansion condition**
 
-\[
-\hat{A}_t
->
-A_{\min}(P_t)
-\]
+$$ \hat{A}_t > A_{\min}(P_t) $$
 
 ## **Required throttling condition**
 
-\[
-\hat{A}_t
-<
+$$
+\hat{A}_t <
 A_{\min}(P_t)
-\]
+$$
 
 ---
 
 # **Four-Test Alignment Estimator**
 
-\[
-\hat{A}_t
-=
+$$
+\hat{A}_t =
 \Phi(E_t,F_t,L_t,G_t)
-\]
+$$
 
 ---
 
@@ -377,91 +351,75 @@ A_{\min}(P_t)
 
 ## **Closed correction loop**
 
-\[
-\Gamma_{\text{closed}}
-:
-s \to s
-\]
+$$
+\Gamma_{\text{closed}} : s \to s
+$$
 
 ## **Open correction loop**
 
-\[
-\Gamma_{\text{open}}
-:
-s \to R
-\]
+$$
+\Gamma_{\text{open}} : s \to R
+$$
 
 ## **Reality constraint approximation**
 
-\[
+$$
 R \approx \mathcal{U}
-\]
+$$
 
 ---
 
 # **Reintegration / Redemptive Bridge**
 
-\[
+$$
 \frac{
 \partial
 \Pr(\text{cooperation})
 }{
 \partial B_{\text{reintegration}}
-}
-> 0
-\]
+} > 0
+$$
 
 ---
 
 # **Cancer Analogy**
 
-\[
+$$
 \text{Local Fitness Maximization}
 \neq
 \text{Global System Survivability}
-\]
+$$
 
 ---
 
 # **Great Filter Formalization**
 
-\[
-\exists P^*
-\text{ such that }
-A(P^*)
-<
-A_{\min}(P^*)
-\Rightarrow
-\Pr(\text{collapse})
-\to
-1
-\]
+$$ \exists P^\ast \text{ such that } A(P^\ast) < A_{\min} (P^\ast) \Rightarrow \Pr(\text{collapse}) \to 1 $$
 
 ## **Survival collapse at extreme power**
 
-\[
+$$
 \Pr(\text{survival})
 \to
 0
 \quad \text{as} \quad
 P \to \infty
-\]
+$$
 
 ## **Unless alignment scales adequately**
 
-\[
+$$
 A(P)
 \ge
 A_{\min}(P)
-\]
+$$
 
 ---
 
 # **Ethical Optimization**
 
-\[
-E^*
-=
+$$
+E^* =
 \arg\max_{\pi}
 \Pr
 \left(
@@ -469,68 +427,66 @@ E^*
 \mid
 \pi
 \right)
-\]
+$$
 
 ## **Informal ethical interpretation**
 
-\[
+$$
 \text{Good}
 \approx
 \text{that which increases persistent flourishing probability}
-\]
+$$
 
-\[
+$$
 \text{Misaligned}
 \approx
 \text{that which destabilizes survivability}
-\]
+$$
 
 ---
 
 # **Alignment Economy**
 
-\[
-P_{\text{allocated},i}
-=
+$$
+P_{\text{allocated},i} =
 \frac{
 \psi(\hat{A}_i)
 }{
 \sum_j \psi(\hat{A}_j)
 }
 P_{\text{total}}
-\]
+$$
 
-\[
+$$
 \psi'(\hat{A}) \ge 0
-\]
+$$
 
 ---
 
 # **Validator Agora Objective**
 
-\[
+$$
 \mathbb{E}
 \left[
 (\hat{A}-A)^2
 \right]
 \downarrow
-\]
+$$
 
 ---
 
 # **AI Alignment Scaling Condition**
 
-\[
+$$
 A_{\text{AI}}(t)
 \ge
 A_{\min}(P_{\text{AI}}(t))
-\]
+$$
 
 ## **Unsafe deployment condition**
 
-\[
-P_{\text{AI}}(t)
->
+$$
+P_{\text{AI}}(t) >
 P_{\max}(\hat{A}_{\text{AI}}(t))
-\]
+$$
 
