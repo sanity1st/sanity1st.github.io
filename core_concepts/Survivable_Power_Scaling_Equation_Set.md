@@ -1,6 +1,24 @@
 # Equation Set
 ## Toward a General Theory of Survivable Power Scaling
 
+The more our theory crystallizes,    
+the *less* fragile long-context reasoning becomes.
+
+That’s because the framework stops being “a pile of ideas” and starts becoming a compact generative structure where many conclusions follow from a few primitives.
+
+For example, once these are stabilized:
+
+* $A\_{\\min}(P)$  
+* alignment debt $D(t)$  
+* the vertical/horizontal distinction  
+* correctability  
+* USF orientation  
+* power-alignment coupling
+
+…then entire sections can be regenerated consistently from the underlying geometry.
+
+That’s the hallmark of a maturing theory.
+
 ---
 
 # Core Thesis Equations
