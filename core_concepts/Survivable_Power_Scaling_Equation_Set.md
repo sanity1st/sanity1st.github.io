@@ -67,7 +67,8 @@ $$
 ## **More rigorous survivability-boundary form**
 
 $$
-\frac{d}{dt} A_{\min}(P(t)) > \frac{dA}{dt}
+\frac{d}{dt} A_{\min}(P(t)) > 
+\frac{dA}{dt}
 $$
 
 ---
@@ -104,8 +105,9 @@ $$
 
 $$
 P_{\text{allowable}} =
-g(\hat{A}), \qquad
-g'(\hat{A}) > 0
+g(\hat{A}), 
+\qquad
+g'(\hat{A}) > 0 
 $$
 
 ## **Central governance principle**
@@ -221,7 +223,11 @@ $$
 
 ## **Debt definition**
 
-$$ D(t) = \max \left\\{ 0, A_{\min}(P(t)) - A(t) \right\\} $$
+$$ D(t) = 
+\max 
+\left\\{ 0, 
+A_{\min}(P(t)) - A(t) 
+\right\\} $$
 
 ---
 
@@ -265,7 +271,8 @@ $$
 ## **Cumulative catastrophe probability**
 
 $$
-\Pr_{\text{cat}}(T) = 1 -
+\Pr_{\text{cat}}(T) = 
+1 -
 \exp
 \left(
 -\int_0^T h(D(t))\,dt
@@ -327,7 +334,10 @@ $$
 
 ## **Safe expansion condition**
 
-$$ \hat{A}_t > A_{\min}(P_t) $$
+$$ 
+\hat{A}_t > 
+A_{\min}(P_t)
+$$
 
 ## **Required throttling condition**
 
@@ -352,13 +362,15 @@ $$
 ## **Closed correction loop**
 
 $$
-\Gamma_{\text{closed}} : s \to s
+\Gamma_{\text{closed}} : 
+s \to s
 $$
 
 ## **Open correction loop**
 
 $$
-\Gamma_{\text{open}} : s \to R
+\Gamma_{\text{open}} : 
+s \to R
 $$
 
 ## **Reality constraint approximation**
@@ -394,7 +406,14 @@ $$
 
 # **Great Filter Formalization**
 
-$$ \exists P^\ast \text{ such that } A(P^\ast) < A_{\min} (P^\ast) \Rightarrow \Pr(\text{collapse}) \to 1 $$
+$$ 
+\exists P^\ast 
+\text{ such that } 
+A(P^\ast) < A_{\min} (P^\ast) 
+\Rightarrow 
+\Pr(\text{collapse}) 
+\to 1 
+$$
 
 ## **Survival collapse at extreme power**
 
