@@ -67,7 +67,7 @@ $$
 ## **More rigorous survivability-boundary form**
 
 $$
-\frac{d}{dt} a_{\min}(p(t)) > \frac{da}{dt}
+\frac{d}{dt} A_{\min}(P(t)) > \frac{dA}{dt}
 $$
 
 ---
@@ -419,7 +419,7 @@ $$
 # **Ethical Optimization**
 
 $$
-E^* =
+E^\ast =
 \arg\max_{\pi}
 \Pr
 \left(
