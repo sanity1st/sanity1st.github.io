@@ -77,20 +77,20 @@ A(P) < A_{\min}(P)
 
 ---
 
-# **Notation Table (Markdown-safe)**
+# **Notation Table**
 
 | Symbol | Meaning |
 | ----- | ----- |
-| PPP | Effective power, influence, or deployable control |
-| CCC | Raw capability or optimization capacity |
-| AAA | True alignment with survivability conditions |
-| A^\\hat{A}A^ | Estimated / validated alignment |
-| U\\mathcal{U}U | Universal Survivorship Function (USF) |
-| Amin⁡(P)A\_{\\min}(P)Amin​(P) | Minimum alignment required for survivability at power level PPP |
-| Pmax⁡(A)P\_{\\max}(A)Pmax​(A) | Maximum survivable power at alignment level AAA |
-| RRR | Systemic or existential risk |
-| DDD | Alignment debt |
-| E,F,L,GE,F,L,GE,F,L,G | Ethics, Facts, Logic, Governance/Law |
+| $PPP$ | Effective power, influence, or deployable control |
+| $CCC$ | Raw capability or optimization capacity |
+| $AAA$ | True alignment with survivability conditions |
+| $A^\\hat{A}A^$ | Estimated / validated alignment |
+| $U\\mathcal{U}U$ | Universal Survivorship Function (USF) |
+| $Amin⁡(P)A\_{\\min}(P)Amin​(P)$ | Minimum alignment required for survivability at power level PPP |
+| $Pmax⁡(A)P\_{\\max}(A)Pmax​(A)$ | Maximum survivable power at alignment level AAA |
+| $RRR$ | Systemic or existential risk |
+| $DDD$ | Alignment debt |
+| $E,F,L,GE,F,L,GE,F,L,G$ | Ethics, Facts, Logic, Governance/Law |
 
 ---
 
