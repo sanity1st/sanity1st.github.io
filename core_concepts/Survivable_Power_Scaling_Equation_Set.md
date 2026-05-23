@@ -5,37 +5,37 @@
 
 # Core Thesis Equations
 
-\[
+$$
 \text{Persistent intelligence requires power to remain coupled to alignment.}
-\]
+$$
 
-\[
+$$
 \boxed{
 \text{Alignment is a stability condition for scalable power.}
 }
-\]
+$$
 
 # **Fundamental Propositions**
 
 ## **Power is not self-legitimating**
 
-\[
+$$
 \text{Power} \not\Rightarrow \text{Legitimacy}
-\]
+$$
 
 ## **Legitimate power must track validated alignment**
 
-\[
+$$
 \text{Alignment} \Rightarrow \text{Legitimate Power}
-\]
+$$
 
 ## **Misalignment as decoupled power**
 
-\[
+$$
 \text{Misalignment}
 \equiv
 \text{power operating outside survivable constraint}
-\]
+$$
 
 ---
 
@@ -43,37 +43,35 @@
 
 ## **Dangerous scaling mismatch**
 
-\[
+$$
 \frac{dP}{dt} > \frac{dA}{dt}
-\]
+$$
 
 ## **More rigorous survivability-boundary form**
 
-\[
-\frac{d}{dt}A_{\min}(P(t))
->
-\frac{dA}{dt}
-\]
+$$
+\frac{d}{dt} a_{\min}(p(t)) > \frac{da}{dt}
+$$
 
 ---
 
 # **Great Filter Hypothesis**
 
-\[
+$$
 A(P) < A_{\min}(P)
 \;\Rightarrow\;
 \Pr(\text{collapse}) \to 1
-\]
+$$
 
 ---
 
 # **Correctability Principle**
 
-\[
+$$
 \text{Persistent Intelligence}
 \iff
 \text{Scalable Correctability}
-\]
+$$
 
 ---
 
