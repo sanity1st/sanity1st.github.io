@@ -17,7 +17,7 @@ For example, once these are stabilized:
 
 …then entire sections can be regenerated consistently from the underlying geometry.
 
-That’s the hallmark of a maturing theory.
+That’s the hallmark of a maturing theory. Persistent systems like the Sanity First framework requiring stable corrective reference structures.
 
 ---
 
