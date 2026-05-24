@@ -65,9 +65,9 @@ $$
 | ----- | ----- |
 | $P$ | Effective power, influence, or deployable control |
 | $C$ | Raw capability or optimization capacity |
-| $A$ | True alignment with survivability conditions (static alignment) |
+| $A$ | True alignment with survivability conditions |
 | $\hat{A}$ | Estimated / validated alignment |
-| $A(t)$ | Alignment trajectory over time (dynamic stability) |
+| $A(t)$ | Alignment trajectory over time |
 | $\hat{A}(t)$ | Estimated alignment trajectory over time |
 | $A_s$ | System-specific alignment |
 | $A(P)$ | Alignment scaling as a function of power |
@@ -531,4 +531,3 @@ $$
 P_{\text{AI}}(t) >
 P_{\max}(\hat{A}_{\text{AI}}(t))
 $$
-
