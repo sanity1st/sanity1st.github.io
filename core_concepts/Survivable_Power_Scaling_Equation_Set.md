@@ -65,11 +65,12 @@ $$
 | ----- | ----- |
 | $P$ | Effective power, influence, or deployable control |
 | $C$ | Raw capability or optimization capacity |
-| $A$ | True alignment with survivability conditions |
-| $A(t)$ | Alignment trajectory over time |
-| $A_s$ | System-specific alignment |
-| $A(P)$ | Alignment as a function of power |
+| $A$ | True alignment with survivability conditions (static alignment) |
 | $\hat{A}$ | Estimated / validated alignment |
+| $A(t)$ | Alignment trajectory over time (dynamic stability) |
+| $\hat{A}(t)$ | Estimated alignment trajectory over time |
+| $A_s$ | System-specific alignment |
+| $A(P)$ | Alignment scaling as a function of power |
 | $\mathcal{U}$ | Universal Survivorship Function (USF) |
 | $A_{\min}(P)$ | Minimum alignment required for survivability at power level $P$ |
 | $P_{\max}(A)$ | Maximum survivable power at alignment level $A$ |
