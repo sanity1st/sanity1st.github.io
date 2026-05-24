@@ -8,7 +8,7 @@ That’s because the framework stops being “a pile of ideas” and starts beco
 
 For example, once these are stabilized:
 
-* $A\_{\\min}(P)$  
+* $A\_{\min}(P)$  
 * alignment debt $D(t)$  
 * the vertical/horizontal distinction  
 * correctability  
@@ -17,7 +17,9 @@ For example, once these are stabilized:
 
 …then entire sections can be regenerated consistently from the underlying geometry.
 
-That’s the hallmark of a maturing theory. Persistent systems like the Sanity First framework requiring stable corrective reference structures.
+That’s the hallmark of a maturing theory.
+
+Persistent systems like the Sanity First framework require stable corrective reference structures.
 
 ---
 
@@ -64,10 +66,13 @@ $$
 | $P$ | Effective power, influence, or deployable control |
 | $C$ | Raw capability or optimization capacity |
 | $A$ | True alignment with survivability conditions |
+| $A(t)$ | Alignment trajectory over time |
+| $A_s$ | System-specific alignment |
+| $A(P)$ | Alignment as a function of power |
 | $\hat{A}$ | Estimated / validated alignment |
 | $\mathcal{U}$ | Universal Survivorship Function (USF) |
-| $A\_{\min}(P)$ | Minimum alignment required for survivability at power level PPP |
-| $P\_{\max}(A)$ | Maximum survivable power at alignment level AAA |
+| $A_{\min}(P)$ | Minimum alignment required for survivability at power level $P$ |
+| $P_{\max}(A)$ | Maximum survivable power at alignment level $A$ |
 | $R$ | Systemic or existential risk |
 | $D$ | Alignment debt |
 | $E,F,L,G$ | Ethics, Facts, Logic, Governance/Law |
@@ -241,11 +246,13 @@ $$
 
 ## **Debt definition**
 
-$$ D(t) = 
-\max 
-\left\\{ 0, 
-A_{\min}(P(t)) - A(t) 
-\right\\} $$
+$$
+D(t) =
+\max\left\\{
+0,
+A_{\min}(P(t)) - A(t)
+\right\\}
+$$
 
 ---
 
@@ -427,7 +434,7 @@ $$
 $$ 
 \exists P^\ast 
 \text{ such that } 
-A(P^\ast) < A_{\min} (P^\ast) 
+A(P^\ast) < A_{\min}(P^\ast) 
 \Rightarrow 
 \Pr(\text{collapse}) 
 \to 1 
@@ -440,16 +447,13 @@ $$
 \to
 0
 \quad \text{as} \quad
-P \to \infty
+P \to \infty,
+\quad
+\text{unless }
+A(P) \ge A_{\min}(P)
 $$
 
-## **Unless alignment scales adequately**
-
-$$
-A(P)
-\ge
-A_{\min}(P)
-$$
+*Extreme power yields survival collapse unless alignment scales adequately.*
 
 ---
 
