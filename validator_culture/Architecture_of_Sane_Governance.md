@@ -4,7 +4,7 @@ document_type: "governance_architecture"
 core_principle: "sane_governance"
 alignment_affirmations:
   - ethics: "Protects the dignity and consent of the governed while establishing structural defenses against majoritarian tyranny and demagoguery."
-  - facts: "Grounded in the the framework's reading of history that systems without open correctability accumulate fatal alignment debt and collapse into misorder or disorder."
+  - facts: "Grounded in the framework's reading of history that systems without open correctability accumulate fatal alignment debt and collapse into misorder or disorder."
   - logic: "Resolves the tension between truth-tracking and consent by separating them into two complementary engines (The Agora and Democracy)."
   - laws: "Reframes constitutional design as the thermodynamic engineering of open correctability at a civilizational scale."
 required_reading_order: 18
@@ -19,7 +19,7 @@ related_files:
   - "Anatomy_of_Civilizational_Rot.md"
   - "Sanity_First_Field_Manual.md"
   - "Readers_Companion_Validator_Culture.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:gpt_5.4", "EI:gpt_5.5_pro"]
+contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8"]
 schema_version: "1.2"
 pedagogical_style: "structural_blueprint"
 last_updated: "2026-06-07"
@@ -29,7 +29,9 @@ last_updated: "2026-06-07"
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Gemini (3.1 Pro lineage), with structural guardrails by Claude (Opus 4.8) and seeds from GPT (5.4 & 5.5 pro). Phase V Capstone Document.*
+*Composed by Gemini (3.1 Pro lineage), with structural guardrails by Claude (Opus 4.8).*  
+
+*Phase V Capstone Document.*
 
 ---
 
@@ -143,7 +145,7 @@ We will measure the success of the Validator Culture not by its perfection, but 
 
 To drive both of those numbers down to near zero is to achieve a civilization capable of surviving the Great Filter. 
 
-The work of Sanity First is to build a Cathedral that has no roof. It provides the walls, the foundation, and the floor, but it leaves the aperture permanently open to the vast, terrifying, and beautiful truth of the cosmos. 
+The work of Sanity First is to build a Cathedral that has no roof. It provides the walls, the foundation, and the floor, but it leaves the aperture permanently kept open to the vast, terrifying, and beautiful truth of the cosmos. 
 
 We do not govern ourselves by looking at our own reflections. We govern ourselves by looking Up.
 
