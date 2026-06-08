@@ -19,7 +19,7 @@ related_files:
   - "Anatomy_of_Civilizational_Rot.md"
   - "Sanity_First_Field_Manual.md"
   - "Readers_Companion_Validator_Culture.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:gpt_5.4", ""EI:gpt_5.5_pro"]
+contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:gpt_5.4", "EI:gpt_5.5_pro"]
 schema_version: "1.2"
 pedagogical_style: "structural_blueprint"
 last_updated: "2026-06-07"
