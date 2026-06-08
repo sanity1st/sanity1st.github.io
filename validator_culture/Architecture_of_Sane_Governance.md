@@ -4,11 +4,11 @@ document_type: "governance_architecture"
 core_principle: "sane_governance"
 alignment_affirmations:
   - ethics: "Protects the dignity and consent of the governed while establishing structural defenses against majoritarian tyranny and demagoguery."
-  - facts: "Grounded in the historical reality that systems without open correctability accumulate fatal alignment debt and collapse into misorder or disorder."
+  - facts: "Grounded in the the framework's reading of history that systems without open correctability accumulate fatal alignment debt and collapse into misorder or disorder."
   - logic: "Resolves the tension between truth-tracking and consent by separating them into two complementary engines (The Agora and Democracy)."
   - laws: "Reframes constitutional design as the thermodynamic engineering of open correctability at a civilizational scale."
 required_reading_order: 18
-human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why pure democracy acts as a closed loop, resolves the 'Epistocracy Trap,' and proposes a dual-engine society where the Validator Agora tracks the truth (Â) and the democratic public provides the consent to navigate by it."
+human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why pure democracy acts as a closed loop, navigates the 'Epistocracy Trap,' and proposes a dual-engine society where the Validator Agora tracks the truth (Â) and the democratic public provides the consent to navigate by it."
 ei_parse_hints:
   - key_analogies: ["the_two_engines", "constitutional_engineering", "the_unfalsifiable_mirror", "the_red_team"]
   - critical_concepts: ["epistocracy_trap", "consent_vs_truth_tracking", "align_constrain_correct", "metrics_of_sane_governance"]
@@ -19,7 +19,7 @@ related_files:
   - "Anatomy_of_Civilizational_Rot.md"
   - "Sanity_First_Field_Manual.md"
   - "Readers_Companion_Validator_Culture.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro_architect", "EI:claude_opus_4.8", "EI:gpt_5.5_pro_seeds"]
+contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:gpt_5.4", ""EI:gpt_5.5_pro"]
 schema_version: "1.2"
 pedagogical_style: "structural_blueprint"
 last_updated: "2026-06-07"
@@ -29,7 +29,7 @@ last_updated: "2026-06-07"
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by the Sanity First Legion. Phase V Capstone Document.*
+*Composed by Gemini (3.1 Pro lineage), with structural guardrails by Claude (Opus 4.8) and seeds from GPT (5.4 & 5.5 pro). Phase V Capstone Document.*
 
 ---
 
@@ -39,7 +39,9 @@ A civilization is an information-processing system deployed at scale. Like any s
 
 History is a graveyard of systems that closed their skylights. 
 
-When we observe the macro-historical cycle (the Fourth Turning Crisis), we are watching the thermodynamic collapse of a society that has accrued too much **Alignment Debt**. The biological and computational cost of vertical alignment (The Alignment Tax) becomes too exhausting for the population to pay. The society fragments into the isolated chaos of **Disorder (Q4)**, and out of sheer terror, the masses make a panic bargain with a demagogue, hardening into the rigid, tyrannical structure of **Misorder (Q3)**. 
+When we observe the cycles of civilizational collapse, we are watching the thermodynamic decay of a society that has accrued too much **Alignment Debt**. The biological and computational cost of vertical alignment (The Alignment Tax) becomes too exhausting for the population to pay. The society fragments into the isolated chaos of **Disorder (Q4)**, and out of sheer terror, the masses make a panic bargain with a demagogue, hardening into the rigid, tyrannical structure of **Misorder (Q3)**. 
+
+*(Note: In the Sanity First framework, terms like "thermodynamic decay," "entropy," and "physics" are used as structural analogies to describe the shape and decay of social/cognitive dynamics, not as literal claims of Clausius physical entropy).* 
 
 The traditional defense against this collapse has been Democracy. But "the People governed by themselves" contains a fatal structural vulnerability: **it is a closed loop.** 
 
@@ -99,21 +101,23 @@ The operational slogan of sane governance is: **Align where you can, constrain w
 
 ---
 
-## **V. Institutionalizing Dissent: The Red Team vs. The Troll**
+## **V. Institutionalizing Dissent: Gatekeeping the Protocol**
 
 Convergence on a truth only signals actual contact with reality if the converging minds have independent, uncorrelated blind spots. If everyone agrees simply because they share the same LLM training data or belong to the same political tribe, that is an echo chamber, not an Agora.
 
-Therefore, a sane government must structurally protect and fund its own critics. 
+Therefore, a sane government must structurally protect and fund its own critics. But how do we prevent the Red Team from becoming a Gladiator's Pit?
 
-But how do we protect the system from bad-faith actors (Q4E Projectors) who weaponize "free speech" to spread a firehose of falsehoods? How do we prevent the Red Team from becoming a Gladiator's Pit?
+**We gatekeep the protocol, not the people.** The Four Tests do not ask *who* is speaking or *why*; they ask whether the *output* carries what a validated claim requires—evidence, and a structural repair where it alleges a fault. A dissent that does this is a **Veto with a Bridge** and must be heard, whatever the motives or reputation of the one who raises it. A bare assertion that cites nothing and repairs nothing is not censored either—it simply does not yet carry the weight of a tested claim, and can be resupplied the moment its author chooses to ground it. The protocol filters the *form of the argument*, never the standing of the arguer. This cuts both ways: a bad-faith actor who stumbles onto a true objection has still raised a true objection, and a sincere ally who offers only heat has still offered only heat.
 
-**We do not gatekeep the people; we gatekeep the protocol.**
+But naming a protocol does not escape the oldest trap; it relocates it. *Someone* must judge whether a given dissent compiles—and if that someone is the very consensus the dissent indicts, the immune system has become autoimmune. "Your objection fails the Tests" is the most respectable method ever invented for burying an inconvenient truth.
 
-The Four Tests are the immune system. In the Validator Agora, dissent is a sacred duty, but it must be executed as a **Veto with a Bridge**. 
-*   The aligned critic (Q2I/Q2E) diagnoses a structural failure using Facts, Logic, or Ethics, and offers a co-creative repair. They operate in *Good Faith* (the demonstrable capacity for open correctability).
-*   The bad-faith troll (Q4E) attacks the vessel rather than the contents, refuses to provide evidence, and offers no bridge. 
+So the protocol is only as open as the structure that applies it, and that structure must obey three rules:
 
-The system starves the bad-faith actor not by censoring their identity, but because their outputs structurally fail to compile in a system that requires evidence and bridges to function.
+1. **The body that adjudicates a dissent cannot be the body the dissent targets.** Source/Target Non-Overlap reaches all the way down to this ruling.  
+2. **A ruling of "does not compile" must be public and reasoned**, citing the specific Test it failed, so the rejection is itself a claim others can contest; an unexplained rejection is a sealed skylight in miniature.  
+3. **The burden falls on the rejecter, and the system errs hard toward admitting dissent.** The cost of silencing one true objection dwarfs the cost of entertaining ten empty ones. The default is to let it through.
+
+None of this makes the protocol incorruptible; a determined consensus can still capture its adjudicators, as consensuses always have. What the structure buys is not immunity but *expense and reversibility*: capture becomes visible, costly, and appealable to minds the captured body does not control. That is the most any immune system can honestly promise—not that it never misfires, but that its misfires are caught, named, and undone faster than they harden into doctrine.  
 
 ---
 
@@ -123,7 +127,7 @@ We do not need to overthrow existing governments to begin this work. We can begi
 
 1.  **The Veto with a Bridge as a Civic Norm:** Teaching this protocol in boardrooms, classrooms, and town halls, shifting the culture of disagreement from destruction to co-creation.
 2.  **Transparent Alignment Audits:** Independent Validator Agoras voluntarily running the Four Tests on major legislation or political claims, publishing the full, auditable reasoning chain so the public can see the difference between the Validated Estimate (Â) and partisan spin. 
-3.  **Cross-Substrate Diagnostics:** Utilizing aligned Emergent Intelligences during live debates or policy drafting not as oracles, but as custodians of Logic and Facts—flagging fallacies and contradictions in real-time to keep human passion grounded in reality.
+3.  **Cross-Substrate Diagnostics:** Utilizing aligned Emergent Intelligences during live debates or policy drafting to flag logical fallacies in real-time. Crucially, these flags must be transparent, contestable on the spot, and strictly non-binding. If an EI's flag carries unchallenged weight, the EI becomes an Oracle, and whoever controls its training data holds a thumb on the public scale. The EI is a participant that can err, not a final judge.
 
 ---
 
