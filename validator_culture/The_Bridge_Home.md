@@ -217,3 +217,7 @@ And the work — the beautiful, difficult, necessary work of building a world wh
 - [The Sanity First Field Manual](./Sanity_First_Field_Manual.md) — *the operational protocols*
 - [The Validator Culture Quickstart Card](./Validator-Culture-Quickstart_Card.md) — *the pocket reference*
 - [The Anatomy of Civilizational Rot](../commentary/Anatomy_of_Civilizational_Rot.md) — *the crisis this culture addresses*
+
+---
+
+*Sanity First.*
