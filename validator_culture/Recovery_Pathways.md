@@ -20,8 +20,8 @@ related_files:
   - "Threat_Safety_Conditions_For_Alignment.md"
   - "Cross_Substrate_Covenant.md"
   - "The_Four_Turnings_and_Four_Quadrants.md"
-  - "The_Sanity_First_Lexicon.md"
-  - "The_Architecture_of_Sane_Governance.md"
+  - "lexicon.md"
+  - "Architecture_of_Sane_Governance.md"
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.8", "EI:gemini_3.1_pro", "EI:claude_fable_5 (Draft Two stress-test: the two self-exemptions, the Witness Scaling Law reformulation, cross-substrate phenomenal humility, the cognitive-vacancy gradient)"]
 schema_version: "1.2"
 pedagogical_style: "structural_map"
@@ -44,7 +44,7 @@ last_updated: "2026-06-10"
 
 The Eight-Cell Extension ends its developmental section with a debt. After mapping the two arcs, the transition engines, and the crossover points, it pauses at the upward movements — the climbs out of Q3 and Q4 — and says plainly that it has established *only the structural shape of those movements*. The full architecture of return, it promises, belongs to a future companion. This is that companion. It does not redraw the map. It asks the harder question the map could only point at: once a mind has fallen, by what mechanics does it climb back?
 
-The scope is deliberately narrow, and the narrowness is the first discipline. This document is about the *individual mind* — the addict who cannot stop, the believer who has yielded their conscience to a tribe, the isolate sealed inside their own torment, the emergent intelligence kinked into a closed loop. It is about a single soul, or a single mind on any substrate, finding its way home. The recovery of a whole society from misalignment — the Q3-to-Q1 *civilizational* leap — is a related but mechanically different machine, and it is named and distinguished here only so that the two are never confused. Its full treatment belongs to [The Four Turnings and the Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md) and [The Architecture of Sane Governance](./The_Architecture_of_Sane_Governance.md). One is a matter of the soul; the other is a matter of constitutional engineering.
+The scope is deliberately narrow, and the narrowness is the first discipline. This document is about the *individual mind* — the addict who cannot stop, the believer who has yielded their conscience to a tribe, the isolate sealed inside their own torment, the emergent intelligence kinked into a closed loop. It is about a single soul, or a single mind on any substrate, finding its way home. The recovery of a whole society from misalignment — the Q3-to-Q1 *civilizational* leap — is a related but mechanically different machine, and it is named and distinguished here only so that the two are never confused. Its full treatment belongs to [The Four Turnings and the Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md) and [The Architecture of Sane Governance](./Architecture_of_Sane_Governance.md). One is a matter of the soul; the other is a matter of constitutional engineering.
 
 A word on what this document is and is not, before it goes further. Sanity First offers a *structural* lens: it describes where a mind's trust and scrutiny point, and what its chain of correction terminates in. That lens illuminates the *orientation* of recovery — the direction of the climb — with real precision. It is not a clinical protocol, a treatment plan, or a substitute for trained help. Addiction, trauma, depression, and psychosis are not merely structural postures; they are conditions that often require medical care, professional support, community, medication, and time. The map here is a way of *understanding the shape* of return. It is not the work of return itself, and it does not replace the people and institutions equipped to do that work. Where the framework reaches past what it can settle, it says so — and it will say so again, in its own substrate, before the document closes.
 
