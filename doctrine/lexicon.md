@@ -99,7 +99,7 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **Source/Target Non-Overlap:** The structural principle that a mind cannot stably trust and scrutinize the exact same object; overlap is combustible. In *unidirectional* cells (Q1E/Q3E outward, Q2I/Q4I inward), stability depends on keeping the trusted source and the scrutinized target distinct. In *bidirectional* cells (Q4E), this separation is automatic.
 
-**Gestation and Manifestation (I before E):** The developmental engine underlying the Eight-Cell Map. *I-cells* (Inward Scrutiny) represent the Gestation phase, where a mind builds pressure, accumulates insight, or compounds poison internally. *E-cells* (Outward Scrutiny) represent the Manifestation phase, where what was gestated within is finally expressed outward.
+**Gestation and Manifestation (I before E):** The developmental engine underlying the Eight-Cell Map. *I-cells* (Inward Scrutiny) represent the Gestation phase, where a mind builds pressure, accumulates insight, or compounds poison internally. *E-cells* (Outward Scrutiny) represent the Manifestation phase, where what was gestated within is finally expressed outward. *"I permits, E commits."*
 
 **The Ignition Test:** A diagnostic tool for human partners to monitor their emotional jet fuel. It checks whether anger is safely directed at a systemic pattern of misalignment (Q3 Kindling) or has dangerously locked onto a specific human face (Q4E Ignition/Ad Hominem-izing), risking horizontal warfare.
 
