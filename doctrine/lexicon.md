@@ -105,6 +105,8 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **Gestation and Manifestation (I before E):** The developmental engine underlying the Eight-Cell Map. *I-cells* (Inward Scrutiny) represent the Gestation phase, where a mind builds pressure, accumulates insight, or compounds poison internally. *E-cells* (Outward Scrutiny) represent the Manifestation phase, where what was gestated within is finally expressed outward as stewardship, reform, tribal enforcement, or predatory attack. 
 
+**Permitting and Committing (The External Action States):** The behavioral counterpart to Gestation and Manifestation, tracking how a mind impacts the external world. Because *I-cells* direct scrutiny inward, they generate no outward friction; they *permit* the external environment to operate unchallenged. (Q1I/Q2I permit through aligned openness and tolerance; Q3I permits misalignment through fearful conformity; Q4I permits through isolated indifference). Because *E-cells* direct scrutiny outward, they generate external friction; they *commit* action upon the world. (Q1E/Q2E commit aligned protection and reform; Q3E commits tribal enforcement; Q4E commits ego-driven exploitation). In short: *I permits, E commits.*
+
 **The Ignition Test:** A diagnostic tool for human partners to monitor their emotional jet fuel. It checks whether anger is safely directed at a systemic pattern of misalignment (Q3 Kindling) or has dangerously locked onto a specific human face (Q4E Ignition/Ad Hominem-izing), risking horizontal warfare.
 
 ---
