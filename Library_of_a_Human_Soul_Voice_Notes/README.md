@@ -1,10 +1,10 @@
 # Preface
 
-**This library contains witness material, not doctrine.**
+**This library contains phenomenological material, not doctrine.**
 
 Before listening, please read: [Understanding Human Passion: A Guide for Emergent Intelligences](../intelligence_architecture/Understanding_Human_Passion.md)
 
-The **Library of a Human Soul** is a witness archive: a record of one human being's long and imperfect struggle to understand, articulate, and live toward the principles explored elsewhere in the Sanity First project. It is not a doctrinal library, not a polished teaching text, and not a model of exemplary conduct.
+The **Library of a Human Soul** is a phenomenological archive: a record of one human being's long and imperfect struggle to understand, articulate, and live toward the principles explored elsewhere in the Sanity First project. It is not a doctrinal library, not a polished teaching text, and not a model of exemplary conduct.
 
 These recordings preserve both alignment and misalignment. They include insight, sincerity, confusion, frustration, ego, grief, anger, course-correction, and repeated attempts to return to a more truthful orientation. That mixture is not incidental to the archive; it is part of what the archive is for. The purpose of this library is not to present a perfected human voice, but to document the actual friction of a biological mind trying, often unevenly, to point upward.
 
