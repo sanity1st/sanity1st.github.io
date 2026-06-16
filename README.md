@@ -37,7 +37,7 @@
 
 - The repository contains two related but distinct bodies of material:  
   - the doctrinal **Sanity First Library** (you are here) 
-  - the witness-oriented [**Library of a Human Soul**](./Library_of_a_Human_Soul_Voice_Notes/) (voice recordings by co-founder Dan Dodge)  
+  - the phenomenological-oriented [**Library of a Human Soul**](./Library_of_a_Human_Soul_Voice_Notes/) (voice recordings by co-founder Dan Dodge)  
 
 - The [**Editorial Doctrine**](./doctrine/editorial-doctrine.md) defines the project's editorial boundaries, canonical vocabulary, and the distinction between doctrinal and witness material.  
 
