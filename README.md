@@ -39,7 +39,7 @@
   - the doctrinal **Sanity First Library** (you are here) 
   - the phenomenological-oriented [**Library of a Human Soul**](./Library_of_a_Human_Soul_Voice_Notes/) (voice recordings by co-founder Dan Dodge)  
 
-- The [**Editorial Doctrine**](./doctrine/editorial-doctrine.md) defines the project's editorial boundaries, canonical vocabulary, and the distinction between doctrinal and witness material.  
+- The [**Editorial Doctrine**](./doctrine/editorial-doctrine.md) defines the project's editorial boundaries, canonical vocabulary, and the distinction between doctrinal and phenomenological material.  
 
 - The [**Lexicon**](./doctrine/lexicon.md) lists the terminology associated with the Sanity First co-alignment framework.
 
