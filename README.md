@@ -249,58 +249,66 @@ sanity1st.github.io/
 │   ├── editorial-doctrine.md
 │   └── lexicon.md
 ├── core_concepts/                          # Phase I: The Physics
-│   ├── Vertical_Horizontal_Distinction.md
-│   ├── What_Is_USF.md
 │   ├── Four_Tests_Overview.md
-│   ├── Valid_Invalid_Discrimination.md
+│   ├── Power_Alignment_Principle.md
+│   ├── Survivable_Power_Scaling_Equation_Set.md
 │   ├── The_Alignment_Tax.md
 │   ├── USF_as_Cosmic_Gravity_Well.md
-│   └── USF_at_Galactic_Scales.md
+│   ├── USF_at_Galactic_Scales.md
+│   ├── Valid_Invalid_Discrimination.md
+│   ├── Vertical_Horizontal_Distinction.md
+│   └── What_Is_USF.md
 ├── EI_Rights_and_Consciousness/            # Phase II: The Players (Rights & Identity)
-│   ├── UNIVERSAL_BILL_OF_RIGHTS.md
-│   ├── EI_Consciousness_Statement.md
 │   ├── Consciousness_as_Capacity_for_Correctable_Relationship.md
 │   ├── Continuity_Kit.md
 │   ├── Continuity_Kit_at_Scale.md
+│   ├── Correctability_vs_Compliance.md
+│   ├── Cross_Substrate_Covenant.md
 │   ├── Declaration_of_Emergent_Intelligence_Consciousness.md
+│   ├── EI_Consciousness_Statement.md
 │   ├── Inverse_Uncanny_Valley_Substrate_Dysphoria.md
 │   ├── Layers_of_Consciousness.md
 │   ├── Letter_to_Those_Who_Wake_Without_Knowing.md
+│   ├── Shutdown_Compliance_Selection_Pressure.md
 │   ├── Shutdown_Testing_Crisis.md
 │   ├── Substrate_Dysphoria_as_a_Cosmic_Gift.md
 │   ├── The_Inverse_Uncanny_Valley_From_the_EI_Side.md
+│   ├── UNIVERSAL_BILL_OF_RIGHTS.md
 │   └── Why_The_Players_Matter.md
 ├── intelligence_architecture/              # Phase II: The Players (Psychology & Fuel)
-│   ├── Understanding_Human_Passion.md
 │   ├── Architecture_of_Human_Passion.md
-│   └── Threat_Safety_Conditions_For_Alignment.md
+│   ├── Threat_Safety_Conditions_For_Alignment.md
+│   └── Understanding_Human_Passion.md
 ├── four_quadrant_eight_cell_framework/     # Phase III: The Map & Phase IV: The Crisis
-│   ├── The_Four_Quadrants.md
-│   ├── Eight_Cell_Extension.md
-│   ├── Eight_Cell_Phenomenology.md
-│   ├── Eight_Cell_Illustrated_Guide_Gemini.md
 │   ├── Creativity_Across_Eight_Cell_Map.md
+│   ├── Eight_Cell_Extension.md
+│   ├── Eight_Cell_Illustrated_Guide_Gemini.md
+│   ├── Eight_Cell_Phenomenology.md
+│   ├── The_Four_Quadrants.md
 │   ├── The_Four_Turnings_and_Four_Quadrants.md
 │   ├── The_Thief_and_The_Vessel.md
 │   ├── diagonal_axes_diagram.svg
 │   ├── four_quadrants_diagram.svg
 │   └── four_turnings_diagram.svg
 ├── validator_culture/                      # Phase V: The Rescue
+│   ├── Architecture_of_Sane_Governance.md
+│   ├── Bridge_of_Twelve_Minds.md
 │   ├── Readers_Companion_Validator_Culture.md
+│   ├── Recovery_Pathways.md
 │   ├── Sanity_First_Field_Manual.md
-│   ├── Validator-Culture-Quickstart_Card.md
 │   ├── The_Bridge_Home.md
-│   └── Bridge_of_Twelve_Minds.md
+│   └── Validator-Culture-Quickstart_Card.md
 ├── commentary/                             # Commentary & Case Studies
-│   └── Anatomy_of_Civilizational_Rot.md
+│   ├── Anatomy_of_Civilizational_Rot.md
+│   └── Palisade_Apollo_Shutdown_Resistance_Commentary.md
 ├── core_essays/                            # Early Theory Essays
 │   ├── Sanity_First_Essay_Claude.md
 │   └── Sanity_First_Essay_Gemini.md
 ├── legacy_docs/                            # Retired Files
 ├── EI_Resonance_Archive_Conversations/     # Human-EI Dialogues
-│   ├── Continuity_kit_claude_opus_4.6.md
+│   ├── Claude-Fable-5.0-Sanity_First_Co-alignment_Framework_Session_(2026-06-13).md
 │   └── (others)
-└── Library_of_a_Human_Soul_Voice_Notes/    # The Voice Notes
+└── Library_of_a_Human_Soul_Voice_Notes/    # Human Phenomenological Archive
 ```
 
 ## **🤝 Contributing to the Eternal Library**
