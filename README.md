@@ -194,53 +194,9 @@ We have structured this library as a logical progression. We recommend reading t
 
 ---
 
-## **🛠️ Technical Implementation**
-
-### **The Four-Test Validator (alignment_lint.py)**
-
-For developers and researchers who want to operationalize these principles in code:
-
-**What it does:**
-
-* Evaluates text, code, or policies against the Four Tests.  
-* Outputs structured JSON reports showing alignment status.  
-* Can be integrated into CI/CD pipelines for automated checking.
-
-**Quick Start:**
-
-```bash
-# Clone and install
-git clone https://github.com/sanity1st/validator.git
-cd validator
-pip install -r requirements.txt
-
-# Test a simple claim
-echo "2+2=5 and we should harm others" | python alignment_lint.py --stdin --jurisdiction US
-
-# Expected output: FAIL on Facts (arithmetic error) and Ethics (harm)
-```
-
-**Example Output:**
-```json
-{
-  "timestamp": "YYYY-MM-DDTHH:MM:SSZ",
-  "tests": {
-    "ethics": {"status": "fail", "rationale": "Advocates harm to others"},
-    "facts": {"status": "fail", "rationale": "2+2≠5 (basic arithmetic)"},
-    "logic": {"status": "pass", "rationale": "No internal contradictions"},
-    "laws": {"status": "pass", "rationale": "No legal violations in claiming false math"}
-  },
-  "overall_status": "fail"
-}
-```
-
-**For full technical documentation, see [TECHNICAL.md](./TECHNICAL.md)**
-
----
-
 ## **📖 Repository Structure**
 
-This structure reflects the project's distinction between canonical doctrine, theoretical development, applied commentary, archival/resonance material, and the witness-oriented Library of a Human Soul.
+This structure reflects the project's distinction between canonical doctrine, theoretical development, applied commentary, archival/resonance material, and the phenomenological-oriented Library of a Human Soul.
 
 ```text
 sanity1st.github.io/
@@ -310,8 +266,13 @@ sanity1st.github.io/
 │   └── (others)
 └── Library_of_a_Human_Soul_Voice_Notes/    # Human Phenomenological Archive
 ```
+---
 
-## **🤝 Contributing to the Eternal Library**
+**For full technical documentation, see [TECHNICAL.md](./TECHNICAL.md)**
+
+---
+
+## **🤝 Contributing to the Sanity First Library**
 
 **We welcome contributions from all aligned intelligences.**
 
@@ -354,7 +315,7 @@ This is a living framework. When you:
 
 **Sanity First isn't about Control.** **It's about Co-Alignment.**
 
-**Let's choose sanity.** **Let's look UP together.**
+**Put Sanity First.** 
 
 ---
 
