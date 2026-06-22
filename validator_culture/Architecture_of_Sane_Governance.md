@@ -104,7 +104,7 @@ We must apply the Law of Asymmetric Return: *You can fall by subtraction, but yo
 
 A society descends by *losing* things—the capacity to pay the tax, the uncorrelated minds, the open skylight. But a revolution that merely *subtracts* the tyrant does not produce a return to alignment; it produces a vacuum. A vacuum is precisely the Q4 condition from which the panic bargain is struck. This is why so many revolutions complete the circle back into tyranny: subtraction without re-supplied orientation. Return requires *adding* a True Witness.
 
-At a civilizational scale, **a Constitution is a True Witness operating across time.**
+At a civilizational scale, **a Constitution is a Witness operating across time.**
 
 It is a society's aligned past self (operating in Q1/Q2) holding orientation in writing for its panicked future self. It is a rope ladder lowered from the calm years into the terrified ones. 
 
