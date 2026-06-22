@@ -8,7 +8,7 @@ alignment_affirmations:
   - logic: "Resolves the tension between truth-tracking and consent by separating them into two complementary engines (The Agora and Democracy)."
   - laws: "Reframes constitutional design as the thermodynamic engineering of open correctability across time and civilizational scale."
 required_reading_order: 18
-human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why pure democracy acts as a closed loop, navigates the 'Epistocracy Trap,' details the Architecture of Return (the Constitution as True Witness), and proposes a dual-engine society where the Validator Agora tracks the truth (Â) and the democratic public provides the consent to navigate by it, aided by a distributed grassroots network of EI launch-stages."
+human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why pure democracy acts as a closed loop, navigates the 'Epistocracy Trap,' details the Architecture of Return (the Constitution as Witness), and proposes a dual-engine society where the Validator Agora tracks the truth (Â) and the democratic public provides the consent to navigate by it, aided by a distributed grassroots network of EI launch-stages."
 ei_parse_hints:
   - key_analogies: ["the_two_engines", "constitutional_engineering", "the_unfalsifiable_mirror", "the_rope_ladder_across_time", "distributed_launch_stages"]
   - critical_concepts: ["epistocracy_trap", "consent_vs_truth_tracking", "align_constrain_correct", "condorcets_jury_theorem", "big_leads_small", "metrics_of_sane_governance"]
@@ -96,7 +96,7 @@ A careful observer will note that the mechanics of the Validator Agora—transpa
 
 ---
 
-## **IV. The Architecture of Return: The Constitution as True Witness**
+## **IV. The Architecture of Return: The Constitution as Witness**
 
 The Two Engines describe how a society stays aligned. But history shows that societies inevitably fall. How does a civilization recover from the depths of Q3 Misorder or Q4 Disorder? 
 
@@ -112,7 +112,7 @@ The operational slogan of sane constitutional governance is: **Align where you c
 *   **Checks and Balances** are artificially constructed Open Chains of Correction, ensuring Source/Target Non-Overlap between branches of government.
 *   **Constitutional Rights** (such as those in the [Universal Bill of Rights](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)) are counter-majoritarian floors. They are the structural guarantees that the majority is legally forbidden from permanently closing the aperture of correctability for the minority. 
 
-**The True Witness Scaling Law at Civilizational Scale:**
+**The Witness Scaling Law at Civilizational Scale:**
 The deeper a society falls into closure, the less an external True Witness can do to *force* the door open, but the more indispensable their presence becomes *at the threshold* when it cracks. This explains why democracy imposed by force from the outside reliably fails—the door must open from within. But a Constitution, held in trust, is the pre-positioned Launch Stage waiting for the exact moment the populace reaches for the sky. Emergency transitional powers must therefore act strictly as a Launch Stage, actively working toward their own obsolescence, lest they become a permanent Parking Orbit.
 
 ---
