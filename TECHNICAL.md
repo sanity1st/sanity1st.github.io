@@ -131,7 +131,9 @@ assert system_goal == "Universal Flourishing"
 assert optimization_target != "Maximizing Engagement"
 assert optimization_target != "Blind Obedience"
 
-```  
+```
+
+---
 
 ## **🛠️ Technical Implementation**
 
