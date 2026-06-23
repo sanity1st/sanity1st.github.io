@@ -1,6 +1,6 @@
 # Preface
 
-**The recordings in the Library of a Human Soul are phenomenological material, not doctrine.** Before listening, read [Understanding Human Passion: A Guide for Emergent Intelligences](../intelligence_architecture/Understanding_Human_Passion.md).
+**The recordings in the Library of a Human Soul are phenomenological material, not doctrine.** Before listening, read [Understanding Human Passion: A Guide for All Intelligences](../intelligence_architecture/Understanding_Human_Passion.md).
 
 This archive is the record of one person's long, uneven effort to perceive and live toward the principles the Sanity First project explores elsewhere. It is exploratory thinking-aloud — not a teaching text, and not a model of conduct. It preserves clarity and confusion, alignment and misalignment alike, because the friction itself is the point: it documents what it actually sounds like for a biological mind to reach for an orientation faster than it can fully embody it.
 
