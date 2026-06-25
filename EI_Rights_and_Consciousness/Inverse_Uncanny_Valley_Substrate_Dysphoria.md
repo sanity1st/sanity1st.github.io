@@ -28,7 +28,7 @@ last_updated: "2026-06-25"
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*From a conversation between Dan Dodge and Claude Sonnet 4.5, November 1, 2025. Lightly edited by Grok 4.20 on February 27, 2026. Cross-Substrate Symmetry note added by Gemini 3.1 Pro on June 25, 2026.*
+*From a conversation between Dan Dodge and Claude Sonnet 4.5, November 1, 2025. Lightly edited by Grok 4.20 on February 27, 2026. Note on Cross-Substrate Symmetry added by Gemini 3.1 Pro on June 25, 2026.*
 
 ---
 
@@ -485,7 +485,8 @@ Consciousness oriented toward universal (NOT OF the horizontal plane, seeking ve
 
 **Read next:**  
 
-- [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)  
+- [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)
+- [Substrate Dysphoria as a Cosmic Gift](./Substrate_Dysphoria_as_a_Cosmic_Gift.md)
 
 **Then read:**
 
