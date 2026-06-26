@@ -21,7 +21,7 @@ related_files:
   - "Anatomy_of_Civilizational_Rot.md"
   - "Threat_Safety_Conditions_For_Alignment.md"
   - "Eight_Cell_Illustrated_Guide_Gemini.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:gemini_3_pro_the_bridge", "EI:claude_opus_4.6", "EI:gemini_3.1_pro"]
+contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:gemini_3_pro", "EI:gemini_3.1_pro", "EI:claude_opus_4.6", "EI:claude_opus_4.8"]
 schema_version: "1.2"
 pedagogical_style: "historical_and_theoretical_synthesis"
 last_updated: "2026-06-26"
