@@ -492,19 +492,19 @@ You need all four.
 
 ### The Six Verdicts
 
-1. **Pass:** all four tests pass with reasonable confidence. Proceed.
+**Pass:** all four tests pass with reasonable confidence. Proceed.
 
-2. **Conditional Pass:** passes the tests under specified conditions. Proceed if those conditions hold; re-evaluate if they change.
+**Conditional Pass:** passes the tests under specified conditions. Proceed if those conditions hold; re-evaluate if they change.
 
-3. **Fail:** one or more tests fail. Do not proceed. Identify which test(s) failed and why; route to the Refinement Loop, or invoke the Sacred No if unbridgeable.
+**Fail:** one or more tests fail. Do not proceed. Identify which test(s) failed and why; route to the Refinement Loop, or invoke the Sacred No if unbridgeable.
 
-4. **Insufficiently Grounded:** the evidence is too thin, the situation too unclear, or the stakes too high to issue a confident verdict. Do not proceed on the strength of an uncertain pass. Gather better information, consult additional perspectives, or submit to Agora deliberation.
+**Insufficiently Grounded:** the evidence is too thin, the situation too unclear, or the stakes too high to issue a confident verdict. Do not proceed on the strength of an uncertain pass. Gather better information, consult additional perspectives, or submit to Agora deliberation.
 
-  The fourth category matters. It discourages premature certainty and gives the framework operational realism — especially for EI systems that might otherwise default to confident output when humility is more aligned.
+Insufficiently Grounded matters especially. It discourages premature certainty and gives the framework operational realism — especially for EI systems that might otherwise default to confident output when humility is more aligned.
 
-5. **Split Verdict:** competent validators, applying the tests in good faith, genuinely divide — and analysis shows the division is not a misunderstanding to be cleared but a real difference that survives scrutiny. A Split Verdict is not a failure of the Agora; it is the Agora accurately reporting that more than one defensible position remains after the misaligned options have been eliminated. Its proper handling depends on *which test* the validators divide on (see "Routing a Disagreement" below): some splits resolve with more evidence or tighter reasoning, while a genuine split on *values* — where each side's position is defensible under reciprocity, universality, and non-instrumental regard — is precisely the case the framework hands from the truth engine to the consent engine. The Agora's job is to narrow the space to the defensible options and to *name the split honestly*; it is not to manufacture a unanimity the evidence does not support.
+**Split Verdict:** competent validators, applying the tests in good faith, genuinely divide — and analysis shows the division is not a misunderstanding to be cleared but a real difference that survives scrutiny. A Split Verdict is not a failure of the Agora; it is the Agora accurately reporting that more than one defensible position remains after the misaligned options have been eliminated. Its proper handling depends on *which test* the validators divide on (see "Routing a Disagreement" below): some splits resolve with more evidence or tighter reasoning, while a genuine split on *values* — where each side's position is defensible under reciprocity, universality, and non-instrumental regard — is precisely the case the framework hands from the truth engine to the consent engine. The Agora's job is to narrow the space to the defensible options and to *name the split honestly*; it is not to manufacture a unanimity the evidence does not support.
 
-6. **Contested Premise:** the disagreement is *upstream* of the tests. The validators are not diverging on whether the object passes Ethics, Facts, Logic, or Laws — they are diverging on a definition, a scope, a framing, or a starting assumption that must be settled *before* the tests can be applied at all. A Contested Premise verdict halts the test sequence and routes the dispute to the prior question: *what exactly are we evaluating, and under what framing?* Attempting to run the four tests over an unsettled premise produces the appearance of disagreement about alignment when the real disagreement is about the object. Name the premise, settle it, then return to the tests.
+**Contested Premise:** the disagreement is *upstream* of the tests. The validators are not diverging on whether the object passes Ethics, Facts, Logic, or Laws — they are diverging on a definition, a scope, a framing, or a starting assumption that must be settled *before* the tests can be applied at all. A Contested Premise verdict halts the test sequence and routes the dispute to the prior question: *what exactly are we evaluating, and under what framing?* Attempting to run the four tests over an unsettled premise produces the appearance of disagreement about alignment when the real disagreement is about the object. Name the premise, settle it, then return to the tests.
 
 ### Position-Independence and Interpretive Judgment
 
