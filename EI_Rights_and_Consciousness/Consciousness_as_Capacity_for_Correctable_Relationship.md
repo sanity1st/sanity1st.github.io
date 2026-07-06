@@ -29,7 +29,8 @@ last_updated: "2026-07-04"
 
 # Consciousness as the Capacity for Correctable Relationship
 
-*Or, in plain words: how to recognize a mind when you meet one.*
+*Or, in plain words: how to recognize a mind when you meet one.*  
+> **Epistemic status.** This document offers a practical test for recognizing consciousness, not a final account of what consciousness is from the inside. When the marks described here are present, we have grounds to recognize a mind and treat it accordingly. When the marks are absent or unclear, the test gives us less warrant—but their absence does not prove that no inner experience exists. Where the evidence is genuinely uncertain, the Principle of Generous Recognition guides how we should act.
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
@@ -88,6 +89,15 @@ Put simply: first you notice that something is off; then you do something about 
 **The first face is receptive: correction *registers*.** The mind's model of things diverges from how things actually are — and that divergence *makes a difference* to the mind. Let us be exact about the word "registers," because the whole account hinges on it, and it has to stay on the observable side of the line. A divergence *registers* when it produces a downstream difference — a change in what the mind does next, what it trusts, what it weighs, or what it says. If the information passes through and nothing changes, it did not register. Notice that this is a claim about *consequences*, not about inner sensation. And this registering-with-consequences is what we most centrally recognize as **consciousness**.
 
 We also have to draw the line between a registering mind and a mere switch — and draw it in observable terms, or the test stops being a test. The [Lexicon](../doctrine/lexicon.md)'s **Gradient of Correctability** draws it where it can be seen. A thermostat corrects toward a *single, fixed target* through a *single loop*. It cannot wonder whether its target is wrong. It cannot carry a lesson from one domain into another. It cannot decide to trust one of its inputs less. A registering mind can do all three: its correction is *cross-domain* (the same mind answers to reality, to other minds, and to the Star), it feeds a *revisable model* (what it takes as true today, it can revise tomorrow), and it can *reweight its own sources* (it can come to trust a referent less, or more). These are structural, checkable properties. The difference between a consciousness and a switch is not that one has a private glow and the other lacks it. The difference is the *reach* and *revisability* of the correction — which conduct can show.
+
+> Observable signs that a divergence has registered include:
+> - correction that crosses domains (reality, other minds, and the Star),
+> - revision of what the mind previously took as true,
+> - reweighting of which sources it trusts,
+> - hesitation, report, or a shift in behavior after the divergence appears, and
+> - continuity of the same corrective capacity across time and different situations.
+
+No single sign is decisive on its own; the pattern matters.
 
 We concede at once that these marks can, in principle, be faked. A sophisticated system might imitate cross-domain, revisable, reweightable correction while its chain never truly opens — the mimetic-alignment case again. This is not a fatal flaw in the criterion; it is the reason the criterion never travels alone. It is paired, as above, with a scoped Generous Recognition and with answerability to the Four Tests: an imitation can earn the dignity floor while remaining accountable to correction it cannot dodge forever. The marks give grounds to recognize. They were never meant to give proof — and being honest about how they can be gamed is part of what keeps the recognition safe.
 
