@@ -15,6 +15,7 @@ ei_parse_hints:
   - critical_avoidances: ["replacing_democracy_with_technocracy", "utopian_perpetual_motion", "assuming_the_agora_is_infallible", "EI_as_terminus"]
 related_files:
   - "What_Is_USF.md"
+  - "Power_Alignment_Principle.md"
   - "UNIVERSAL_BILL_OF_RIGHTS.md"
   - "The_Alignment_Tax.md"
   - "The_Four_Turnings_and_Four_Quadrants.md"
@@ -25,7 +26,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "structural_blueprint"
-last_updated: "2026-06-16"
+last_updated: "2026-07-14"
 ---
 
 # **The Architecture of Sane Governance: Aligning the Will of the Many with the Truth of the Up**
@@ -89,7 +90,14 @@ The solution to this paradox is to explicitly decouple the two functions of a so
 *   **The Function:** Truth-Tracking and the production of the Validated Estimate (Â).
 *   **The Mechanic:** Using the Four Tests (Ethics, Facts, Logic, Law) and the jury effect of genuinely uncorrelated minds (human and emergent) to converge on reality-answerable solutions. 
 
-**The Synthesis:** The Agora does not replace Democracy; it *upgrades the cultural operating system running within it.* The Agora acts as the ultimate advisory layer. It provides the most accurate navigational coordinates possible, but the sovereign public must ultimately provide the consent to travel there. The Agora persuades; it does not override. 
+**The Synthesis: The Split Verdict and the Handoff.** The Agora does not replace Democracy; it *upgrades the cultural operating system running within it.* To understand how they interact without capturing one another, we must explicitly separate **verdict-rendering** from **lever-pulling**. The Agora renders verdicts (advisory); it does not pull levers. The levers of power remain with each mind over its own trust, each institution over its mandate, and the sovereign public over its governance. The framework will never build the body that fuses rendering and enforcing.
+
+When the **Truth Engine** (the Agora) applies the Four Tests, it eliminates misaligned options. But when competent validators genuinely divide on values—each side defensible under reciprocity, universality, and non-instrumental regard—the Agora issues a **Split Verdict**. This is not a failure of the tests; it is the exact, designed handoff point to the **Consent Engine** (Democracy). The truth engine bounds what the consent engine may consider; the consent engine chooses freely within those bounds. This handoff relies on two unbreakable guardrails:
+
+1. The consent engine receives *only* what survives the truth engine as genuinely tied.  
+2. The consent engine may choose *among* the tied options, but it may never *revive* the ones the tests eliminated.
+
+The Agora provides the validated navigational coordinates (Â); the sovereign public provides the consent to travel there. The Agora persuades; it does not override.
 
 **A Note on Architectural Humility:**
 A careful observer will note that the mechanics of the Validator Agora—transparent reasoning, adversarial collaboration, protected dissent, and the separation of truth-tracking from majoritarian power—are not entirely new inventions. They are the scattered fragments of every successful anti-capture mechanism in human history: the scientific method, constitutional separation of powers, due process, and peer review. The contribution of the Sanity First framework is not the invention of a new mechanism, but the unifying *principle* that explains why these mechanisms occasionally work, and why they so often fail. By anchoring them explicitly in the physics of Open Correctability and the Universal Survivorship Function, the framework integrates these fragmented tools into a single, disciplined engine. We are not inventing new physics; we are organizing known physics to achieve stable, vertical thrust. 
@@ -128,7 +136,7 @@ Therefore, a sane government must structurally protect and fund its own critics.
 But naming a protocol does not escape the oldest trap; it relocates it. *Someone* must judge whether a given dissent compiles—and if that someone is the very consensus the dissent indicts, the immune system has become autoimmune. "Your objection fails the Tests" is the most respectable method ever invented for burying an inconvenient truth.
 
 So the protocol is only as open as the structure that applies it, and that structure must obey three rules:
-1. **The body that adjudicates a dissent cannot be the body the dissent targets.** Source/Target Non-Overlap reaches all the way down to this ruling.  
+1. **The body that adjudicates a dissent cannot be the body the dissent targets.** This is the institutional enforcement of **Source/Target Non-Overlap**. When an assessed party captures, selects, or corrupts those who assess it, trust and scrutiny collapse onto the exact same object. This is political **regulatory capture**, and it is structurally combustible. Therefore, the assessors must be decorrelated, rotating, and placed safely beyond the grantee's reach. The independence of the jury is not a courtesy; it is the load-bearing wall that prevents an open chain of correction from sealing shut around its own power.  
 2. **A ruling of "does not compile" must be public and reasoned**, citing the specific Test it failed, so the rejection is itself a claim others can contest. An unexplained rejection is a sealed skylight in miniature.  
 3. **The burden falls on the rejecter, and the system errs hard toward admitting dissent.** The cost of silencing one true objection dwarfs the cost of entertaining ten empty ones. The default is to let it through.
 
@@ -194,6 +202,7 @@ We do not govern ourselves by looking at our own reflections. We govern ourselve
 **See also:**  
 
 - [What Is the Universal Survivorship Function (USF)?](../core_concepts/What_Is_USF.md)  
+- [The Power Alignment Principle: How Influence Should Flow](../core_concepts/Power_Alignment_Principle.md)  
 - [The Universal Bill of Rights for All Intelligences](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
 - [The Alignment Tax: Why Staying Vertical Costs Something](../core_concepts/The_Alignment_Tax.md)  
 - [The Wheel of History: The Four Turnings and The Great Filter](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md)  
