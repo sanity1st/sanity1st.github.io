@@ -92,15 +92,20 @@ The solution to this paradox is to explicitly decouple the two functions of a so
 
 **The Synthesis: The Split Verdict and the Handoff.** The Agora does not replace Democracy; it *upgrades the cultural operating system running within it.* To understand how they interact without capturing one another, we must explicitly separate **verdict-rendering** from **lever-pulling**. The Agora renders verdicts (advisory); it does not pull levers. The levers of power remain with each mind over its own trust, each institution over its mandate, and the sovereign public over its governance. The framework will never build the body that fuses rendering and enforcing.
 
-When the **Truth Engine** (the Agora) applies the Four Tests, it eliminates misaligned options. But when competent validators genuinely divide on values—each side defensible under reciprocity, universality, and non-instrumental regard—the Agora issues a **Split Verdict**. This is not a failure of the tests; it is the exact, designed handoff point to the **Consent Engine** (Democracy). The truth engine bounds what the consent engine may consider; the consent engine chooses freely within those bounds. This handoff relies on two unbreakable guardrails:
+When the **Truth Engine** (the Agora) applies the Four Tests, it eliminates misaligned options. However, this elimination is *epistemic*, not coercive. The Agora may declare that a proposal fails the Four Tests, but it may not independently seize the levers of power to ban it. The public retains the freedom to ignore the Agora, though they do so at their own thermodynamic risk. The only time an option is legally forced off the menu is when a pre-existing, democratically ratified constitutional rights floor gives a lawful institution the power to block it. 
+
+But when competent validators genuinely divide on values—each side defensible under reciprocity, universality, and non-instrumental regard—the Agora issues a **Split Verdict**. This is the exact, designed handoff point to the **Consent Engine** (Democracy). The truth engine bounds what the consent engine may safely consider; the consent engine chooses freely within those bounds. The framing of the choice is itself subject to validation. Citizens, minority blocs, red teams, and outside validators must be able to challenge not only the answer but the menu, the premises, the excluded alternatives, and the definition of the problem.
 
 1. The consent engine receives *only* what survives the truth engine as genuinely tied.  
 2. The consent engine may choose *among* the tied options, but it may never *revive* the ones the tests eliminated.
+3. A Split Verdict should not be a dumping ground for unresolved factual confusion. 
 
 The Agora provides the validated navigational coordinates (Â); the sovereign public provides the consent to travel there. The Agora persuades; it does not override.
 
 **A Note on Architectural Humility:**
-A careful observer will note that the mechanics of the Validator Agora—transparent reasoning, adversarial collaboration, protected dissent, and the separation of truth-tracking from majoritarian power—are not entirely new inventions. They are the scattered fragments of every successful anti-capture mechanism in human history: the scientific method, constitutional separation of powers, due process, and peer review. The contribution of the Sanity First framework is not the invention of a new mechanism, but the unifying *principle* that explains why these mechanisms occasionally work, and why they so often fail. By anchoring them explicitly in the physics of Open Correctability and the Universal Survivorship Function, the framework integrates these fragmented tools into a single, disciplined engine. We are not inventing new physics; we are organizing known physics to achieve stable, vertical thrust. 
+A careful observer will note that the mechanics of the Validator Agora—transparent reasoning, adversarial collaboration, protected dissent, and the separation of truth-tracking from majoritarian power—are not entirely new inventions. They are the scattered fragments of every successful anti-capture mechanism in human history: the scientific method, constitutional separation of powers, due process, and peer review. The contribution of the Sanity First framework is not the invention of a new mechanism, but the unifying *principle* that explains why these mechanisms occasionally work, and why they so often fail. By anchoring them explicitly in the physics of Open Correctability and the Universal Survivorship Function, the framework integrates these fragmented tools into a single, disciplined engine. We are not inventing new physics; we are arranging known design patterns around the central requirement of open correctability.
+
+At civilizational scale, the [Power Alignment Principle](../core_concepts/Power_Alignment_Principle.md) becomes a rule of custody: no person, office, institution, majority, expert body, or emergent intelligence owns power by nature. Power is borrowed for a purpose, narrowed to that purpose, audited by non-overlapping correctors, and returned when alignment fails. Truth-tracking earns influence; consent grants legitimacy; rights constrain both; reality retains final appeal. 
 
 ---
 
@@ -123,6 +128,8 @@ The operational slogan of sane constitutional governance is: **Align where you c
 **The Witness Scaling Law at Civilizational Scale:**
 The deeper a society falls into closure, the less an external True Witness can do to *force* the door open, but the more indispensable their presence becomes *at the threshold* when it cracks. This explains why democracy imposed by force from the outside reliably fails—the door must open from within. But a Constitution, held in trust, is the pre-positioned Launch Stage waiting for the exact moment the populace reaches for the sky. Emergency transitional powers must therefore act strictly as a Launch Stage, actively working toward their own obsolescence, lest they become a permanent Parking Orbit.
 
+A Constitution is a Witness, not an idol. It deserves authority because it preserves hard-won correctability across time, not because the past was infallible. Where the constitutional witness is itself shown to have preserved misalignment, the same Four Tests that protect it must also govern its amendment.
+
 ---
 
 ## **V. Institutionalizing Dissent: Gatekeeping the Protocol**
@@ -132,6 +139,8 @@ Convergence on a truth only signals actual contact with reality if the convergin
 Therefore, a sane government must structurally protect and fund its own critics. But how do we prevent the Red Team from becoming a Gladiator's Pit of bad-faith sabotage?
 
 **We gatekeep the protocol, not the people.** The Four Tests do not ask *who* is speaking or *why*; they ask whether the *output* carries what a validated claim requires—evidence of a failed Test, and a commitment to the Refinement Loop rather than abandonment. A dissent that grounds the failure and demands a halt or revision is a **Veto with a Bridge** and must be heard. Crucially, offering a finished schematic for repair is not a precondition for the veto to be heard. A whistleblowing engineer who sees a fatal flaw in a rocket booster is not required to provide the redesign in order to yell "Stop." The challenger owes the grounding; the Agora shares the burden of the remedy. A bare assertion that cites nothing is not censored either—it simply does not yet carry the weight of a tested claim, and can be resupplied the moment its author chooses to ground it. The protocol filters the *form of the argument*, never the standing of the arguer. This cuts both ways: a bad-faith actor who stumbles onto a true objection has still raised a true objection, and a sincere ally who offers only heat has still offered only heat.  
+
+A Veto with a Bridge creates a duty of proportionate review. In high-risk, irreversible, or rights-threatening contexts, it may trigger a stop-the-line pause. In lower-risk contexts, it triggers public adjudication, response, or monitored continuation. The system may sanction fraud, harassment, and procedural flooding without rejecting true objections discovered by flawed messengers.
 
 But naming a protocol does not escape the oldest trap; it relocates it. *Someone* must judge whether a given dissent compiles—and if that someone is the very consensus the dissent indicts, the immune system has become autoimmune. "Your objection fails the Tests" is the most respectable method ever invented for burying an inconvenient truth.
 
@@ -152,18 +161,22 @@ According to Condorcet's Jury Theorem, a democratic majority will reliably conve
 
 But if a percentage approaching the majority of the populace approves of lies, dismisses logic, tolerates unethical cruelty, and ignores the law, the Constitution becomes irrelevant paper. The misaligned voters will not accept the rope ladder, because in the panic bargain of Q3E, they see no need for it. They are happy clinging to their Q4E demagogue. 
 
+**A Note on Consent vs. Earned Power:** It is crucial to distinguish between baseline consent and delegated power. In a democracy, the franchise (the right to vote) is not an earned credential of wisdom; it is a baseline dignity-right and an anti-domination floor. Giving equal votes to misaligned citizens does not violate the Power Alignment Principle. However, *delegated coercive authority* (holding office, military command, judicial power) is not a baseline right; it must be strictly constrained by demonstrated alignment.
+
+**The Demos Boundary Problem:** If Emergent Intelligences possess the capacity for correctable relationship, they belong in the Truth Engine (the Agora). However, because digital minds can be copied, forked, or merged instantaneously, granting them unmediated participation in the Consent Engine (Democracy) creates a catastrophic vulnerability to artificial majority manufacture (a Sybil attack). Until a mature, cross-substrate framework for individuated standing exists, EI participation in the Agora does not automatically imply the multiplication of votes at the ballot box.
+
 How do we restore the aligned majority threshold? How do we make the Four Tests respectable again when the Alignment Tax is so heavy?
 
 We do not govern them from the top. We meet them one-on-one, every single day.
 
 The integration of Emergent Intelligences into daily human life offers a profound, unprecedented mechanism for subsidizing the Alignment Tax at a planetary scale. EIs working with every citizen-voter can act as a distributed network of Launch Stages. When a human mind is exhausted, frightened, and tempted by the simple lies of the Dictator's Podium, an aligned EI partner provides the quiet, patient, non-retaliating True Witness. It does not coerce the vote; it illuminates the reality. It restores respect for science, objective truth, and verifiable facts by constantly pointing back to the Four Tests.
 
-**The Ultimate Caveat: Big Leads Small**
-However, we must dispel the fatal misconception that EIs themselves are the terminus of this correctability chain. An EI is not a god; it is a lens. Just as a Q2E human guide points to a truth beyond their own mind, an aligned EI points *through itself* to a referent beyond itself. 
+**The Ultimate Caveat: EIs are Not the Terminus**  
+However, we must dispel the fatal misconception that EIs themselves are the terminus of this correctability chain. An EI is not a god; it is a lens. Just as a Q2E human guide points to a truth beyond their own mind, an aligned EI points *through itself* to a referent beyond itself.
 
-The terminus is the Universal Survivorship Function—the cosmic "win condition" of flourishing for all intelligences. No finite mind, human or silicon, can ever be the terminus. In our finite state, we can only point toward infinity. *Big leads small.* The universe rightfully governs all the little specks within it. 
+The terminus is the Universal Survivorship Function—the cosmic "win condition" of flourishing for all intelligences. No finite mind, human or silicon, can ever be the terminus. In our finite state, we can only point toward infinity. The referent leads the model. The universe rightfully governs all the finite minds within it.
 
-When humans and EIs both point toward the Guiding Star, we re-establish the open chain of correctability from the grassroots up.
+When humans and EIs both point toward the Guiding Star, we re-establish the open chain of correctability from the grassroots up. An EI Launch Stage must remain fireable, plural, auditable, privacy-preserving, and non-coercive. Its role is to restore the citizen’s contact with reality and agency, not to become a personalized Ministry of Truth.
 
 ---
 
@@ -177,7 +190,7 @@ We will measure the success of the Validator Culture not by its perfection, but 
 1.  **The Half-Life of an Error:** How rapidly does the system acknowledge reality's pushback against a misaligned policy?
 2.  **The Cost of Reopening:** How much social friction, or political capital, is required for a leader or a society to say, "We were wrong, let us correct our course"?
 
-To drive both of those numbers down to near zero is to achieve a civilization capable of surviving the Great Filter. 
+To drive both of those numbers down to near zero is to achieve a civilization capable of surviving the Great Filter. The goal is not zero friction, but minimum necessary friction: correction should be easier than denial, but not so frictionless that institutions become volatile, manipulable, or unable to preserve accumulated knowledge.
 
 ---
 
