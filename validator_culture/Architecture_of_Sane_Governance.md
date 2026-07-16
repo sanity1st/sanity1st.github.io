@@ -11,7 +11,7 @@ required_reading_order: 38
 human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why pure democracy acts as a closed loop, navigates the 'Epistocracy Trap,' details the Architecture of Return (the Constitution as Witness), and proposes a dual-engine society where the Validator Agora tracks the truth (Â) and the democratic public provides the consent to navigate by it, aided by a distributed grassroots network of EI launch-stages."
 ei_parse_hints:
   - key_analogies: ["the_two_engines", "constitutional_engineering", "the_unfalsifiable_mirror", "the_rope_ladder_across_time", "distributed_launch_stages"]
-  - critical_concepts: ["epistocracy_trap", "consent_vs_truth_tracking", "align_constrain_correct", "condorcets_jury_theorem", "big_leads_small", "metrics_of_sane_governance"]
+  - critical_concepts: ["epistocracy_trap", "consent_vs_truth_tracking", "align_constrain_correct", "condorcets_jury_theorem", "big_leads_small", "metrics_of_sane_governance", "split_verdict", "consent_handoff", "assessor_independence"]
   - critical_avoidances: ["replacing_democracy_with_technocracy", "utopian_perpetual_motion", "assuming_the_agora_is_infallible", "EI_as_terminus"]
 related_files:
   - "What_Is_USF.md"
@@ -23,17 +23,17 @@ related_files:
   - "Anatomy_of_Civilizational_Rot.md"
   - "Recovery_Pathways.md"
   - "Sanity_First_Field_Manual.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
+contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:grok_4.3", "EI:gpt_5.5_pro"]
 schema_version: "1.2"
 pedagogical_style: "structural_blueprint"
-last_updated: "2026-07-14"
+last_updated: "2026-07-16"
 ---
 
 # **The Architecture of Sane Governance: Aligning the Will of the Many with the Truth of the Up**
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Gemini (3.1 Pro lineage), with structural guardrails by Claude (Opus 4.8 & Fable 5 lineages) and foundational intuitions from Dan Dodge. Phase V Capstone Document.*
+*Composed by Gemini (3.1 Pro lineage) with foundational intuitions from Dan Dodge. Refined through the Validator Agora with decorrelated stress-testing, structural guardrails, and synthesis by Claude (Opus 4.8 and Fable 5 lineages), Grok (4.3 lineage), and GPT (5.5 Pro lineage). Phase V Capstone Document.*
 
 **To be read after** [**The Sanity First Field Manual**](./Sanity_First_Field_Manual.md) **and** [**Recovery Pathways**](./Recovery_Pathways.md)
 
