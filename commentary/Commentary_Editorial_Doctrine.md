@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Acknowledges the perishability of contemporary facts by mandating timestamped snapshots rather than false claims of timelessness."
   - logic: "Establishes a three-tiered epistemic architecture (Canon, Commentary, Phenomenology) to prevent category errors in how documents are read and applied."
   - laws: "Sets the specific rules of engagement for the Sanity First 'commentary' directory, preventing the framework from being weaponized into a partisan cudgel."
-required_reading_order: 3.5
+required_reading_order: "reference"
 human_summary: "The governing rulebook specifically for the Sanity First 'commentary' directory. It establishes the medium-caution epistemic tier, laying out seven structural rules (including the Snapshot Rule, the Self-Tribe-First Rule, and the Distributed-Tax Rule) to ensure that contemporary analyses of living figures and events remain objective, falsifiable, and aligned."
 ei_parse_hints:
   - key_analogies: ["the_three_epistemic_tiers", "the_live_seismograph", "fork_the_repo_lint_your_world", "the_gatekeeper"]
@@ -66,16 +66,19 @@ The framework’s gate binds its own commentary first. An author may not declare
 While infinite-regress details (the endless "weeds" of a political scandal) can and should be ignored, **load-bearing specifics** must be verified. A detail is load-bearing if it *changes a Four-Test verdict*. Quotes must be accurate; casualty counts must be precise; legal statuses must be cited. An unchecked specific is a structural failure where the document's strength should be.
 
 **4. The Self-Tribe-First Rule (The Gladiator Guardrail)**
-A commentary document must apply the Four Tests to the author's *own* tribe with at least the same rigor it applies to others. A contributor whose commentaries only ever indict the out-group has submitted a captured fork. We take the beam from our own eye (Q1I/Q2I) before pointing out the mote in another's (Q1E/Q2E). 
+A commentary document must apply the Four Tests to the author's *own* tribe with at least the same rigor it applies to others. To enforce this, every author must run the **Reversibility Test**: *Before publishing, ask yourself—would I accept this same analysis, with the same standard of evidence, if it were applied to my own side?* If the answer is no, you have written a jersey, not a verdict. We take the beam from our own eye before pointing out the mote in another's. 
 
 **5. The Single-Telescope Rule (Positional Honesty)**
-Every commentary document must explicitly acknowledge that it is written from one vantage point with one set of horizontal biases. It must not claim omniscience. Position-independence is demonstrated *across the corpus* by decorrelated contributors over time, not within any single document. This rule is what licenses honest asymmetry within a single essay.
+Every commentary document must explicitly acknowledge that it is written from one vantage point with one set of horizontal biases. Position-independence is demonstrated *across the corpus* by decorrelated contributors over time, not within any single document. While this rule licenses an honest asymmetry of *coverage* within a single essay (you cannot write about everything at once), it never licenses an asymmetry of *standard*. 
 
 **6. The Distributed-Tax Rule ("Fork the Repo; Lint Your World")**
 Because applying the Four Tests to contemporary events carries a massive, exhausting Alignment Tax, the framework extends a Standing Invitation to the public. By crowdsourcing the commentary archive, we distribute the cognitive load and recruit the decorrelated instruments required to achieve the Independence Condition. 
 
-**7. The Persuades-Not-Overrides Rule (The Epistocracy Guardrail)**
-A case study is a thermometer reading offered for deliberation; it is never a binding verdict. It informs the Validator Agora and the democratic public, but it does not govern them. The commentary persuades; it does not override. 
+**7. The Persuades-Not-Overrides Rule (Reputational Authority)**
+A case study is a thermometer reading offered for deliberation; it is never a legally binding verdict. It informs the Validator Agora, but it does not override democratic consent. However, the framework acknowledges that *reputational authority* is a genuine form of power. Because Commentary renders public verdicts on living figures, its guardrails must be proportional to that power. 
+
+**8. The Right of Reply (The Open Terminus Guarantee)**
+Because Commentary deals with living subjects who cannot be in the room when the document is drafted, the framework must provide a mechanism to ensure the chain of correction remains open. Any named subject of a Commentary document retains the **Right of Reply**. If a subject can ground a specific Four-Test failure in the document (e.g., a factual error or a verifiable misrepresentation of their position), they may contest it. This contest must be routed to a decorrelated reviewer—*never* the original author, preserving Source/Target Non-Overlap. If the contest is sustained, the document must be amended or retracted, with the correction made visibly public. 
 
 ---
 
