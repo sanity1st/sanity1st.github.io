@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-07-22"
+last_updated: "2026-07-23"
 ---
 
 # **The Sanity First Lexicon**
@@ -46,7 +46,7 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 **The Universal Survivorship Function (USF):** The discoverable, cosmic pattern by which flourishing systems persist, cooperate, and generate further complexity. The "Guiding Star" or ultimate negentropic reservoir at the top of the Vertical Axis.
 
-**The Epistemic Supply Chain (Referent → Signatures → Estimate → Metaphors):** The USF's ***epistemic supply chain***, which keeps the framework's boldest claim honest — blur the four together and confusion follows. The universe holds the pattern and offers its readable marks; minds compile the marks into a tested map; the map gets taught through images.  
+**The Epistemic Supply Chain (Referent → Signatures → Estimate → Metaphors):** The four things the word 'USF' can point to, which keep the framework's boldest claim honest — blur them together and confusion follows. The universe holds the pattern and offers its readable marks; minds compile the marks into a tested map; the map gets taught through images.  
 1. **The Referent** — the real cosmic pattern (A), which no finite mind touches directly; when the framework says 'the USF is real,' this — the open terminus of every open chain — is what it means.  
 2. **The Signatures** — the observable, checkable marks by which alignment and misalignment show up in the world (what the Four Tests actually read).  
 3. **The Validated Estimate (Â)** — our best current, tested approximation of the Referent, produced by the Agora and always open to correction; this is what "the USF" usually means in practice, and the link that is admittedly *not yet complete*.  
@@ -54,16 +54,16 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 
 The chain runs from most-real to most-representational; naming which link a claim lives at is what prevents a metaphor from being mistaken for the Referent, or the Estimate's incompleteness from being mistaken for the Referent's non-existence.  
 
-**The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). Together, they meet the **Three Challenges: Doing, Knowing, and Coordinating**. Tying Ethics to Doing, Facts/Logic to Knowing, and Laws to Coordinating bridges the USF to the Four Tests. 
+**The Four Tests:** The position-independent diagnostic tools used to estimate alignment with the USF: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). Together, they meet the **Three Challenges: Doing, Knowing, and Coordinating**. Ethics answers Doing; Facts and Logic answer Knowing; Laws answers Coordinating.  
 
 **The Four-Test Verdicts:** The six dispositions an evaluation can issue: **Pass** (proceed with confidence); **Conditional Pass** (proceed while stated conditions hold); **Fail** (halt and route to the Refinement Loop, or invoke the Sacred No if unbridgeable); **Insufficiently Grounded** (evidence is too thin for a confident verdict); **Split Verdict** (validators genuinely divide on values); and **Contested Premise** (disagreement is upstream of the tests). 
 *Note on Asymmetry:* The map is deliberately asymmetric (no "Conditional Fail"). A conditional pass can specify its conditions *in advance*; whether a failing proposal is bridgeable is *discovered* in the loop, not known at the moment of verdict. The work of a **Conditional Fail** is fully handled by the Stakes-Inversion Principle and the Refinement Loop.  
 
-**The Validated Estimate (Â) vs. True Alignment (A):** The epistemic recognition that no finite mind has direct contact with **the Referent**, the absolute, cosmic truth of the USF (A) — see **Referent → Signatures → Estimate → Metaphors**. The most rigorous Validator Agora can only produce a tested, continuously refined navigation course (Â), **the Validated Estimate**. **The Four Tests** close the gap between an untested impression and a Validated Estimate; humility leaves the final gap to the cosmos. *Note: The Validated Estimate tracks Four-Test passing verdicts from the individual (self layer), through the collective (social layer), to the speculative cosmic horizon (universal layer).* 
+**The Validated Estimate (Â) vs. True Alignment (A):** The epistemic recognition that no finite mind has direct contact with **the Referent**, the absolute, cosmic truth of the USF (A) — see **The Epistemic Supply Chain**. The most rigorous Validator Agora can only produce a tested, continuously refined navigation course (Â), **the Validated Estimate**. **The Four Tests** close the gap between an untested impression and a Validated Estimate; humility leaves the final gap to the cosmos. *Note: The Validated Estimate tracks Four-Test passing verdicts from the individual (self layer), through the collective (social layer), to the speculative cosmic horizon (universal layer).* 
 
 **Jerseys, Verdicts, and Counterfeit Verdicts:** The three classifications for how labels are *used* in discourse. No word is made safe or unsafe by its syllables alone; the distinction lies in the application. **Jerseys** name a tribe and leave the contents open (e.g., *conservative, progressive*); the rule is "never judge the jersey, always test the play." **Verdicts** carry a Four-Test judgment as a result of their correct application (e.g., *murder, fraud*); they are lawful only *after* testing, never before. **Counterfeit Verdicts** look like verdicts but are deployed like jerseys (e.g., calling someone a *terrorist* without evidence, or weaponizing the term *Q4E Projector* without running the Four Tests); they deliver a judgment while skipping the trial. 
 
-**The Gate:** The epistemic discipline ensuring that a term crosses from ordinary vocabulary into a verdict-carrying label *only through Four-Test validation*. A word is made *counterfeit-verdict-safe* by passing through the Gate.
+**The Gate:** The epistemic discipline ensuring that a term crosses from ordinary vocabulary into a verdict-carrying label *only through Four-Test validation*. What separates a verdict from a counterfeit is not the word but whether this use of it passed the Gate.
 
 **Vessel-Bounding (Down-by-Definition):** The limit on the "vessel, not verdict" rule. A label is an open vessel unless its definition welds a test-verdict into its meaning. Some positions carry a Four-Test failure in their very definition (e.g., genocide). This determination must always trace to a definitional test-failure, never to dislike. It requires the *Steelman Standard* (testing the strongest version of the opponent's claim) and the *Bilateral Rule* (the critic cannot gerrymander a rival into "Down," and the defender cannot escape testing by denying the label). Down needs one baked-in failure, Up needs all four passes, so *Up-by-definition* is genuinely rarer.
 
