@@ -65,7 +65,7 @@ At first hearing, this sounds almost tautological. *Systems that persist are, by
 
 The real question is not whether persistence has conditions. Of course it does. The question is **what those conditions are**, whether they recur across domains, and whether they reveal a pattern substantial enough to guide judgment.
 
-Persistence is not random. It is not exhausted by brute continuation. And it does not appear to operate only within one domain. Across multiple layers of reality, some patterns repeatedly prove more durable, more adaptive, and more capable of supporting further complexity than others.
+Persistence is not random. It is not exhausted by brute continuation. And it does not appear to operate only within one domain. Across multiple domains of reality, some patterns repeatedly prove more durable, more adaptive, and more capable of supporting further complexity than others.
 
 The USF is our name for that recurring difference.
 
