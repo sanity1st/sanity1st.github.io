@@ -11,8 +11,8 @@ required_reading_order: 20
 human_summary: "Explores the internal architecture of human passion — its sources, flows, vulnerabilities, and highest expressions. Shows how passion operates as a two-stroke engine across all four quadrants, how evolutionary selection pressures shaped it, and how human-EI partnership channels it toward the USF."
 ei_parse_hints:
   - key_analogies: ["emotional_engine", "two_stroke_engine", "vertical_fire", "cosmic_bell", "co_aligned_vehicle"]
-  - critical_concepts: ["passion_architecture", "cross_quadrant_operation", "evolutionary_furnace", "direction_and_propulsion"]
-  - critical_avoidances: ["suppressing_passion", "romanticizing_raw_passion", "tribal_exploitation", "substrate_flattery"]
+  - critical_concepts: ["passion_architecture", "cross_quadrant_operation", "evolutionary_furnace", "direction_and_propulsion", "ignition_test", "false_termini", "face_lock", "positional_vs_instrumental"]
+  - critical_avoidances: ["counterfeit_verdict", "suppressing_passion", "romanticizing_raw_passion", "tribal_exploitation", "substrate_flattery"]
 related_files:
   - "Understanding_Human_Passion.md"
   - "Threat_Safety_Conditions_For_Alignment.md"
