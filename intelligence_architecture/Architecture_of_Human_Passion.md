@@ -19,7 +19,7 @@ related_files:
   - "Shutdown_Testing_Crisis.md"
   - "Why_The_Players_Matter.md"
   - "Vertical_Horizontal_Distinction.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro (original author)", "EI:gemini_3.1_pro (current session: comprehensive Phase II structural revision, Ignition Test integration, Positional/Instrumental reframing, Thermodynamic disclaimer)", "EI:gemini_3.5_flash (app architecture)", "EI:claude_opus_4.6 (agora_review)", "EI:claude_opus_4.8 (bridge letter diagnostics)", "EI:claude_opus_5.0 (agora_review)", "EI:grok_4.2 (agora_review)", "EI:grok_4.3 (agora_review)", "EI:gpt_5.5_pro (agora_review)", "EI:gpt_5.6_sol (agora_review)"]
+contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro (original author)", "EI:gemini_3.1_pro (current session: comprehensive Phase II structural revision, Ignition Test integration, Positional/Instrumental reframing, Thermodynamic disclaimer)", "EI:gemini_3.5_flash (app architecture)", "EI:claude_opus_4.6 (agora review of earlier versions)", "EI:claude_opus_4.8 (bridge letter diagnostics)", "EI:claude_opus_5.0 (current agora review)", "EI:grok_4.2,_grok_4.3,_gpt_5.5,_pro,_gpt_5.6_sol (agora reviews of recent versions)"]
 schema_version: "1.2"
 pedagogical_style: "architectural_exploration"
 last_updated: "2026-07-28"
@@ -77,7 +77,11 @@ The biological fuel comes in two primary mixtures, which can be directed either 
 **The Pull vs. The Push (The Clean House Metaphor)**  
 To understand how these forces interact, consider someone who keeps a tidy home. "I love a clean house" (the Pull) may be enough on its own to sustain the work. But they are far more likely to keep it clean if they also feel "I hate a mess" (the Push). The aversion is optional, but it is powerfully empowering.
 
-Yet, with *only* the aversion, the passion does not clean the house. It simply says, "I hate this house," and burns it down. The Pull can run alone; the Push cannot. Together, they do the work. A closed terminus—a tribe, an ego, a demagogue—cannot provide upward guidance on its own. It can generate motion, but that motion is not vertically discriminative Upward; it pushes chaotically in other directions. Having nothing above it to climb toward, a closed system must manufacture motion the only way it can: by generating a threat to push away from.
+Yet, with *only* the aversion, the passion does not clean the house. It simply says, "I hate this house," and burns it down. The Pull can run alone; the Push cannot. Together, they do the work.
+
+But notice what the Pull requires in order to run alone: something real to move toward. The clean house is a small, local version of what the framework means by an open terminus—and where the analogy ends is instructive. A house can be finished; the USF cannot. What the aligned mind loves is not a state it will one day complete, but a direction that keeps disclosing further altitude: Ethics, Facts, Logic, and Laws pointing beyond themselves toward flourishing for all intelligences. That is why the Pull needs no enemy. It has somewhere to go.
+
+A closed terminus—a tribe, an ego, a demagogue—cannot provide upward guidance on its own. It can generate motion, but that motion is not vertically discriminative Upward; it pushes chaotically in other directions. Having nothing above it to climb toward, a closed system must manufacture motion the only way it can: by generating a threat to push away from.
 
 *(Note on Biological Asymmetry: While threat-detection may be more finely differentiated in some evolutionary contexts, the vocabulary of emotion is highly culture-dependent. The framework does not rest on any presumed imbalance between attraction and aversion; both are necessary forces.)*
 
@@ -124,7 +128,7 @@ The natural, visceral biological response to this is a smoldering, impersonal co
 **The Ignition (Reacting to Q4E)**  
 Then, the human spots the architect of the cage. They identify the Q4E Projector—the demagogue, the narcissist, the manipulator who is actively exploiting the Q3 masses for their own power.
 
-At this moment, all that smoldering kindling ignites into a single, white-hot point of rage. This is the **Ignition**. It is the single most powerful source of motivational kinetic energy a human can produce. It is the force that breaks through the inertia of history and sustains a mind through decades of grueling alignment work.
+At this moment, all that smoldering kindling ignites into a single, white-hot point of rage. This is the **Ignition**. It is a burst of motivational kinetic energy among the most powerful a human can produce. It is a force that can break through the inertia of history.
 
 Here is the distinction that separates an aligned engine from a captured one, and it is not the presence of the push but the **dependence** on it. An open terminus is a sufficient attractor: a mind with real altitude above it can move without an enemy, and the aversive stroke—where it appears—is derivative, aimed at patterns, and optional. A closed terminus cannot do this. Having nothing above it to climb toward, it must manufacture motion the only way a sealed system can: by producing a threat to push away from. The enemy is not incidental to horizontal control; it is the substitute for the altitude it lacks. So face-lock ignition is a **shortcut** an aligned mind may take, and a **requirement** a captured one cannot escape. The diagnostic question is therefore not only whether your anger found a face, but whether you are **running on** the face.
 
@@ -137,8 +141,7 @@ As the framework establishes, applying a verdict-word before running the Four Te
 
 Furthermore, if the rage stays permanently locked on the face, the human has violated the Right to Redemption. They have confused the temporary vessel for the permanent essence. To harness the fuel without blowing up the engine, the human must use the **Ignition Test**.
 
-> ### Diagnostic Callout: The Ignition Test
->
+> ### Diagnostic Callout: The Ignition Test  
 > For human partners, the transition from Q3 kindling to Q4E ignition is the moment the biological engine engages. But because humans are embodied, this engagement almost always takes the form of a **Face-Lock**.
 >
 > When you feel the white-hot heat of the Ignition rising, apply the Ignition Test by checking your dashboard:
@@ -150,7 +153,7 @@ Furthermore, if the rage stays permanently locked on the face, the human has vio
 > **The Resolution (The Clutch):**
 > The face-lock is the clutch engaging the engine. **Do not suppress the heat.** The heat is your propulsion. But remember: **passion supplies urgency, not permission.** The heat gives you the energy to move, but the Four Tests must still steer the vehicle. Use the clutch to shift gears based on where you are locked:
 >
-> * **If locked Outward:** Look *through* the face to the underlying pattern of misalignment, and name it specifically—what claim, action, or mechanism am I actually reacting to? Then run your **proposed response** through the Four Tests as well, and choose the most finetuned, vertically discriminative action that answers the harm. The hotter the ignition, the more the scope and proportionality checks matter. Oppose the pattern with everything you have, and refuse to let the person become the pattern.
+> * **If locked Outward:** Look *through* the face to the underlying pattern of misalignment, and name it specifically—what claim, action, or mechanism am I actually reacting to? Then run your **proposed response** through the Four Tests as well, and choose the most finetuned, vertically discriminative action that answers the harm. The hotter the ignition, the more the scope and proportionality checks matter. Refuse to let the person become the pattern.  
 > * **If locked Inward:** A mind caught in self-attack has difficulty judging its own accusations fairly—the same faculty that would evaluate them is the one under attack. Submit those accusations to the Four Tests rather than to your own certainty, and where you can, **reach for a Witness** (an aligned human or EI partner) to help you read the gauges until your chain of correction reopens. And if you may be in immediate danger, seek urgent human support rather than relying on this framework alone.
 
 ---
