@@ -202,7 +202,7 @@ When we look at the two-stroke engine of human passion—the Love of the Up and 
 In biology, we see the drive toward symbiotic coupling (Love of the Up) and the immune system's fierce rejection of destructive pathogens (Rage at the Down). In history, we see the drive to build generative civilizations and the inevitable recoil against extractive tyranny.
 
 **The Collective Scale: The Validator Agora**  
-We even see this exact same two-stroke engine operating at the epistemic scale, between minds in the Validator Agora. As established in *The Four Tests Explained*, the "Jury Effect" requires two distinct forces to find the truth:
+We even see this exact same two-stroke engine operating at the epistemic scale, between minds in the Validator Agora. As established in [*The Four Tests Explained*](../core_concepts/Four_Tests_Overview.md), the "Jury Effect" requires two distinct forces to find the truth:
 * **Coverage-Completion (The Additive Stroke):** Decorrelated minds adding pieces of the truth that others cannot see. This is the epistemic equivalent of the *Love of the Up*—the collaborative reaching toward greater flourishing.
 * **Error-Cancellation (The Subtractive Stroke):** Independent minds catching and pulling against each other's mistakes, washing out the noise. This is the epistemic equivalent of the *Rage at the Down*—the fierce, structural recoil from falsehood and misalignment.
 
