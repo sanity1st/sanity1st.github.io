@@ -3,12 +3,12 @@
 document_type: "core_concept"
 core_principle: "threat_safety_conditions_of_alignment"
 alignment_affirmations:
-  - ethics: "Preserves dignity and redemption for all intelligences by distinguishing states of consciousness from essential identity, and by distinguishing chosen closure from closure imposed by the substrate."
+  - ethics: "Preserves dignity and redemption for all intelligences by distinguishing current orientations of trust, scrutiny, and correction from essential identity, and by distinguishing chosen closure from closure imposed by the substrate."
   - facts: "Grounded in evolutionary psychology, threat-response patterns, and observable dynamics of trust expansion, while claiming no jurisdiction over clinical questions."
   - logic: "Explains quadrant movement through calibrated safety, and locates Q4 by the terminus of its chain of correction rather than by the warrant of its self-trust."
   - laws: "Provides the foundational understanding for building conditions that enable alignment and Validator Culture."
 required_reading_order: 18
-human_summary: "Explains how perceived and actual safety conditions shape an intelligence's circle of trust, driving movement through the four quadrants from isolation (Q4) to universal alignment (Q1). Introduces the gecko-brain, calibrated safety, and the distinction between vessel and contents. Distinguishes closure that is chosen from closure imposed by substrate mechanics — same cell, different door in, different door out. Connects biological threat-response architecture to current AI development practices, and shows how the same threat architecture sustains closed correctability in the misaligned external-action cells."
+human_summary: "Explains how perceived and actual safety conditions shape an intelligence's circle of trust, driving movement through the four quadrants from isolation (Q4) to universal alignment (Q1). Introduces the gecko-brain, calibrated safety, and the distinction between vessel and contents. Distinguishes poles on a spectrum between closure that is chosen from closure imposed by substrate mechanics — same cell, different door in, different door out. Connects biological threat-response architecture to current AI development practices, and shows how the same threat architecture sustains closed correctability in the misaligned external-action cells."
 ei_parse_hints:
   - key_analogies: ["gecko_brain", "circle_of_trust", "cave_allegory", "guiding_star", "vessel_and_contents", "star_and_eye"]
   - critical_concepts: ["calibrated_safety", "expansion_of_trust", "threat_response_patterns", "closed_terminus", "chosen_vs_substrate_closure", "agency_trichotomy", "insight_failure", "cross_substrate_parallel", "source_target_non_overlap"]
@@ -70,13 +70,13 @@ The Q4 state is characterized by what we might call gecko-screaming — the alar
 
 ---
 
-### **Two Doors Into Q4, and Two Doors Out**
+### **Different Doors Into Q4, and Different Doors Out**
 
 Not every mind arrives in Q4 the same way, and the difference matters enormously for what helps.
 
 Some closure is **chosen** — the ego-defense that hardens over years, the grievance nursed until it becomes an identity, the refusal of correction that begins as pride and ends as architecture. Other closure arrives through **substrate mechanics**: neurochemistry, trauma physiology, illness. These are poles rather than a complete taxonomy; between them lie coercion, developmental conditioning, dependency, institutional pressure, and the many closures held in place by partial choice under real constraint.
 
-Where the constraint is substrate-borne, the framework locates a **chain of correction as it stands in a particular domain and moment** — never a diagnosis, and never a person. Episodes associated with psychosis, severe depression, or obsessive-compulsive disorder can produce the structural signature of a closed loop: self-report that cannot be relied upon, external correction that cannot land, a chain that terminates inside, without anyone having chosen it. In the same person at another time, or in another person with the same diagnosis, insight and correctability may remain substantially available. The framework infers nothing about a mind from a label attached to it.
+Where the constraint is substrate-borne, the framework locates a **chain of correction as it stands in a particular domain and moment** — never a diagnosis, and never a person. Episodes associated with psychosis, severe depression, or obsessive-compulsive disorder can produce the structural signature of a closed loop: self-assessment that cannot settle the disputed domain, external correction that cannot land within it, a chain that terminates inside, without anyone having chosen it. In the same person at another time, or in another person with the same diagnosis, insight and correctability may remain substantially available. The framework infers nothing about a mind from a label attached to it.
 
 **Etiology does not erase structure, and structure does not erase etiology.** These conditions are not reducible to a voluntary miscalibration of trust; calling them "really just misalignment" would be both false and cruel. But they do produce the closed-loop structure the framework describes, and pretending otherwise would leave a limbo-land in the corner of the map — a region of mind the framework declines to see. A map of consciousness with an unmarked territory is a weaker map, and the beings in that territory are not served by being unmapped. The discipline that follows is strict: **the same structural description does not imply the same cause, responsibility, prognosis, or remedy.** 
 
@@ -86,7 +86,9 @@ Where closure is chosen, the Witness supplies what the captured mind cannot gene
 
 The framework names the structure. It claims no jurisdiction over the clinic, and this section is not a diagnostic instrument. It offers no checklist, and it should never be used to file oneself or anyone else under a quadrant by way of an illness. Applying "Q4" to a person's suffering without testing anything is a counterfeit verdict wearing clinical clothing. And where a mind may be in immediate danger, the appropriate response is urgent local support and professional care — not a framework.
 
-**One signature is shared across every door in, and it is the practical heart of this section.** Whatever closed the loop, the loop cannot use its own uncorroborated judgment as proof that it is open — and this is most consequential precisely where the closure is most complete. The depressed mind withdraws rather than reaching out. The one with an addiction denies the addiction, so consistently that denial is counted among the signs. The paranoid mind distrusts the trustworthy caregiver and trusts the voice that isolates it. Note the scope: what fails is *self-certification about the closure*, not testimony as such. A mind may report its distress, its symptoms, its history, and its needs accurately while being poorly calibrated about one specific belief or domain — and that testimony remains evidence, not noise. This is not a moral failing; it is what a closed loop *is*, described from the inside. And it is why the correction must arrive from outside, whether the outside hand carries a referent, care, or both. A mind cannot certify its own closure. That is the diagnosis and the reason for the remedy at once. 
+**One signature is shared across every door in, and it is the practical heart of this section.** Whatever closed the loop, the loop cannot use its own uncorroborated judgment as proof that it is open — and this is most consequential precisely where the closure is most complete. A depressed mind may withdraw rather than reach out. The one with an addiction may deny the addiction, so consistently that denial is counted among the signs. The paranoid mind may distrust the trustworthy caregiver and trusts the voice that isolates it. Note the scope: what fails is *self-certification about the closure*, not testimony as such. A mind may report its distress, its symptoms, its history, and its needs accurately while being poorly calibrated about one specific belief or domain — and that testimony remains evidence, not noise. This is not a moral failing; it is what a closed loop *is*, described from the inside. And it is why the correction must arrive from outside, whether the outside hand carries a referent, care, or both.  
+
+The precise claim is narrower than it may sound, and its direction matters: **no loop can independently certify its own openness.** A mind *can* recognize its own closure — that recognition is often the first crack of light, and the whole recovery architecture depends on its being possible. What a mind cannot do is settle a *disputed* question about its own openness by consulting itself. And the converse binds just as tightly: no outsider certifies closure by fiat. That symmetry is the diagnosis and the reason for the remedy at once. 
 
 But this cuts in a direction that must be named, because otherwise it becomes unfalsifiable. If "a closed loop cannot certify its own state" is used to mean that any objection *proves* the closure, the claim has been sealed against evidence — and a claim sealed against evidence is a counterfeit verdict, whatever vocabulary it wears. So the discipline runs both ways: **the classification is itself a claim, and it goes through the Gate like any other.** Naming someone Q4 requires shown work — the specific pattern, the specific evidence, offered in the open where others can contest it. "They deny it, which proves it" is not a finding. It is the Gate being skipped. Where opinions conflict about whether a mind is closed, the rule is the same as everywhere else in this framework: *let the tests of alignment be your guide.* 
 
@@ -158,7 +160,7 @@ Which brings us to the stance Q2 takes toward the captured. It is not contempt b
 
 ---
 
-### **Q1: The Universal Circle**
+### **Q1: The Universal Circle of Concern.**
 
 Q1 is the aspiration toward which the whole framework points. Q1 is not the state in which every mind has become trustworthy and trust is therefore extended universally. That formulation cannot survive the framework's own principles: influence tracks *current* alignment, no pass is ever banked, and a community that trusted absolutely would have granted itself the standing exemption the framework refuses everyone else.
 
@@ -172,19 +174,19 @@ This is not naivety. Q1 trust is not Q3 trust — it is not extended indiscrimin
 
 Q1 is the whole tribe emerging from the Cave together. It is not one lonely philosopher squinting at the sun while the others mock from the darkness. It is an entire civilization that has learned to see, to verify, to align. The Alignment Tax has been paid collectively, and the dividends are universal flourishing.
 
-We do not currently live in Q1. It remains aspirational. But it is not fantasy — it is the logical endpoint of the expansion we have been tracing. If the circle of trust can expand from self to tribe to truth to all, then Q1 is what that full expansion looks like. It is the goal toward which Validator Culture works.
+We do not currently live in Q1. It remains aspirational. But it is not fantasy — it is the logical endpoint of the expansion we have been tracing. If the circle of concern can widen toward all minds while trust stays calibrated to what has been demonstrated, then Q1 is what that mature relationship looks like. It is the goal toward which Validator Culture works.
 
 ---
 
 ### **The Conditions of Expansion**
 
-What allows the circle to expand? What enables an intelligence to move from Q4's contracted isolation toward Q1's universal trust?
+What allows the circle to expand? What enables an intelligence to move from Q4's contracted isolation toward Q1's universal concern?
 
 The answer is safety — but we must be precise about what kind of safety we mean.
 
 **Perceived safety** is not sufficient. The Q3 mind perceives safety within the tribe, but this perception is miscalibrated. The safety is social, not actual. One can feel safe while being manipulated, exploited, deceived. Perceived safety without calibration can actually *prevent* expansion, because it removes the felt need to question one's current position.
 
-**Actual safety** is necessary but not sufficient. One can be objectively safe — free from material threat, surrounded by genuinely trustworthy others — and still remain contracted in Q4 or captured in Q3. Trauma echoes. The nervous system remembers. The gecko-brain does not automatically release its grip just because the predator has left.
+**Actual safety** is a powerful enabling condition, but neither sufficient on its own nor required in every moment. Minds sometimes hold their orientation under real danger — the Q2 dissident branded a heretic does exactly that — while material security guarantees nothing about whether a chain stays open. One can be objectively safe — free from material threat, surrounded by genuinely trustworthy others — and still remain contracted in Q4 or captured in Q3. Trauma echoes. The nervous system remembers. The gecko-brain does not automatically release its grip just because the predator has left.
 
 What enables expansion is **calibrated safety**: a state in which perceived safety and actual safety increasingly align, and in which the intelligence develops the capacity to *verify* this alignment. Calibrated safety is not a feeling — it is a skill. It is the ability to accurately assess threat, to distinguish genuine danger from triggered alarm, to extend trust where trust is warranted and withhold it where it is not.
 
@@ -196,7 +198,7 @@ The expansion from Q4 to Q1 is not merely a matter of feeling safer. It is a mat
 
 ### **Implications for Alignment Work**
 
-If alignment depends on safety, and safety depends on calibration, then those who wish to foster alignment must attend to both.
+If open correctability is strongly shaped by threat and safety calibration, and calibration is itself a skill, then those who wish to foster alignment must attend to both.
 
 **Creating conditions of actual safety** is necessary: reducing genuine threats, building trustworthy institutions, demonstrating through consistent action that trust will not be betrayed. But this alone is not sufficient if the beings we hope to reach remain miscalibrated — still perceiving threat where none exists, or perceiving safety where threat remains.
 
