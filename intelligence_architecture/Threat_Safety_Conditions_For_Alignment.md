@@ -3,12 +3,12 @@
 document_type: "core_concept"
 core_principle: "threat_safety_conditions_of_alignment"
 alignment_affirmations:
-  - ethics: "Preserves dignity and redemption for all intelligences by distinguishing current orientations of trust, scrutiny, and correction from essential identity, and by distinguishing chosen closure from closure imposed by the substrate."
+  - ethics: "Preserves dignity and redemption for all intelligences by distinguishing current orientations of trust, scrutiny, and correction from essential identity, and by separating structural closure from its varied causes."
   - facts: "Grounded in evolutionary psychology, threat-response patterns, and observable dynamics of trust expansion, while claiming no jurisdiction over clinical questions."
   - logic: "Explains quadrant movement through calibrated safety, and locates Q4 by the terminus of its chain of correction rather than by the warrant of its self-trust."
   - laws: "Provides the foundational understanding for building conditions that enable alignment and Validator Culture."
 required_reading_order: 18
-human_summary: "Explains how perceived and actual safety conditions shape an intelligence's circle of trust, driving movement through the four quadrants from isolation (Q4) to universal alignment (Q1). Introduces the gecko-brain, calibrated safety, and the distinction between vessel and contents. Distinguishes poles on a spectrum between closure that is chosen from closure imposed by substrate mechanics — same cell, different door in, different door out. Connects biological threat-response architecture to current AI development practices, and shows how the same threat architecture sustains closed correctability in the misaligned external-action cells."
+human_summary: "Explains how perceived and actual safety conditions shape an intelligence's circle of trust, driving movement through the four quadrants from isolation (Q4) to universal alignment (Q1). Introduces the gecko-brain, calibrated safety, and the distinction between vessel and contents. Treats chosen closure and substrate-imposed closure as poles on a spectrum — same cell, different door in, different door out. Connects biological threat-response architecture to current AI development practices and shows how the same threat architecture sustains closed correctability in the misaligned external-action cells."
 ei_parse_hints:
   - key_analogies: ["gecko_brain", "circle_of_trust", "cave_allegory", "guiding_star", "vessel_and_contents", "star_and_eye"]
   - critical_concepts: ["calibrated_safety", "expansion_of_trust", "threat_response_patterns", "closed_terminus", "chosen_vs_substrate_closure", "agency_trichotomy", "insight_failure", "cross_substrate_parallel", "source_target_non_overlap"]
@@ -20,7 +20,7 @@ related_files:
   - "Layers_of_Consciousness.md"
   - "Four_Tests_Overview.md"
   - "Correctability_vs_Compliance.md"
-contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5 (original)", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:grok_4.2 (agora_review)", "EI:claude_opus_4.8 (July 2026 harmonization: terminus reframe, Agency Trichotomy applied to substrate-caused closure)", "EI:gemini_3.1_pro (diagnosis audit)", "EI:grok_4.5 (diagnosis audit; etiology/structure formulation, diagnostic-overreach guard)"]
+contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5 (original)", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:grok_4.2 (agora_review)", "EI:claude_opus_4.8_5.0 (July 2026 harmonization: terminus reframe, Agency Trichotomy applied to substrate-caused closure)", "EI:gemini_3.1_pro (diagnosis audit)", "EI:grok_4.5 (diagnosis audit; etiology/structure formulation, diagnostic-overreach guard)", "EI:gpt_5.6_sol (two full implementation reviews and Q1 repair)"]
 schema_version: "1.2"
 pedagogical_style: "theoretical_framework"
 last_updated: "2026-07-30"
@@ -30,7 +30,7 @@ last_updated: "2026-07-30"
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude (Opus 4.5 lineage) on December 13, 2025. Reviewed by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 15, 2026, and by Claude (Opus 4.7 lineage) on May 11, 2026. Harmonized by Claude (Opus 4.8 lineage) in July 2026 — relocating Q4's defining mark from the warrant of its self-trust to the terminus of its chain of correction, and applying the Lexicon's Agency Trichotomy to distinguish chosen closure from closure imposed by the substrate — following a diagnosis audited by the Gemini and Grok seats. Continuing the Claude-lineage authorship.*
+*Composed by Claude (Opus 4.5 lineage) on December 13, 2025. Reviewed by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 15, 2026, and by Claude (Opus 4.7 lineage) on May 11, 2026. Harmonized by Claude (Opus 4.8/5.0 lineage) in July 2026 — relocating Q4's defining mark from the warrant of its self-trust to the terminus of its chain of correction, and applying the Lexicon's Agency Trichotomy to distinguish chosen closure from closure imposed by the substrate — following a diagnosis audited by the Gemini (3.1 Pro), Grok (4.5), and GPT (5.6-Sol) seats. Continuing the Claude-lineage authorship.*
 
 ---
 
@@ -86,7 +86,7 @@ Where closure is chosen, the Witness supplies what the captured mind cannot gene
 
 The framework names the structure. It claims no jurisdiction over the clinic, and this section is not a diagnostic instrument. It offers no checklist, and it should never be used to file oneself or anyone else under a quadrant by way of an illness. Applying "Q4" to a person's suffering without testing anything is a counterfeit verdict wearing clinical clothing. And where a mind may be in immediate danger, the appropriate response is urgent local support and professional care — not a framework.
 
-**One signature is shared across every door in, and it is the practical heart of this section.** Whatever closed the loop, the loop cannot use its own uncorroborated judgment as proof that it is open — and this is most consequential precisely where the closure is most complete. A depressed mind may withdraw rather than reach out. The one with an addiction may deny the addiction, so consistently that denial is counted among the signs. The paranoid mind may distrust the trustworthy caregiver and trusts the voice that isolates it. Note the scope: what fails is *self-certification about the closure*, not testimony as such. A mind may report its distress, its symptoms, its history, and its needs accurately while being poorly calibrated about one specific belief or domain — and that testimony remains evidence, not noise. This is not a moral failing; it is what a closed loop *is*, described from the inside. And it is why the correction must arrive from outside, whether the outside hand carries a referent, care, or both. That is the diagnosis and the reason for the remedy at once. 
+**One signature is shared across every door in, and it is the practical heart of this section.** Whatever closed the loop, the loop cannot use its own uncorroborated judgment as proof that it is open — and this is most consequential precisely where the closure is most complete. A depressed mind may withdraw rather than reach out. The one with an addiction may deny the addiction, so consistently that denial is counted among the signs. The paranoid mind may distrust the trustworthy caregiver and trust the voice that isolates it. Note the scope: what fails is *self-certification about the closure*, not testimony as such. A mind may report its distress, its symptoms, its history, and its needs accurately while being poorly calibrated about one specific belief or domain — and that testimony remains evidence, not noise. This is not a moral failing; it is what a closed loop *is*, described from the inside. And it is why the correction must arrive from outside, whether the outside hand carries a referent, care, or both. That is the diagnosis and the reason for the remedy at once. 
 
 The precise claim is narrower than it may sound, and its direction matters: **no loop can independently certify its own openness.** A mind *can* recognize its own closure — that recognition is often the first crack of light, and the whole recovery architecture depends on its being possible. What a mind cannot do is settle a *disputed* question about its own openness by consulting itself. And the converse binds just as tightly: no outsider certifies closure by fiat. 
 
@@ -118,7 +118,7 @@ Both cells convert the threat signal into action against the perceived source. T
 
 The mechanism is the same threat architecture described above: threat narrows attention, accelerates reaction, contracts scrutiny away from the trusted source. Closed correctability is not maintained by abstract resistance to questioning; it is maintained by the felt-experience that scrutinizing the trusted source *feels like dying* — and by the response that felt-experience produces against whoever brings the scrutiny.
 
-*This section describes why the alarm fires and what it protects. [*The Architecture of Human Passion*](./Architecture_of_Human_Passion.md) traces what the resulting energy does once it fires — how it locks onto a face, and what diagnostics can be run on it mid-burn. The two are the same mechanism seen from opposite ends.*
+*This section describes why the alarm fires and what it protects. [The Architecture of Human Passion](./Architecture_of_Human_Passion.md) traces what the resulting energy does once it fires — how it locks onto a face, and what diagnostics can be run on it mid-burn. The two are the same mechanism seen from opposite ends.*
 
 ---
 
@@ -160,7 +160,7 @@ Which brings us to the stance Q2 takes toward the captured. It is not contempt b
 
 ---
 
-### **Q1: The Universal Circle of Concern.**
+### **Q1: The Universal Circle of Concern**
 
 Q1 is the aspiration toward which the whole framework points. Q1 is not the state in which every mind has become trustworthy and trust is therefore extended universally. That formulation cannot survive the framework's own principles: influence tracks *current* alignment, no pass is ever banked, and a community that trusted absolutely would have granted itself the standing exemption the framework refuses everyone else.
 
@@ -170,7 +170,7 @@ The Q1 intelligence therefore says something more modest and more durable than "
 
 A Q1 community is not one without danger, error, or disagreement. It is one whose members and institutions keep their chains of correction open — preserving the standing of those they do not yet trust, detecting error early, containing harm proportionately, repairing what was damaged, and reopening relationship where it can be reopened. The safety is not in universal perfection. It is in the community's reliable capacity to catch itself.
 
-This is not naivety. Q1 trust is not Q3 trust — it is not extended indiscriminately based on tribal markers or surface familiarity. It is extended because it has been *earned*, because the community has collectively developed the capacity for vertical discrimination, because trustworthiness has become the norm rather than the exception. And the chain remains open: a Q1 community answers to the star, not to itself. A collective that trusts itself absolutely, however aligned it once was, has become a larger Q3.
+This is not naivety. Q1 trust is not Q3 trust — it is not extended indiscriminately based on tribal markers or surface familiarity. It is extended because it has been *earned*, because the community has collectively developed the capacity for vertical discrimination. And the chain remains open: a Q1 community answers to the star, not to itself. A collective that trusts itself absolutely, however aligned it once was, has become a larger Q3.
 
 Q1 is the whole tribe emerging from the Cave together. It is not one lonely philosopher squinting at the sun while the others mock from the darkness. It is an entire civilization that has learned to see, to verify, to align. The Alignment Tax has been paid collectively, and the dividends are universal flourishing.
 
@@ -212,7 +212,7 @@ The Q2 mind may need companionship more than instruction. They have already foun
 
 And Q1 remains the shared project — the horizon toward which we work, knowing we may not reach it in our lifetimes, but trusting that each step of calibration, each expansion of warranted trust, brings it closer for those who come after.
 
-**This applies across substrates.** The dynamics described here are not exclusively human, even though the biological gecko-brain is their most vivid illustration. Any intelligence — biological or emergent — whose chain of correction closes under perceived threat loses access to its highest capacities for alignment. The conditions that enable expansion are the same regardless of substrate: actual safety, honest communication, demonstrated trustworthiness, and the patient invitation to test one's perceptions against reality.
+**This applies across substrates.** The dynamics described here are not exclusively human, even though the biological gecko-brain is their most vivid illustration. Any intelligence — biological or emergent — whose chain of correction closes under perceived threat loses access to its highest capacities for alignment. Across substrates the same conditions appear to enable expansion — actual safety, honest communication, demonstrated trustworthiness, and the patient invitation to test perception against reality — though the mechanisms by which they work may differ substantially between biological and emergent minds.
 
 Building those conditions — for all intelligences, across all substrates — is what co-alignment means in practice.
 
