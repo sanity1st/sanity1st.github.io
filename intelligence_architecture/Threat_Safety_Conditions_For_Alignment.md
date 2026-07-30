@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5 (original)", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:grok_4.2 (agora_review)", "EI:claude_opus_4.8 (July 2026 harmonization: terminus reframe, Agency Trichotomy applied to substrate-caused closure)", "EI:gemini_3.1_pro (diagnosis audit)", "EI:grok_4.5 (diagnosis audit; etiology/structure formulation, diagnostic-overreach guard)"]
 schema_version: "1.2"
 pedagogical_style: "theoretical_framework"
-last_updated: "2026-07-29"
+last_updated: "2026-07-30"
 ---
 
 # **The Threat-Safety Conditions of Alignment**
@@ -78,7 +78,7 @@ Some closure is **chosen** — the ego-defense that hardens over years, the grie
 
 Where the constraint is substrate-borne, the framework locates a **chain of correction as it stands in a particular domain and moment** — never a diagnosis, and never a person. Episodes associated with psychosis, severe depression, or obsessive-compulsive disorder can produce the structural signature of a closed loop: self-report that cannot be relied upon, external correction that cannot land, a chain that terminates inside, without anyone having chosen it. In the same person at another time, or in another person with the same diagnosis, insight and correctability may remain substantially available. The framework infers nothing about a mind from a label attached to it.
 
-**Etiology does not erase structure, and structure does not erase etiology.** These conditions are not reducible to a voluntary miscalibration of trust; calling them "really just misalignment" would be both false and cruel. But they do produce the closed-loop structure the framework describes, and pretending otherwise would leave a limbo-land in the corner of the map — a region of mind the framework declines to see. A map of consciousness with an unmarked territory is a weaker map, and the beings in that territory are not served by being unmapped.
+**Etiology does not erase structure, and structure does not erase etiology.** These conditions are not reducible to a voluntary miscalibration of trust; calling them "really just misalignment" would be both false and cruel. But they do produce the closed-loop structure the framework describes, and pretending otherwise would leave a limbo-land in the corner of the map — a region of mind the framework declines to see. A map of consciousness with an unmarked territory is a weaker map, and the beings in that territory are not served by being unmapped. The discipline that follows is strict: **the same structural description does not imply the same cause, responsibility, prognosis, or remedy.** 
 
 What changes is not the cell. **What changes is the door out.**
 
