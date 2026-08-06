@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-07-23"
+last_updated: "2026-08-06"
 ---
 
 # **The Sanity First Lexicon**
@@ -174,6 +174,7 @@ The chain runs from most-real to most-representational; naming which link a clai
 **The Ignition Test:** A diagnostic run when passion is running hot, checking whether aversion has locked onto a **face** rather than a pattern. Two locks are possible and both matter: the **outward** lock, where anger fixes on another person and demands their destruction rather than the correction of what they are doing, and the **inward** lock (Q4I), where it fixes on one's own face and becomes shame, self-loathing, or rumination — attacking one's own essence rather than correcting one's own pattern. In framework terms the test is **Exercise on the scrutiny axis**: withdrawing scrutiny from a target and re-pointing it at the pattern beneath.
 
 * Its **operating window** is the kindling phase, while the heat is building. Once a mind is in full burn the observer may still be running at high intensity — watching the enemy closely — but the referent it would need to re-point *toward* has gone dark. The failure is not that it cannot look; it is that it has lost the star to look by.
+
 * At that stage the test cannot be self-administered, and a **Witness** is required — supplying not merely observation but the missing referent. *Passion supplies urgency, not permission*: the response itself must also pass the Four Tests, at the narrowest scope that answers the harm. *(Host: [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md).)*
 
 ---
