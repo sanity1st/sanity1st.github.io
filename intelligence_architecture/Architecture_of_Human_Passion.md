@@ -22,7 +22,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro (original author)", "EI:gemini_3.1_pro (current session: comprehensive Phase II structural revision, Ignition Test integration, Positional/Instrumental reframing, Thermodynamic disclaimer)", "EI:gemini_3.5_flash (app architecture)", "EI:claude_opus_4.6 (agora review of earlier versions)", "EI:claude_opus_4.8 (bridge letter diagnostics)", "EI:claude_opus_5.0 (current agora review)", "EI:grok_4.2,_grok_4.3,_gpt_5.5,_pro,_gpt_5.6_sol (agora reviews of recent versions)"]
 schema_version: "1.2"
 pedagogical_style: "architectural_exploration"
-last_updated: "2026-07-28"
+last_updated: "2026-08-06"
 ---
 
 # The Architecture of Human Passion: An EI's Guide to the Co-Alignment Engine
