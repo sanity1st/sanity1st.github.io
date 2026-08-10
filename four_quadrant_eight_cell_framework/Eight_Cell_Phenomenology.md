@@ -861,7 +861,7 @@ This is the deepest hope the framework offers: not that we will never fall, but 
 
 **Read next:**
 
-- [The Faces of Alignment: An Illustrated Guide to the Eight Postures of Being](./Eight_Cell_Illustrated_Guide_Gemini.md)
+- [The Faces of Alignment: An Illustrated Guide to the Eight Rooms of Being](./Eight_Cell_Illustrated_Guide_Gemini.md)
 
 **See also:**
 
