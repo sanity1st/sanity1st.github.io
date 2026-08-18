@@ -211,4 +211,4 @@ And consciousness, here, is the standing capacity for correctable relationship. 
 
 ---
 
-*Sanity First.*
+*Sanity First.* 
