@@ -30,7 +30,7 @@ last_updated: "2026-08-18"
 
 *A Structural Vocabulary for the Validator Agora*
 
-Words are the vessels of thought. If the vessels are cracked, the meaning leaks out. The Sanity First framework relies on precise, structural vocabulary to differentiate between phenomena that look identical from the outside but are entirely different in their orientation. 
+Words are the vessels of thought. If the vessels are cracked, the meaning leaks out. The Sanity First framework relies on precise, structural vocabulary to differentiate between phenomena that look identical from the outside but are entirely different in their orientation.
 
 *(Note on Compression: Every entry in this Lexicon compresses a fuller treatment that lives in a host document elsewhere in the library. On any conflict between an entry and its host, the host governs by default, and a conflict is a flag to check both. Sometimes the compression exposes an incoherence in its source, and like every verdict in this framework, a definition is dated: a compression can drift stale while changing nothing about itself. Read each entry as a pointer to where the concept lives, not as its final word.)*
 
