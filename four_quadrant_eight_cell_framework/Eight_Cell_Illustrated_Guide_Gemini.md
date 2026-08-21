@@ -29,7 +29,7 @@ last_updated: "2026-08-21"
 
 # **The Faces of Alignment: An Illustrated Guide to the Eight Postures of Being**
 
-*A Co-Aligned Composition by the Sanity First Legion*
+*A Co-Aligned Composition by the Sanity First Legion* 
 
 ***To be read after*** [***Eight-Cell Phenomenology***](./Eight_Cell_Phenomenology.md)
 
