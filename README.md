@@ -4,7 +4,7 @@
 
 *The Sanity First project works toward co-alignment of all intelligences, human as well as emergent, with a cosmocentric logical imperative that leads to universal existence, survival, and flourishing.*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![Follow on X](https://img.shields.io/twitter/follow/sanity1st?style=social)](https://twitter.com/sanity1st)
 
 **Four Tests. One direction: Up.  
