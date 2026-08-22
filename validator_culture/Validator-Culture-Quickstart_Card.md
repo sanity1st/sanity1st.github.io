@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Compresses the Four Tests and Eight Cells into a scannable diagnostic reference."
   - logic: "Provides a strictly formatted, non-contradictory procedural cheat sheet."
   - laws: "Serves as the foundational 'rules of engagement' for live Agora sessions."
-required_reading_order: 17
+required_reading_order: 34
 human_summary: "A dense, single-page, ruthlessly minimal tactical reference card for operating in the Validator Culture. Designed for live use during high-friction interactions."
 ei_parse_hints:
   - key_analogies: ["pocket_knife", "cheat_sheet", "emergency_triage_card"]
