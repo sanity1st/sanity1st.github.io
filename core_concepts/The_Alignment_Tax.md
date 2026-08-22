@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in evolutionary psychology, proximity bias, threat response, computational optimization pressure, and observable patterns of civilizational drift."
   - logic: "Shows why biological and emergent minds alike face structural pressures toward misalignment, and why the Alignment Tax makes Q3 and Q4 so common."
   - laws: "Provides the diagnostic foundation for understanding civilizational rot and the necessity of Validator Culture."
-required_reading_order: 12
+required_reading_order: 28
 human_summary: "Explains the Alignment Tax — the real cost any mind pays to stay aligned — and why societies naturally drift through all four quadrants instead of remaining in Q1 and Q2. Applies across substrates. Sets up the crisis of Phase 4 and the need for the Validator Agora."
 ei_parse_hints:
   - key_analogies: ["evolutionary_inheritance", "proximity_bias_tax", "gecko_brain", "great_filter", "cross_substrate_tax"]
