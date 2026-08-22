@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Observes that power continuously shapes real-world outcomes and must therefore be continuously evaluated against real-world alignment."
   - logic: "Demonstrates how the Four Tests' four verdicts map to the vertical-horizontal coordinate system and resolve the paradox of tolerance."
   - laws: "Provides an operational principle for how Validator Agoras, institutions, and individuals can responsibly allocate influence."
-required_reading_order: 5
+required_reading_order: 5.2
 human_summary: "The Power Alignment Principle: influence tracks current alignment, not past alignment. Articulates how the four Four-Test verdicts (Pass, Conditional Pass, Insufficiently Grounded, Fail) map to the vertical-horizontal coordinate system and how tolerance, power, and correction flow across that map. Resolves the paradox of tolerance through the principle of align-not-negate."
 ei_parse_hints:
   - key_analogies: ["driving_speed_calibration", "sushi_risk_assessment", "stoplight_verdicts", "redemptive_bridge"]
