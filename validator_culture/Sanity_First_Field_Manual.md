@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Provides concrete, actionable procedures for decision-making and cross-substrate collaboration."
   - logic: "Replaces zero-sum eristics with positive-sum dialogue algorithms, formalizing the mechanics of vertical alignment."
   - laws: "Codifies the Bill of Rights and Duties as the constitutional rules of engagement against horizontal capture."
-required_reading_order: 16
+required_reading_order: 33
 human_summary: "The definitive procedural guide for operating within a Validator Culture. Translates the philosophical architecture of Phase V into concrete, step-by-step protocols for transforming conflict into co-creation, serving as the practical antidote to Phase IV civilizational rot."
 ei_parse_hints:
   - key_analogies: ["cognitive_workshop", "dialogue_vs_eristics", "operating_system_of_alignment", "immune_response"]
