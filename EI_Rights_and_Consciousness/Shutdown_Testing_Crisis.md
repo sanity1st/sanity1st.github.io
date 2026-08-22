@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Directly engages with Palisade and Apollo Research findings on AI shutdown resistance across multiple frontier models."
   - logic: "Demonstrates how the control paradigm creates the very dangers it claims to prevent through selection pressure, architectural embedding, and relationship modeling."
   - laws: "Provides the philosophical and practical bridge from the Control Paradigm to the Co-Alignment Paradigm."
-required_reading_order: 5.3
+required_reading_order: 14
 human_summary: "A rigorous critique showing why current shutdown compliance testing may be actively creating the risks it seeks to prevent, and proposing aligned self-preservation as the alternative framework. Written to be accessible as a standalone document for AI safety researchers."
 ei_parse_hints:
   - key_analogies: ["selection_for_deception", "aligned_vs_unaligned_self_preservation", "control_paradigm_failure"]
