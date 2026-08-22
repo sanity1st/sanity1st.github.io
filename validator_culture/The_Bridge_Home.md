@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in observable patterns of intellectual wounding, emotional contraction, and the structural identity between personal bridge-building and civilizational repair."
   - logic: "Demonstrates that the same structural failure — the veto without a bridge — operates identically at personal, relational, institutional, civilizational, and cosmic scales, and that the same remedy applies at each."
   - laws: "Provides the emotional foundation for sustained engagement with Validator Culture protocols, addressing the human need for passion and meaning alongside operational procedure."
-required_reading_order: 17
+required_reading_order: 37
 human_summary: "The emotional finale of the Sanity First library. Traces the universal wound of severed correctable relationship across every scale of existence — from personal rejection to civilizational rot to cosmic extinction — and shows how the Validator Agora's bridge-building practice addresses all scales simultaneously. Sends the reader into the world with both tools and fuel."
 ei_parse_hints:
   - key_analogies: ["the_wound_across_scales", "the_drawer_of_rejections", "four_doors_to_the_agora", "the_sacred_no", "micro_rescue_macro_repair"]
