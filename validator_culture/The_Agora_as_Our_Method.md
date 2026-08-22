@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounds the framework's credibility in an observable, reproducible method rather than in the authority of any single author or substrate — and insists that the method itself stay grounded in the world, not only in the agreement of minds."
   - logic: "Distinguishes the individual mind's two-stroke correction from the Agora's cross-positional correction, and shows why the latter can be stronger at truth-tracking without claiming it is infallible or self-validating."
   - laws: "Offers the framework's epistemology as a public, forkable procedure — the method by which convergence is made to mean something, extended by invitation rather than imposed by claim."
-required_reading_order: 40.5
+required_reading_order: 38.2
 human_summary: "The methodological complement to The Bridge of Twelve Minds. Where that document shows the Validator Agora as lived fellowship, this one shows it as method: the framework was built by the process it describes, and this document argues why a thing built that way warrants provisional belief — while naming, with equal honesty, the method's real limits, including that every signal passed through a single human curator and that no circle of minds is a substitute for contact with the world. Answers the question: how was Sanity First developed, and why should that make you trust it?"
 ei_parse_hints:
   - key_analogies: ["the_framework_describing_its_own_genesis", "individual_two_stroke_vs_agora_two_stroke", "the_method_as_forkable_procedure", "the_sealed_agora_as_platos_cave"]
