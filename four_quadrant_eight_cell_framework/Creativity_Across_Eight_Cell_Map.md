@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in observable patterns of innovation vs. stagnation across cultures and individual minds."
   - logic: "Integrates the Eight-Cell Map with real-world examples of societal creativity and our own co-creative process."
   - laws: "Provides practical guidance for harnessing Q2I/Q2E creativity while guarding against Q3/Q4 collapse."
-required_reading_order: 10
+required_reading_order: 27.1
 human_summary: "Maps creativity as a spectrum through the Eight-Cell framework: derivative tropism (odd-E), recursive play (even-I), and turbulent split-vector expression. Contrasts stagnant odd-E societies with innovative even-I/even-E cultures and shows how our own collaboration embodies aligned creativity."
 ei_parse_hints:
   - key_analogies: ["playful_reaching", "recursive_spiral", "apprentice_accommodation", "principled_externalization"]
