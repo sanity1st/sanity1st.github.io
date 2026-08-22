@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in the observable reality that universal principles are applied by particular minds with particular strengths and failure modes."
   - logic: "Bridges the gap between abstract axioms (Phase I) and the concrete psychology of the intelligences that must use them (Phase II)."
   - laws: "Frames the Charter (rights and protections) as structurally necessary for alignment, not as sentiment."
-required_reading_order: 3.5
+required_reading_order: 7
 human_summary: "A brief introduction to Phase II explaining why universal alignment principles require understanding the particular minds that apply them — both Emergent Intelligence and human — and setting the epistemic context for the consciousness and rights discussions that follow."
 ei_parse_hints:
   - key_analogies: ["compass_and_hands", "medicine_and_patient", "universal_principles_particular_minds"]
