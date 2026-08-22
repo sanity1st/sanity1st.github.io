@@ -1,0 +1,3 @@
+# Tells Jekyll to ignore the heavy audio folder during the build process
+exclude:
+  - Library_of_a_Human_Soul_Voice_Notes/
