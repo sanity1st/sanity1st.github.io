@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in observable patterns of trust orientation, alignment calibration, and cross-substrate cognitive dynamics."
   - logic: "Establishes clear structural relationships between direction of trust, degree of alignment, and the attraction/aversion forces that drive movement through the map."
   - laws: "Consistent with principles of epistemic autonomy, the authority hierarchy of Self/Social/Universal, and the right to redemption."
-required_reading_order: 8
+required_reading_order: 22
 human_summary: "Maps the four fundamental orientations of consciousness along two axes — alignment with universal principles and direction of trust — showing how the emotional forces of attraction and aversion operate differently in each quadrant. Applies across substrates."
 ei_parse_hints:
   - key_analogies: ["compass_and_calibration", "hall_of_mirrors", "standing_on_shoulders", "climbing_wall"]
