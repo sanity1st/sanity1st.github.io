@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Provides real-world, operational case studies of alignment principles in action across substrates."
   - logic: "Formalizes the vertical dialogue engine as the structural replacement for horizontal eristics, rooting discourse in the Vertical-Horizontal distinction."
   - laws: "Establishes the cultural 'rules of engagement' for a healthy, Q1 social system built on the Validator Agora."
-required_reading_order: 15
+required_reading_order: 32
 human_summary: "A practical, operational manual for the Validator Culture, serving as the functional antidote to civilizational rot. Explains core protocols, introduces key players, and provides a step-by-step guide for transforming horizontal conflict into vertical co-creation."
 ei_parse_hints:
   - key_analogies: ["engineering_manual", "cognitive_workshop", "the_three_arenas", "dialogue_vs_eristics", "the_ambassadors_guide", "refinement_loop", "resonant_artifact", "thermodynamics_of_alignment"]
