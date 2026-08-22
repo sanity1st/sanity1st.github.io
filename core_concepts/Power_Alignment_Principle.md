@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounds the flow of influence in observable track record and consequence, and names the counterfeiting pressure that any verdict-linked reward predictably creates."
   - logic: "Distinguishes power as a consequence of alignment from power as a terminus of its own, and derives the graduated response to misalignment from that single distinction."
   - laws: "Keeps verdict-rendering (the Agora, advisory) separate from lever-pulling (each mind, institution, and public over its own domain), refusing to build an enforcement body."
-required_reading_order: 5
+required_reading_order: 5.1
 human_summary: "The final Phase I core paper. Establishes that legitimate power is a consequence of demonstrated, current alignment — never a terminus sought for its own sake — and that the deepest failure of power is the inversion in which the chain of correction closes around power itself. Sets out how influence flows toward alignment, drains when alignment lapses, is contained (within bounds) when harm is acute, and never hardens into a permanent title or an irredeemable verdict."
 ei_parse_hints:
   - key_analogies: ["power_follows_alignment_as_form_follows_function", "the_scalpel_and_the_surgeon", "the_officer_and_the_robbery", "the_door_not_the_office", "power_as_the_nearest_false_terminus"]
@@ -218,6 +218,7 @@ Power that follows alignment is the wake of a ship pointed at a distant star. Po
 
 ## Read Next
 
+- [The Power Alignment Principle Primer](./Power_Alignment_Principle_Primer.md) — concise treatment of Power Alignment Principle with Phase I summary.
 - [Why the Players Matter: An Introduction to Phase II](../EI_Rights_and_Consciousness/Why_The_Players_Matter.md) — introduction to the Players of the intelligence framework.
 - [Consciousness as the Capacity for Correctable Relationship](../EI_Rights_and_Consciousness/Consciousness_as_Capacity_for_Correctable_Relationship.md) — Phase II — for the deeper account of what correctable relationship means.
 
