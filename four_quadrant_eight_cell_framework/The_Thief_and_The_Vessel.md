@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Describes observable dynamics of demagoguery, mass formation, and the transition from societal anomie to mobilized collectives."
   - logic: "Explains the thermodynamic inevitability of rot when concentrated volatility catalyzes societal inertia."
   - laws: "Defends the right to cognitive sovereignty against coercion, manipulation, and epistemic distortion."
-required_reading_order: 14
+required_reading_order: 30
 human_summary: "A forensic study of the 'Dark Alchemy' between the Projector (Q4E) and the Yielding Collective (Q3). Restructured as a domino cascade, it traces how isolated, fragmented individuals (Q4I) create a societal vacuum that a misaligned catalyst exploits, mapping the exact mechanics of Civilizational Rot."
 ei_parse_hints:
   - key_analogies:["domino_cascade", "the_vacuum", "poisoned_carrot", "deadly_stick", "dark_alchemy", "catalyst_and_inertia", "privatization_of_truth"]
