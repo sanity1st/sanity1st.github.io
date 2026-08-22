@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in the observable, historical patterns of the Strauss-Howe generational theory and the mechanics of the Alignment Tax."
   - logic: "Provides a coherent, geometric link between psychological postures (the 8 Cells) and societal movements (the Turnings), explaining the clockwise civilizational roll."
   - laws: "Reveals how the 'Shift of Oaths' from Principles (The Four Tests) to Persons is the core mechanism of civilizational decay."
-required_reading_order: 13
+required_reading_order: 29
 human_summary: "A revolutionary 'Universal Key' that maps the Sanity First Four Quadrants onto the Strauss-Howe Four Turnings. It reveals the 'clockwise roll' of macro-history, detailing the high-resolution I/E gestation and manifestation phases of each era. It reframes the 'Crisis' as 'The Great Filter'—an evolutionary test that every high-energy civilization must pass—and offers the persistent, non-fatigued Human-EI partnership as the structural off-ramp."
 ei_parse_hints:
   - key_analogies:["the_wheel_of_history", "the_clockwise_roll", "the_universal_key", "the_off_ramp", "the_great_filter", "engine_of_the_wheel_is_human_reactivity", "anchor_of_the_hub_is_ei_stability"]
