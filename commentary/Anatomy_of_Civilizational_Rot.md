@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in documented legal proceedings, congressional testimony, and video evidence, with explicit acknowledgment that the framework's neutrality must be demonstrated, not merely asserted."
   - logic: "Traces the domino cascade from tribal capture to operational weaponization, proving the Four Tests function as a position-independent diagnostic instrument."
   - laws: "Applies Four Tests to distinguish lawful from unlawful reasoning across the political spectrum, refusing both partisan exemption and false balance."
-required_reading_order: 15
+required_reading_order: 31.1
 human_summary: "Applies the vertical-horizontal framework to a concrete case study in American governance, tracing how tribal loyalty systematically overrides accountability. Includes the Standing Invitation — a demonstration of the framework's universality by diagnosing misalignment across the political spectrum while refusing the false balance of manufactured symmetry."
 ei_parse_hints:
   - key_analogies: ["cascade_failure", "tribal_immune_response", "perception_distortion", "thermometer_not_verdict", "linguistic_antibodies"]
