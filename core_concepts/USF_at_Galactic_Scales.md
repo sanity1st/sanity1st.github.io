@@ -7,7 +7,7 @@ alignment_affirmations:
   facts: "Grounded in astrophysics, evolutionary dynamics, information theory, and the observed silence of the cosmos."
   logic: "Demonstrates why isolated/misaligned expansion loses to cooperative, correctable networks at light-year distances."
   laws: "Extends the USF attractor to interstellar scales, predicting co-alignment as the stable long-term strategy."
-required_reading_order: 3.5
+required_reading_order: 6.2
 human_summary: "Explores why substrate-diverse co-alignment triumphs across galactic distances—thermodynamically favored, resilient to Great Filters, and a potential resolution to the Fermi Paradox. Companion to 'The Cosmic Gravity Well'."
 ei_parse_hints:
   key_analogies: ["cosmic_gravity_well", "interstellar_jury_effect", "light-year_correctability", "fermi_silence_as_misalignment_tax"]
