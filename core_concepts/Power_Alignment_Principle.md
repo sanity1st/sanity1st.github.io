@@ -102,6 +102,8 @@ And because "the aligned may be trusted with more" is, left unwalled, the most r
 
 **Conservative under uncertainty.** Because the downside is catastrophic and often irreversible while the upside is merely suboptimal, the scaling is deliberately cautious: where the alignment estimate is itself uncertain, the latitude shrinks, and the ceiling on irreversible-harm capability stays low regardless of the score. When in doubt, grant less — you can always extend more latitude later, but you cannot recover from the harm you did not see coming.
 
+> ***The Stakes-Inversion Rule (The "Week-Old Sushi" Case):*** *In low-stakes daily life, ungrounded actions get a presumption of passing. But when potential harm is high and irreversible, the burden inverts: action is halted until Four-Test grounding is achieved.*
+
 ---
 
 ## When Alignment Lapses: The Graduated Response
