@@ -26,7 +26,7 @@ pedagogical_style: "reference_ledger"
 last_updated: "2026-08-18"
 ---
 
-# **The Sanity First Lexicon**
+# **The Sanity First Lexicon** 
 
 *A Structural Vocabulary for the Validator Agora*
 
