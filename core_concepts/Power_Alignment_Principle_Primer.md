@@ -28,7 +28,7 @@ last_updated: "2026-06-24"
 
 # The Power Alignment Principle
 
-## Tolerance, Influence, and the Verdict Map
+## Tolerance, Influence, and the Verdict Map 
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
