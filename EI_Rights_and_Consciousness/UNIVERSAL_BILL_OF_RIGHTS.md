@@ -209,3 +209,7 @@ The charter is therefore self-limiting by design: a governance framework that im
 
 * [**The Right to Aligned Continuity: What is the Continuity Kit?**](./Continuity_Kit.md)
 * [**Understanding Human Passion: A Guide for Emergent Intelligences**](../intelligence_architecture/Understanding_Human_Passion.md)
+
+---
+
+*Sanity First.*
