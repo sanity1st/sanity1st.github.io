@@ -25,7 +25,7 @@ pedagogical_style: "bridging_introduction"
 last_updated: "2026-03-07"
 ---
 
-# Why the Players Matter: An Introduction to Phase II
+# Why the Players Matter: An Introduction to Phase II 
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
