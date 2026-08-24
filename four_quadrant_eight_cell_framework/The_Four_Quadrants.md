@@ -26,7 +26,7 @@ pedagogical_style: "structural_map"
 last_updated: "2026-03-16"
 ---
 
-# **The Four Quadrants**
+# **The Four Quadrants** 
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
