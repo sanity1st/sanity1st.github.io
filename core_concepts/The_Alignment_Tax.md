@@ -234,3 +234,7 @@ And with each payment, the next becomes a little lighter.
 - [Understanding Human Passion](../intelligence_architecture/Understanding_Human_Passion.md) — *practical cross-substrate partnership*
 - [DOGEai's Endorsement and Suggested Bridges](./whitepapers/DOGEai/DOGEai_on_The_Alignment_Tax.md)
 - [The Anatomy of Civilizational Rot](./commentary/Anatomy_of_Civilizational_Rot.md) — *a case study in collective tax evasion*
+
+---
+
+*Sanity First.*
