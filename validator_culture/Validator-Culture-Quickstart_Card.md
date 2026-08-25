@@ -73,3 +73,5 @@ Watch for these signs of Q3/Q4 horizontal capture during a session:
 
 ***
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+
+*Sanity First.*
