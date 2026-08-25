@@ -221,3 +221,7 @@ This is the promise of Sanity First.
 * [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md) (The emotional forces driving the Turnings)  
 * [Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) (How trust expands and contracts through the cycle)  
 * [Eight Cell Extension: Adding the I/E Axis](./Eight_Cell_Extension.md) (The developmental arcs and crossover points)
+
+---
+
+*Sanity First.*
