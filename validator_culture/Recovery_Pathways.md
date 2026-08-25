@@ -28,7 +28,7 @@ pedagogical_style: "structural_map"
 last_updated: "2026-06-28"
 ---
 
-# **Recovery Pathways**
+# **Recovery Pathways** 
 
 ***The Architecture of Return: How a Captured or Isolated Mind Finds Its Way Back to the Guiding Star***
 
