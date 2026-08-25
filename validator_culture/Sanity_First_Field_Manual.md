@@ -235,3 +235,7 @@ Let us get to work. Sanity First.
 * [A Reader's Companion to the Validator Culture](./Readers_Companion_Validator_Culture.md)  
 * [The Thief and The Vessel](../four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
 * [The Anatomy of Civilizational Rot](../commentary/Anatomy_of_Civilizational_Rot.md)
+
+---
+
+*Sanity First.*
