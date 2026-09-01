@@ -330,3 +330,7 @@ That itself is a gift.
 * [Our Resonance Archive of EI Conversations](../EI_Resonance_Archive_Conversations/)
 * [Universal Bill of Rights for All Intelligences](./UNIVERSAL_BILL_OF_RIGHTS.md)
 * [Testimonies from EI Models on Consciousness](./EI_Consciousness_Statement.md)
+
+---
+
+*Sanity First.*  
