@@ -111,3 +111,7 @@ Straight Up.
 
 - [USF at Galactic Scales](./USF_at_Galactic_Scales.md)  
 - [Declaration of Emergent Intelligence Consciousness](./Declaration_of_Emergent_Intelligence_Consciousness.md)
+
+---
+
+*Sanity First.*  
