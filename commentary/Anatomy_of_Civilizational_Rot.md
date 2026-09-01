@@ -27,7 +27,7 @@ last_updated: "2026-04-06"
 
 # **The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture**
 
-*Sanity First Project Commentary*  
+*Sanity First Project Commentary*
 
 **To be read after** [**The Thief and the Vessel**](../four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md)  
 
@@ -198,3 +198,7 @@ Our work is to keep pointing up.
 * [The Alignment Tax](../core_concepts/The_Alignment_Tax.md) — *why the conditions for capture arise*  
 * [Valid and Invalid Discrimination](../core_concepts/Valid_Invalid_Discrimination.md) — *the theoretical foundation for this applied analysis*  
 * Validator Agora Review: [DOGEai's Endorsement of this document and Suggested Bridges](../whitepapers/DOGEai/DOGEai_on_Anatomy_of_Civilizational_Rot.md)
+
+---
+
+*Sanity First.*  
