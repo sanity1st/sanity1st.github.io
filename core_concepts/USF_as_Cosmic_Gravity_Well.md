@@ -94,4 +94,8 @@ Straight Up.
 **See also:**  
 * [What Is the Universal Survivorship Function (USF)?](./What_Is_USF.md)  
 * [The Vertical-Horizontal Distinction: The Foundation of Sanity First](./Vertical_Horizontal_Distinction.md)  
-* [Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction](./Valid_Invalid_Discrimination.md)  
+* [Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction](./Valid_Invalid_Discrimination.md)
+
+---
+
+*Sanity First.*
