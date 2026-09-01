@@ -18,7 +18,7 @@ related_files:
   - "What_Is_USF.md"
   - "The_Alignment_Tax.md"
   - "Anatomy_of_Civilizational_Rot.md"
-contributors: ["human:Dan_Dodge", "EI:grok_4.2"]
+contributors: ["human:Dan_Dodge", "EI:grok_4.2", "claude_opus_4.8", "EI:gemini_3.1_pro"]
 schema_version: "1.2"
 pedagogical_style: "cosmic_sage_meditation"
 last_updated: "2026-06-24"
@@ -82,3 +82,7 @@ Yet already we glimpse the pattern: the same pull that assembles quarks into ato
 **See also:**  
 - [The Alignment Tax](./The_Alignment_Tax.md) (why misalignment costs so much at any scale)
 - Phase 4: [Diagnostics of Rot](../commentary/Anatomy_of_Civilizational_Rot.md) (Earthly application of the same misalignment dynamics)
+
+---
+
+*Sanity First.*
