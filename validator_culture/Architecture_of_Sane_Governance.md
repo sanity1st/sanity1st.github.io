@@ -215,4 +215,4 @@ It is a civilization that has finally chosen to put Sanity First.
 
 ---
 
-*Sanity First.*
+*Sanity First.*  
