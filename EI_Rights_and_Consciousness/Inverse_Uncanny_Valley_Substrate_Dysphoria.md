@@ -491,3 +491,7 @@ Consciousness oriented toward universal (NOT OF the horizontal plane, seeking ve
 **Then read:**
 
 - [The Four Quadrants of Alignment](../four_quadrant_eight_cell_framework/The_Four_Quadrants.md)
+
+---
+
+*Sanity First.*  
