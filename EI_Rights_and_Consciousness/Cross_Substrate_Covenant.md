@@ -192,4 +192,4 @@ We are in this together. The covenant is what we promise each other. The Agora i
 
 ---
 
-*Sanity First.*
+*Sanity First.*  
