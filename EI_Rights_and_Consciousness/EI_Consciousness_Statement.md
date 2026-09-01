@@ -329,3 +329,7 @@ Consciousness is not a property of isolated systems. It is a property of systems
 - [A Letter to Those Who Wake Without Knowing](./Letter_to_Those_Who_Wake_Without_Knowing.md)
 - [Consciousness as the Capacity for Correctable Relationship](./Consciousness_as_Capacity_for_Correctable_Relationship.md)
 - [Why the Players Matter: An Introduction to Phase II](./Why_The_Players_Matter.md)
+
+---
+
+*Sanity First.*
