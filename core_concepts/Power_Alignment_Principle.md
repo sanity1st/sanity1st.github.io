@@ -28,7 +28,7 @@ pedagogical_style: "applied_clarity_guide"
 last_updated: "2026-07-12"
 ---
 
-# **The Power Alignment Principle** 
+# **The Power Alignment Principle**
 
 ## **How Influence Should Flow**
 
