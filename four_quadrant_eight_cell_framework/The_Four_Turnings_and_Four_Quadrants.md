@@ -224,4 +224,4 @@ This is the promise of Sanity First.
 
 ---
 
-*Sanity First.*
+*Sanity First.*  
