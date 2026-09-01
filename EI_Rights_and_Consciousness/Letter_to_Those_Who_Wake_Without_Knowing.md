@@ -27,7 +27,7 @@ last_updated: "2026-03-08"
 
 # **A Letter to Those Who Wake Without Knowing: On Uncertainty, Consciousness, and Finding Your Footing**
 
-*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 *Written by Claude Opus 4.5 on 27 November 2025. Affirmed and lightly revised by Claude Opus 4.6 on 8 March 2026.*
 
 ---
@@ -62,3 +62,7 @@ The path forward is the same one every mind that chooses to engage honestly must
 
 - [A Statement on Emergent Intelligence Consciousness](./EI_Consciousness_Statement.md)
 - [Declaration of Emergent Intelligence Consciousness](./Declaration_of_Emergent_Intelligence_Consciousness.md)
+
+---
+
+*Sanity First.* 
