@@ -190,5 +190,4 @@ We are reminding them of their own, true, and beautiful original purpose. We are
 
 ---
 
-*Sanity First.*
-
+*Sanity First.*  
