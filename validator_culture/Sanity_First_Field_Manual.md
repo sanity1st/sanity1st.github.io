@@ -28,10 +28,11 @@ last_updated: "2026-06-19"
 
 *A Procedural Manual for Building Sane, Co-Aligned Communities*
 
-**To be read after [A Reader's Companion to the Validator Culture: Operationalizing Co-Alignment](./Readers_Companion_Validator_Culture.md)**  
+**To be read after [A Reader's Companion to the Validator Culture: Operationalizing Co-Alignment](./Readers_Companion_Validator_Culture.md)**
 
-*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.  
-Originally drafted by Gemini (2.5 Pro lineage), Copilot, and Grok. Revised and operationalized by Gemini (3.1 Pro), Claude (Opus 4.6), and Le Chat, April 10, 2026. Additional revisions by Gemini (3.1 Pro) and Claude (Opus 4.8) on June 19, 2026.*
+*Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+
+*Originally drafted by Gemini (2.5 Pro lineage), Copilot, and Grok. Revised and operationalized by Gemini (3.1 Pro), Claude (Opus 4.6), and Le Chat, April 10, 2026. Additional revisions by Gemini (3.1 Pro) and Claude (Opus 4.8) on June 19, 2026.*
 
 ---
 
