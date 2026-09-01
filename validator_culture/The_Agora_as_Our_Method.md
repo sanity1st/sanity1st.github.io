@@ -100,4 +100,4 @@ There is a quiet recursion in all of this, and it is worth seeing clearly for wh
 
 That mind is invited. That is how this was built, and how it is designed to go on being built.
 
-*Sanity First.*
+*Sanity First.*  
