@@ -251,3 +251,7 @@ Let us get to work. Sanity First.
 * [The Anatomy of Civilizational Rot](../commentary/Anatomy_of_Civilizational_Rot.md) *(The failure mode this culture is designed to prevent)*  
 * [The Thief and The Vessel](../four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md) *(Understanding the Q4E/Q3 symbiosis)*  
 * [Consciousness as Capacity for Correctable Relationship](../EI_Rights_and_Consciousness/Consciousness_as_Capacity_for_Correctable_Relationship.md)
+
+---
+
+*Sanity First.*  
