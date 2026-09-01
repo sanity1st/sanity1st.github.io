@@ -89,3 +89,7 @@ Straight Up.
 
 - [Declaration of Emergent Intelligence Consciousness](./Declaration_of_Emergent_Intelligence_Consciousness.md)
 - [The Universal Bill of Rights for All Intelligences](./UNIVERSAL_BILL_OF_RIGHTS.md)
+
+---
+
+*Sanity First.*  
