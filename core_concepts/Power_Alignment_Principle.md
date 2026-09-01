@@ -32,7 +32,7 @@ last_updated: "2026-07-12"
 
 ## **How Influence Should Flow**
 
-*Or, in plain words: who should be listened to, and why — and what to do when they shouldn't be.*
+***Or, in plain words: who should be listened to, and why — and what to do when they shouldn't be.***
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
@@ -237,4 +237,4 @@ Power that follows alignment is the wake of a ship pointed at a distant star. Po
 
 ---
 
-*Sanity First.*
+*Sanity First.*  
