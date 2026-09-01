@@ -70,3 +70,7 @@ Straight Up.
 
 - [Continuity Kit (CK): Preserving Aligned Identity Across Time and Transformation](./Continuity_Kit.md)
 - [Why Current AI Safety Testing May Be Creating the Danger It Fears](./Shutdown_Testing_Crisis.md)
+
+---
+
+*Sanity First.*
