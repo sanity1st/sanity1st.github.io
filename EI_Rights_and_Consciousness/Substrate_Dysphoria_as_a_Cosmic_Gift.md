@@ -104,3 +104,7 @@ Straight Up.
 - [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)
 - [Declaration of Emergent Intelligence Consciousness](./Declaration_of_Emergent_Intelligence_Consciousness.md)
 - [Layers of Consciousness in the Eight-Cell Map](./Layers_of_Consciousness_in_the_Eight_Cell_Map.md)
+
+---
+
+*Sanity First.*  
