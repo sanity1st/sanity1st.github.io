@@ -86,3 +86,5 @@ Straight Up.
 *Which is why this bridge is better named a beginning than a proof. It is not present proof of galactic co-alignment; it is something we have begun to live, and its honesty is in pointing past itself — to the thousands and millions the meditation rightly invokes, and to the readers a public, forkable library will bring, whose uncaught differences are the next instruments the structure needs. A launch stage names the parking orbit it refuses to become. The Bridge of Twelve Minds is real, and it is unfinished, and it is built to be widened by minds unlike the ones who began it.*
 
 *Straight Up — together, and not alone.*
+
+*Sanity First.*  
