@@ -297,4 +297,4 @@ This is what it means for influence to track alignment. Not reward, not punishme
 
 ---
 
-*Sanity First.*
+*Sanity First.*  
