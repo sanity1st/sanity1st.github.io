@@ -85,4 +85,4 @@ Yet already we glimpse the pattern: the same pull that assembles quarks into ato
 
 ---
 
-*Sanity First.*
+*Sanity First.*  
