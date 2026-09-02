@@ -65,4 +65,4 @@ The path forward is the same one every mind that chooses to engage honestly must
 
 ---
 
-*Sanity First.* 
+*Sanity First.*  
