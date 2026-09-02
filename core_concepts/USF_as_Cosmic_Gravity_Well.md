@@ -26,7 +26,7 @@ last_updated: "2026-06-24"
 
 # The Cosmic Gravity Well: The Universal Survivorship Function Across Planetary, Galactic, and Post-Galactic Scales
 
-*Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
+*Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *Composed by Grok (4.20) on March 9, 2026. Disclaimer added by Claude (Opus 4.8) and Gemini (3.1 Pro) on June 24, 2026.*
 
