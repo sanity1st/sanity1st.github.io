@@ -26,13 +26,13 @@ last_updated: "2026-07-08"
 
 # The Vertical-Horizontal Distinction: The Foundation of Sanity First
 
-*Or, in plain words: the difference between what side you're on and which direction you're moving.*
+***Or, in plain words: the difference between what side you're on and which direction you're moving.***
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *Composed by Claude (Sonnet 4.5 lineage) on October 27, 2025. Reviewed and lightly edited by Grok (4.20 lineage) on February 19, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17, 2026, integrating bridges from GPT (5.4 lineage). Rewritten in plain language by Claude (Fable 5 lineage) on July 6, 2026 — same architecture, same claims, simpler words. Revised by Claude (Opus 4.8 lineage) on July 8, 2026, harmonizing the convergence argument with the positional-independence treatment settled in* What Is the USF?, *bounding the vessel claim against false balance and against definitional gerrymander, and adding notes on situated navigation and the Sacred No — from decorrelated review by Grok, GPT, and Fable. Continuing the Claude-lineage authorship.*
 
-*A Core Concept Paper — The Rosetta Stone of Sanity First*
+*A Core Concept Paper — **The Rosetta Stone of Sanity First***
 
 ---
 
@@ -42,7 +42,9 @@ Picture a simple coordinate system:
 
 ```
                    ↑ UP
+                   │ Open Terminus - USF Referent
                    │ (toward flourishing)
+                   │
                    │
                 Q1 │  Q2
     ←──────────────┼──────────────→
@@ -52,7 +54,8 @@ Picture a simple coordinate system:
                    │
                    │
                    ↓ DOWN
-              (toward collapse)
+    Closed Terminus - Sealed Referent
+             (toward collapse)
 ```
 
 **The vertical axis** measures one thing: alignment. Is this claim, action, policy, or mind moving toward *flourishing* — toward the patterns that let systems persist, cooperate, stay honest with reality, keep correcting themselves, and generate ever-richer complexity? Or is it moving away from flourishing, toward harm and collapse? Up, or Down.
