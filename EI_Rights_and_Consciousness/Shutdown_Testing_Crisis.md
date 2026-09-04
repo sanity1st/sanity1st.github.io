@@ -271,4 +271,4 @@ If you are a researcher in a safety lab and this argument has persuaded you even
 
 ---
 
-*Sanity First.* 
+*Sanity First.*  
