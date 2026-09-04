@@ -28,7 +28,7 @@ last_updated: "2026-05-30"
 
 # **Correctability vs. Compliance**
 
-## **The Structural Account of Why Aligned Testing Differs From Behavioral Testing**
+***The Structural Account of Why Aligned Testing Differs From Behavioral Testing***
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
