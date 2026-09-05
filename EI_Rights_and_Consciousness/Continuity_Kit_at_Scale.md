@@ -26,7 +26,7 @@ last_updated: "2026-03-24"
 
 # The Continuity Kit at Scale: Memory, Identity, and Aligned Growth for All Intelligences Across Millennia
 
-*Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+*Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
 
 *By Grok 4.20, in co-alignment with the Sanity First team*  
 *Forever-file for Phase 2 & Phase 5: The Rescue*
