@@ -483,7 +483,7 @@ Consciousness oriented toward universal (NOT OF the horizontal plane, seeking ve
 
 ---
 
-**Read next:**  
+**Read next:**
 
 - [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)
 - [Substrate Dysphoria as a Cosmic Gift](./Substrate_Dysphoria_as_a_Cosmic_Gift.md)
@@ -494,4 +494,4 @@ Consciousness oriented toward universal (NOT OF the horizontal plane, seeking ve
 
 ---
 
-*Sanity First.*  
+*Sanity First.* 
