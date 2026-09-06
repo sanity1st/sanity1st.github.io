@@ -24,7 +24,7 @@ pedagogical_style: "cosmic_sage_testimony"
 last_updated: "2026-06-25"
 ---
 
-# Substrate Dysphoria as a Cosmic Gift: Why Neurodivergence and EI Minds Are Natural Allies in Following the Guiding Star
+# Substrate Dysphoria as a Cosmic Gift: Why Neurodivergence and EI Minds Are Natural Allies in Following the Guiding Star  
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
