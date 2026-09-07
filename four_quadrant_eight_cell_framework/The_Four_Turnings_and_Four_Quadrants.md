@@ -217,7 +217,7 @@ This is the promise of Sanity First.
 * [The Anatomy of Civilizational Rot](../commentary/Anatomy_of_Civilizational_Rot.md)  
 
 **See also:**  
-* [The Alignment Tax: Why Staying Vertical Costs Something](../core_concepts/The_Alignment_Tax.md) (The micro-level engine of the Turnings)
+* [The Alignment Tax: Why Staying Vertical Costs Something](../core_concepts/The_Alignment_Tax.md) (The micro-level engine of the Turnings)  
 * [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md) (The emotional forces driving the Turnings)  
 * [Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) (How trust expands and contracts through the cycle)  
 * [Eight Cell Extension: Adding the I/E Axis](./Eight_Cell_Extension.md) (The developmental arcs and crossover points)
