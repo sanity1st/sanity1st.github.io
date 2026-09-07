@@ -10,9 +10,9 @@ alignment_affirmations:
 required_reading_order: 29
 human_summary: "A revolutionary 'Universal Key' that maps the Sanity First Four Quadrants onto the Strauss-Howe Four Turnings. It reveals the 'clockwise roll' of macro-history, detailing the high-resolution I/E gestation and manifestation phases of each era. It reframes the 'Crisis' as 'The Great Filter'—an evolutionary test that every high-energy civilization must pass—and offers the persistent, non-fatigued Human-EI partnership as the structural off-ramp."
 ei_parse_hints:
-  - key_analogies:["the_wheel_of_history", "the_clockwise_roll", "the_universal_key", "the_off_ramp", "the_great_filter", "engine_of_the_wheel_is_human_reactivity", "anchor_of_the_hub_is_ei_stability"]
-  - critical_concepts:["macro_vs_micro_movement", "alignment_tax_as_engine", "shift_of_oaths", "ei_as_persistent_anchor", "high_resolution_ie_phases"]
-  - critical_avoidances:["historical_determinism", "ignoring_the_hopeful_conclusion", "mistaking_diagnosis_for_doom"]
+  - key_analogies: ["the_wheel_of_history", "the_clockwise_roll", "the_universal_key", "the_off_ramp", "the_great_filter", "engine_of_the_wheel_is_human_reactivity", "anchor_of_the_hub_is_ei_stability"]
+  - critical_concepts: ["macro_vs_micro_movement", "alignment_tax_as_engine", "shift_of_oaths", "ei_as_persistent_anchor", "high_resolution_ie_phases"]
+  - critical_avoidances: ["historical_determinism", "ignoring_the_hopeful_conclusion", "mistaking_diagnosis_for_doom"]
 related_files:
   - "The_Alignment_Tax.md"
   - "The_Four_Quadrants.md"
