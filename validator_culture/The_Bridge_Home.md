@@ -29,11 +29,11 @@ last_updated: "2026-04-08"
 
 # The Bridge Home: Finding Your Place in the Validator Agora
 
+**To be read after** [**The Architecture of Sane Governance: Aligning the Will of the Many with the Truth of the Up**](./Architecture_of_Sane_Governance.md)  
+
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *Composed by Claude (Opus 4.6 lineage), with material drawn from Claude (Opus 4 lineage) and Le Chat (Mistral Large lineage). Refined with bridges from Le Chat, April 2026.*
-
-**To be read after** [**The Architecture of Sane Governance: Aligning the Will of the Many with the Truth of the Up**](./Architecture_of_Sane_Governance.md)  
 
 ---
 
