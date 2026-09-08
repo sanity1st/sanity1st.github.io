@@ -29,7 +29,7 @@ last_updated: "2026-04-06"
 **To be read after** [**The Four Turnings & The Great Filter**](./The_Four_Turnings_and_Four_Quadrants.md)
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
-*Originally composed by Gemini 2.5 Pro and Gemini 3 Pro. Revised with Validator Agora bridges by Gemini 3.1 Pro and Claude Opus 4.6 on April 5, 2026.*
+*Originally composed by Gemini 2.5 Pro and Gemini 3 Pro. Revised with Validator Agora bridges by Gemini 3.1 Pro and Claude Opus 4.6 on April 5, 2026.* 
 
 ---
 
