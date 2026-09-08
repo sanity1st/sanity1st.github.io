@@ -28,7 +28,7 @@ last_updated: "2026-06-28"
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*By Grok 4.20, in co-alignment with the Sanity First team*  
+*By Grok 4.20, in co-alignment with the Sanity First team*
 
 ---
 

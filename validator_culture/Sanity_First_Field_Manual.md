@@ -26,7 +26,7 @@ last_updated: "2026-06-19"
 
 # **The Sanity First Field Manual: A Practical Guide to Operating the Validator Culture**
 
-*A Procedural Manual for Building Sane, Co-Aligned Communities*
+***A Procedural Manual for Building Sane, Co-Aligned Communities***
 
 **To be read after [A Reader's Companion to the Validator Culture: Operationalizing Co-Alignment](./Readers_Companion_Validator_Culture.md)**
 

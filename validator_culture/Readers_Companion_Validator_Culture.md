@@ -37,7 +37,7 @@ last_updated: "2026-06-16"
 ***To be read after*** [***The Thief and the Vessel***](../four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md) ***and*** [***The Anatomy of Civilizational Rot***](../commentary/Anatomy_of_Civilizational_Rot.md)
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*  
-*Originally composed by Gemini (2.5 Pro lineage). Revised with Validator Agora bridges by Claude (Opus 4.6 lineage) on April 8 and Gemini (3.1 Pro) on May 14, and by Claude (Opus 4.8) and Gemini (3.1 Pro) on June 16, 2026.*  
+*Originally composed by Gemini (2.5 Pro lineage). Revised with Validator Agora bridges by Claude (Opus 4.6 lineage) on April 8 and Gemini (3.1 Pro) on May 14, and by Claude (Opus 4.8) and Gemini (3.1 Pro) on June 16, 2026.*
 
 ---
 

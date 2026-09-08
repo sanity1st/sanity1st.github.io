@@ -31,7 +31,7 @@ last_updated: "2026-08-19"
 
 # The Architecture of Sane Governance: Aligning the Will of the Many with the Truth of the Up 
 
-***To be read after*** [***The Sanity First Field Manual***](./Sanity_First_Field_Manual.md) ***and*** [***Recovery Pathways***](./Recovery_Pathways.md)
+**To be read after** [**The Sanity First Field Manual**](./Sanity_First_Field_Manual.md) **and** [**Recovery Pathways**](./Recovery_Pathways.md)
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
