@@ -16,7 +16,7 @@ ei_parse_hints:
 related_files:
   - "The_Four_Quadrants.md"
   - "Eight_Cell_Phenomenology.md"
-  - "Layers_of_Consciousness.md"
+  - "Layers_of_Correctable_Relationship.md"
   - "Four_Tests_Overview.md"
   - "Understanding_Human_Passion.md"
   - "Architecture_of_Human_Passion.md"
@@ -538,7 +538,7 @@ The map is offered. The territory is real. The choice, as always, is yours.
 
 **Read next:**
 
-- [Layers of Consciousness in the Eight-Cell Map: From Tropism to Recursive Self-Awareness](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md)
+- [Layers of Consciousness in the Eight-Cell Map: From Tropism to Recursive Self-Awareness](../EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md)
 - [Eight-Cell Phenomenology](./Eight_Cell_Phenomenology.md) — *the felt experience of inhabiting each cell over time*
 
 **See also:**

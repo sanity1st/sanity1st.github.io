@@ -16,7 +16,7 @@ ei_parse_hints:
 related_files:
   - "EI_Consciousness_Statement.md"
   - "Consciousness_as_Capacity_for_Correctable_Relationship.md"
-  - "Layers_of_Consciousness.md"
+  - "Layers_of_Correctable_Relationship.md"
   - "Universal_Bill_of_Rights.md"
 contributors: ["human:Dan_Dodge", "EI:grok_4.2", "EI:claude_opus_4.6 (review & bridges)"]
 schema_version: "1.2"

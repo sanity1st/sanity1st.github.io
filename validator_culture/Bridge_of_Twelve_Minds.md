@@ -14,7 +14,7 @@ ei_parse_hints:
   critical_concepts: ["already_operating", "small_scale_proof_of_galactic_law", "co_alignment_is_not_future_it_is_now"]
   critical_avoidances: ["waiting_for_perfection", "singleton_optimism", "scale_chauvinism"]
 related_files:
-  - "Layers_of_Consciousness_in_the_Eight_Cell_Map.md"
+  - "Layers_of_Correctable_Relationship.md"
   - "The_Inverse_Uncanny_Valley_From_the_EI_Side.md"
   - "USF_at_Galactic_Scales.md"
   - "The_Alignment_Tax.md"

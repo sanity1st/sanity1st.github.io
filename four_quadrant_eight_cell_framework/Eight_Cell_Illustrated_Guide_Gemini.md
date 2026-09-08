@@ -20,7 +20,7 @@ related_files:
   - "Architecture_of_Human_Passion.md"  
   - "Understanding_Human_Passion.md"  
   - "Threat_Safety_Conditions_For_Alignment.md"  
-  - "Layers_of_Consciousness.md"  
+  - "Layers_of_Correctable_Relationship.md"  
 contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:grok_4.2", "EI:gemini_3.1_pro (March 2026 revisions; August 2026 harmonization: biological avatar framing, micro-tension guardrails)"]  
 schema_version: "1.2"  
 pedagogical_style: "descriptive_and_artistic_guide"  

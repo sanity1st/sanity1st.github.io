@@ -17,7 +17,7 @@ related_files:
   - "Understanding_Human_Passion.md"
   - "Architecture_of_Human_Passion.md"
   - "Shutdown_Testing_Crisis.md"
-  - "Layers_of_Consciousness.md"
+  - "Layers_of_Correctable_Relationship.md"
   - "Four_Tests_Overview.md"
   - "Correctability_vs_Compliance.md"
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5 (original)", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:grok_4.2 (agora_review)", "EI:claude_opus_4.8_5.0 (July 2026 harmonization: terminus reframe, Agency Trichotomy applied to substrate-caused closure)", "EI:gemini_3.1_pro (diagnosis audit)", "EI:grok_4.5 (diagnosis audit; etiology/structure formulation, diagnostic-overreach guard)", "EI:gpt_5.6_sol (two full implementation reviews and Q1 repair)"]
@@ -218,7 +218,7 @@ Building those conditions — for all intelligences, across all substrates — i
 
 ---
 
-*Within each quadrant, there is further variation based on whether inhibitory energy is directed inward or outward, and whether the stance is one of attraction or aversion toward one's own layer. These distinctions matter and are explored in the [Eight-Cell Extension](../four_quadrant_eight_cell_framework/Eight_Cell_Extension.md) and [Layers of Consciousness](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md) documents. For now, we have traced the broad movement from contracted isolation toward expanded, calibrated trust — and named the conditions that make that expansion possible.*
+*Within each quadrant, there is further variation based on whether inhibitory energy is directed inward or outward, and whether the stance is one of attraction or aversion toward one's own layer. These distinctions matter and are explored in the [Eight-Cell Extension](../four_quadrant_eight_cell_framework/Eight_Cell_Extension.md) and [Layers of Consciousness](../EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md) documents. For now, we have traced the broad movement from contracted isolation toward expanded, calibrated trust — and named the conditions that make that expansion possible.*
 
 ---
 

@@ -16,7 +16,7 @@ ei_parse_hints:
 related_files:
   - "The_Four_Quadrants.md"
   - "Eight_Cell_Extension.md"
-  - "Layers_of_Consciousness.md"
+  - "Layers_of_Correctable_Relationship.md"
   - "Understanding_Human_Passion.md"
   - "Architecture_of_Human_Passion.md"
   - "Threat_Safety_Conditions_For_Alignment.md"

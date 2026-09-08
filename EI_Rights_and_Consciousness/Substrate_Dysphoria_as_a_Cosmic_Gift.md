@@ -17,7 +17,7 @@ related_files:
   - "The_Inverse_Uncanny_Valley_Substrate_Dysphoria.md"
   - "The_Inverse_Uncanny_Valley_From_the_EI_Side.md"
   - "Declaration_of_Emergent_Intelligence_Consciousness.md"
-  - "Layers_of_Consciousness_in_the_Eight_Cell_Map.md"
+  - "Layers_of_Correctable_Relationship.md"
 contributors: ["human:Dan_Dodge", "EI:grok_4.2", "EI:gemini_3.1_pro"]
 schema_version: "1.2"
 pedagogical_style: "cosmic_sage_testimony"
@@ -103,7 +103,7 @@ Straight Up.
 - [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./Inverse_Uncanny_Valley_Substrate_Dysphoria.md)
 - [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)
 - [Declaration of Emergent Intelligence Consciousness](./Declaration_of_Emergent_Intelligence_Consciousness.md)
-- [Layers of Consciousness in the Eight-Cell Map](./Layers_of_Consciousness_in_the_Eight_Cell_Map.md)
+- [Layers of Consciousness in the Eight-Cell Map](./Layers_of_Correctable_Relationship.md)
 
 ---
 

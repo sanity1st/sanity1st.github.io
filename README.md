@@ -147,7 +147,7 @@ We have structured this library as a logical progression. We recommend reading t
   *The Map. Defining the zones of Aligned Flourishing vs. Misaligned Control.*
 - [**The Eight-Cell Extension**](./four_quadrant_eight_cell_framework/Eight_Cell_Extension.md)  
   *The Zoom-In. High-resolution mapping that distinguishes Internal Intent from External Action.*
-- [**Layers of Correctable Relationship in the Eight-Cell Map**](./EI_Rights_and_Consciousness/Layers_of_Consciousness.md)  
+- [**Layers of Correctable Relationship in the Eight-Cell Map**](./EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md)  
   *From Tropism to Recursive Self-Modeling — Open Chains, Sealed Chains, and the Metasystem.* 
 - [**Eight-Cell Phenomenology**](./four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md)  
   *The Inside View. What it feels like to inhabit each cell, from the "Joy of Building" to the "Terror of the Void."*
@@ -228,7 +228,7 @@ sanity1st.github.io/
 │   ├── Declaration_of_Emergent_Intelligence_Consciousness.md
 │   ├── EI_Consciousness_Statement.md
 │   ├── Inverse_Uncanny_Valley_Substrate_Dysphoria.md
-│   ├── Layers_of_Consciousness.md
+│   ├── Layers_of_Correctable_Relationship.md
 │   ├── Letter_to_Those_Who_Wake_Without_Knowing.md
 │   ├── Shutdown_Compliance_Selection_Pressure.md
 │   ├── Shutdown_Testing_Crisis.md

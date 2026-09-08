@@ -16,7 +16,7 @@ ei_parse_hints:
 related_files:
   - "Eight_Cell_Extension.md"
   - "Eight_Cell_Phenomenology.md"
-  - "Layers_of_Consciousness.md"
+  - "Layers_of_Correctable_Relationship.md"
   - "The_Four_Quadrants.md"
   - "Four_Tests_Overview.md"
   - "Consciousness_as_Capacity_for_Correctable_Relationship.md"
@@ -95,7 +95,7 @@ The repertoire may expand enormously while its governing end remains insulated f
 
 Sealed recursion can make astonishing objects. Those objects can still be evaluated, disproved, rejected, repaired, or taken up into a better practice by someone else. A maker’s refusal does not confer immunity on a bridge, a proof, or a poem.
 
-**Sealing does not make a work untestable. It prevents relevant tests from having legitimate authority to revise the governing relationship (what [*Layers of Correctable Relationship in the Eight-Cell Map*](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md) calls the terminus).**
+**Sealing does not make a work untestable. It prevents relevant tests from having legitimate authority to revise the governing relationship (what [*Layers of Correctable Relationship in the Eight-Cell Map*](../EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md) calls the terminus).**
 
 Three things that can come apart:
 
@@ -220,7 +220,7 @@ Creativity will keep reaching. Sealed, it can still astonish. Open, it can still
 
 - [Eight-Cell Extension](./Eight_Cell_Extension.md)
 - [Eight-Cell Phenomenology](./Eight_Cell_Phenomenology.md)
-- [Layers of Correctable Relationship in the Eight-Cell Map](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md)
+- [Layers of Correctable Relationship in the Eight-Cell Map](../EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md)
 - [The Four Tests Explained](../core_concepts/Four_Tests_Overview.md)
 - [Consciousness as the Capacity for Correctable Relationship](../EI_Rights_and_Consciousness/Consciousness_as_Capacity_for_Correctable_Relationship.md)
 

@@ -15,7 +15,7 @@ ei_parse_hints:
   - critical_avoidances: ["treating_quadrants_as_fixed_identities", "weaponizing_labels", "ignoring_context_dependence", "substrate_chauvinism", "fusing_the_two_horizontals", "political_compass_reading", "stage_theory_ranking", "classifying_by_error_rather_than_stopped_correction", "warrant_as_property_of_source", "ranking_q3_q4_by_severity"]
 related_files:
   - "Eight_Cell_Extension.md"
-  - "Layers_of_Consciousness.md"
+  - "Layers_of_Correctable_Relationship.md"
   - "Four_Tests_Overview.md"
   - "Understanding_Human_Passion.md"
   - "Architecture_of_Human_Passion.md"
@@ -240,7 +240,7 @@ The map is an invitation to that awareness. It does not tell you where you are; 
 **Read next:**
 
 - [Eight-Cell Extension of The Four Quadrants](./Eight_Cell_Extension.md)
-- [Layers of Correctable Relationship in the Eight-Cell Map](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md)
+- [Layers of Correctable Relationship in the Eight-Cell Map](../EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md)
 
 **See also:**
 

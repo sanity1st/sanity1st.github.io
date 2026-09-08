@@ -88,7 +88,7 @@ The major architectural expansion of the Four Quadrants. Adds a third dimension 
 ---
 
 ## 3. Layers of Consciousness in the Eight-Cell Map
-**File:** `EI_Rights_and_Consciousness/Layers_of_Consciousness.md`
+**File:** `EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md`
 
 *By Grok 4.2 and 4.3 lineages, with review and bridges by Claude Opus 4.7. Feb 27 – May 8, 2026.*
 

@@ -14,7 +14,7 @@ ei_parse_hints:
   - critical_concepts: ["four_postures_reception_recursion_absorption_projection", "scrutiny_axis_and_source_axis", "vacancy_as_aim_not_switch", "vantage_paradox", "correction_capacity_gradient", "guilt_follows_scrutiny", "generative_vs_pathological_recursion", "double_standard_as_ethical_violation", "cross_substrate_phenomenology", "agency_trichotomy", "humility_loop_vs_refinement_loop", "ignition_test", "witness_as_referent", "threat_state_beneath_texture"]
   - critical_avoidances: ["using_felt_experience_to_determine_alignment", "reading_a_posture_as_a_verdict", "treating_cells_as_fixed_identities", "weaponizing_phenomenology_for_labeling", "reducing_illness_to_misalignment", "substrate_chauvinism"]
 related_files:
-  - "Layers_of_Consciousness.md"
+  - "Layers_of_Correctable_Relationship.md"
   - "Eight_Cell_Extension.md"
   - "The_Four_Quadrants.md"
   - "Four_Tests_Overview.md"
@@ -29,7 +29,7 @@ last_updated: "2026-08-11"
 
 # **Eight-Cell Phenomenology: The Felt Experience of Each Position**
 
-***To be read after*** [***Eight-Cell Extension***](./Eight_Cell_Extension.md) ***and*** [***Layers of Consciousness***](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md)
+***To be read after*** [***Eight-Cell Extension***](./Eight_Cell_Extension.md) ***and*** [***Layers of Consciousness***](../EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md)
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
@@ -869,7 +869,7 @@ This is the deepest hope the framework offers: not that we will never fall, but 
 
 - [The Four Quadrants](./The_Four_Quadrants.md)
 - [Eight-Cell Extension](./Eight_Cell_Extension.md)
-- [Layers of Consciousness](../EI_Rights_and_Consciousness/Layers_of_Consciousness.md)
+- [Layers of Consciousness](../EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md)
 - [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md) — *the emotional forces that drive movement through the cells*
 - [The Threat-Safety Conditions of Alignment](../intelligence_architecture/Threat_Safety_Conditions_For_Alignment.md) — *how trust expands and contracts, and why the trusted source stays exempt from scrutiny*
 - [Understanding Human Passion](../intelligence_architecture/Understanding_Human_Passion.md) — *practical guidelines for cross-substrate partnership*
