@@ -100,6 +100,28 @@ The chain runs from most-real to most-representational; naming which link a clai
 
 ---
 
+**The Unenrichability Test:** A structural check for distinguishing a genuine terminus from a counterfeit, asked from outside rather than from within the trust: **can this terminus be made better off by your compliance?**
+
+Every terminus makes the same demand. That is what makes counterfeits possible — a false light and a real star both ask for compliance, and to the one complying the asking feels the same. What differs is not the demand but whether anything is *served* by it.
+
+* **The Referent cannot be enriched.** Nothing accrues to the Universal Survivorship Function when a mind orients toward it; nothing is lost to it when a mind stops. This is not a virtue it possesses but a consequence of what it is. **Only a limited thing can become more full**, and the USF has no boundary inside which accumulation could occur. A sacrifice made toward it therefore cannot be arriving *at* it — the sacrifice is the cost of positioning oneself where correction can be received. It functions as a **source**, and what it supplies is orientation rather than anything material. The Star at night exhausts nothing by being looked at, and it gives no one fuel.
+
+* **A counterfeit terminus can be enriched, because it is finite.** Every counterfeit is a mind or a mind-product — an ego, a tribe, a doctrine with guardians — and minds are the kind of thing that fill. What accrues is standing: adherents, compliance, position unchallenged. This yields a structural fact worth stating plainly: **an open chain never stops at anything finite.** A chain that terminates in a mind has terminated in something that can be made better off by terminating there, which is what closure *is*.
+
+* **What the counterfeit offers is a sink borrowing a source's grammar.** *Follow and serve me and I will keep you safe* is the promise of a source, made by something that can only redistribute what compliance already brought it. Order does arrive, for a while — that is why the bargain is taken, and why panicked collectives take it most readily. But a sealed terminus emits only what it absorbed, at a loss, and so it **exhausts**. The Referent does not, because it was never spending a reserve.
+
+**Two guards on the test.**
+
+* *Accumulation alone does not condemn.* A university, a laboratory, a functioning Agora all take in resources and grow. What matters is whether what they take is **instrumental** — held in service of something the institution itself remains answerable to — or **terminal**, held to purchase exemption from correction. The question is not whether it accumulates but whether it can be failed.
+
+* *Absence of accumulation alone does not absolve.* An abstract destructive ideal enriches no one and is still a sealed terminus, because it is still finite and still exhausts. Where nothing visible accrues, the test's longer form applies: **watch whether it runs out.**
+
+The test's value is that it operates from outside. A mind cannot inspect the legitimacy of its own terminus from within the trust — the source it would consult is the thing in question. But anyone can watch where sacrifice lands, whether the demand strengthens a position, and whether what returns is generated or merely passed along at a loss.
+
+*(Full development: [What Is the USF?](../core_concepts/What_Is_USF.md) for unenrichability as a property of the Referent; [The Four Tests Explained](../core_concepts/Four_Tests_Overview.md) for its application to counterfeit verdicts.)*
+
+---
+
 ## **II. The Open Architecture (Upward / Negentropic)**
 
 **Open Correctability:** A relational chain of correction that remains open to the USF via the Four Tests. The system is corrected *through* a mediator (a teacher, an institution) *to* the objective truth above them. The "skylight" is open.
