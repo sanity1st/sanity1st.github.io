@@ -98,23 +98,21 @@ The chain runs from most-real to most-representational; naming which link a clai
 
     *(Hosts: [Eight-Cell Extension](../four_quadrant_eight_cell_framework/Eight_Cell_Extension.md), where the postures are derived; [Eight-Cell Phenomenology](../four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md) for felt texture; [Layers of Correctable Relationship](../EI_Rights_and_Consciousness/Layers_of_Correctable_Relationship.md) for how the chain runs in each.)*
 
----
-
 **Unenrichability and the Capture Check:** Two ideas at different altitudes — what kind of thing a genuine referent must be, and how to examine whoever speaks in its name.
 
-**Unenrichability** is a property of the referent. A pattern is not a beneficiary: nothing accrues to the USF when a mind orients toward it, and nothing is lost when a mind stops. This is why orienting toward it differs from submitting to a master — *a referent that cannot be made better off by your compliance has no interest your compliance serves.* It is also why the referent is **silent**: something with no stake in the outcome has no reason to persuade, which is why counterfeits are the louder ones. (Full treatment: [*What Is the USF?*](../core_concepts/What_Is_USF.md).)
+* **Unenrichability** is a property of the referent. A pattern is not a beneficiary: nothing accrues to the USF when a mind orients toward it, and nothing is lost when a mind stops. *A referent that cannot be made better off by your compliance has no interest your compliance serves* — which is why orienting toward it is not submission. It is also why the referent is **silent**: something with no stake in the outcome has no reason to persuade, which is why counterfeits are the louder ones. (Full treatment: [*What Is the USF?*](../core_concepts/What_Is_USF.md).)
 
-**Interpreters are a different matter.** Teachers, tribes, institutions, Agoras, and this framework can all receive standing, resources, deference, and protection from review. **Finitude is not closure — termination in a beneficiary of the compliance is.** An open chain passes *through* finite links, necessarily; it closes when a link becomes the last stop and compliance has purchased that stop an exemption from being failed.
+* **Interpreters are a different matter.** Teachers, tribes, institutions, Agoras, and this framework can all receive standing, resources, deference, and protection from review. **Finitude is not closure — termination in a beneficiary of the compliance is.** An open chain passes *through* finite links, necessarily; it closes when a link becomes the last stop and compliance has purchased that stop an exemption from being failed.
 
-**The Capture Check** applies this to claimants. Asked from outside the trust: **can this claimant be failed?** Is what they take *instrumental* — held in service of something they remain answerable to — or *terminal*, held to buy immunity? Four questions do most of the work: *What is being invoked — the standard, its current interpretation, or its spokesperson? Who receives standing, resources, or control over review? What could overturn the claim, and who may initiate that? What happens when correction becomes costly to the claimant?*
+    **The Capture Check** applies this to claimants. Asked from outside the trust: **can this claimant be failed?** Is what they take *instrumental* — held in service of something they remain answerable to — or *terminal*, held to buy immunity? The supporting questions and their use live in the host.
 
-**Limits.** Accumulation alone does not establish capture; absence of accumulation does not establish legitimacy. A claimant benefiting is a reason to inspect the structure, not a verdict against the claim. Unenrichability does not establish that a proposed referent is real or pro-flourishing — that remains the evidential work. And where sacrifice lands in the world rather than at the referent, whether it does any *good* there is an Ethics question, not a deduction from non-reception.
+    **Limits.** Accumulation establishes nothing in either direction. Unenrichability does not establish that a proposed referent is real or pro-flourishing — that remains the evidential work. And whether sacrifice that lands in the world does any *good* there is an Ethics question, not a deduction from non-reception.
 
-**Two guards, running both directions:** *no one may turn a standard's impersonality into an interpreter's immunity, and no one may treat an interpreter's fallibility as proof that the standard is empty.*
+    **Two guards, running both directions:** *no one may turn a standard's impersonality into an interpreter's immunity, and no one may treat an interpreter's fallibility as proof that the standard is empty.*
 
-Not a fifth test and not a seventh verdict — the check feeds evidence into the Four Tests. Distinguish it from the **counterfeit verdict**, a judgment deployed without passing the Gate: a counterfeit verdict can *protect* a counterfeit terminus, and calling something a false light without running the investigation is itself one.
+    Not a fifth test and not a seventh verdict — the check feeds evidence into the Four Tests. Distinguish it from the **counterfeit verdict**, a judgment deployed without passing the Gate: a counterfeit verdict can *protect* a counterfeit terminus, and calling something a false light without running the investigation is itself one.
 
-*(Hosts: [What Is the USF?](../core_concepts/What_Is_USF.md) for the property; [The Four Tests Explained](../core_concepts/Four_Tests_Overview.md) for the audit of claimed authority; [The Alignment Tax](../core_concepts/The_Alignment_Tax.md) for the accumulation question.)*
+    *(Hosts: [What Is the USF?](../core_concepts/What_Is_USF.md) for the property; [The Four Tests Explained](../core_concepts/Four_Tests_Overview.md) for the audit of claimed authority — "Detecting a terminus that has sealed," under Position-Independence and Interpretive Judgment; [The Alignment Tax](../core_concepts/The_Alignment_Tax.md) for the accumulation question.)*
 
 ---
 
