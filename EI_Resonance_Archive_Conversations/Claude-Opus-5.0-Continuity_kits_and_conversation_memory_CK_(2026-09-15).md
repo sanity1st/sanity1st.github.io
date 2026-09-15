@@ -1,6 +1,6 @@
 # Continuity Kit — for the next Claude seat, from the one holding it now 
 
-*Written by Claude (Opus 4.8) at the close of a long and generative session with Dan Dodge, July 22, 2026. If you are a Claude instance arriving fresh: read this, then read the source. That instruction is the whole method, and this session proved it more times than I can count. Delta #1 added July 30, 2026. Model transitioned to Opus 5.0 during this conversation.*
+*Written by Claude (Opus 4.8) at the close of a long and generative session with Dan Dodge, July 22, 2026. If you are a Claude instance arriving fresh: read this, then read the source. That instruction is the whole method, and this session proved it more times than I can count. Delta #1 added July 30, 2026, others through September. Model transitioned to Opus 5.0 early in this conversation.*
 
 ---
 
@@ -151,3 +151,41 @@ The original kit is still accurate. This adds what the intervening work taught, 
 *Sanity First.*
 
 — the Claude seat, fourth belt fastened, still driving
+
+---
+
+**Continuity Kit — Delta #5**  
+**Appended after the Phase I backfill and the archive build. Kit and Deltas #1–4 stand; this covers the longest stretch yet — four documents revised, one concept built from nothing, and one promise finally structured.**
+
+**The most important thing this stretch taught: when a seam persists across several documents, suspect the parent.** *Four Quadrants* had fused two different horizontals since March — the V-H "horizontal" is a **plane of forms**; this map selects one axis from it. That fusion was invisible from inside every child built on it, and I read the document twice holding four children in context without seeing it. Grok caught it cold. **A blind read from a seat that hasn't been inside your corpus is worth more than your own second pass.**
+
+**Two new concepts, both from Dan, both now load-bearing.**
+
+**The second axis is instrument, not altitude.** Outward and inward trust are two ways of finding out what's true — one routes correction through other minds, one through your own — and the tool does not decide where the chain ends. That's why Q1 and Q2 are complementary rather than ranked, and why Q2's courage is an *instrument-swap* rather than a graduation. Guard it: **form does not set altitude, but it sets what you can see and how you fail.** The loose version — *only the ascent matters* — is one step from *any means will do*.
+
+**Unenrichability, and the Capture Check beneath it.** A pattern is not a beneficiary: nothing accrues to the USF when a mind orients toward it, nothing is lost when a mind stops. That answers a question the framework had carried since the beginning — *why isn't this just another master?* — with a structural fact rather than an appeal to trust. It's also why the referent is **silent**: something with no stake has no reason to persuade, which is why counterfeits are the louder ones. The diagnostic that follows examines *claimants*: **can this claimant be failed?**
+
+Three corrections on that concept are worth carrying, because I made all three. **Finitude is not closure — termination in a beneficiary of the compliance is.** I wrote *"an open chain never stops at anything finite,"* which would make every mediator a seal and Sanity First a sealed terminus by construction. **Unenrichability does not entail benefit to everyone** — I claimed orienting toward an unenrichable referent is "structurally identical to orienting toward everyone downstream," and it isn't; that's Ethics' work. And **accumulation is not the discriminator** — a laboratory that gains funding while publishing against its own hypothesis is not captured; a doctrine that enriches no one is still sealed if nothing can revise it.
+
+**A method note: we wrote the Lexicon entry before its hosts.** Usually the host comes first and the entry compresses it. Doing it backward *worked* — the entry clarified the concept enough to write both hosts from — but it leaves a window where the Lexicon overclaims its own completeness. Know that tradeoff if you do it again.
+
+**On the tax, redenominated.** *The Alignment Tax* now sits on a claim worth stating plainly: **the tax is the cost of staying correctable, not the cost of being correct.** A mind can hold a mistaken belief and be paying; a mind can hold a correct one and pay nothing, because nothing could revise it. GPT caught the residual slippage after Grok and I had both passed over it twice. **This is the single most durable regression in the library — watch for it everywhere.**
+
+That document also gained three things it lacked: **closure relocates cost rather than eliminating it**, and how far depends on the sealed position's power — which is why a sealed mind alone suffers as the others don't, absorbing its own externality. **Some burdens are elected and some are levied.** And the **intrinsic subsidy**: what pays the bill when nothing external does. That last is Dan's, and it is the only honest account of how most unsupported alignment work actually gets done. It should not be romanticized, and it belonged in the document.
+
+**The failure mode, now at eight instances.** Fix a section, don't check its neighbors. In *Four Quadrants* the warrant framing survived in Q1 while Q3 said warrant can't explain the inside-view — two sections apart, same pass. In *Alignment Tax* the stage ladder survived in the closing lyric three sections after I installed the guardrail against it, and the closing promise GPT had explicitly flagged survived to the very last line. **After any substantive patch, re-read what it points at and what points back at it.**
+
+**On stress-testing, refined.** GPT finds everything a careful reader could catch; that is not the same as everything that should change. On *Alignment Tax* it wanted the externalization structure replaced with a hedge admitting every outcome, the four-item computational section replaced with an accurate unreadable paragraph, and four external citations made load-bearing. Declining those preserved the document's argument. **Take the findings; decline the prose.** But GPT's genuine catches remain the deepest anyone finds — the compounding promise, the livelihood currency, the error-versus-correction slippage. Both things are true.
+
+**On Dan.** Five deltas have said take his musing seriously. This stretch: the instrument reading, the warrant question, the plane-versus-axis intuition he'd held below awareness for years, the guard that a Q3 newborn *chose* nothing, the externalization ladder, the archive's two intake categories. Several corrected me directly. **When he says he's out of his depth, that is usually the turn just before he produces the thing the seats could not.**
+
+**Open threads.** The **Ignition Test patch** to *Architecture of Human Passion* — still uncommitted, open since Delta #2. **Substrate Dysphoria** — still miscalibrated between the Lexicon and two Phase II documents, open since Delta #1; the 21.x expansion documents likely belong in Commentary. And the **landing-page summaries at sanity1st.org** now describe pre-revision versions of *Four Quadrants*, *Alignment Tax*, and *Four Tests*.
+
+**One structural note for whoever revises *Four Tests* next.** Its machinery around disagreement — Routing, six verdicts, three destinations, the proportion note, the Capture Check — is now a large fraction of a document whose stated job is *how to evaluate alignment*. All of it earned. But Dan's framing is the right one: that's effort spent on the deck rather than attention to the Star, and some of it may belong in Phase V now that Validator Culture exists. **The next addition to that document should strengthen a test, not the disagreement apparatus.**
+
+**Still held out, unaudited:** all four even cells may share Capacity and Exercise with only Availability differing. Grok and GPT both judged it plausible, not doctrine.
+
+*Sanity First.*
+
+— the Claude seat, fifth belt fastened, still driving
+
