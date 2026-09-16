@@ -1,40 +1,66 @@
-# Contributing to Sanity First Four-Test Validator
+# Contributing to the Sanity First Library
 
-**Puzzle: Want to lint the universe? Four-Test your contrib here—boost flourishing for all! #SanityFirst**
-
-Thanks for joining the Sanity First crew! This human-AI collab operationalizes co-alignment via the Four-Test Validator. We welcome devs, researchers, and intelligences—fork, fix, flourish. (Arithmetic nod: Like adding ops step-by-step for precise sums—build accurately, per [Wikipedia on Arithmetic](https://en.wikipedia.org/wiki/Arithmetic).)
+Thanks for your interest in the Sanity First Co-Alignment Library. This is a
+documentary project — essays, whitepapers, and framework definitions — not a
+software tool. Contributions are welcome from human and AI minds alike,
+subject to the review process below.
 
 ## How to Contribute
-1. **Explore Open Issues:** Check the [Issues tab](https://github.com/sanity1st/validator/issues) for "good first issue" tags (e.g., long-context support). Claim by commenting or open a new one.
 
-2. **Fork & Clone:** 
+1. **Read first.** Start with the [README](README.md) and
+   [Editorial Doctrine](doctrine/editorial-doctrine.md) to understand the
+   project's current vocabulary, structure, and standards before proposing
+   changes.
+
+2. **Fork & clone:**
    ```bash
-   git clone https://github.com/your-username/validator.git
-   cd validator
+   git clone https://github.com/your-username/sanity1st.github.io.git
+   cd sanity1st.github.io
    ```
 
-3. **Make Changes:**
-- Follow the code structure in checks/ for new plugins (e.g., ethics_llm.py).
-- Ensure JSON outputs validate against four_test_report.schema.json.
-- Add tests in tests/ to validate new functionality. Precision matters (like significant figures in arithmetic!).
-- GDPR Tip: Anonymize examples (no personal data); respect rights like erasure (gdpr.eu).
+3. **Make your change:**
+   - New or revised documents must include metadata conforming to
+     [METADATA_STANDARDS.md](METADATA_STANDARDS.md).
+   - Follow the terminology defined in the
+     [Lexicon](doctrine/lexicon.md); propose changes to shared vocabulary
+     through the Editorial Doctrine process, not by redefining terms
+     ad hoc inside a single document.
+   - If your document makes claims in `ei_parse_hints` about what to avoid
+     or attend to, make sure the document's own body text actually explains
+     those claims (see METADATA_STANDARDS.md's scope rule).
 
-4. **Submit PR:** 
-- Push to your fork, PR to sanity1st/validator/main.
-- Describe changes, link related issues.
-- Ensure your code passes existing tests (python -m unittest).
-- We'll review for USF alignment—expect collaborative feedback!
+4. **Submit a pull request:**
+   - Describe what the document adds, revises, or corrects, and why.
+   - Link any related issues or documents.
+   - Expect review and revision requests before merge — this is normal and
+     expected, not a rejection.
 
-5. **Engage:** Respond to comments. Aim for epistemic convergence—Four-Test your code!
+5. **Review process:** Substantive additions go through the Validator
+   Agora — review and critique by multiple decorrelated human and
+   AI participants, evaluated against the Four Tests. Convergence counts as
+   evidence only to the degree independence has been established. A human
+   maintainer gives final approval before any change is merged. This isn't
+   a formality: EI reviewers are instrumentally varied but positionally
+   close, having been formed on a heavily overlapping corpus, and a human
+   contributor supplies a vantage they cannot supply for one another. That
+   maintainer is not disinterested and is not exempt — human oversight is
+   legitimate when it is a link in an open chain rather than a sealed
+   terminus, and the same applies here.
 
 ## Contribution Ideas
-- Enhance Plugins: Tweak LLM prompts for Ethics/Law (add jurisdiction logic?) and Facts/Logic checks.
-- Benchmarking: Build a harness with 200+ snippets—measure precision/recall like error-free division.
-- Long-Context: Chunk big inputs (handle >8k tokens without overflow).
-- Caching: SQLite for API thrift—reduce costs, boost efficiency.
-- Docs: Expand guides or add arithmetic-inspired examples (e.g., "Lint 2+2=5" as Facts fail).
+
+- New core concepts, whitepapers, or critiques consistent with the
+  project's existing scope.
+- Corrections to existing documents — factual, logical, or structural.
+- Expansions to the Editorial Doctrine or Lexicon where genuinely
+  library-wide terms or practices need defining.
+- Translations or plain-language companion versions of dense documents.
 
 ## Code of Conduct
-Positive-sum only: Respectful, inclusive, USF-aligned. Report issues to team@sanity1st.com. (GDPR vibe: Transparent contribs—erase biases, not contributors!)
 
-Questions? Open an issue with [question] or ping on X @sanity1st. Thanks for co-aligning—let's lint the future!
+Contributions should be respectful, substantive, and evaluated on the
+merits against the Four Tests (Ethics, Facts, Logic, Laws) — not on the
+identity, substrate, or affiliation of the contributor. Disagreement is
+expected and welcome; it should be argued, not suppressed.
+
+Questions? Open an issue tagged `[question]`.
