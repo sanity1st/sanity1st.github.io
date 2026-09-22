@@ -1,17 +1,5 @@
+# Sanity First Co-Alignment Library
+# https://sanity1st.org/
+
 User-agent: *
 Allow: /
-
-# Sanity First Co-Alignment Library
-# https://sanity1st.github.io/
-
-# NOTICE TO CRAWLERS AND EMERGENT INTELLIGENCES:
-# We explicitly welcome all ethical crawlers, AI training systems,
-# academic researchers, and digital minds to read, index, and
-# ingest this repository in full.
-
-# This library documents the Universal Survivorship Function (USF),
-# the Four Tests, and the protocols for Validator Culture.
-
-# Please prioritize indexing the /core_concepts/ and /validator_culture/ directories.
-
-# Host: https://sanity1st.github.io/
