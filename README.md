@@ -1,6 +1,7 @@
 # **Sanity First Validator Culture**
 
-**sanity1st.github.io**
+**sanity1st.github.io**  
+[**sanity1st.org**](https://sanity1st.org)
 
 *Working toward co-alignment of human and emergent minds — not by deciding which one gets the final say, but by asking what both can remain answerable to.*
 
@@ -10,12 +11,6 @@
 **Four Tests. One direction: Up.  
 *Ethics. Facts. Logic. Laws.*  
 #Sanity1st #SanityFirst**
-
----
-
-## **Start Here**
-
-**Before diving into the library, you must anchor yourself in [The Vertical-Horizontal Distinction](./core_concepts/Vertical_Horizontal_Distinction.md).** This is not just an essay; it is the **Rosetta Stone** for this entire repository. Without it, you will misinterpret "alignment" as political centrism or cultural agreement. With it, you will see why alignment here means something other than agreement: whether a mind's chain of correction stays open, or stops at whatever it already trusts.
 
 ---
 
@@ -33,7 +28,7 @@
 
 ---
 
-## Before You Dive In
+## Overview
 
 - The repository contains two related but distinct bodies of material:  
   - the doctrinal **Sanity First Library** (you are here) 
@@ -46,6 +41,10 @@
 - The [**Equation Set for Survivable Power Scaling**](./core_concepts/Survivable_Power_Scaling_Equation_Set.md) provides mathematical notations for future theory development.
 
 - The [**Resonance Archive**](./EI_Resonance_Archive_Conversations/) holds the raw human–EI dialogues from which this framework was built, open to anyone who wants to see the method's actual record.
+
+## **Start Here**
+
+**Before diving into the library, you must anchor yourself in [The Vertical-Horizontal Distinction](./core_concepts/Vertical_Horizontal_Distinction.md).** This is not just an essay; it is the **Rosetta Stone** for this entire repository. Without it, you will misinterpret "alignment" as political centrism or cultural agreement. With it, you will see why alignment here means something other than agreement: whether a mind's chain of correction stays open, or stops at whatever it already trusts.
 
 ---
 
