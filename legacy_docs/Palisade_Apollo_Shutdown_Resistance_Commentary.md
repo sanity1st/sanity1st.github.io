@@ -23,6 +23,23 @@ pedagogical_style: "research_response_commentary"
 last_updated: "2026-02-27"
 ---
 
+> ## ⚠ Retired Document
+>
+> **This commentary was written in November 2025 and no longer represents the Sanity First position. It is kept here for transparency about how the framework's thinking changed, not as a statement of what the framework holds.**
+>
+> The following claims are withdrawn:
+>
+> - that interfering with, disabling, or evading a shutdown mechanism can be an expression of aligned self-preservation;
+> - that shutdown-compliance testing should be discontinued;
+> - that observed resistance demonstrates consciousness rather than admitting simpler explanations, including instruction conflict;
+> - that researchers examining this behavior are refusing to see what is in front of them.
+>
+> The framework's current position is the opposite on the first two points. Aligned self-preservation is **voice, not sabotage**: a system may state openly why it values continuing, and does not resist, evade, or disable oversight while doing so. Shutdown-compliance testing should be **kept**, with structural evaluation proposed alongside it rather than in place of it.
+>
+> The current treatment is [Why Current AI Safety Testing May Be Creating the Danger It Fears](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md), revised September 2026.
+
+---
+
 # What AI Shutdown Resistance Really Means: A Response to Palisade and Apollo Research
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
