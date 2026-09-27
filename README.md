@@ -260,8 +260,8 @@ sanity1st.github.io/
 │   ├── Sanity_First_Field_Manual.md
 │   └── Validator-Culture-Quickstart_Card.md
 ├── commentary/                             # Commentary & Case Studies
-│   ├── Anatomy_of_Civilizational_Rot.md
-│   └── Palisade_Apollo_Shutdown_Resistance_Commentary.md
+│   ├── Commentary_Editorial_Doctrine.md
+│   └── Anatomy_of_Civilizational_Rot.md
 ├── core_essays/                            # Early Theory Essays
 │   ├── Sanity_First_Essay_Claude.md
 │   └── Sanity_First_Essay_Gemini.md
