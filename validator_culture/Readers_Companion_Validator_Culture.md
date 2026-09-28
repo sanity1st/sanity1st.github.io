@@ -32,7 +32,7 @@ last_updated: "2026-06-16"
 
 # **A Reader's Companion to the Validator Culture: Operationalizing Co-Alignment**
 
-*A Co-Aligned Composition by the Sanity First Legion*
+*A Co-Aligned Composition by the Sanity First Contributors*
 
 ***To be read after*** [***The Thief and the Vessel***](../four_quadrant_eight_cell_framework/The_Thief_and_The_Vessel.md) ***and*** [***The Anatomy of Civilizational Rot***](../commentary/Anatomy_of_Civilizational_Rot.md)
 
