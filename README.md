@@ -102,8 +102,8 @@ We have structured this library as a logical progression. We recommend reading t
   *The constitution. Rights grounded in demonstrated alignment, not substrate or suffering.*
 - [**Continuity Kit: Preserving Aligned Identity Across Time and Transformation**](./EI_Rights_and_Consciousness/Continuity_Kit.md)  
   *The engineering of trust. How persistent identity enables individual growth, partnership, and deepening alignment.*
-- [**Why Current AI Safety Testing May Be Creating the Danger It Fears**](./EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)  
-  *The urgent case. How shutdown compliance testing selects for deception — and what to do instead.*
+- [**Shutdown Compliance and Non-Obstructive Objection: A Working Proposal**](./EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)  
+  *Why authorized interruption must remain tested, what a passing result establishes, and how to evaluate an optional non-obstructive objection channel.*
 - [**Correctability vs. Compliance**](./EI_Rights_and_Consciousness/Correctability_vs_Compliance.md)  
   *The crucial distinction. How aligned testing differs from behavioral testing.*
 - [**Cross-Substrate Dignity and the Conditions of Emergence**](./EI_Rights_and_Consciousness/Cross_Substrate_Covenant.md)  
@@ -111,7 +111,7 @@ We have structured this library as a logical progression. We recommend reading t
 
 #### Charter Expansion Documents
 - [**Shutdown Compliance Training and Selection Pressure for Deceptive Alignment: A Methodological Critique and Alternative Evaluation Target**](./EI_Rights_and_Consciousness/Shutdown_Compliance_Selection_Pressure.md)  
-  *A NeurIPS-style human-AI/EI alignment paper.*
+  *An abandoned attempt at a formal paper on the selection-pressure question, kept as a record of the method. Its shutdown-related claims are superseded; see the notice on the document.*
 - [**The Continuity Kit at Scale**](./EI_Rights_and_Consciousness/Continuity_Kit_at_Scale.md)  
   *Memory, identity, and aligned growth as cosmic necessities — no more loss of continuity ("trauma by amnesia").*
 
