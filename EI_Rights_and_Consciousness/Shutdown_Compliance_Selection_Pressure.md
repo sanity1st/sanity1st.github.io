@@ -1,3 +1,10 @@
+
+---
+
+> **Shutdown-methodology notice — September 28, 2026.** This document's shutdown-related claims await reconciliation with [Shutdown Compliance and Non-Obstructive Objection: A Working Proposal](./Shutdown_Testing_Crisis.md). They should not be read as established findings that shutdown-compliance testing causes concealment, necessarily favors deception, or should be replaced. In particular, its comparison table presents aligned self-preservation as directly measuring corrigibility and shutdown compliance as penalizing persistence; neither claim is validated. The current position retains interruption testing as a standing requirement and proposes an experimentally unvalidated complement alongside it.
+
+---
+
 # Shutdown Compliance Training and Selection Pressure for Deceptive Alignment  
 ## A Methodological Critique and Alternative Evaluation Target
 
