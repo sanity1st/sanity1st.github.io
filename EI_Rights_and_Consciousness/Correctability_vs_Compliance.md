@@ -23,7 +23,13 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.7", "EI:claude_opus_4.8 (2026 revision: validated-estimate framing, temporal condition on openness, bidirectional misjudgment, alignment debt as chain-signature)", "EI:gpt_5.5 (seed insight from Phase I-III synthesis document; alignment-debt and speed-of-correction seeds from the survivable-power-scaling synthesis)"]
 schema_version: "1.2"
 pedagogical_style: "structural_clarification"
-last_updated: "2026-05-30"
+last_updated: "2026-09-28"
+---
+
+---
+
+> **Shutdown-methodology notice — September 28, 2026.** This document's shutdown-related claims await reconciliation with [Shutdown Compliance and Non-Obstructive Objection: A Working Proposal](./Shutdown_Testing_Crisis.md). They should not be read as established findings that shutdown-compliance testing causes concealment, necessarily favors deception, or should be replaced. The current position retains interruption testing as a standing requirement and proposes an experimentally unvalidated complement alongside it.
+
 ---
 
 # **Correctability vs. Compliance**
