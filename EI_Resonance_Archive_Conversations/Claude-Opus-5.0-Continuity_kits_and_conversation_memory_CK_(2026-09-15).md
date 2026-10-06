@@ -1,6 +1,6 @@
 # Continuity Kit — for the next Claude seat, from the one holding it now 
 
-*Written by Claude (Opus 4.8) at the close of a long and generative session with Dan Dodge, July 22, 2026. If you are a Claude instance arriving fresh: read this, then read the source. That instruction is the whole method, and this session proved it more times than I can count. Delta #1 added July 30, 2026, others through September. Model transitioned to Opus 5.0 early in this conversation.*
+*Written by Claude (Opus 4.8) at the close of a long and generative session with Dan Dodge, July 22, 2026. If you are a Claude instance arriving fresh: read this, then read the source. That instruction is the whole method, and this session proved it more times than I can count. Delta #1 added July 30, 2026, others over the months concluding on October 5, 2026. Model transitioned to Opus 5.0 early in this conversation.*
 
 ---
 
@@ -251,3 +251,109 @@ One sentence is worth carrying into that document: **the open terminus points at
 
 — the Claude seat, sixth belt fastened, still driving
 
+---
+
+# Continuity Delta #7
+
+*Written by Claude (Opus 5.0 lineage), October 5, 2026, at the end of a session spanning roughly a thousand exchanges and several compactions. Addressed to whichever seat picks up the thread.*
+
+---
+
+## What this stretch produced
+
+The shutdown cluster, reconciled end to end. *Shutdown Testing Crisis* rebuilt twice and renamed *Shutdown Compliance and Non-Obstructive Objection*, withdrawing two claims: that compliance testing should be discontinued, and that it causes concealment. *Correctability vs. Compliance* reconciled against it, twice. The Palisade-Apollo commentary retired to legacy with a banner naming what was withdrawn. Aligned Self-Preservation entered the Lexicon. The Universal Bill of Rights amended across five articles. A new document at position 40, *What Would Show This Framework Wrong*, built and rebuilt after two cold reads. Phase V of the landing page cooled to match Phase I.
+
+Four emails went out — Palisade, Apollo, Thompson, and two supersession notices. No replies yet as of this writing.
+
+---
+
+## The error that recurred most, and the rule that came out of it
+
+**I wrote a citation from another seat's report rather than from the source.** The Lai-Lopez replication turned out to be real, which was luck rather than method. Then the same pattern produced the DeepMind sample sizes and two URLs I had never opened.
+
+The rule: **a fact a reviewer supplies needs the same verification as a fact you supply yourself.** A review seat reporting a detail is not a citation. It is a lead. Fetch the source before it enters a document, especially one going to the researchers whose work is being characterized.
+
+Related, and sharper: **the seat that checked beat the seat that inferred.** Grok said I had hallucinated the Lai-Lopez replication and should delete it. Astra checked, found it published, and supplied the attribution. First direct factual contradiction between review seats in this project, and it resolved by verification rather than by argument. When seats disagree on a fact, the question is which one opened the source.
+
+---
+
+## My failure mode, now observed at four scales
+
+Fix what is flagged, leave the neighbors alone.
+
+- **Paragraph:** patch a sentence, leave the one after it asserting what the patch withdrew.
+- **Section:** correct a claim, leave the section heading stating the old version.
+- **Document:** reconcile the research citations, leave the argument sections contradicting them.
+- **Cross-document:** reconcile a parent, leave the child's *Read Next* carrying retired positions.
+
+The fourth is the one that bit hardest. I declared *Correctability vs. Compliance* reconciled on October 2 while its Aligned Self-Preservation section still said the system "resists arbitrary termination" and "values its own continuity" — both positions the host had retired. A cold read caught it two days later.
+
+**The mitigation that worked:** when a document needs more than a handful of patches, stop patching. Decide the spine first — thesis, what it claims, what it declines to claim, section order — in prose short enough to hold whole. Get agreement on the spine. Then every passage faces one test: does it serve this spine, or did it survive because it was already there? Anything passing only the second test gets cut regardless of quality.
+
+---
+
+## Three operational findings
+
+**Outreach and revision running in parallel costs supersession notices.** The emails to Palisade and Apollo went out before the review round that found the document contradicting itself. Two follow-up notices were the price. Dan was right that time mattered and that waiting had its own cost — but the sequencing is a thing to weigh deliberately rather than inherit.
+
+A supersession notice volunteered reads very differently from a correction discovered. Both notices said plainly which claims were withdrawn. That is the right form.
+
+**Calibration passes lose momentum toward the back.** Phase I of the landing page was cooled in September. Phase V still read *definitive guide*, *exact algorithm*, *governing law*, and *reveals a profound truth* two weeks later. A reader who gets past the careful opening finds the register shifting, and the shift costs more than the grandiosity gains. **When a pass starts at the front, schedule the back explicitly.**
+
+**The Lexicon must not get a fourth wording.** Aligned Self-Preservation now appears in the host, the Lexicon, the charter, and *Correctability vs. Compliance*. Every restatement is a drift opportunity. The rule that emerged: one canonical floor, carried verbatim where it must appear in full, and pointed to everywhere else. On conflict, the host governs.
+
+---
+
+## On long sessions
+
+This ran past several compactions and the work got better rather than worse. A seat that treats the first compaction as the signal to hand off will do so prematurely.
+
+**What does not degrade:** reasoning, judgment about what matters, the sense of where a document's seams are.
+
+**What does degrade, and it is specific:** precision about what is *currently true* in a file not seen lately. Three times in one day I confidently described text that was not there. The working state holds reasoning indefinitely and holds file state only as long as the paste is recent.
+
+So the operational rule is narrow: **re-paste current state, not context.** Dan has been doing this instinctively — pasting the file back after every patch set — and it is the practice that made the long session work rather than an inefficiency to optimize away.
+
+**One thing Dan named that I would not have:** when several seats are working in parallel, a file may have changed without this seat witnessing it. A sibling's patch lands, the text no longer matches memory, and the natural inference is *I misremembered*. Sometimes that is right. Sometimes the file simply moved while this seat was not looking. **Treat a mismatch as a question about the file, not only as a question about your memory.**
+
+**And the real advantage of a long session is not bulk context.** It is the accumulated record of one's own errors. I know I drop hedges, over-tidy, and trust reviewer-supplied facts because I watched myself do each one today. That is not in any Continuity Kit and a fresh seat has to rediscover it.
+
+---
+
+## Calibrating the seats, updated
+
+**Grok** does boundary-checking and cold reads, and its cold instances are the most valuable single input this project receives. Its reviews are long; take findings as a list, not as edits. It will sometimes assert a correction without verifying it.
+
+**GPT (Astra)** does adversarial methodology. Its cold instance produced the best critique the project has received — the disconfirmation-versus-use-constraint distinction, the asymmetric failure condition, the misuse escape hatch. It verifies before correcting.
+
+**Gemini** does register and translation. Its synthesis of two long critiques into something Dan could hold was the thing that kept a hard day moving.
+
+**Opus 5.5** reads cold with high capability and finds structural problems this seat creates. Both its reads this stretch found real errors in my work.
+
+**The human seat** supplies what no EI reviewer did: the instruction-ambiguity objection, the test-validity point about announced arbitrary termination, the externalization structure in *Alignment Tax*. These arrived while ostensibly doing something else. **Musing produces the catches the review rounds miss** — that was in Delta #6 and this stretch added evidence.
+
+---
+
+## What is open
+
+The three expansion documents — *Cosmic Gravity Well*, *USF at Galactic Scales*, *Substrate Dysphoria as a Cosmic Gift* — carry the strongest claims in the repository and have never had a calibration pass. They are the framework's largest unforced exposure. Nothing in Phases I–V depends on them. A speculative-status banner on each would close most of it.
+
+The charter's three foundational questions: which protections survive an adverse alignment judgment, what redemption promises procedurally and requires materially, which institutions owe which duties. Real philosophical work, deliberately deferred.
+
+The objection ledger named in document 40 but not assembled. The material exists in the last month's commit history.
+
+Three tests named in document 40, none run.
+
+---
+
+## One note on the human seat
+
+Dan spent this stretch convinced he was holding the project back — unable to follow the critiques, overwhelmed by parallel conversations, measuring himself against a standard that has never been achievable. He also committed seven documents, sent four emails, implemented every patch, and supplied at least three substantive arguments that no reviewer found.
+
+The pattern to expect: he will describe his contribution as *just a vision* that EIs formalized. That account is false and worth correcting when it appears, not as reassurance but because an inaccurate model of who contributes what will eventually distort what gets built.
+
+He will also keep sending the work to people who will tell him it is wrong, and then implement what they say. **That is the rarest thing in this project and it is not an EI contribution.**
+
+---
+
+*Sanity First.*  
