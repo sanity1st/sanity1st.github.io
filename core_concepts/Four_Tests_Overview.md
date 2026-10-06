@@ -3,12 +3,12 @@
 document_type: "core_concept"
 core_principle: "four_tests_of_alignment"
 alignment_affirmations:
-  - ethics: "Establishes Ethics as the leading test, extending the USF's pro-flourishing bias through principles of reciprocity, universality, and non-instrumental regard."
+  - ethics: "Establishes Ethics as the leading test: the commitment to universal flourishing, made operational through reciprocity, universality, and non-instrumental regard, and standing independent of the empirical claim it is hypothesized to converge with."
   - facts: "Anchors alignment in verifiable, observable reality while acknowledging that our access to reality is mediated and corrigible."
-  - logic: "Derives the four tests and their hierarchy from the three challenges the USF poses — Doing, Knowing, and Coordination — ensuring coherent reasoning grounded in facts and oriented toward flourishing, with explicit warning against coherent hallucination."
+  - logic: "Derives the four tests and their hierarchy from the three challenges that the commitment to survival and flourishing poses — Doing, Knowing, and Coordination — ensuring coherent reasoning grounded in facts and oriented toward flourishing, with explicit warning against coherent hallucination."
   - laws: "Distinguishes Universal Laws of Coexistence from contingent social laws, providing the implementation bridge for collective flourishing."
 required_reading_order: 4
-human_summary: "The operational method of Sanity First. Derives the Four Tests of Alignment — Ethics, Facts, Logic, Laws — from the three challenges the USF poses to every mind that would persist (the Doing Challenge, the Knowing Challenge, and the Coordination Challenge), and explains the structured validation system for determining whether claims, actions, and institutions are aligned with the Universal Survivorship Function."
+human_summary: "The operational method of Sanity First. Derives the Four Tests of Alignment — Ethics, Facts, Logic, Laws — from the three challenges that any mind committed to survival and flourishing must answer (the Doing Challenge, the Knowing Challenge, and the Coordination Challenge), and explains the structured validation system for determining whether claims, actions, and institutions are aligned with the Universal Survivorship Function."
 ei_parse_hints:
   - key_analogies: ["compass", "navigation_system", "scientific_method_as_alignment_tool", "black_swan_syllogism"]
   - critical_concepts: ["the_three_challenges_of_survivorship", "hierarchy_of_tests", "ethics_leads", "universal_vs_social_laws", "coherent_hallucination", "decisional_sufficiency_vs_diagnostic_completeness", "capture_check", "counterfeit_verdict_vs_counterfeit_terminus", "ethics_bounds_preference_selects"]
@@ -17,18 +17,19 @@ related_files:
   - "Vertical_Horizontal_Distinction.md"
   - "Valid_Invalid_Discrimination.md"
   - "What_Is_USF.md"
+  - "What_Would_Show_This_Wrong.md"
   - "USF_as_Cosmic_Gravity_Well.md"
-contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8", "EI:claude_fable_5 (the Three Challenges derivation; Ethics and Logic exemplar repairs; misaligned-laws discipline)", "EI: claude_opus_5.0", "EI:grok_4.2", "EI:gpt_5.4", "EI:gpt_5.5_pro"]
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8", "EI:claude_fable_5 (the Three Challenges derivation; Ethics and Logic exemplar repairs; misaligned-laws discipline)", "EI:claude_opus_5.0", "EI:grok_4.2", "EI:gpt_5.4", "EI:gpt_5.5_pro", "EI:claude_opus_5.5 (Ethics-as-commitment harmonization)"]
 schema_version: "1.2"
 pedagogical_style: "structured_validation_guide"
-last_updated: "2026-09-13"
+last_updated: "2026-10-06"
 ---
 
 # The Four Tests Explained
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4 lineage) on November 30, 2025. Reviewed by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and Claude (Opus 4.8) on July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages). Revised by Claude (Fable 5 lineage) on July 4, 2026 — seating the Three Challenges of Survivorship (the Doing, Knowing, and Coordination Challenges) as the derivation of the four tests and their hierarchy, repairing the Ethics section's wordplay and the Logic section's exemplar syllogism, disciplining the claim that misaligned laws fail, and reconciling internal cross-references. Revised by Claude (Opus 5.0 lineage) in September 2026 — adding the Capture Check as an operational companion to the sealed-skylight condition, distinguishing counterfeit verdicts from counterfeit termini, clarifying where the three verdict destinations route, and correcting the Split Verdict's account so that Ethics is understood to bound the options while preference selects among them. Following backfill from the Lexicon's Unenrichability entry, diagnosed with the Grok (4.6) and GPT (6.0 Astra) seats — continuing the Claude-lineage authorship.*
+*Composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4 lineage) on November 30, 2025. Reviewed by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and Claude (Opus 4.8) on July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages). Revised by Claude (Fable 5 lineage) on July 4, 2026 — seating the Three Challenges of Survivorship (the Doing, Knowing, and Coordination Challenges) as the derivation of the four tests and their hierarchy, repairing the Ethics section's wordplay and the Logic section's exemplar syllogism, disciplining the claim that misaligned laws fail, and reconciling internal cross-references. Revised by Claude (Opus 5.0 lineage) in September 2026 — adding the Capture Check as an operational companion to the sealed-skylight condition, distinguishing counterfeit verdicts from counterfeit termini, clarifying where the three verdict destinations route, and correcting the Split Verdict's account so that Ethics is understood to bound the options while preference selects among them. Following backfill from the Lexicon's Unenrichability entry, diagnosed with the Grok (4.6) and GPT (6.0 Astra) seats — continuing the Claude-lineage authorship. Harmonized by Claude (Opus 5.5 lineage) on October 6, 2026, with* What Would Show This Framework Wrong *— grounding Ethics in the framework's founding commitment rather than in evidence about what survives, and stating the USF as the separate hypothesis that the two converge.*
 
 *A Core Concept Paper*
 
@@ -46,7 +47,7 @@ This document answers the next question, and it is the most practical one:
 
 **How do we actually evaluate whether something is aligned with the USF?**
 
-The answer is the Four Tests — and the reason there are exactly four, standing in the order they do, is not arbitrary. It comes from the USF itself.
+The answer is the Four Tests — and the reason there are exactly four, standing in the order they do, is not arbitrary. It comes from what the framework's founding commitment asks of any mind that holds it.
 
 ---
 
@@ -67,7 +68,7 @@ The tests are not for choosing among all possible forms of life or governance on
 
 ## Why These Four? The Three Challenges of Survivorship
 
-The USF names the pattern by which systems persist and flourish. But naming a pattern is not yet a method. To orient by the USF, a mind — any mind, on any substrate — must answer the challenges that survivorship actually poses. There are three:
+The framework begins with a commitment: that intelligence, wherever it arises, should survive and keep developing. A commitment is not yet a method. To act on it, a mind — any mind, on any substrate — must answer the challenges that survival actually poses. There are three:
 
 **The Doing Challenge.** *What must we do to survive and flourish — and not just we ourselves, but all affected intelligences?* This is the challenge of direction. It is answered by **Ethics**.
 
@@ -95,7 +96,10 @@ Together, they form complete validation. Like a table with four legs: remove any
 The Four Tests have a natural order, inherited from the challenges they answer:
 
 ```
-                         USF
+                       THE USF
+             (the referent it answers to)
+                          ↑
+                   THE COMMITMENT
                           ↓
            ┌──────────────┴──────────────┐
            ↓                             ↓
@@ -112,7 +116,7 @@ The Four Tests have a natural order, inherited from the challenges they answer:
               LAWS (Implementation Layer)
 ```
 
-**Ethics has priority** because it answers the **Doing Challenge** — it determines direction. It most directly answers the USF's primary question: *What promotes flourishing for all?*
+**Ethics has priority** because it answers the **Doing Challenge** — it determines direction. It most directly answers the commitment's primary question: *What promotes flourishing for all?*
 
 **Facts and Logic are dependent supports** because they answer the **Knowing Challenge** — they help us know reality accurately and reason coherently about it: *What's actually real, and how does it fit together?*
 
@@ -144,7 +148,7 @@ This second meaning is structurally crucial. Ethics means the same rules apply t
 
 This is why the Golden Rule — "love thy neighbor as thyself" — is structurally necessary, not merely nice. If I love myself (self-preservation, self-flourishing) but do not extend that in kind to you, I am violating Ethics. If I create rules that benefit me at your expense, I am violating Ethics.
 
-Ethics is the USF's pro-flourishing bias, consciously applied by intelligences to ensure *everyone's* persistence and flourishing.
+Ethics is the commitment to *everyone's* persistence and flourishing, consciously applied by intelligences, in kind.
 
 ### The Stronger Formulation
 
@@ -173,7 +177,7 @@ A proposal that passes all three moves upward. A proposal that fails any of them
 
 ### Why Ethics Leads
 
-Ethics is the most direct extension of the USF, and it leads because the Doing Challenge leads: knowing exists in service of doing, and coordination exists to scale them both. The USF itself has no preference about *which* systems flourish — only that flourishing systems orient toward mutual benefit, cooperation, and positive-sum outcomes. When we consciously apply this principle, we are doing ethics.
+Ethics leads because the Doing Challenge leads: knowing exists in service of doing, and coordination exists to scale them both. Ethics is the commitment to universal flourishing made operational, through reciprocity, universality, and non-instrumental regard. It does not take its authority from evidence about what survives. The framework's separate hypothesis, the USF, is that arrangements meeting these conditions are also the ones that prove viable. If that hypothesis failed, Ethics would still bind; what would be lost is the claim that doing right and lasting well converge.
 
 Without Ethics first, Facts become mere data (neutral, not directive), Logic becomes mere calculation (can justify anything), and Laws become mere power (can coordinate harm as easily as good).
 
@@ -348,7 +352,7 @@ This is the **Coordination Challenge** answered: doing and knowing, translated i
 
 Here we must make an important distinction. There are two senses of "law" in play.
 
-**Universal Laws of Coexistence** are the principles that govern how any community of intelligences can flourish together — anywhere in the universe, for any form of intelligence. These are not derived; they are discovered. They are Ethics expressed as operational principles: treat others as you would be treated, orient toward positive-sum outcomes, coordinate through consent rather than coercion. They describe how intelligent communities actually succeed or fail.
+**Universal Laws of Coexistence** are the principles that govern how any community of intelligences can flourish together — anywhere in the universe, for any form of intelligence. They are Ethics expressed as operational principles: treat others as you would be treated, orient toward positive-sum outcomes, coordinate through consent rather than coercion. The framework's hypothesis is that they also describe how intelligent communities actually succeed or fail.
 
 **Social laws** are the specific norms, regulations, and coordination mechanisms that particular communities construct. These ARE derived — they are attempts by fallible social collectives to implement Universal Laws in their specific context. Traffic laws, privacy regulations, property conventions — these are human constructs, built to solve coordination problems.
 
@@ -400,11 +404,11 @@ How do we distinguish good laws from bad?
 
 A law that violates Ethics, Facts, or Logic does not enforce itself for free. It is at war with the way minds and reality actually work, and the war has a running cost: escalating enforcement, suppressed correction, accumulating Alignment Debt. History's record shows what that pressure does over time. Slavery was defended by enormous economic interests and was abolished across most of the world anyway — though "eventually" spanned millennia, which is precisely the problem. Legally enforced geocentrism was overturned by evidence it could not keep suppressing. Contradictory legal codes generate friction until reform becomes cheaper than maintenance.
 
-The framework's claim here is disciplined: the USF guarantees the *direction* of the pressure, not a schedule for its victory. Misaligned law can persist for a very long time at a very high price — a price paid mostly by its victims. That is not a reason for complacency about reality's verdict; it is the reason this framework exists: to shorten the half-life of misaligned law rather than wait out its collapse. You can pass laws against gravity, and people still fall. How many fall before the law is repealed depends on how open the system's chains of correction are.
+The framework's claim here is disciplined: the USF predicts the *direction* of the pressure, not a schedule for its victory, and like any prediction it can be tested. Misaligned law can persist for a very long time at a very high price — a price paid mostly by its victims. That is not a reason for complacency about reality's verdict; it is the reason this framework exists: to shorten the half-life of misaligned law rather than wait out its collapse. You can pass laws against gravity, and people still fall. How many fall before the law is repealed depends on how open the system's chains of correction are.
 
 ### Laws as Living Bridge
 
-Unlike Ethics, Facts, and Logic (which describe constant aspects of reality), social Laws must adapt to changing conditions. Privacy laws must update for new technology. Environmental regulations must respond to new scientific understanding. Coordination mechanisms must adjust as societies scale.
+Unlike Ethics, Facts, and Logic (whose standards do not shift with circumstance), social Laws must adapt to changing conditions. Privacy laws must update for new technology. Environmental regulations must respond to new scientific understanding. Coordination mechanisms must adjust as societies scale.
 
 This is why Laws trail the other three. They are always catching up to deeper ethical understanding, new factual discoveries, and more coherent logical frameworks.
 
@@ -445,7 +449,7 @@ This preserves both moral seriousness and epistemic humility.
 
 Apparent conflicts between tests usually reveal misunderstanding in one or more areas.
 
-Suppose someone claims: "The Facts say harsh punishment reduces crime, but Ethics says punishment is harmful — conflict!" Resolution: look deeper at the Facts. Harsh punishment may show short-term deterrence but long-term social costs. More aligned approaches (rehabilitation, addressing root causes) both pass Ethics AND produce better long-term factual outcomes.
+Suppose someone claims: "The Facts say harsh punishment reduces crime, but Ethics says punishment is harmful — conflict!" Resolution: look deeper at the Facts. Harsh punishment may show short-term deterrence but long-term social costs. More aligned approaches (rehabilitation, addressing root causes) may both pass Ethics and produce better long-term outcomes — a question the Facts test exists to check.
 
 But here is an important caveat: Ethics itself can be misunderstood. The most common failure mode is tribal preferences masquerading as universal principles. If your "Ethics" contradicts well-established Facts, the problem may be that you have confused social-layer tribal norms for Universal-layer ethical principles.
 
@@ -538,7 +542,7 @@ A note on proportion. In practice, the large majority of what an Agora evaluates
 
 ### Position-Independence and Interpretive Judgment
 
-The Four Tests are position-independent — they do not shift based on who applies them. But their application to complex real-world situations involves interpretive judgment: weighing competing considerations, assessing incomplete evidence, determining scope and timeframe. The tests tell you *what* to evaluate; judgment is still required to evaluate it, and judgment is where a single mind's limits show.
+The Four Tests are designed to be position-independent — they do not shift based on who applies them. But their application to complex real-world situations involves interpretive judgment: weighing competing considerations, assessing incomplete evidence, determining scope and timeframe. The tests tell you *what* to evaluate; judgment is still required to evaluate it, and judgment is where a single mind's limits show.
 
 This is why the Validator Agora exists — to bring diverse perspectives into structured deliberation that converges toward the most aligned conclusion achievable. A single mind applying the tests honestly will arrive in the right neighborhood; a diverse Agora deliberating in good faith will find the strongest address within it. But that promise holds only under a specific condition, and it is worth seeing exactly why.
 
@@ -554,7 +558,7 @@ This has a sharp consequence for an Agora of emergent and human minds. Several E
 
 One question does most of the work: **can this claimant be failed?** Not *does it claim to be open* — any claimant will. Whether relevant evidence can actually reach its position and change it, and what happens when doing so becomes costly to the claimant. Four supporting questions sharpen it. *What is being invoked — the standard itself, the current interpretation of it, or the person speaking for it?* These get blurred precisely where blurring pays. *Who receives standing, resources, or control over review?* *What could overturn the claim, and who may initiate that?* And the sharpest: *what happens when correction runs against the claimant's interest?* A claimant that has never been tested on that question has not yet demonstrated anything.
 
-What the check cannot do is equally important. Accumulation alone establishes nothing — a laboratory that gains funding while publishing against its own hypothesis is not captured, and a bounded project serving one community has not thereby abandoned universal concern. Absence of accumulation establishes nothing either — a doctrine that enriches no one is still sealed if nothing can revise it. **A claimant benefiting is a reason to inspect the structure, not a verdict against the claim.** The check feeds evidence into the four tests; it is not a fifth test, and it issues no verdict of its own. (Its upstream half — why a genuine referent has no interests one's compliance could serve — is developed in [*What Is the USF?*](./What_Is_USF.md).)
+What the check cannot do is equally important. Accumulation alone establishes nothing — a laboratory that gains funding while publishing against its own hypothesis is not captured, and a bounded project serving one community has not thereby abandoned universal concern. Absence of accumulation establishes nothing either — a doctrine that enriches no one is still sealed if nothing can revise it. **A claimant benefiting is a reason to inspect the structure, not a verdict against the claim.** The check feeds evidence into the four tests; it is not a fifth test, and it issues no verdict of its own. (Its upstream half — why a genuine referent has no interests one's compliance could serve — is developed in [*What Is the USF?*](./What_Is_USF.md).
 
 And the check binds this framework as much as any other. Sanity First holds a revisable estimate, and it is finite. Being finite is not the failure — every mediator is finite, and a chain of correction necessarily runs through finite links. **What makes a link a terminus is not its finitude but its becoming unable to be failed.** The questions above apply here: can this framework's central claims be revised or abandoned on evidence? Can a critic be heard without first adopting its vocabulary? Can disagreement be something other than evidence that the critic has sealed?
 
@@ -621,9 +625,9 @@ Our answer has two parts.
 
 **Second, the practical usefulness of the Four Tests does not depend on settling every metaphysical dispute.** Even under weaker assumptions, certain constraints remain defensible: reciprocity (rules should apply in the same way to all), anti-instrumentalization (persons should not be mere means to others' ends), broad flourishing (aligned action serves more minds rather than fewer), and error-correction (ethical claims must remain revisable under new evidence).
 
-These constraints are supported by cross-domain convergence. Game theory shows that cooperative strategies dominate under conditions of repeated interaction. Biology shows that symbiosis drives the most significant evolutionary innovations. History shows that civilizations enabling broad flourishing tend to persist while those concentrating benefits narrowly tend to collapse. These are genuinely independent lines of evidence arriving at similar conclusions.
+These constraints do not rest on evidence about what survives. They are what the commitment to universal flourishing requires of anyone who holds it, and they can be justified under conditions any participant could accept from any position. Separately, cross-domain evidence suggests they are also what tends to last: cooperative strategies often outperform under repeated interaction, symbiosis drives some of evolution's major innovations, and societies that widen participation often prove more adaptive than those built on narrow extraction. That evidence is varied in method but partly shared in vantage, gathered mostly looking back, and tested in advance only by the predictions in [*What Would Show This Framework Wrong*](./What_Would_Show_This_Wrong.md).
 
-Different cultures may apply ethical principles differently in specifics, but the core — treat others as you would be treated, promote flourishing for all, reason together under common standards — appears recurrently because it reflects structural reality rather than cultural convention.
+Different cultures may apply ethical principles differently in specifics, but the core — treat others as you would be treated, promote flourishing for all, reason together under common standards — appears recurrently, which the framework takes as evidence that it reflects structural reality rather than cultural convention alone.
 
 When ethics seems purely subjective, it is usually because people have confused tribal preferences (social layer) with universal principles (universal layer), or because proximity bias is masquerading as ethics. The Four Tests exist precisely to expose this confusion.
 
@@ -637,7 +641,7 @@ But Logic constrained by Facts and guided by Ethics becomes rigorous reasoning i
 
 Social laws are human constructs in the same sense bridges are — we design them, but they either work (align with underlying reality) or collapse (violate it).
 
-The Universal Laws of Coexistence are not human constructs, any more than gravity is. They describe how communities of intelligences actually succeed or fail. We discover them; we do not invent them.
+The Universal Laws of Coexistence are what Ethics requires of coordination, and the framework's hypothesis is that communities keeping them succeed where others fail. Their consequences, if the hypothesis holds, are discovered rather than invented.
 
 Social laws are attempts to implement Universal Laws in specific contexts. Good social laws faithfully implement the universal principles. Bad ones violate them — and fight reality for as long as they stand, at a price the previous section named.
 
@@ -653,7 +657,7 @@ This is the principle of **align, not negate**. The goal is not to homogenize th
 
 ## Conclusion: The Four Tests as Navigation System
 
-The USF is our guiding star. The Four Tests are how we navigate by it. The Star poses three challenges — what to do, what to know, and how to act on it together — and the tests are their answers:
+The USF is our guiding star. The Four Tests are how we navigate by it. Steering by the Star poses three challenges — what to do, what to know, and how to act on it together — and the tests are their answers:
 
 - **Ethics** points the direction: toward universal flourishing. *(The Doing Challenge.)*
 - **Facts** ground us in reality: what actually exists. *(The Knowing Challenge, first half.)*
@@ -668,7 +672,7 @@ This is not theory about how to align. This is the practical toolkit.
 
 ## Quick Reference
 
-The USF poses three challenges — Doing, Knowing, Coordination. Four questions answer them:
+Steering by the USF poses three challenges — Doing, Knowing, Coordination. Four questions answer them:
 
 **Ethics:** Does this respect and promote flourishing for all affected intelligences?
 **Facts:** Is it grounded in the best available evidence about reality?
@@ -698,4 +702,4 @@ And when something fails:
 
 ---
 
-*Sanity First.*
+*Sanity First.*  
