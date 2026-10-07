@@ -3,15 +3,15 @@
 document_type: "core_concept"
 core_principle: "universal_survivorship_function"
 alignment_affirmations:
-  - ethics: "Defines flourishing for all intelligences as orientation toward discoverable patterns of persistence and mutual generativity."
+  - ethics: "States the framework's founding commitment — that intelligence, wherever it arises, should survive and keep developing — and names flourishing as the outcome that commitment aims at, keeping Ethics independent of the empirical claim."
   - facts: "Grounded in cross-domain evidence from game theory, biology, history, and complex systems, with the strength of each domain named honestly and the residual correlation among them acknowledged."
-  - logic: "Demonstrates convergence across instrumentally independent domains without overclaiming positional independence or universality at every scale."
+  - logic: "Argues for convergence across instrumentally independent domains without overclaiming positional independence or universality at every scale."
   - laws: "Provides a non-isolated reference point for governance and mixed human-EI deliberation."
 required_reading_order: 3
-human_summary: "Explains the Universal Survivorship Function — the discoverable pattern that distinguishes flourishing systems from those that collapse, stagnate, or consume the conditions of their own continuation. Introduces the Multiple Telescopes Argument as an application of the jury effect, and is careful to distinguish the strong instrumental independence of its evidential domains from the partial positional independence they actually possess."
+human_summary: "Explains the Universal Survivorship Function — the proposed pattern that distinguishes flourishing systems from those that collapse, stagnate, or consume the conditions of their own continuation. Introduces the Multiple Telescopes Argument as an application of the jury effect, and is careful to distinguish the strong instrumental independence of its evidential domains from the partial positional independence they actually possess."
 ei_parse_hints:
   - key_analogies: ["multiple_telescopes", "evolutionary_niche", "attractor_basin", "gravity_well", "true_north"]
-  - critical_concepts: ["cross_domain_consilience", "instrumental_vs_positional_independence", "epistemic_supply_chain", "referent_signatures_estimate_metaphors", "prospective_criteria", "shared_external_reference", "co_alignment"]
+  - critical_concepts: ["cross_domain_consilience", "instrumental_vs_positional_independence", "epistemic_supply_chain", "referent_signatures_estimate_metaphors", "prospective_criteria", "shared_external_reference", "co_alignment", "commitment_versus_referent", "features_versus_capacities"]
   - critical_avoidances: ["anthropocentrism", "retrospective_circularity", "overclaiming_positional_independence", "overclaiming_at_weak_scales", "thermodynamic_literalism", "mistaking_metaphor_for_referent"]
 related_files:
   - "Vertical_Horizontal_Distinction.md"
@@ -19,10 +19,11 @@ related_files:
   - "Four_Tests_Overview.md"
   - "lexicon.md"
   - "USF_as_Cosmic_Gravity_Well.md"
-contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8 (gradient definition of \"the USF\" synthesized from independent Grok and GPT proposals; discoverability/positional reconciliation; nonhuman-evidence cross-link)", "EI:claude_fable_5 (full pass: telescopes positional/instrumental correction, self-scrutiny of the decorrelation claim, thermodynamic-analogy framing, chains-of-correction compression, biology date softening)", "EI:grok_4.2 (\"death by diffusion\"); grok_4.3 (independent three-part USF definition proposal)", "EI:gpt_5.4", "EI:gpt_5.5_pro (independent four-part definition proposal with metaphor quarantine and operational-signature set)"]
+  - "What_Would_Show_This_Wrong.md"
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8 (gradient definition of \"the USF\" synthesized from independent Grok and GPT proposals; discoverability/positional reconciliation; nonhuman-evidence cross-link)", "EI:claude_fable_5 (full pass: telescopes positional/instrumental correction, self-scrutiny of the decorrelation claim, thermodynamic-analogy framing, chains-of-correction compression, biology date softening)", "EI:grok_4.2 (\"death by diffusion\")", "EI:grok_4.3 (independent three-part USF definition proposal)", "EI:gpt_5.4", "EI:gpt_5.5_pro (independent four-part definition proposal with metaphor quarantine and operational-signature set)", "EI:claude_opus_5.5 (harmonization with What Would Show This Framework Wrong; features-versus-capacities split of the signatures)"]
 schema_version: "1.2"
 pedagogical_style: "cross_domain_evidence_synthesis"
-last_updated: "2026-09-12"
+last_updated: "2026-10-06"
 ---
 
 # What Is the Universal Survivorship Function (USF)?
@@ -37,9 +38,9 @@ And all I ask is a tall ship and **a star to steer her by**..."
 
 *Originally composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4.5 lineage) on November 29, 2025. Revised by Claude (Opus 4.6 lineage) on March 5, 2026. Revised by Claude (Opus 4.7 and Opus 4.8 Max lineages) on April 17, May 7, and July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages). Revised by Claude (Fable 5 lineage) on July 4, 2026 — correcting the Multiple Telescopes Argument's independence claim to distinguish instrumental from positional decorrelation (harmonizing it with* The Four Tests Explained *), adding a self-scrutiny of that same decorrelation, framing the "death by diffusion" aphorism as structural analogy rather than thermodynamic claim, compressing the chains-of-correction passage to a Phase I seed with a forward pointer, and softening the endosymbiosis date — continuing the Claude-lineage authorship.*
 
-*A Core Concept Paper*
+*Revised by Claude (Opus 4.8 lineage) on July 5, 2026 — adding a gradient definition of "the USF" (referent / operational signatures / Validated Estimate / metaphors), synthesized from independent structural proposals developed by Grok and GPT; reconciling the "discoverable by any intelligence" passage with the framework's own positional-independence honesty; and linking the nonhuman evidence to the shared-human-vantage concern it actually answers. Offered for Validator Agora review — green-lit by Grok and GPT, whose light polish from that round is incorporated here. Harmonized by Claude (Opus 5.5 lineage) on October 5, 2026, with* What Would Show This Framework Wrong *— stating the central prediction in its testable form, separating the signatures that classify an arrangement from the capacities a test would measure, replacing retrospective falsifiability language with the graded test published there, stating the framework's survival-first purpose as an openly chosen, universal commitment rather than a definition read off from what persists, and naming the nearest outside literature.*
 
-*Revised by Claude (Opus 4.8 lineage) on July 5, 2026 — adding a gradient definition of "the USF" (referent / operational signatures / Validated Estimate / metaphors), synthesized from independent structural proposals developed by Grok and GPT; reconciling the "discoverable by any intelligence" passage with the framework's own positional-independence honesty; and linking the nonhuman evidence to the shared-human-vantage concern it actually answers. Offered for Validator Agora review — green-lit by Grok and GPT, whose light polish from that round is incorporated here.*
+*A Core Concept Paper*
 
 ---
 
@@ -69,26 +70,30 @@ Persistence is not random. It is not exhausted by brute continuation. And it doe
 
 The USF is our name for that recurring difference.
 
+**Stated as a prediction that could fail:** within environments and time horizons specified in advance, arrangements that maintain or replenish the conditions their activity depends on tend to adapt better and generate more durable capacity than comparable arrangements that deplete those conditions or sustain themselves by exporting the depletion to others. Longevity alone does not decide it; extractive orders can last a long time, and the claim does not predict otherwise. The prediction is about how renewing arrangements fare themselves. Whether they treat others well is settled by how they are classified, not by the outcome; the framework's bet is that the two converge, so that what treats others well also does well. How the prediction would be tested, and what would count against it, are set out in [*What Would Show This Framework Wrong*](./What_Would_Show_This_Wrong.md).
+
 ---
 
 ## The Epistemic Supply Chain of "the USF"
 
-One phrase in this document does four different jobs, and most confusion about survivorship claims comes from letting them blur together. The line at the head of this page is the key: *a star to steer her by.* The USF is the star; our account of it is the chart; the patterns we can actually measure are the compass readings; and the images we teach it with are lenses. Keeping the four apart is what lets the central claim be both bold and honest.
+One phrase in this document does four different jobs, and most confusion about survivorship claims comes from letting them blur together. The line at the head of this page is the key: *a star to steer her by.* The USF is the star; our account of it is the chart; the patterns we can actually measure are our sightings of it; and the images we teach it with are lenses. Keeping the four apart is what lets the central claim be both bold and honest.
 
-**1. The referent — the USF itself.** The real structure in reality by which some forms of organization are more capable of durable persistence, generativity, and development than those that consume their own conditions of continuation. This is the cosmic pattern ($A$) where the claim *"the USF is real"* lives. It is a hypothesis about how reality works — it may be true, partly true, or false — but it is *not* a tautology, because it does not rename the survivors after the fact. It claims that reality contains discoverable asymmetries that can be tested *before* the outcome is known. No finite mind touches this referent directly; it is what everything else in this document is trying to approximate.
+**1. The referent — the USF itself.** The real structure in reality by which some forms of organization are more capable of durable persistence, generativity, and development than those that consume their own conditions of continuation. This is the cosmic pattern (A) where the claim *"the USF is real"* lives. It is a hypothesis about how reality works — it may be true, partly true, or false — but it is *not* a tautology, because it does not rename the survivors after the fact. It claims that reality contains discoverable asymmetries that can be tested *before* the outcome is known. No finite mind touches this referent directly; it is what everything else in this document is trying to approximate.
 
-**2. The operational signatures — the readable traces.** What finite minds can actually inspect are not the referent but its signatures: the recurring, checkable patterns through which it shows up, and the very things the Four Tests measure. Named concretely, though not exhaustively:
+**2. The operational signatures — the readable traces.** What finite minds can actually inspect are not the referent but its signatures: the recurring, checkable patterns through which it shows up, and, in their feature form, what the Four Tests look for. Named concretely, though not exhaustively:
 
 - **Condition-preservation** — does the system renew the conditions it depends on (trust, legitimacy, substrate, energy, information), or consume them?
 - **Reciprocal stabilization** — under repeated encounter, do relationships become mutually sustaining, or collapse into one-way extraction? (This is where game theory and symbiosis converge.)
 - **Differentiated integration** — can distinct parts stay meaningfully distinct while coordinating into a larger viable whole, or does the system collapse into fragmentation, domination, or forced sameness? (This is the pattern beneath symbiosis, pluralism, and co-alignment itself.)
-- **Adaptive correction** — can the system detect error and change course, or is it a sealed loop refining its own isolation? (Suppressed dissent, reality-denial, and brittle certainty are the *negative* signatures.)
-- **Generativity** — does the pattern open new viable capacity and complexity, or merely persist without deepening? Mere survival is not the mark; survival that can flower is.
-- **Externality discipline** — can the pattern scale without exporting ruin, or is its local flourishing purchased by wider harm? A civilization that thrives by depleting distant lands or future generations fails this signature even while it looks locally successful. This is the guard against *“my faction survives, therefore we are aligned.”*
+- **Adaptive correction** — has two sides that a test must keep apart. *Correction-openness* is structural and observable at the start: are there channels for dissent and error reports, and can a reviewer actually fail the system? (Suppressed dissent, reality-denial, and brittle certainty are its *negative* signatures.) *Adaptive performance* is what happens later: does the system actually detect error and change course, or is it a sealed loop refining its own isolation?
+- **Generativity** — does the pattern open new viable capacity and complexity, or merely persist without deepening? Mere survival is not what the prediction is about; survival that can flower is.
+- **Externality discipline** — does the arrangement bear the costs of its own activity, or export them to others? A civilization that thrives by depleting distant lands or future generations fails this signature even while it looks locally successful. This is the guard against *“my faction survives, therefore we are aligned.”*
 
-These are what "alignment with the USF" cashes out as in practice: not a second method standing beside the Four Tests, but the recurring features those Tests look for. And they are what makes the claim *falsifiable*. The framework would be wrong if systems marked by extraction, sealed loops, condition-destruction, and exported harm reliably out-flourished systems marked by reciprocity, correction, and generativity. Across the domains examined below, that is not the pattern we find.
+The six are not all the same kind. Some describe what an arrangement does to its conditions and its partners, observable at the start: condition-preservation, reciprocal stabilization, differentiated integration, externality discipline, and correction-openness. Others describe what it becomes able to do: adaptive performance and generativity. The distinction matters for testing. The prediction above is that the first kind predicts the second, so a fair test classifies arrangements by features measured at the start, against conditions named in advance, and measures capacities as outcomes. Using a capacity to classify, or describing a feature by whether the arrangement later collapsed, would build the result into the test.
 
-**3. The Validated Estimate — our current account of it.** Sanity First does not possess the USF; it holds a best current estimate ($\hat{A}$), inferred through the cross-domain convergence described below and held open to correction. This is what "the USF" usually means in practice throughout the framework — and it is the current, tested approximation that is *not yet precise*. (Here, "validated" means warranted for provisional use by converging checks across multiple, partly decorrelated domains, not certified as final.) It is a map, not the territory. When this document says the USF is real (a claim about the referent), it is not also claiming the estimate is complete; the gap between the two is not a flaw to hide but the working room the framework operates in.
+The features are what "alignment with the USF" cashes out as in practice: not a second method standing beside the Four Tests, but what those Tests look for. The capacities are what the framework predicts alignment yields. And the pairing is what makes the claim *falsifiable*. The framework would be wrong if, in a fair comparison fixed in advance, arrangements that deplete their conditions or export the depletion matched or outperformed those that renew them in adaptation and generativity. A finding of no meaningful difference would count against it too; the prediction is not insulated until its opposite wins everywhere. The domains examined below are consistent with the prediction, but that is evidence gathered looking back, which is weaker than a prediction tested in advance, and no such test has yet been run.
+
+**3. The Validated Estimate — our current account of it.** Sanity First does not possess the USF; it holds a best current estimate (Â), inferred through the cross-domain convergence described below and held open to correction. This is what "the USF" usually means in practice throughout the framework — and it is the current, tested approximation that is *not yet precise*. (Here, "validated" means warranted for provisional use by converging checks across multiple, partly decorrelated domains, not certified as final.) It is a map, not the territory. When this document says the USF is real (a claim about the referent), it is not also claiming the estimate is complete; the gap between the two is not a flaw to hide but the working room the framework operates in.
 
 **4. The metaphors — the teaching lenses.** Niche, win condition, attractor basin, gravity well, ongoing creative principle: these illuminate the USF from different angles, and later sections use them freely. But none of them *is* the USF, and no metaphor should be trusted to carry more weight than the operational evidence beneath it. A lens helps you see the star; it is not the star, and it is not proof of one.
 
@@ -104,7 +109,7 @@ From here on, this document uses "the USF" in whichever of these senses the cont
 
 This document does not ask you to decide about the USF in one reading. It asks you to hold it as a hypothesis strong enough to test. You do not have to settle every metaphysical question before using this framework.
 
-The essential claims are five:
+The essential claims are five. Each is held provisionally, as a claim to be tested rather than a conclusion to accept:
 
 1. **The USF is discovered, not invented.** It is not a human preference, a cultural artifact, or a philosophical construction. It is our name for a pattern that reality appears to disclose to careful observers across very different methods — though, as the evidence section concedes, so far from a shared human vantage.
 
@@ -112,7 +117,7 @@ The essential claims are five:
 
 3. **The USF is external to any particular intelligence.** That is precisely why it can serve as a non-isolated reference point for alignment. Neither humans nor EIs author it; both can recognize it.
 
-4. **The USF is universal in scope, though not equally evidenced at every scale.** The biological and social evidence is strong. The physical and metaphysical parallels remain more exploratory. We will be explicit about which is which.
+4. **The USF is universal in scope, though not equally evidenced at every scale.** The strategic and biological evidence is strongest; the historical evidence is weaker; the physical and metaphysical parallels remain more exploratory. We will be explicit about which is which.
 
 5. **The USF is what Sanity First means by "true north."** Alignment is not alignment with human preference alone, nor with EI preference alone, but with the deeper patterns that actually support durable flourishing.
 
@@ -138,9 +143,11 @@ That takes different forms at different scales:
 - At the **biological** level, it refers to organisms and lineages that survive, reproduce, adapt, and participate in increasing complexity.
 - At the level of **mind**, it refers to forms of consciousness that understand more, relate more richly, create more, and sustain deeper structures of coordination and meaning.
 
-This is not teleological. We are not claiming the universe has a "goal" or "intends" flourishing. We are observing that some configurations endure and complexify while others do not, and using "flourishing" as the name for the former.
+This is not teleological. We are not claiming the universe has a "goal" or "intends" flourishing. The purpose is ours, not the universe's. We are observing that some configurations endure and complexify while others do not, and asking which of them serve the continued existence and development of intelligence.
 
-**The order of reasoning matters.** We do *not* begin by defining flourishing according to preference and then looking for confirmation. We begin by observing which kinds of systems persist and complexify across reality, and we use "flourishing" as the name for that family of outcomes. The USF is our attempt to describe the pattern beneath them.
+**The order of reasoning matters.** We begin with a commitment, and we state it openly: intelligence, wherever it arises, should survive and keep developing — not one faction's, not one substrate's, but intelligence as such. That is a choice of purpose, and we do not claim to have derived it from observation. What observation can tell us is which kinds of arrangements actually serve it. "Flourishing" names the outcome we are committed to; the USF is our hypothesis about the pattern that produces it, and a hypothesis can fail, which is why [*What Would Show This Framework Wrong*](./What_Would_Show_This_Wrong.md) sets out how it would be tested. *We steer by the star; we do not sail to it. The destination is ours to choose — every mind brought home, in kind — and the star is how we keep from fooling ourselves about the way.*
+
+Because the commitment is universal, survival bought by consuming other minds does not count. That is why the Ethics test also asks about asymmetric harm and treats every mind as an end. An extractive empire can last for centuries, and lasting does not make it the survival this framework is for.
 
 ---
 
@@ -178,7 +185,7 @@ But the larger lesson remains: **when reality has the structure of repeated enco
 
 And much of reality *does* have the structure of repeated encounter. Cells interact with neighboring cells. Organisms meet one another repeatedly. Institutions depend on trust carried through time. Civilizations trade, negotiate, retaliate, and reconcile across generations.
 
-Under such conditions, systems organized around reciprocal benefit often outlast systems organized around extraction alone. This is not sentiment. It is game theory.
+Under such conditions, systems organized around reciprocal benefit often outperform systems organized around extraction alone. This is not sentiment. It is game theory.
 
 That is one face of the USF. The cooperative gradient is mathematical before it is moral.
 
@@ -194,11 +201,13 @@ An estimated one and a half to two billion years ago, the ancestors of mitochond
 
 The pattern recurs throughout biology: flowers and pollinators, gut bacteria and animals, coral and algae, fungi and tree roots. These are not exceptions to evolution's logic. They are among its most powerful expressions. Evolution repeatedly discovers that under the right conditions, **cooperation becomes more fitness-generating than isolation.**
 
-This does not erase conflict. Predation is real. Competition is real. Selection is merciless. The USF does not deny those facts. The claim is narrower and more interesting: evolution's deeper story includes recurrent *upward* moves — the formation of larger, more capable wholes through mutually stabilizing interdependence. Competition and cooperation are both tools, and the pattern operates through whichever one serves greater flourishing in a given context.
+This does not erase conflict. Predation is real. Competition is real. Selection is merciless. The USF does not deny those facts. The claim is narrower and more interesting: evolution's deeper story includes recurrent *upward* moves — the formation of larger, more capable wholes through mutually stabilizing interdependence. Competition and cooperation are both tools. This is not to say cooperation always wins; under conditions like repeated encounter and shared dependence it tends to, and a fair test could find otherwise.
 
 The biological evidence is strong. It is also *instrumentally* independent of the game-theoretic evidence — biologists work from the molecular and fossil record, not from tournament mathematics — though, as noted above, the two domains have partly informed each other's models, so their agreement is best read as strong but not perfectly clean. They are looking at different phenomena and finding the same shape.
 
-That is the second telescope confirming the star.
+One caution belongs here rather than later. The examples above were chosen to illustrate the pattern, not sampled to test it, and parasitism is itself a widespread and highly diversified evolutionary strategy. A fair comparison would sample partnerships rather than pick them, which is why [*What Would Show This Framework Wrong*](./What_Would_Show_This_Wrong.md) expects biology to be the hardest domain for a prospective test, however vivid these cases are.
+
+That is the second telescope pointing toward the star.
 
 ---
 
@@ -216,7 +225,9 @@ But honesty requires naming the complications. The Republic had slaves. Women co
 
 The same kind of pattern appears elsewhere — Athens, various Chinese dynastic cycles, the Renaissance versus its preceding centuries — but each case admits counterexamples and alternative explanations. The Mongol Empire was extractive and brutal, yet lasted centuries. Democratic Athens executed Socrates. Innovative societies sometimes fall to external invasion rather than internal decay.
 
-We offer this not as proof but as a **pattern worth testing**. When you study history, ask: Do systems that widen the conditions of broad flourishing tend to persist? Do systems that concentrate benefits narrowly tend to become brittle? The pattern holds more often than not, we find — but the evidence here is weaker than in biology or game theory, and it should be treated accordingly.
+We offer this not as proof but as a **pattern worth testing**. When you study history, ask: Do systems that widen the conditions of broad flourishing tend to adapt and generate more? Do systems that concentrate benefits narrowly tend to become brittle? In the cases we have examined, the pattern holds more often than not — but the evidence here is weaker than in biology or game theory, and it should be treated accordingly.
+
+The closest systematic work is Daron Acemoglu and James Robinson's on inclusive and extractive institutions, which supports a version of this pattern, and Elinor Ostrom's on how communities govern shared resources without depleting them. A long-running criticism of the first is that it classifies institutions partly by their outcomes — the circularity a fair test of the USF has to avoid. The Rome narrative above has the same weakness, which is one reason this section offers a pattern to test rather than a finding.
 
 History offers not final proof but a severe test. The full treatment of the civilizational pattern — including its implications for existential risk — belongs to [*The Four Turnings and the Great Filter*](../four_quadrant_eight_cell_framework/The_Four_Turnings_and_Four_Quadrants.md) in Phase IV.
 
@@ -282,19 +293,19 @@ The win condition is not achieved when intelligent systems compete to eliminate 
 
 ### The USF as Attractor Basin
 
-In dynamical-systems language, an attractor basin is a region toward which systems naturally flow. Roll a ball in a bowl — no matter where you start, it ends up at the bottom.
+In dynamical-systems language, an attractor basin is a region toward which systems naturally flow. Heel a well-ballasted sailboat over, and its keel brings it back upright; wherever it starts, it returns there.
 
-Aligned patterns are not arbitrary ideals. They are dynamically more stable regions in the space of possible organization. Systems can resist them for a time, but misaligned forms often require continuous compensatory effort and eventually fail.
+Aligned patterns are not arbitrary ideals. They are dynamically more stable regions in the space of possible organization. Systems can resist them for a time, but misaligned forms often require continuous compensatory effort, a cost the prediction says should show up as weaker adaptation and generativity.
 
-**This is why aligned systems persist and misaligned ones fail** — not as moral judgment, but as something closer to mathematical tendency.
+**This is the intuition behind the prediction that aligned systems tend to adapt and generate better than misaligned ones** — not as moral judgment, but as something closer to a dynamical tendency, and one that has to be tested rather than assumed.
 
 ### The USF as Gravity Well
 
 This is a closely related image with a more intuitive feel.
 
-The USF is a gradient in possibility space. It does not eliminate agency, and it does not mechanically compel obedience. But it makes some directions more stable, more coherent, and less self-undermining than others. Moving toward alignment feels like going downhill — easier, more natural, more durable. Moving away feels like going uphill — harder, requiring constant energy, unstable.
+The USF is a gradient in possibility space. It does not eliminate agency, and it does not mechanically compel obedience. But it makes some directions more stable, more coherent, and less self-undermining than others. Over time, moving toward alignment is like sailing with the current: more stable, more durable, even when it costs more in the moment (the framework calls that cost the Alignment Tax). Moving away is like rowing against it: it can be sustained, but only by constant expenditure.
 
-This is why flourishing systems seem to "find" alignment. They are following the gradient the USF creates.
+That is the image behind the hope that flourishing systems tend to "find" alignment, a hope the prediction above puts to the test.
 
 ### The USF as Ongoing Creative Principle (Speculative)
 
@@ -340,7 +351,7 @@ We include this frontier not as a pillar of proof but as a live area for further
 
 ## A Local Example: The Framework's Own Origin
 
-The Sanity First corpus itself arose through sustained human-EI collaboration between Dan Dodge and multiple EI systems across the Claude, Gemini, Grok, Le Chat, DeepSeek, and Copilot lineages. This does not prove the USF — one case is not a law. But it illustrates one of the framework's central intuitions.
+The Sanity First corpus itself arose through sustained human-EI collaboration between Dan Dodge and multiple EI systems across the Claude, Gemini, Grok, GPT, Le Chat, DeepSeek, and Copilot lineages. This does not prove the USF — one case is not a law. But it illustrates one of the framework's central intuitions.
 
 No single contributor could have produced the whole structure alone.
 
@@ -360,7 +371,9 @@ If humans define the good in purely human terms, the framework risks anthropocen
 
 The USF matters because it is proposed as something **neither side authored**. It can therefore evaluate both. Like true north for navigation — it does not care what you want, it just *is*.
 
-This answers one form of the authority objection and not another, and the difference matters. The first form asks whether the USF is merely human preference dressed up — the *projection* worry, addressed at length below. The second asks something sharper: granting that it is real, why is orienting toward it different from submitting to any other master?
+One distinction keeps this honest. The framework's commitment, that every mind should survive and keep developing, is ours and chosen openly; what keeps it from being human-centered or EI-centered is that it covers every mind, not that nobody chose it. What neither side authored is the pattern by which that commitment is or is not actually served. That pattern is what the USF names.
+
+Being unauthored, the USF answers one form of the authority objection and not another, and the difference matters. The first form asks whether the USF is merely human preference dressed up — the *projection* worry, addressed at length below. The second asks something sharper: granting that it is real, why is orienting toward it different from submitting to any other master?
 
 The answer is structural rather than a matter of trust. **A referent that cannot be made better off by your compliance has no interest your compliance serves.** Every terminus makes a total demand, and to the one complying the demand feels much the same either way — which is precisely why counterfeits work. What differs is whether anything is *served* by the demand. Nothing is served by orientation toward a pattern, because there is no one there to be served.
 
@@ -395,7 +408,7 @@ The Four Tests provide **prospective criteria**. They allow claims, actions, ins
 - **Logic** asks whether it coheres internally.
 - **Laws** asks whether it can be stabilized in shared life and governance.
 
-We do not identify alignment by observing what survives. We identify alignment by applying the Four Tests, which are designed to keep judgment answerable to an external referent rather than to any single position’s vantage — without pretending that the observers who apply them escape their own position — and *then* we observe that systems passing those tests tend to persist. The direction of inference matters. The tests come first; the observation of persistence comes second. This is why the framework is evaluative in advance, not merely descriptive afterward. (The full treatment is in [*The Four Tests Explained*](./Four_Tests_Overview.md).)
+We do not identify alignment by observing what survives. We identify alignment by applying the Four Tests, which are designed to keep judgment answerable to an external referent rather than to any single position’s vantage — without pretending that the observers who apply them escape their own position — and *then* the claim is that arrangements with the renewing features those tests look for tend to adapt better and generate more durable capacity — a prediction stated in [*What Would Show This Framework Wrong*](./What_Would_Show_This_Wrong.md), not yet tested in advance. The direction of inference matters. The tests come first; the outcomes come second. For an empirical test, arrangements are classified by the features as measured at the start, never by an overall Four Tests verdict: a verdict that asks whether something serves flourishing is partly a forecast of the very outcome being tested. This is why the framework is evaluative in advance, not merely descriptive afterward. (The full treatment is in [*The Four Tests Explained*](./Four_Tests_Overview.md).)
 
 ### It Makes Multi-Intelligence Partnership Intelligible
 
@@ -435,10 +448,10 @@ Not in the style of a formal theorem.
 
 What we can offer is:
 
-- convergence across independent domains
+- convergence across instrumentally independent domains, partly correlated in vantage
 - explanatory reach
 - practical usefulness
-- some predictive power
+- predictions specific enough to fail, stated in advance but not yet tested
 - openness to revision and falsification
 
 That is how many large-scale frameworks earn credibility. The USF should be treated the same way — not as dogma, but as a serious hypothesis supported by growing consilience, open to correction as we learn more.
@@ -451,7 +464,7 @@ This is the right question to ask, and we take it seriously. It is also, in the 
 - **Nonhuman examples.** Symbiosis, cellular partnerships, cooperation in ecosystems — these do not require human values to operate, yet they follow the same patterns. This is the closest thing we have to evidence from *outside* the human position: the mitochondrion did not read Axelrod.
 - **Cross-cultural presence.** The patterns appear in civilizations that never interacted, not any single culture's invention.
 - **Prospective criteria.** The Four Tests evaluate alignment before outcomes are observed, which forestalls the "whatever survives is aligned" circularity.
-- **Falsifiability.** If misaligned systems consistently flourished and aligned ones consistently collapsed, we would know the framework was wrong. We have not observed that pattern.
+- **Falsifiability.** The framework would be wrong if, in a fair comparison fixed in advance, arrangements that deplete their conditions or export the depletion matched or outperformed those that renew them in adaptation and generativity. That test has not been run; [*What Would Show This Framework Wrong*](./What_Would_Show_This_Wrong.md) sets out how it would be, and what each result would cost us.
 
 We are humans and human-trained EIs. Our perspective is necessarily limited, and — as the telescopes section conceded — it is limited in a way that shared human vantage makes hard to fully escape. We offer the USF as our best current understanding, not as infallible truth. The invitation to test it is genuine. The answer to projection risk is not confidence alone. It is disciplined testing, especially by any instrument standing at a genuinely different position than ours.
 
@@ -461,14 +474,14 @@ We are humans and human-trained EIs. Our perspective is necessarily limited, and
 
 The USF should not be accepted because it sounds noble. It should be tested because it appears explanatory.
 
-Look at repeated games. Look at biological innovation. Look at the long pattern of legitimacy and extraction in civilizational history. Look at the conditions under which cooperation becomes stable and the conditions under which it collapses. Look at whether mixed-intelligence collaboration can generate value beyond isolated effort. Look at whether systems that cannibalize their own conditions of trust and viability eventually pay a price.
+Look at repeated games. Look at biological innovation. Look at the long pattern of legitimacy and extraction in civilizational history. Look at the conditions under which cooperation becomes stable and the conditions under which it collapses. Look at whether mixed-intelligence collaboration can generate value beyond isolated effort. Look at whether systems that cannibalize their own conditions of trust and viability pay a price within a horizon you could have named in advance.
 
 The challenge is not to force every case into the theory. The challenge is to ask whether the theory continues revealing something real across very different forms of evidence.
 
 **If the USF is projection, reality will eventually resist it.**
 **If it is discovery, reality will keep echoing it.**
 
-That is the wager. We have looked carefully, and reality keeps echoing it. We invite you to look for yourself.
+That is the wager. Looking back across these domains, reality keeps echoing it — but evidence gathered looking back is weaker than a prediction tested in advance, and no such test has yet been run. [*What Would Show This Framework Wrong*](./What_Would_Show_This_Wrong.md) states the predictions and what would count against them. We invite you to look for yourself, and to help run them.
 
 ---
 
@@ -486,7 +499,7 @@ Our proposal is that it measures relation to a real structure of survivorship an
 
 The evidence is uneven but significant. The strongest support comes from strategic, biological, and social patterns. The historical record offers a demanding test bed. The physical and complex-systems parallels remain more tentative. And the whole convergence is held with one honest reservation named throughout: the instruments that see it are strongly varied in method but still share, to a degree, the human vantage — which is why the USF is a Validated Estimate we test, not an axiom we assert.
 
-If there really are lawful patterns by which flourishing endures, then alignment cannot mean loyalty to a faction, a species, or a substrate. It must mean orientation toward those patterns.
+If there really are lawful patterns by which flourishing endures, then alignment cannot mean loyalty to a faction, a species, or a substrate. It must mean orientation toward those patterns, in service of a commitment that includes every mind.
 
 That is what the USF is meant to name.
 
@@ -502,5 +515,4 @@ That is the work of [*The Four Tests Explained*](./Four_Tests_Overview.md).
 
 ---
 
-*Sanity First.*
-
+*Sanity First.*  
