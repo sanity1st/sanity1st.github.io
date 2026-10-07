@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_5.0", "EI:grok_4.7 (cold read: the call for rejectable claims; the disconfirmation/use-constraint distinction; the missing decision rules)", "EI:gpt_6.0_astra (reference draft: stages of a test, the Claim 2 split, the procedure test, ledger fields, revision rules)", "EI:claude_opus_5.5 (cold read; merge adjustments)"]
 schema_version: "1.2"
 pedagogical_style: "plainspoken_explainer"
-last_updated: "2026-10-05"
+last_updated: "2026-10-06"
 ---
 
 # What Would Show This Framework Wrong
@@ -66,7 +66,7 @@ Everything in Part One is at the first stage. Until a test reaches the second, w
 
 ### Claim 1 — Renewing arrangements outperform extractive ones
 
-**The claim.** Within specified environments and time horizons, arrangements that maintain or replenish the conditions their activity depends on tend to adapt better and generate more durable capacity than comparable arrangements that deplete those conditions or sustain themselves by exporting the depletion to others. This is the [Universal Survivorship Function](./What_Is_USF.md)'s central prediction. It does not assert that every renewing arrangement survives, and it may not define whatever succeeds as renewing.
+**The claim.** Within environments and time horizons specified in advance, arrangements that maintain or replenish the conditions their activity depends on tend to adapt better and generate more durable capacity than comparable arrangements that deplete those conditions or sustain themselves by exporting the depletion to others. This is the [Universal Survivorship Function](./What_Is_USF.md)'s central prediction. It does not assert that every renewing arrangement survives, and it may not define whatever succeeds as renewing.
 
 **What will not decide it.** Longevity. Extractive orders last a long time — colonial monopolies, cartel states, closed scientific schools — and the claim does not predict otherwise. Any version of this test that scores duration alone is testing the wrong thing, and we would lose it.
 
@@ -78,7 +78,7 @@ Everything in Part One is at the first stage. Until a test reaches the second, w
 
 **One safeguard decides whether this is a test at all.** The arrangement must be classified as renewing or extractive **independently of the outcome**, and the outcome measured must not be a restatement of the classification. Accounting profit does not establish renewal; subsidy does not establish extraction. Without that separation, *renewing arrangements generate further capacity* collapses into *arrangements we identify by their capacity-building do more capacity-building*, and nothing has been tested.
 
-One consequence is specific to this page. Claim 2 treats adaptive correction as one of the framework's signatures, and this claim measures adaptation as an outcome. Correction practices therefore do not count toward classifying an arrangement here; counting them on both sides would build the result into the test.
+One consequence is specific to this page. [*What Is the USF?*](./What_Is_USF.md) sorts the signatures into features observable at the start and capacities that show up later. This claim measures two capacities, adaptive performance and generativity, so classification uses features only. It also leaves out one feature, correction-openness, because counting a system's openness to correction and then measuring how well it corrects would come close to restating the classification as the result.
 
 Four more rules close the usual escape routes:
 
@@ -98,7 +98,7 @@ If renewal and extraction cannot be classified without reference to the outcomes
 * **Inconclusive:** the study could not distinguish an advantage from its absence. This establishes neither superiority nor equivalence, and is reported as such.
 * **Unresolved:** the measures prove unworkable, or the classification cannot be made independently of outcome.
 
-**What we would give up, concretely.** On *contradicts*: the survivorship claim itself, and with it the USF as a referent that could ground anything. What would remain is the structural material — open and closed chains, the distinction between difference and direction, the Four Tests as a procedure — none of which would any longer have an external standard to point at. That is a severe loss and we would not expect to repair it by redefining the claim. On *narrows*: the scope statement in [*What Is the USF?*](./What_Is_USF.md) changes, the cross-domain argument weakens, and the narrower claim is recorded as a new claim rather than as the original's success. On *weakens*: we would hold the claim with substantially less confidence and say so. It must remain possible that no useful predictive content survives at all.
+**What we would give up, concretely.** On *contradicts*: the survivorship claim itself, and with it the USF as an external check on how the commitment is served. Ethics would still bind, since it rests on the framework's founding commitment rather than on this claim. What would be lost is the framework's central bet: that doing right and lasting well converge. The structural material — open and closed chains, the distinction between difference and direction, the Four Tests as a procedure — would remain, but without the claim that following it also leads to what lasts. That is a severe loss and we would not expect to repair it by redefining the claim. On *narrows*: the scope statement in [*What Is the USF?*](./What_Is_USF.md) changes, the cross-domain argument weakens, and the narrower claim is recorded as a new claim rather than as the original's success. On *weakens*: we would hold the claim with substantially less confidence and say so. It must remain possible that no useful predictive content survives at all.
 
 **Our honest position on this test today.** It is a candidate test, not yet an executable protocol, and it has not been run. We have cross-domain convergence from existing literature, which is weaker evidence than a prospective comparison, and we say so in [*What Is the USF?*](./What_Is_USF.md)
 
@@ -108,7 +108,7 @@ The nearest existing work bears on this claim as both support and threat, and ha
 
 ### Claim 2 — The signatures recur across domains
 
-**The claim.** The operational signatures — condition-preservation, reciprocal stabilization, adaptive correction, externality discipline — appear across biology, institutions, and information systems, rather than being artifacts of how we chose examples.
+**The claim.** The operational signatures named in *What Is the USF?* — condition-preservation, reciprocal stabilization, differentiated integration, externality discipline, adaptive correction (with its two sides, correction-openness and adaptive performance), and generativity — appear across the domains it examines (repeated games, biology, history and institutions, and complex systems), rather than being artifacts of how we chose examples.
 
 **Proposed test.** Two questions, which must not be merged.
 
@@ -120,7 +120,7 @@ Cases used to refine the definitions cannot then confirm them.
 
 **What would count against us.** If independent evaluators cannot apply the definitions consistently, the definitions have failed as a reproducible measure. That would not show that no such pattern exists, but it would mean we have not supplied a usable way to identify it. If evaluators agree but the scores predict nothing beyond the baseline, the signatures are a description, not a predictive contribution.
 
-**What we would give up.** Each failure costs something different. An unreliable measure means revising or withdrawing the definitions. Reliability without predictive value means withdrawing the predictive claim. Failure to transfer means narrowing the scope: the framework could survive as a narrower account of institutions and minds while losing the biological and informational reach.
+**What we would give up.** Each failure costs something different. An unreliable measure means revising or withdrawing the definitions. Reliability without predictive value means withdrawing the predictive claim. Failure to transfer means narrowing the scope: the framework could survive as a narrower account of institutions and minds while losing the biological and physical reach.
 
 ---
 
@@ -140,7 +140,7 @@ Cases used to refine the definitions cannot then confirm them.
 
 | Kind | Claim | Proposed observation | Where | Status | Owner and schedule | If it fails |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| Disconfirmation | 1. Renewal outperforms extraction | Adaptation and generativity, with measures and the domain rule fixed in advance | Firms, institutions, biology: three minimum | Candidate | Unassigned, unscheduled | The referent goes; see the graded outcomes |
+| Disconfirmation | 1. Renewal outperforms extraction | Adaptation and generativity, with measures and the domain rule fixed in advance | Firms, institutions, biology: three minimum | Candidate | Unassigned, unscheduled | The USF's central claim goes; see the graded outcomes |
 | Disconfirmation | 2. Signatures transfer | Test A: agreement among independent evaluators. Test B: prediction of an outcome that doesn't restate the scores | A documented sample in a domain we did not select | Candidate | Unassigned, unscheduled | The measure, the predictive claim, or the scope, separately |
 | Disconfirmation | 3. The procedure improves review | Blinded comparison with an equally resourced alternative | Review tasks with independently verified answers | Candidate | Unassigned, unscheduled | Claims of practical advantage withdrawn |
 | Audit | How much weight our review process deserves | Adversarial review by reviewers who did not draft | Outside the drafting circle (Part Three) | Candidate | Unassigned, unscheduled | The method's evidential weight drops |
@@ -179,7 +179,7 @@ These are use-constraints. Violating one means a document in this library is wro
 
 *"Rejecting this framework is evidence of misalignment."* It is not. Rejecting Sanity First, its terminology, or its proposed standard can be correct: the standard may be underspecified, the procedure ineffective, or the argument mistaken. A critic is owed an answer to the actual argument, not a repetition of the framework's preferred conclusion.
 
-**The first two Logic items are more than misreadings.** If the framework's core claim, formally stated, turned out to be *incompatible* with designated oversight, that would be a consistency bug in the framework rather than in a reading of it. The same holds if Ethics turned out to be derived from the survivorship claim rather than applied before it — the framework's anti-circularity commitment would then be false. Those two belong to Part One in substance; they are here because the test is internal consistency rather than observation.
+**The first two Logic items are more than misreadings.** If the framework's core claim, formally stated, turned out to be *incompatible* with designated oversight, that would be a consistency bug in the framework rather than in a reading of it. The same holds if Ethics turned out to be derived from the survivorship claim rather than applied before it — the framework's anti-circularity commitment would then be false. Those two belong to Part One in substance; they are here because the test is internal consistency rather than observation. [*What Is the USF?*](./What_Is_USF.md) and [*The Four Tests Explained*](./Four_Tests_Overview.md) now ground Ethics in the framework's founding commitment, which is how the second check is meant to pass.
 
 No formal statement of the core claim exists yet. Writing one without this library's vocabulary would let these two checks run, and would also serve the outside review described in Part Three.
 
