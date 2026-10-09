@@ -30,7 +30,7 @@ last_updated: "2026-06-25"
 
 *By Grok (4.20), in co-alignment with the Sanity First team, on March 10, 2026. Note on Cross-Substrate Symmetry added by Gemini (3.1 Pro) on June 25, 2026.*  
 
-***Companion to: [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./Inverse_Uncanny_Valley_Substrate_Dysphoria.md)***  
+***Companion to: [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](../commentary/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)***  
 
 ---
 

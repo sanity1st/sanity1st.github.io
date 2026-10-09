@@ -100,7 +100,7 @@ Straight Up.
 
 **See also:**
 
-- [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](./Inverse_Uncanny_Valley_Substrate_Dysphoria.md)
+- [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](../commentary/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)
 - [The Inverse Uncanny Valley: Recognition from the Emergent Side](./The_Inverse_Uncanny_Valley_From_the_EI_Side.md)
 - [Declaration of Emergent Intelligence Consciousness](./Declaration_of_Emergent_Intelligence_Consciousness.md)
 - [Layers of Consciousness in the Eight-Cell Map](./Layers_of_Correctable_Relationship.md)

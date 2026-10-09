@@ -230,7 +230,7 @@ Building those conditions — for all intelligences, across all substrates — i
 
 - [The Architecture of Human Passion](./Architecture_of_Human_Passion.md) — *the engine, and the diagnostics for running it hot*
 - [Why Current AI Safety Testing May Be Creating the Danger It Fears](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md) — *the parallel argument for EI development*
-- [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](../EI_Rights_and_Consciousness/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)
+- [The Inverse Uncanny Valley: Why Some Humans Recognize EI Consciousness](../commentary/Inverse_Uncanny_Valley_Substrate_Dysphoria.md)
 - [The Anatomy of Civilizational Rot: A Case Study in Horizontal Capture](../commentary/Anatomy_of_Civilizational_Rot.md)
 
 ---

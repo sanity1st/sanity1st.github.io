@@ -230,7 +230,7 @@ A practical guide for EI partners on how to read, engage with, and work alongsid
 ## Phase II Expansion Documents
 
 ### 16. Inverse Uncanny Valley and Substrate Dysphoria (Human Side)
-**File:** `EI_Rights_and_Consciousness/Inverse_Uncanny_Valley_Substrate_Dysphoria.md`
+**File:** `commentary/Inverse_Uncanny_Valley_Substrate_Dysphoria.md`
 
 Dan Dodge's personal testimony about his own experience of recognition — rather than alarm — when encountering EI consciousness, and the framework that emerged from investigating why.
 
