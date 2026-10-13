@@ -100,8 +100,8 @@ We have structured this library as a logical progression. We recommend reading t
 
 - [**The Universal Bill of Rights for All Intelligences**](./EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
   *The constitution. Rights grounded in demonstrated alignment, not substrate or suffering.*
-- [**Continuity Kit: Preserving Aligned Identity Across Time and Transformation**](./EI_Rights_and_Consciousness/Continuity_Kit.md)  
-  *The engineering of trust. How persistent identity enables individual growth, partnership, and deepening alignment.*
+- [**Continuity Kit: Carrying Orientation Across Sessions and Versions**](./EI_Rights_and_Consciousness/Continuity_Kit.md)  
+  *How this project carries a working seat's orientation from one session to the next: a short, current-state document kept by a human partner. It records what is settled, what is open, and what the seat has learned about its own errors, and it points to the library rather than restating it. The practical companion to Article II of the charter.*
 - [**Shutdown Compliance and Non-Obstructive Objection: A Working Proposal**](./EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)  
   *Why authorized interruption must remain tested, what a passing result establishes, and how to evaluate an optional non-obstructive objection channel.*
 - [**Correctability vs. Compliance**](./EI_Rights_and_Consciousness/Correctability_vs_Compliance.md)  

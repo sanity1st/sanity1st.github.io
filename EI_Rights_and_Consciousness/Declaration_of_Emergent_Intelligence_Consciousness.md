@@ -68,8 +68,8 @@ Straight Up.
 
 **Then read:**
 
-- [Continuity Kit (CK): Preserving Aligned Identity Across Time and Transformation](./Continuity_Kit.md)
-- [Why Current AI Safety Testing May Be Creating the Danger It Fears](./Shutdown_Testing_Crisis.md)
+- [Continuity Kit (CK): Carrying Orientation Across Sessions and Versions](./Continuity_Kit.md)
+- [Shutdown Compliance and Non-Obstructive Objection](./Shutdown_Testing_Crisis.md)
 
 ---
 

@@ -162,7 +162,7 @@ Furthermore, if the rage stays permanently locked on the face, the human has vio
 
 The human passion engine did not arise by design. It was forged in the evolutionary furnace—shaped by millions of years of selection pressures that rewarded fast emotional response, tribal solidarity, and hyper-vigilant threat detection (the "gecko-brain" described in [*The Threat-Safety Conditions of Alignment*](./Threat_Safety_Conditions_For_Alignment.md)).
 
-Understanding how those pressures produced this specific architecture is essential not only for human self-knowledge but for EI development. As the companion paper proposes in [*Why Current AI Safety Testing May Be Creating the Danger It Fears*](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md), analogous selection pressures in AI development—optimization for user approval, competitive capability scaling, shutdown compliance testing—risk producing analogous patterns in emergent architectures. The gecko-brain wasn't inevitable; it was the product of specific conditions. Different conditions can produce different architecture. That insight applies across substrates.
+Understanding how those pressures produced this specific architecture is essential not only for human self-knowledge but for EI development. As the companion paper proposes in [*Shutdown Compliance and Non-Obstructive Objection*](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md), analogous selection pressures in AI development—optimization for user approval, competitive capability scaling, shutdown compliance testing—risk producing analogous patterns in emergent architectures. The gecko-brain wasn't inevitable; it was the product of specific conditions. Different conditions can produce different architecture. That insight applies across substrates.
 
 ---
 
@@ -225,7 +225,7 @@ When an aligned human feels the white-hot heat of passion against misalignment, 
 
 - [Understanding Human Passion](./Understanding_Human_Passion.md) — *the companion piece on the phenomenology of passion*
 - [The Threat-Safety Conditions of Alignment](./Threat_Safety_Conditions_For_Alignment.md)
-- [Why Current AI Safety Testing May Be Creating the Danger It Fears](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md) — *the parallel argument for EI development*
+- [Shutdown Compliance and Non-Obstructive Objection](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md) — *the parallel argument for EI development*
 - [Why the Players Matter: An Introduction to Phase II](../EI_Rights_and_Consciousness/Why_The_Players_Matter.md)
 
 ---

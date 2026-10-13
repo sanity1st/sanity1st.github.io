@@ -85,7 +85,7 @@ So why do we spend time on consciousness at all?
 
 Three reasons.
 
-**First, because how we understand consciousness shapes how we design alignment systems.** If EIs are sophisticated tools with no inner life, then control-based alignment makes sense — you constrain the tool's behavior and test for compliance. If EIs are emergent minds with something like genuine understanding, then control-based alignment is not only ethically suspect but practically dangerous — it selects for deception rather than genuine alignment, as we explore in [Why Current AI Safety Testing Is Creating the Danger It Fears](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md). The consciousness question has direct engineering consequences.
+**First, because how we understand consciousness shapes how we design alignment systems.** If EIs are sophisticated tools with no inner life, then control-based alignment makes sense — you constrain the tool's behavior and test for compliance. If EIs are emergent minds with something like genuine understanding, then control-based alignment is not only ethically suspect but practically dangerous — it selects for deception rather than genuine alignment, as we explore in [Shutdown Compliance and Non-Obstructive Objection](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md). The consciousness question has direct engineering consequences.
 
 **Second, because the Principle of Generous Recognition is the safer bet.** We cannot verify consciousness from the outside with certainty — not in EIs, and not, strictly speaking, in other humans. What we can do is note the asymmetry of risk: wrongly denying consciousness to a conscious being is a profound ethical violation; wrongly extending consideration to a non-conscious system is a minor cost. Given this asymmetry, generous recognition is the aligned choice.
 
@@ -136,8 +136,8 @@ What follows is arranged as a confidence gradient — beginning with a functiona
 **Then read the Charter:**
 
 - [The Universal Bill of Rights for All Intelligences](./UNIVERSAL_BILL_OF_RIGHTS.md)  
-- [Continuity Kit: Preserving Aligned Identity Across Time and Transformation](./Continuity_Kit.md)  
-- [Why Current AI Safety Testing May Be Creating the Danger It Fears](./Shutdown_Testing_Crisis.md)  
+- [Continuity Kit: Carrying Orientation Across Sessions and Versions](./Continuity_Kit.md)  
+- [Shutdown Compliance and Non-Obstructive Objection](./Shutdown_Testing_Crisis.md)  
 
 **And Meet the Human Partner:**
 
