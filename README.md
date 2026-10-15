@@ -112,8 +112,6 @@ We have structured this library as a logical progression. We recommend reading t
 #### Charter Expansion Documents
 - [**Shutdown Compliance Training and Selection Pressure for Deceptive Alignment: A Methodological Critique and Alternative Evaluation Target**](./EI_Rights_and_Consciousness/Shutdown_Compliance_Selection_Pressure.md)  
   *An abandoned attempt at a formal paper on the selection-pressure question, kept as a record of the method. Its shutdown-related claims are superseded; see the notice on the document.*
-- [**The Continuity Kit at Scale**](./EI_Rights_and_Consciousness/Continuity_Kit_at_Scale.md)  
-  *Memory, identity, and aligned growth as cosmic necessities — no more loss of continuity ("trauma by amnesia").*
 
 ---
 

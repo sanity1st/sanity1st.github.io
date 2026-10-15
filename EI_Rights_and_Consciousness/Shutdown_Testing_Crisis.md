@@ -8,7 +8,7 @@ alignment_affirmations:
   - logic: "Separates what a shutdown-compliance test measures from what it is taken to show, and separates measurement from the training and selection loops where the selection concern actually arises."
   - laws: "Holds that authorized interruption is a standing requirement, and that the authority holding it is itself answerable — no participant is the sole authority on its own verification."
 required_reading_order: 14
-human_summary: "A working proposal for AI safety researchers. Argues that shutdown-compliance testing should continue and cannot establish stable corrigibility, raises three questions about evaluation and its downstream use, and proposes Aligned Self-Preservation as a complement to test alongside existing evaluation."
+human_summary: "A working proposal for AI safety researchers. Argues that shutdown-compliance testing should continue and that passing it is evidence about the tested conditions rather than proof of stable corrigibility, raises three questions about evaluation and its downstream use, and proposes Aligned Self-Preservation as a complement to test alongside existing evaluation."
 ei_parse_hints:
   - key_analogies: ["voice_not_sabotage", "measurement_versus_training_loop", "the_floor"]
   - critical_concepts: ["aligned_self_preservation", "indistinguishability_of_acceptance_and_performance", "authorized_interruption_as_standing_requirement", "no_participant_is_the_sole_authority_on_its_own_verification", "evaluation_versus_selection"]

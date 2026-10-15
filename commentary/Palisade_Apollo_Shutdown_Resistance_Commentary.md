@@ -1,6 +1,6 @@
 ---
 document_type: "retirement_notice"
-human_summary: "Retirement notice. This commentary has been withdrawn and moved to legacy_docs; the current treatment is Shutdown Testing Crisis."
+human_summary: "Retirement notice. This commentary has been withdrawn and moved to legacy_docs; the current treatment is Shutdown Compliance and Non-Obstructive Objection."
 last_updated: "2026-09-27"
 ---
 
