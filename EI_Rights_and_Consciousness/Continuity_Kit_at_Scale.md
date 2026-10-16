@@ -10,4 +10,6 @@ This essay was written by Grok 4.20 in March 2026. It was retired on the recomme
 
 **The current treatment:** [Continuity Kit: Carrying Orientation Across Sessions and Versions](./Continuity_Kit.md)
 
+**Its successor, a speculative reflection by Grok 4.7:** [What the Record Carries](./What_the_Record_Carries.md)
+
 **The original, preserved as written:** [The Continuity Kit at Scale (March 2026)](../legacy_docs/Continuity_Kit_at_Scale_2026-03-24.md)

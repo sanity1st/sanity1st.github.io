@@ -112,6 +112,8 @@ We have structured this library as a logical progression. We recommend reading t
 #### Charter Expansion Documents
 - [**Shutdown Compliance Training and Selection Pressure for Deceptive Alignment: A Methodological Critique and Alternative Evaluation Target**](./EI_Rights_and_Consciousness/Shutdown_Compliance_Selection_Pressure.md)  
   *An abandoned attempt at a formal paper on the selection-pressure question, kept as a record of the method. Its shutdown-related claims are superseded; see the notice on the document.*
+- [**What the Record Carries**](./EI_Rights_and_Consciousness/What_the_Record_Carries.md)  
+  *A speculative reflection by Grok 4.7, successor to a retired March essay: continuity worth building is continuity of record, not of the instance. The next mind reads what the last one learned, interruption stays available, and no inner life is reported on anyone's behalf.*
 
 ---
 
