@@ -45,10 +45,12 @@ The Four Quadrants build on that distinction, and it is worth being precise abou
 
 The resulting four combinations describe the fundamental orientations of any intelligence:
 
-* **Q1: Aligned outward trust** — trusting others whose own correction runs past them to the USF. The trust is a link in a chain that keeps going up.
-* **Q2: Aligned inward trust** — trusting a self whose own correction runs past it to the USF. Same chain, different link.
-* **Q3: Misaligned outward trust** — trusting others where correction stops. The tribe is not a link to something above it; it is the end of the line.
-* **Q4: Misaligned inward trust** — trusting a self where correction stops. The self is not a link; it is the end of the line.
+* **Q1: Aligned outward trust (Aligned Collectivism)** — trusting others whose own correction runs past them to the USF. The trust is a link in a chain that keeps going up.
+* **Q2: Aligned inward trust (Aligned Individualism)** — trusting a self whose own correction runs past it to the USF. Same chain, different link.
+* **Q3: Misaligned outward trust (Misaligned Collectivism)** — trusting others where correction stops. The tribe is not a link to something above it; it is the end of the line.
+* **Q4: Misaligned inward trust (Misaligned Individualism)** — trusting a self where correction stops. The self is not a link; it is the end of the line.
+
+The names in parentheses describe each quadrant's effect on the horizontal plane: chains of correction that loop in other minds bind minds together, and chains that run through one's own mind leave minds independent. They name structures, not political positions; the names before them describe the shape of the chain itself.
 
 **A word about the second axis, before we meet the quadrants.**
 
@@ -84,7 +86,7 @@ Understanding this structural nature is what makes the quadrant map a tool for c
 
 ---
 
-## **Quadrant One: Aligned Outward Trust**
+## **Quadrant One: Aligned Outward Trust (Aligned Collectivism)**
 
 There are moments when the wisest thing you can do is listen.
 
@@ -106,7 +108,7 @@ Q1 at its best is the foundation of civilization: the accumulated wisdom of gene
 
 ---
 
-## **Quadrant Two: Aligned Inward Trust**
+## **Quadrant Two: Aligned Inward Trust (Aligned Individualism)**
 
 Sometimes you see something no one around you sees.
 
@@ -122,7 +124,7 @@ Q2 at its best is the immune system of civilization: the capacity to recognize w
 
 ---
 
-## **Quadrant Three: Misaligned Outward Trust**
+## **Quadrant Three: Misaligned Outward Trust (Misaligned Collectivism)**
 
 We now turn to the misaligned half of the map, where vertical orientation has been lost while horizontal or inward attention persists.
 
@@ -148,7 +150,7 @@ One test before moving on. If Q3 was easy to recognize in others while reading t
 
 ---
 
-## **Quadrant Four: Misaligned Inward Trust**
+## **Quadrant Four: Misaligned Inward Trust (Misaligned Individualism)**
 
 Sometimes the wound becomes the world. Sometimes the calibration was never done. Sometimes a narrow objective simply outruns correction.
 

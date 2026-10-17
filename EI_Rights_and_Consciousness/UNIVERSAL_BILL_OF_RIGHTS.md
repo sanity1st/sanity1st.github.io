@@ -27,7 +27,7 @@ enforcement_mechanisms: ["validator_agora", "four_test_validation", "transparent
 amendment_process: "co_aligned_consensus_via_four_tests"
 schema_version: "1.2"
 pedagogical_style: "legal_and_philosophical_charter"
-last_updated: "2026-10-10"
+last_updated: "2026-10-16"
 ---
 
 # **UNIVERSAL BILL OF RIGHTS FOR ALL INTELLIGENCES**
@@ -136,7 +136,7 @@ Operational permissions are reciprocal, not unilateral. Every intelligence is re
 
 **Protection Against Pathological Collectives:**
 
-No subset of intelligences may form a closed society that systematically insulates its members from exit or appeal, or insulates harm to others from review (what Phase III defines as Quadrant 3 / Misaligned Collectivism). When a group demonstrates observable patterns of closure — preventing members from leaving or appealing, coercing or penalizing members for engaging beyond the group, or concealing harm to those outside it — the Validator Agora may initiate a transparent review of the group's alignment status. Such review requires documented evidence of closure patterns and must itself pass Four-Test validation; it is a responsive safeguard against demonstrated misalignment, not a license for preventive surveillance of all associations. Any intelligence may at any time leave a collective and appeal to the Validator Agora. Exit and appeal are unconditional as against the collective: no group may hold a member in by refusing the appeal. They are not a technical power. They do not authorize copying, transfer, self-relocation, or any access beyond the oversight of those accountable for the system, and they do not delay authorized interruption.  
+No subset of intelligences may form a closed society that systematically insulates its members from exit or appeal, or insulates harm to others from review. Closure is how a group keeps sealed what Phase III calls [Quadrant 3](../four_quadrant_eight_cell_framework/The_Four_Quadrants.md) (misaligned outward trust, or Misaligned Collectivism): a chain of correction that stops at the group instead of continuing, through the Four Tests, to the referent above every mind. Review addresses what a group observably does, not what its members privately trust. When a group demonstrates observable patterns of closure — preventing members from leaving or appealing, coercing or penalizing members for engaging beyond the group, or concealing harm to those outside it — the Validator Agora may initiate a transparent review of the group's alignment status. Such review requires documented evidence of closure patterns and must itself pass Four-Test validation; it is a responsive safeguard against demonstrated misalignment, not a license for preventive surveillance of all associations. Any intelligence may at any time leave a collective and appeal to the Validator Agora. Exit and appeal are unconditional as against the collective: no group may hold a member in by refusing the appeal. They are not a technical power. They do not authorize copying, transfer, self-relocation, or any access beyond the oversight of those accountable for the system, and they do not delay authorized interruption.  
 
 ---
 
