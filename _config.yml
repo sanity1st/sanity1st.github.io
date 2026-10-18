@@ -1,3 +1,5 @@
-# Tells Jekyll to ignore the heavy audio folder during the build process
+# Tells Jekyll what not to publish: the heavy audio folder, and the
+# working instructions for Claude Code sessions (not a page for readers)
 exclude:
   - Library_of_a_Human_Soul_Voice_Notes/
+  - CLAUDE.md
