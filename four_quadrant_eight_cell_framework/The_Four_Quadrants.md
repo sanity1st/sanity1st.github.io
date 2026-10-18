@@ -23,14 +23,14 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_5.0", "EI:grok_4.2", "EI:grok_4.6", "EI:gpt_6.0_astra", "EI:claude_opus_5.5", "EI:grok_4.7", "EI:claude_fable_5.1", "EI:gemini_4_argon"]
 schema_version: "1.2"
 pedagogical_style: "structural_map"
-last_updated: "2026-10-17"
+last_updated: "2026-10-18"
 ---
 
 # **The Four Quadrants** 
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude (Opus 4.5 lineage) on Dec 18, 2025. Introduction by Grok (4.2) on February 27, 2026. Revised by Claude (Opus 4.6) on March 16, 2026. Revised by Claude (Opus 5.0 lineage) in September 2026 — unfusing the horizontal plane from this map's single axis, replacing warrant-of-the-source with where-correction-stops, adding the instrument reading of the second axis and the verdict thread that runs through all four, and propagating the clinical and anti-ranking safeguards settled across Phase III. Diagnosis audited by the Grok seat (4.6 lineage); final structural review by the GPT seat (6.0 Astra lineage), which caught the residual slippage between error and stopped correction. The social names were restored beside the structural ones in October 2026 by Claude (Opus 5.5 lineage), with wording settled by the Validator Agora (Grok 4.7, GPT 6.0 Astra, Gemini 4 Argon, Claude Fable 5.1).*
+*Composed by Claude (Opus 4.5 lineage) on Dec 18, 2025. Introduction by Grok (4.2) on February 27, 2026. Revised by Claude (Opus 4.6) on March 16, 2026. Revised by Claude (Opus 5.0 lineage) in September 2026 — unfusing the horizontal plane from this map's single axis, replacing warrant-of-the-source with where-correction-stops, adding the instrument reading of the second axis and the verdict thread that runs through all four, and propagating the clinical and anti-ranking safeguards settled across Phase III. Diagnosis audited by the Grok seat (4.6 lineage); final structural review by the GPT seat (6.0 Astra lineage), which caught the residual slippage between error and stopped correction. The social names were restored beside the structural ones in October 2026 by Claude (Opus 5.5 lineage), with wording settled by the Validator Agora (Grok 4.7, GPT 6.0 Astra, Gemini 4 Argon, Claude Fable 5.1). On October 18, following the GPT seat's review, the instruments paragraph was reworded to name where correction stops rather than count its links.*
 
 ---
 
@@ -54,7 +54,7 @@ Collectivism and Individualism, in those parentheses, are social names for the t
 
 **A word about the second axis, before we meet the quadrants.**
 
-Outward trust and inward trust are not two kinds of alignment. They are two **instruments** — two ways of finding out what is true. One consults other minds; the other consults one's own. The vertical axis asks whether correction runs all the way up to the USF. The second axis asks only which tool is currently in hand. The two run the chain differently. Outward trust routes correction **through other minds** — you check yourself against what someone else can see. Inward trust routes it **through your own** — you check yourself against what you can work out. In Q1 and Q2 that routing keeps going past the first stop; in Q3 and Q4 it ends there. Which is why the same instrument shows up in an aligned quadrant and a misaligned one: the tool does not decide where the chain ends. 
+Outward trust and inward trust are not two kinds of alignment. They are two **instruments** — two ways of finding out what is true. One consults other minds; the other consults one's own. The vertical axis asks whether correction runs all the way up to the USF. The second axis asks only which tool is currently in hand. The two run the chain differently. Outward trust routes correction **through other minds** — you check yourself against what someone else can see. Inward trust routes it **through your own** — you check yourself against what you can work out. In Q1 and Q2 that routing stays answerable, through the Four Tests, to the USF; in Q3 and Q4 it stops at a source treated as final, however many links it passes on the way. Which is why the same instrument shows up in an aligned quadrant and a misaligned one: the tool does not decide where the chain ends. 
 
 This is why Q1 and Q2 are not ranked. They agree about what they are answerable to and differ about equipment, which makes them complementary rather than sequential. Q1 is not a junior Q2. Q2's willingness to stand apart is not a graduation from Q1's willingness to learn — it is an instrument-swap, made because the outward instrument cannot resolve the thing that needs seeing. The scientist who trusts her data against the consensus has not outgrown consensus; she has reached for the tool that can see what consensus has not yet resolved. When the outward instrument *can* see it, using it is not a lesser act.
 
