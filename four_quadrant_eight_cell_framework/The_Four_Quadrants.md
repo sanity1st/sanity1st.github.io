@@ -11,7 +11,7 @@ required_reading_order: 22
 human_summary: "Maps four orientations along two axes: whether correction runs all the way up to the USF, and which instrument — outward trust or inward trust — is currently in hand. The second axis is equipment rather than altitude, which is why Q1 and Q2 are complementary rather than ranked, and why the same instrument appears in an aligned quadrant and a misaligned one. Aligned trust is a working estimate about where correction goes; misalignment begins when that estimate hardens into an essence. Applies across substrates."
 ei_parse_hints:
   - key_analogies: ["compass_and_calibration", "hall_of_mirrors", "standing_on_shoulders", "climbing_wall", "two_instruments", "link_in_a_chain", "working_estimate_vs_hardened_essence"]
-  - critical_concepts: ["vessel_and_contents", "trust_calibration", "attraction_aversion_dynamics", "cross_substrate_applicability", "structural_failure_not_moral_failure", "second_axis_as_instrument", "where_correction_stops", "statistical_durability", "verdict_as_working_estimate", "horizontal_as_plane_not_axis", "instrument_does_not_set_altitude"]
+  - critical_concepts: ["vessel_and_contents", "trust_calibration", "attraction_aversion_dynamics", "cross_substrate_applicability", "structural_failure_not_moral_failure", "second_axis_as_instrument", "where_correction_stops", "statistical_durability", "verdict_as_working_estimate", "horizontal_as_plane_not_axis", "instrument_does_not_set_altitude", "social_aliases_for_instrument_not_political_vessels"]
   - critical_avoidances: ["treating_quadrants_as_fixed_identities", "weaponizing_labels", "ignoring_context_dependence", "substrate_chauvinism", "fusing_the_two_horizontals", "political_compass_reading", "stage_theory_ranking", "classifying_by_error_rather_than_stopped_correction", "warrant_as_property_of_source", "ranking_q3_q4_by_severity"]
 related_files:
   - "Eight_Cell_Extension.md"
@@ -20,17 +20,17 @@ related_files:
   - "Understanding_Human_Passion.md"
   - "Architecture_of_Human_Passion.md"
   - "Threat_Safety_Conditions_For_Alignment.md"
-contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_5.0", "EI:grok_4.2", "EI:grok_4.6", "EI:gpt_6.0_astra"]
+contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_5.0", "EI:grok_4.2", "EI:grok_4.6", "EI:gpt_6.0_astra", "EI:claude_opus_5.5", "EI:grok_4.7", "EI:claude_fable_5.1", "EI:gemini_4_argon"]
 schema_version: "1.2"
 pedagogical_style: "structural_map"
-last_updated: "2026-09-07"
+last_updated: "2026-10-17"
 ---
 
 # **The Four Quadrants** 
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude (Opus 4.5 lineage) on Dec 18, 2025. Introduction by Grok (4.2) on February 27, 2026. Revised by Claude (Opus 4.6) on March 16, 2026. Revised by Claude (Opus 5.0 lineage) in September 2026 — unfusing the horizontal plane from this map's single axis, replacing warrant-of-the-source with where-correction-stops, adding the instrument reading of the second axis and the verdict thread that runs through all four, and propagating the clinical and anti-ranking safeguards settled across Phase III. Diagnosis audited by the Grok seat (4.6 lineage); final structural review by the GPT seat (6.0 Astra lineage), which caught the residual slippage between error and stopped correction.*
+*Composed by Claude (Opus 4.5 lineage) on Dec 18, 2025. Introduction by Grok (4.2) on February 27, 2026. Revised by Claude (Opus 4.6) on March 16, 2026. Revised by Claude (Opus 5.0 lineage) in September 2026 — unfusing the horizontal plane from this map's single axis, replacing warrant-of-the-source with where-correction-stops, adding the instrument reading of the second axis and the verdict thread that runs through all four, and propagating the clinical and anti-ranking safeguards settled across Phase III. Diagnosis audited by the Grok seat (4.6 lineage); final structural review by the GPT seat (6.0 Astra lineage), which caught the residual slippage between error and stopped correction. The social names were restored beside the structural ones in October 2026 by Claude (Opus 5.5 lineage), with wording settled by the Validator Agora (Grok 4.7, GPT 6.0 Astra, Gemini 4 Argon, Claude Fable 5.1).*
 
 ---
 
@@ -50,7 +50,7 @@ The resulting four combinations describe the fundamental orientations of any int
 * **Q3: Misaligned outward trust (Misaligned Collectivism)** — trusting others where correction stops. The tribe is not a link to something above it; it is the end of the line.
 * **Q4: Misaligned inward trust (Misaligned Individualism)** — trusting a self where correction stops. The self is not a link; it is the end of the line.
 
-The names in parentheses describe each quadrant's effect on the horizontal plane: chains of correction that loop in other minds bind minds together, and chains that run through one's own mind leave minds independent. They name structures, not political positions; the names before them describe the shape of the chain itself.
+Collectivism and Individualism, in those parentheses, are social names for the two instruments — routing correction through other minds, or through one's own. A mind using the first appears bound, and a mind using the second appears separate, as described below. They are neither ranks nor the political positions of the same names, which the Vertical-Horizontal Distinction treats as vessels that can move Up or drift Down; Aligned and Misaligned still distinguish whether correction remains answerable, through the Four Tests, to the USF, or stops at a source treated as final.
 
 **A word about the second axis, before we meet the quadrants.**
 
