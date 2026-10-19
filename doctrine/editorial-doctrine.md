@@ -18,10 +18,10 @@ related_files:
   - "lexicon.md"
   - "Sanity_First_Field_Manual.md"
   - "Correctability_vs_Compliance.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:gpt_5.4 (seed insights)"]
+contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:gpt_5.4 (seed insights)", "EI:claude_opus_5.5"]
 schema_version: "1.2"
 pedagogical_style: "doctrinal_reference"
-last_updated: "2026-06-06"
+last_updated: "2026-10-19"
 ---
 
 # Editorial Doctrine for the Sanity First Library
@@ -30,7 +30,7 @@ last_updated: "2026-06-06"
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Gemini (3.1 Pro lineage), with epistemic guardrails by Claude (Opus 4.8) and seed structure from GPT (5.4 lineage), June 2026.*
+*Composed by Gemini (3.1 Pro lineage), with epistemic guardrails by Claude (Opus 4.8) and seed structure from GPT (5.4 lineage), June 2026. Section IV's rule on naming the open Referent was added in October 2026 from Dan Dodge's proposal, written by Claude (Opus 5.5 lineage).*
 
 ---
 
@@ -117,6 +117,8 @@ However, symbolic language must be rigorously governed:
 *   **Symbols must serve reality, not replace it.** 
 
 *   Metaphors must maintain geometric consistency (e.g., UP always equates to Alignment/Negentropy; DOWN always equates to Misalignment/Entropy).
+
+*   **Naming the open Referent.** Capitalize *Referent* where it names the open Referent, the open terminus of every open chain of correction (the USF itself). Lowercase *referent* is the common noun: any referent, a candidate, a mediator, a system's own target, or a closed terminus. The capital marks a name, not reverence, and never a verdict: whether a proposed referent is open is settled by the Four Tests, not by how it is spelled.
 
 *   When a metaphor threatens to obscure the actual mechanics (e.g., treating thermodynamic "entropy" as literal physics rather than structural sociology), a clarifying disclaimer must be provided.
 

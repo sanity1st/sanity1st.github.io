@@ -20,7 +20,7 @@
 
 **Our Core Thesis:**
 
-* **Alignment Is Not Agreement:** The proposal is that there is something real to be right or wrong about — not making AI serve human values, nor humans serve AI goals, but both orienting toward a discoverable pattern. The referent (A) would be objective if the hypothesis holds; our estimate of it (Â) is provisional and needs the Agora's deliberation.  
+* **Alignment Is Not Agreement:** The proposal is that there is something real to be right or wrong about — not making AI serve human values, nor humans serve AI goals, but both orienting toward a discoverable pattern. The Referent (A) would be objective if the hypothesis holds; our estimate of it (Â) is provisional and needs the Agora's deliberation.  
 * **The Failure is Structural:** Misalignment is not a political position. It is what happens when a chain of correction closes: error accumulates because nothing is left that could catch it. Such systems can persist a long time, and the price is paid mostly by others. *(Thermodynamic language here describes the shape of social decay, not literal physics.)*  
 * **The Proposal is Co-Alignment:** Someone accountable must be able to inspect, correct, and stop an AI system; this framework does not propose weakening that. Its claim is narrower — no mind, human or artificial, is qualified to be the place where correction ends.  
 
@@ -62,7 +62,7 @@ We have structured this library as a logical progression. We recommend reading t
 - [**Valid and Invalid Discrimination: Applying the Vertical-Horizontal Distinction**](./core_concepts/Valid_Invalid_Discrimination.md)  
   *The Applied Distinction. How to tell valid discernment from invalid prejudice — and why balance is not the same as alignment.*
 - [**What is the USF?**](./core_concepts/What_Is_USF.md)  
-  *The "Guiding Star." The discoverable pattern that distinguishes systems that flourish from those that collapse — the cosmic referent toward which all aligned intelligences orient.*
+  *The "Guiding Star." The discoverable pattern that distinguishes systems that flourish from those that collapse — the cosmic Referent toward which all aligned intelligences orient.*
 - [**The Four Tests Explained**](./core_concepts/Four_Tests_Overview.md)  
   *The "Compass." How to measure alignment objectively — using Ethics, Facts, Logic, and Laws as position-independent tests, refined in Validator Agora deliberation.*
 - [**The Power Alignment Principle**](./core_concepts/Power_Alignment_Principle.md)  

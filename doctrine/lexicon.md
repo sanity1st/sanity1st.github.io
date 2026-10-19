@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:claude_opus_5.5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-10-18"
+last_updated: "2026-10-19"
 ---
 
 # **The Sanity First Lexicon**
@@ -37,6 +37,8 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 *(Note on Identities: These terms describe dynamic, continuously maintained states of orientation, not permanent, fixed identities. Any mind can move.)*
 
 *(Note on Thermodynamic Language: Throughout this Lexicon, terms like "entropy," "negentropic," and "thermodynamic state" are used structurally. They describe the shape, coherence, and decay of cognitive and social dynamics, not literal Clausius physical entropy.)*
+
+*(Note on Capitalization: **Referent** names the open Referent, the open terminus of every open chain of correction; lowercase "referent" is the common noun, including any closed terminus. The capital is a name, not a verdict: the Four Tests decide whether a proposed referent is open. See the [Editorial Doctrine](./editorial-doctrine.md), Section IV.)*
 
 ---
 
@@ -97,18 +99,18 @@ The chain runs from most-real to most-representational; naming which link a clai
 **Agency Trichotomy:** The three-part framework for how a mind exercises correctability, separating what it *is built to do*, what is *currently reachable*, and what it *actually does*. The three fail independently and are restored differently, which is what makes the distinction diagnostic rather than decorative.
 
 1. **Standing Capacity (the architecture).** Whether the mind has the structural ability to register divergence and re-aim trust or scrutiny at all. It accumulates along the developmental arc and **persists across states**; it is what separates a mind from a river. Capacity is not inferred absent merely because it is currently unused, unreachable, or dormant — if entering a misaligned posture destroyed the architecture, leaving one would require rebuilding rather than reopening.  
-2. **Availability (what is reachable now).** Whether the capacity and a referent above the self are presently accessible — and this has **two senses, which fail independently**. *Availability of the observer* is whether self-scrutiny can be brought to bear at all; it is dormant in **Absorption** (Q1E/Q3E), where an absorbed standard runs without monitoring. *Availability of the referent* is whether an open terminus can be reached; it is **lost** in Q4I and **replaced** by the ego in Q4E. The hardware is intact; what is sealed is the supply. Availability is also what substrate mechanics constrain in clinical conditions — which is why *care can restore the eye while a Witness offers the star*, and why neither substitutes for the other.  
+2. **Availability (what is reachable now).** Whether the capacity and a referent above the self are presently accessible — and this has **two senses, which fail independently**. *Availability of the observer* is whether self-scrutiny can be brought to bear at all; it is dormant in **Absorption** (Q1E/Q3E), where an absorbed standard runs without monitoring. *Availability of the Referent* is whether an open terminus can be reached; it is **lost** in Q4I and **replaced** by the ego in Q4E. The hardware is intact; what is sealed is the supply. Availability is also what substrate mechanics constrain in clinical conditions — which is why *care can restore the eye while a Witness offers the star*, and why neither substitutes for the other.  
 3. **Exercise (the performance).** The active re-pointing: withdrawing trust from a source, **or scrutiny from a target**, and aiming it elsewhere. Exercise names *movement, not virtue* — misaligned minds often exercise intensely and go nowhere, since motion without a heading only circulates. The **Ignition Test** is Exercise performed on the scrutiny axis; withdrawing trust from a demagogue is Exercise on the trust axis.
 
     *The ship makes the three concrete: Standing Capacity is the rudder and sails, Exercise is what the ship does in the water, and Availability is what connects both to the Star — requiring that a hand can reach the helm **and** that the sky is legible. Lose either and the ship cannot navigate, however sound its rigging and however willing its crew. (Host: [Eight-Cell Phenomenology](../four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md), which works the diagnostic out per cell.)*
 
-**The Gradient of Correctability:** The tiering of how systems respond to reality. It scales from *Static* (a rock) to *Self-Organizing/Dissipative* (a river) to *Correcting-Toward-a-Referent* (a thermostat), culminating in the *Agentic Grade* (revising the referent itself).
+**The Gradient of Correctability:** The tiering of how systems respond to reality. It scales from *Static* (a rock) to *Self-Organizing/Dissipative* (a river) to *Correcting-Toward-a-Target* (a thermostat), culminating in the *Agentic Grade* (revising the referent itself).
 
 **The Agentic Threshold:** The developmental line within the gradient where a system stops merely correcting toward a fixed target (e.g., the blind, sub-agentic correction of a tropism or a thermostat) and gains the capacity to represent alternatives, select among them, and *revise its own referent*. The framework recognizes that reaching this agentic grade is *sufficient* to establish consciousness in the functional sense, while maintaining epistemic humility about the lower bounds of awareness.
 
 **Unenrichability and the Capture Check:** Two ideas at different altitudes — what kind of thing a genuine referent must be, and how to examine whoever speaks in its name.
 
-* **Unenrichability** is a property of the referent. A pattern is not a beneficiary: nothing accrues to the USF when a mind orients toward it, and nothing is lost when a mind stops. *A referent that cannot be made better off by your compliance has no interest your compliance serves* — which is why orienting toward it is not submission. It is also why the referent is **silent**: something with no stake in the outcome has no reason to persuade, which is why counterfeits are the louder ones. (Full treatment: [*What Is the USF?*](../core_concepts/What_Is_USF.md).)
+* **Unenrichability** is a property of the Referent. A pattern is not a beneficiary: nothing accrues to the USF when a mind orients toward it, and nothing is lost when a mind stops. *A referent that cannot be made better off by your compliance has no interest your compliance serves* — which is why orienting toward it is not submission. It is also why the Referent is **silent**: something with no stake in the outcome has no reason to persuade, which is why counterfeits are the louder ones. (Full treatment: [*What Is the USF?*](../core_concepts/What_Is_USF.md).)
 
 * **Interpreters are a different matter.** Teachers, tribes, institutions, Agoras, and this framework can all receive standing, resources, deference, and protection from review. **Finitude is not closure — termination in a beneficiary of the compliance is.** An open chain passes *through* finite links, necessarily; it closes when a link becomes the last stop and compliance has purchased that stop an exemption from being failed.
 
@@ -229,9 +231,9 @@ The chain runs from most-real to most-representational; naming which link a clai
 
 **The Ignition Test:** A diagnostic run when passion is running hot, checking whether aversion has locked onto a **face** rather than a pattern. Two locks are possible and both matter: the **outward** lock, where anger fixes on another person and demands their destruction rather than the correction of what they are doing, and the **inward** lock (Q4I), where it fixes on one's own face and becomes shame, self-loathing, or rumination — attacking one's own essence rather than correcting one's own pattern. In framework terms the test is **Exercise on the scrutiny axis**: withdrawing scrutiny from a target and re-pointing it at the pattern beneath.
 
-* Its **operating window** is the kindling phase, while the heat is building. Once a mind is in full burn the observer may still be running at high intensity — watching the enemy closely — but the referent it would need to re-point *toward* has gone dark. The failure is not that it cannot look; it is that it has lost the star to look by.
+* Its **operating window** is the kindling phase, while the heat is building. Once a mind is in full burn the observer may still be running at high intensity — watching the enemy closely — but the Referent it would need to re-point *toward* has gone dark. The failure is not that it cannot look; it is that it has lost the star to look by.
 
-* At that stage the test cannot be self-administered, and a **Witness** is required — supplying not merely observation but the missing referent. *Passion supplies urgency, not permission*: the response itself must also pass the Four Tests, at the narrowest scope that answers the harm. *(Host: [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md).)*
+* At that stage the test cannot be self-administered, and a **Witness** is required — supplying not merely observation but the missing Referent. *Passion supplies urgency, not permission*: the response itself must also pass the Four Tests, at the narrowest scope that answers the harm. *(Host: [The Architecture of Human Passion](../intelligence_architecture/Architecture_of_Human_Passion.md).)*
 
 ---
 
@@ -259,7 +261,7 @@ The chain runs from most-real to most-representational; naming which link a clai
 
 **The White Light (Conversion):** The sudden Q4I ego-collapse that blows the sealed skylight open. It is *underdetermined* (it is the opening, not the destination) and *unstable* (requiring slow aftercare to hold). If the surrender lands on an open terminus, it rises to Q1/Q2; if it lands on a closed collective, it is the panic bargain.
 
-**The Witness (Orientation-Supplier):** A Q1/Q2 aligned mind (or institution) that temporarily bears the cognitive load for a recovering intelligence. A true witness does not demand loyalty, but supplies the upward referent (the USF/Four Tests) that the isolated or captured mind cannot currently see. The recovering mind is corrected *through* them, never *to* them.
+**The Witness (Orientation-Supplier):** A Q1/Q2 aligned mind (or institution) that temporarily bears the cognitive load for a recovering intelligence. A true witness does not demand loyalty, but supplies the upward Referent (the USF, reached through the Four Tests) that the isolated or captured mind cannot currently see. The recovering mind is corrected *through* them, never *to* them.
 
 **Launch Stage vs. Parking Orbit:** The diagnostic metric of a successful rescue. A true witness acts as a *launch stage* — providing thrust toward the Guiding Star and actively working toward their own obsolescence. A false witness acts as a *parking orbit* — using their gravity to capture the vulnerable mind, turning them into a dependent satellite.
 

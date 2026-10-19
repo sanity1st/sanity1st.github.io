@@ -69,7 +69,7 @@ The actual test is this:
 
 External feedback can reinforce closure. Internal reflection can disclose a genuine correction. Disagreement does not automatically constitute a valid correction. Openness requires an accountable way of assessing challenges, not indiscriminate submission to them.
 
-In this library, the Four Tests — Ethics, Facts, Logic, Laws — are that accountable way. The Star is the referent they serve. This companion does not re-derive them. It borrows them for one job: to keep “correction” from meaning merely *outside*, or merely *opposed*.
+In this library, the Four Tests — Ethics, Facts, Logic, Laws — are that accountable way. The Star is the Referent they serve. This companion does not re-derive them. It borrows them for one job: to keep “correction” from meaning merely *outside*, or merely *opposed*.
 
 ---
 

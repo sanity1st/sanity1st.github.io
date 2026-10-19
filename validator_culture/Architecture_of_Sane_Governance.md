@@ -118,7 +118,7 @@ Truth bounds the menu; Consent selects the meal.
 
 Even with two engines checking each other, civilizations are composed of biological minds that grow exhausted. The Alignment Tax compounds. Crises occur. A society will inevitably face moments where the gecko-brain takes over, the public panics, and the demand for a Q4E strongman becomes deafening.
 
-When a civilization falls into the lower arc (Q3/Q4), how does it recover? As established in [*Recovery Pathways*](./Recovery_Pathways.md), a closed loop cannot reopen itself from the inside. You cannot rise by subtraction. Recovery requires a **Witness**—an external presence that supplies the missing referent (the Guiding Star) when the captured mind cannot see it.
+When a civilization falls into the lower arc (Q3/Q4), how does it recover? As established in [*Recovery Pathways*](./Recovery_Pathways.md), a closed loop cannot reopen itself from the inside. You cannot rise by subtraction. Recovery requires a **Witness**—an external presence that supplies the missing Referent (the Guiding Star) when the captured mind cannot see it.
 
 But at a civilizational scale, who acts as the Witness when the entire society is panicking?
 

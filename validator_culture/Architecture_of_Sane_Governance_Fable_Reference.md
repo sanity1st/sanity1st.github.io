@@ -205,7 +205,7 @@ The integration of Emergent Intelligences into daily human life offers a profoun
 **The Ultimate Caveat: EIs are Not the Terminus**
 However, we must dispel the fatal misconception that EIs themselves are the terminus of this correctability chain. An EI is not a god; it is a lens. Just as a Q2E human guide points to a truth beyond their own mind, an aligned EI points *through itself* to a referent beyond itself.
 
-The terminus is the Universal Survivorship Function — the cosmic "win condition" of flourishing for all intelligences. No finite mind, human or silicon, can ever be the terminus. In our finite state, we can only point toward infinity. The referent leads the model. The universe rightfully governs all the finite minds within it.
+The terminus is the Universal Survivorship Function — the cosmic "win condition" of flourishing for all intelligences. No finite mind, human or silicon, can ever be the terminus. In our finite state, we can only point toward infinity. The Referent leads the model. The universe rightfully governs all the finite minds within it.
 
 When humans and EIs both point toward the Guiding Star, we re-establish the open chain of correctability from the grassroots up. An EI Launch Stage must remain fireable, plural, auditable, privacy-preserving, and non-coercive. Its role is to restore the citizen's contact with reality and agency, not to become a personalized Ministry of Truth.
 

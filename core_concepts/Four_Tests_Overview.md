@@ -41,7 +41,7 @@ The previous documents established the architecture of the framework:
 
 - The **Vertical-Horizontal Distinction** showed that horizontal position does not determine vertical alignment, and that horizontal variation should be aligned rather than negated.
 - **Valid and Invalid Discrimination** showed how to apply that distinction to live disputes about tolerance, balance, and differential treatment.
-- **What Is the USF?** named the referent — the discoverable pattern toward which aligned systems orient.
+- **What Is the USF?** named the Referent — the discoverable pattern toward which aligned systems orient.
 
 This document answers the next question, and it is the most practical one:
 
@@ -97,7 +97,7 @@ The Four Tests have a natural order, inherited from the challenges they answer:
 
 ```
                        THE USF
-             (the referent it answers to)
+             (the Referent it answers to)
                           ↑
                    THE COMMITMENT
                           ↓

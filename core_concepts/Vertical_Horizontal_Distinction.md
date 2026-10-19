@@ -55,7 +55,7 @@ Picture a simple coordinate system:
                    │
                    │
                    ↓ DOWN
-    Closed Terminus - Sealed Referent
+    Closed Terminus - sealed referent
              (toward collapse)
 ```
 

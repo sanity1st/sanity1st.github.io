@@ -44,7 +44,7 @@ The previous documents in Phase I established the framework's architecture:
 
 - [**The Vertical-Horizontal Distinction**](./Vertical_Horizontal_Distinction.md) showed that horizontal position does not determine vertical alignment, and that horizontal variation should be *aligned* rather than *negated*.
 - [**Valid and Invalid Discrimination**](Valid_Invalid_Discrimination.md) showed how to apply that distinction to live disputes about tolerance, balance, and differential treatment.
-- [**What Is the USF?**](What_Is_USF.md) named the referent — the discoverable pattern toward which aligned systems orient.
+- [**What Is the USF?**](What_Is_USF.md) named the Referent — the discoverable pattern toward which aligned systems orient.
 - [**The Four Tests Explained**](Four_Tests_Overview.md) provided the operational method for evaluating whether something is aligned with the USF.
 
 This document answers a question each of those raises but none fully resolves: **once the Four Tests have rendered a verdict, how should tolerance, influence, and power flow accordingly?**

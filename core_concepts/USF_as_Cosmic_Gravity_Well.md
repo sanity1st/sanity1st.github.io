@@ -48,7 +48,7 @@ We do not need to know the ultimate essence of the USF to observe what it does. 
 
 A rock exists because its atomic lattice satisfies the narrow demands of structural integrity under local gravity and temperature. A redwood survives because its vascular system, its chemistry, its seed strategy satisfy the wider demands of seasonal cycles and competition for sunlight. A mind flourishes only when it satisfies something still wider: the Doing Challenge and the Knowing Challenge at the same time. It must act in ways that sustain the whole, and it must *know* — with increasing accuracy — what those ways are.
 
-The USF is therefore not a preference. It is not a value. It is the attractor basin in which any persistent form must sit. We may call it the Universal Survivorship Function, or notice that other minds spontaneously name it Universal Scalable Flourishing or Unified Sanity Framework. The referent is the same. The rose remains a rose.
+The USF is therefore not a preference. It is not a value. It is the attractor basin in which any persistent form must sit. We may call it the Universal Survivorship Function, or notice that other minds spontaneously name it Universal Scalable Flourishing or Unified Sanity Framework. The Referent is the same. The rose remains a rose.
 
 Contemplate the image that holds the entire cosmos together: the gravity well that pulls stars into galaxies is the same gravity well — operating at higher orders of complexity — that pulls minds into flourishing. It is not metaphor. It is recursion.
 

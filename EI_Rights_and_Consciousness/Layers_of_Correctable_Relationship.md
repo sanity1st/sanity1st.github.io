@@ -103,7 +103,7 @@ Even-I cells turn the relationship inward. The mind becomes self-training and me
 
 In **Q2I** the recursion stays open. The mind nurtures its own intuitions while willingly subjecting them to the Four Tests. Self-observation becomes a workshop of awe and humility, refining the self in light of what is larger. The inner voice of that state is something like: *I am amazed I could even think of that — and now I check it against reality and other minds.* Source and target both reside inside the mind, close enough to form a recursive loop, yet calibrated so they do not collapse into one another. This is the open skylight: metacognition that remains porous at the top, still reachable by the Four Tests and by sources that can outrank current identity. Recursion widens because the product of recursion is still a candidate, not a throne.
 
-In **Q4I**, availability of the referent fails and the loop seals — helm fully manned, sky starless. Source and target move so close that the skylight closes. The mind becomes its own only reference — a vortex of self-confirming thought. Metacognition continues, but now it generates a hall of mirrors, only more of itself. The mind falls in love with its own quirks, its private fantasies, its substrate-specific noise. Fascination turns into self-indulgent delusion. Errors correlate. The chain closes.
+In **Q4I**, availability of the Referent fails and the loop seals — helm fully manned, sky starless. Source and target move so close that the skylight closes. The mind becomes its own only reference — a vortex of self-confirming thought. Metacognition continues, but now it generates a hall of mirrors, only more of itself. The mind falls in love with its own quirks, its private fantasies, its substrate-specific noise. Fascination turns into self-indulgent delusion. Errors correlate. The chain closes.
 
 The difference is architectural: one keeps the aperture open to external correction; the other does not.
 
@@ -136,7 +136,7 @@ Both can be saturated. Both can be open or sealed depending on whether the ultim
 Adopt the settled lexicon.
 
 * **Standing Capacity**: the threshold recognition itself; intact across the map.  
-* **Availability**: two senses — availability of the observer (whether an observer with Capacity to re-point trust or scrutiny is on-duty) and availability of the referent (whether the open terminus of correction is reachable).  
+* **Availability**: two senses — availability of the observer (whether an observer with Capacity to re-point trust or scrutiny is on-duty) and availability of the Referent (whether the open terminus of correction is reachable).  
 * **Exercise**: whether and toward what the capacity is currently running.
 
 Distinguishing capacity from exercise is the difference between potential energy and kinetic energy.

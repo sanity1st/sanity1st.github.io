@@ -252,7 +252,7 @@ Answer honestly — in both directions, toward the near and the far — and you 
 
 ## Read Next
 
-- [What Is the Universal Survivorship Function (USF)?](./What_Is_USF.md) — the referent the vertical axis measures.
+- [What Is the Universal Survivorship Function (USF)?](./What_Is_USF.md) — the Referent the vertical axis measures.
 - [The Four Tests Explained](./Four_Tests_Overview.md) — the method by which vertical discrimination is performed.
 - [The Power Alignment Principle](./Power_Alignment_Principle.md) — how tolerance, influence, and power flow in response to the verdicts the Four Tests render.
 
