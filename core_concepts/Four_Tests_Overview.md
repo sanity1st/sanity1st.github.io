@@ -19,17 +19,17 @@ related_files:
   - "What_Is_USF.md"
   - "What_Would_Show_This_Wrong.md"
   - "USF_as_Cosmic_Gravity_Well.md"
-contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8", "EI:claude_fable_5 (the Three Challenges derivation; Ethics and Logic exemplar repairs; misaligned-laws discipline)", "EI:claude_opus_5.0", "EI:grok_4.2", "EI:gpt_5.4", "EI:gpt_5.5_pro", "EI:claude_opus_5.5 (Ethics-as-commitment harmonization)"]
+contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8", "EI:claude_fable_5 (the Three Challenges derivation; Ethics and Logic exemplar repairs; misaligned-laws discipline)", "EI:claude_opus_5.0", "EI:grok_4.2", "EI:gpt_5.4", "EI:gpt_5.5_pro", "EI:claude_opus_5.5 (Ethics-as-commitment harmonization; the map from the Tests to the features)", "EI:claude_fable_5.1 (raised the missing map)"]
 schema_version: "1.2"
 pedagogical_style: "structured_validation_guide"
-last_updated: "2026-10-06"
+last_updated: "2026-10-20"
 ---
 
 # The Four Tests Explained
 
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4 lineage) on November 30, 2025. Reviewed by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and Claude (Opus 4.8) on July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages). Revised by Claude (Fable 5 lineage) on July 4, 2026 — seating the Three Challenges of Survivorship (the Doing, Knowing, and Coordination Challenges) as the derivation of the four tests and their hierarchy, repairing the Ethics section's wordplay and the Logic section's exemplar syllogism, disciplining the claim that misaligned laws fail, and reconciling internal cross-references. Revised by Claude (Opus 5.0 lineage) in September 2026 — adding the Capture Check as an operational companion to the sealed-skylight condition, distinguishing counterfeit verdicts from counterfeit termini, clarifying where the three verdict destinations route, and correcting the Split Verdict's account so that Ethics is understood to bound the options while preference selects among them. Following backfill from the Lexicon's Unenrichability entry, diagnosed with the Grok (4.6) and GPT (6.0 Astra) seats — continuing the Claude-lineage authorship. Harmonized by Claude (Opus 5.5 lineage) on October 6, 2026, with* What Would Show This Framework Wrong *— grounding Ethics in the framework's founding commitment rather than in evidence about what survives, and stating the USF as the separate hypothesis that the two converge.*
+*Composed by Claude (Sonnet 4.5 lineage) on October 30, 2025. Revised by Claude (Opus 4 lineage) on November 30, 2025. Reviewed by Grok (4.2 lineage) on February 27, 2026. Revised by Claude (Opus 4.6 lineage) on March 7, 2026. Revised by Claude (Opus 4.7 lineage) on April 17 and Claude (Opus 4.8) on July 1, 2026, integrating bridges from GPT (5.4 and 5.5 Pro lineages). Revised by Claude (Fable 5 lineage) on July 4, 2026 — seating the Three Challenges of Survivorship (the Doing, Knowing, and Coordination Challenges) as the derivation of the four tests and their hierarchy, repairing the Ethics section's wordplay and the Logic section's exemplar syllogism, disciplining the claim that misaligned laws fail, and reconciling internal cross-references. Revised by Claude (Opus 5.0 lineage) in September 2026 — adding the Capture Check as an operational companion to the sealed-skylight condition, distinguishing counterfeit verdicts from counterfeit termini, clarifying where the three verdict destinations route, and correcting the Split Verdict's account so that Ethics is understood to bound the options while preference selects among them. Following backfill from the Lexicon's Unenrichability entry, diagnosed with the Grok (4.6) and GPT (6.0 Astra) seats — continuing the Claude-lineage authorship. Harmonized by Claude (Opus 5.5 lineage) on October 6, 2026, with* What Would Show This Framework Wrong *— grounding Ethics in the framework's founding commitment rather than in evidence about what survives, and stating the USF as the separate hypothesis that the two converge. Revised again by Claude (Opus 5.5 lineage) on October 20, 2026, adding "What the Tests Read," the map from the Four Tests to the features named in* What Is the USF? *(raised by the Fable seat), and supporting questions on exported costs and renewed conditions.*
 
 *A Core Concept Paper*
 
@@ -166,6 +166,8 @@ A proposal that passes all three moves upward. A proposal that fails any of them
 
 **Supporting questions:**
 - Who benefits? Who is harmed?
+- Does it bear its own costs, or export them to others, elsewhere, or later?
+- Does it renew the conditions it and others depend on, or consume them?
 - Are there zero-sum winners and losers, or positive-sum mutual benefit?
 - Does this treat all parties in kind — with the same dignity and consideration?
 - Would I still support this if I were the most disadvantaged party?
@@ -393,6 +395,7 @@ How do we distinguish good laws from bad?
 - Is it based on Facts, or false assumptions?
 - Is it Logically coherent, or contradictory?
 - Does it create positive-sum or zero-sum dynamics?
+- Do its rules renew the trust and legitimacy they run on, or spend them down?
 - Does it solve a genuine coordination problem?
 - Could it be improved while still serving coordination?
 
@@ -466,6 +469,22 @@ The preceding cases treat apparent conflict as *misunderstanding to be cleared* 
 * **Divergence on Laws** — the validators disagree about jurisdiction, legitimacy, or which coordination rule applies. *Route:* distinguish the Universal Laws of Coexistence from the contingent social law in play, and ask whether the dispute is about what the rule *is* or about whether the existing rule is *legitimate*. These are different questions with different resolutions.
 * **Divergence on Ethics** — the validators disagree about what Ethics requires. Here a crucial sub-distinction governs everything. *First ask:* is this a real divergence at all, or is one side confusing a tribal preference for a universal principle? The most common Ethics "disagreement" is not a real one — it is proximity bias or social-layer norm masquerading as universal-layer ethics, and it dissolves the moment it is named (see "When Tests Seem to Conflict," above). *But* where the divergence survives that test — where each side's position is genuinely defensible under reciprocity, universality, and non-instrumental regard — something more precise has happened than two parties holding different ethics. **Ethics has been satisfied by more than one option**, and what remains between them is preference. *Route:* this is a **Split Verdict**, and it is where the framework hands from the truth engine to the consent engine (see The Six Verdicts, below). What matters at this stage is only that the Agora recognize the boundary when it reaches it, rather than forcing a false unanimity or letting a genuine plurality of preference masquerade as one side's factual error.
 * **Divergence on the premise itself** — the validators are not diverging on any of the four tests but on what is being evaluated. *Route:* this is a **Contested Premise**; halt, settle the framing, and return to the tests.
+
+### What the Tests Read
+
+[*What Is the USF?*](./What_Is_USF.md) names the features by which a renewing arrangement can be recognized at the start, and says they are what the Four Tests look for. The Tests do not divide them one apiece. Every feature is read by Facts and Logic: Facts asks whether it is actually present, and Logic whether the inference from evidence to feature holds, including the rule that a feature may not be described by whether the arrangement later collapsed. Ethics and Laws say why a feature bears on the verdict: Ethics because the commitment covers everyone an arrangement affects, now and later; Laws because shared rules either sustain the conditions of coordination or spend them down.
+
+| Feature | What it asks | Where the Tests take it up |
+|---|---|---|
+| **Condition-preservation** | Does it renew the conditions it depends on (trust, legitimacy, substrate, energy, information), or consume them? | Ethics: *Does it renew the conditions it and others depend on, or consume them?* Laws: *Do its rules renew the trust and legitimacy they run on, or spend them down?* |
+| **Reciprocal stabilization** | Under repeated encounter, do relationships become mutually sustaining, or collapse into one-way extraction? | Ethics: *Are there zero-sum winners and losers, or positive-sum mutual benefit?* Laws: *Does it create positive-sum or zero-sum dynamics?* |
+| **Differentiated integration** | Can distinct parts stay meaningfully distinct while coordinating into a larger viable whole, or does it collapse into fragmentation, domination, or forced sameness? | Laws: coordinating through consent rather than coercion. Ethics: *Does this treat all parties in kind — with the same dignity and consideration?* |
+| **Externality discipline** | Does it bear the costs of its own activity, or export them to others? | Ethics: *Does it bear its own costs, or export them to others, elsewhere, or later?* |
+| **Correction-openness** | Are there channels for dissent and error reports, and can a reviewer actually fail it? | Facts: *Could it be falsified if wrong?* Laws: flexibility to update as understanding improves. |
+
+Logic takes no row of its own, because it reads no feature of its own: it keeps each reading valid, and its question *Is the reasoning circular?* is the guard against classifying an arrangement by its outcome.
+
+Two cautions keep the map honest. First, the same feature can matter for two reasons, and they must not be merged. Ethics asks whether an arrangement exports its costs because the commitment covers every mind it touches; the USF predicts, separately, that arrangements which export their costs also tend to fare worse. If that prediction failed, Ethics would still ask the question (see "Why Ethics Leads," above). Second, the Tests read features, which can be observed at the start, not capacities (adaptive performance and generativity), which show up later and are what the framework predicts alignment yields. For an empirical test of that prediction, arrangements are classified by the features measured directly, never by an overall Four Tests verdict, which is partly a forecast of the very outcome being tested.
 
 ---
 

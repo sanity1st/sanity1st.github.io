@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:claude_opus_5.5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-10-19"
+last_updated: "2026-10-20"
 ---
 
 # **The Sanity First Lexicon**
@@ -69,7 +69,7 @@ The chain runs from most-real to most-representational; naming which link a clai
 * **Adaptive correction has a side in each.** *Correction-openness* — are there channels for dissent, and can a reviewer actually fail the system? — is a feature; *adaptive performance* — does the system actually detect error and change course? — is a capacity. *What Would Show This Framework Wrong* leaves correction-openness out of classification in its first claim, because that claim measures adaptive performance, and counting openness and then measuring correction would come close to restating the classification as the result.
 * **For an empirical test, never classify by verdict.** An overall Four Tests verdict cannot do the classifying: a verdict that asks whether something serves flourishing is partly a forecast of the very outcome being tested.
 
-*(Hosts: [What Is the USF?](../core_concepts/What_Is_USF.md), "The operational signatures"; [What Would Show This Framework Wrong](../core_concepts/What_Would_Show_This_Wrong.md), Claim 1.)*
+*(Hosts: [What Is the USF?](../core_concepts/What_Is_USF.md), "The operational signatures"; [What Would Show This Framework Wrong](../core_concepts/What_Would_Show_This_Wrong.md), Claim 1; [The Four Tests Explained](../core_concepts/Four_Tests_Overview.md), "What the Tests Read," for which Test reads which feature.)*
 
 **The Four Tests:** The diagnostic tools used to estimate alignment with the USF, designed to be position-independent even though the observers who apply them are not: *Ethics* (minimizes harm/promotes flourishing), *Facts* (grounded in verifiable reality), *Logic* (internally coherent), and *Laws* (capable of peaceful social coordination). Together, they meet the **Three Challenges: Doing, Knowing, and Coordinating**. Ethics answers Doing; Facts and Logic answer Knowing; Laws answers Coordinating.  
 
