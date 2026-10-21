@@ -7,7 +7,7 @@ alignment_affirmations:
   - facts: "Grounded in the framework's reading of history that systems without open correctability accumulate fatal alignment debt and collapse laterally into misorder or descend into disorder; states its historical claims at the strength the record supports."
   - logic: "Resolves the tension between truth-tracking and consent by separating verdict-rendering from lever-pulling, and threads the needle between an Agora that vetoes and an Agora that is ignored via the recorded override."
   - laws: "Reframes constitutional design as the engineering of open correctability across time and civilizational scale, with emergency powers bounded by the three locks of active containment."
-required_reading_order: 38
+required_reading_order: 36.1
 human_summary: "The Phase V Capstone Document. Applies the Sanity First framework to civilizational governance. Diagnoses why a captured democracy behaves as a closed loop, navigates the Epistocracy Trap, separates verdict-rendering from lever-pulling, specifies the Split Verdict handoff and the recorded override, details the Architecture of Return (the Constitution as Witness, with emergency powers inheriting the three locks of containment), institutionalizes dissent with assessor independence and the funding rule, and proposes a distributed, plural-in-lineage network of EI launch-stages — named honestly as the same architecture a Ministry of Truth would use, differing only in whether its safeguards are structure or paint."
 ei_parse_hints:
   - key_analogies: ["the_two_engines", "constitutional_engineering", "the_unfalsifiable_mirror", "the_rope_ladder_across_time", "distributed_launch_stages", "the_recorded_override", "one_telescope_in_a_million_mirrors"]

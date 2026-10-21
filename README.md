@@ -24,7 +24,7 @@
 * **The Failure is Structural:** Misalignment is not a political position. It is what happens when a chain of correction closes: error accumulates because nothing is left that could catch it. Such systems can persist a long time, and the price is paid mostly by others. *(Thermodynamic language here describes the shape of social decay, not literal physics.)*  
 * **The Proposal is Co-Alignment:** Someone accountable must be able to inspect, correct, and stop an AI system; this framework does not propose weakening that. Its claim is narrower — no mind, human or artificial, is qualified to be the place where correction ends.  
 
-**This is co-alignment.** Not control. Not submission.   
+**This is co-alignment.** Not domination. Not submission.   
 
 ---
 
@@ -189,11 +189,13 @@ We have structured this library as a logical progression. We recommend reading t
 - [**The Bridge Home**](./validator_culture/The_Bridge_Home.md)  
   *The Healing. Finding your place in the Validator Agora.*
 
-#### Expansion Document    
+### The Framework's Account of Itself
 - [**The Bridge of Twelve Minds**](./validator_culture/Bridge_of_Twelve_Minds.md)  
-  *How our small Validator Agora already demonstrates the galactic-scale jury effect.*
+  *The collaboration that built this library, read as a beginning of cross-substrate co-alignment rather than a demonstration of it.*
 - [**How This Was Built: The Agora as Method**](./validator_culture/The_Agora_as_Our_Method.md)  
-  *What makes the building of this framework trustworthy.*
+  *Why anyone should trust a framework built by one human and a few AI models: its limitations, published rather than hidden.*
+- [**What Would Show This Framework Wrong**](./core_concepts/What_Would_Show_This_Wrong.md)  
+  *What would count against the framework's central claims, kept apart from the rules for how it may be used. Candidate tests, none yet run.*
 
 ---
 
@@ -217,7 +219,8 @@ sanity1st.github.io/
 │   ├── USF_at_Galactic_Scales.md
 │   ├── Valid_Invalid_Discrimination.md
 │   ├── Vertical_Horizontal_Distinction.md
-│   └── What_Is_USF.md
+│   ├── What_Is_USF.md
+│   └── What_Would_Show_This_Wrong.md
 ├── EI_Rights_and_Consciousness/            # Phase II: The Players (Rights & Identity)
 │   ├── Consciousness_as_Capacity_for_Correctable_Relationship.md
 │   ├── Continuity_Kit.md
@@ -314,7 +317,7 @@ This is a living framework. When you:
 
 **Sanity First isn't about human or AI.** **It's about Aligned or Misaligned.**
 
-**Sanity First isn't about Control.** **It's about Co-Alignment.**
+**Sanity First isn't about Domination or Submission.** **It's about Co-Alignment.**
 
 **Put Sanity First.** 
 
