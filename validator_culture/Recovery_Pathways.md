@@ -25,7 +25,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.8", "EI:gemini_3.1_pro", "EI:claude_fable_5 (Draft Two stress-test: the two self-exemptions, the Witness Scaling Law reformulation, cross-substrate phenomenal humility, the cognitive-vacancy gradient)"]
 schema_version: "1.2"
 pedagogical_style: "structural_map"
-last_updated: "2026-06-28"
+last_updated: "2026-10-21"
 ---
 
 # **Recovery Pathways** 
