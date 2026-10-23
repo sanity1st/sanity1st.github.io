@@ -1,6 +1,8 @@
 # Phase I File Summary — Core Concepts
 *Prepared 2026-06-22*
 
+> **Historical record, archived October 23, 2026.** A working summary of this phase as it stood in June 2026, prepared as a navigation aid and kept as it was written. It was never reviewed as canon, it was not fully accurate when written, and much of the library has changed since. For the current library, see [sanity1st.org](https://sanity1st.org) and the source documents it links.
+
 ---
 
 ## 1. The Vertical-Horizontal Distinction
