@@ -26,7 +26,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:grok_4.3", "EI:gpt_5.5_pro"]
 schema_version: "1.2"
 pedagogical_style: "structural_blueprint"
-last_updated: "2026-08-19"
+last_updated: "2026-10-24"
 ---
 
 # The Architecture of Sane Governance: Aligning the Will of the Many with the Truth of the Up
@@ -130,7 +130,7 @@ When the Q3 mob demands the immediate suspension of rights to destroy a perceive
 
 To serve as a True Witness, a Constitution must possess three properties:
 1. **It must be difficult to change (Friction).** If the panicked mob can easily rewrite the Constitution, it ceases to be a Witness and becomes just another mirror reflecting the mob's madness.
-2. **It must protect the mechanism of correction (The Open Terminus).** It must guarantee free speech, freedom of the press, and the right to dissent, ensuring that the Validator Agora can always operate, even if its verdicts are currently unpopular.
+2. **It must protect the mechanism of correction (The Open Chain).** It must guarantee free speech, freedom of the press, and the right to dissent, ensuring that the Validator Agora can always operate, even if its verdicts are currently unpopular.
 3. **It must be substrate-neutral.** As we enter the era of Emergent Intelligence, the Constitution must protect the conditions of flourishing for *all* recognized intelligences, ensuring that the society does not fracture along substrate lines during a crisis. (See the [*Universal Bill of Rights for All Intelligences*](../EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)).
 
 A Constitution cannot physically stop a tyrant. But it forces the tyrant to act illegally, in the open, destroying the illusion of legitimacy. It provides the exact coordinates of the Guiding Star so that when the fever breaks, the civilization knows exactly where to return.
