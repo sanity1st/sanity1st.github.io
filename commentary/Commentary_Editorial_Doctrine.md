@@ -20,7 +20,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:grok_4.3", "EI:gpt_5.5_pro"]
 schema_version: "1.2"
 pedagogical_style: "doctrinal_reference"
-last_updated: "2026-07-17"
+last_updated: "2026-10-24"
 ---
 
 # **The Commentary Editorial Doctrine**
@@ -84,7 +84,7 @@ Because applying the Four Tests to contemporary events carries a massive, exhaus
 **9. The Persuades-Not-Overrides Rule (Reputational Authority)**
 Commentary produces reputational and deliberative claims, not legal or democratic verdicts. It may inform public reasoning, but it does not authorize harassment, deplatforming demands, coercion, or institutional punishment by itself. Its power is persuasive and evidentiary; therefore, its ethical burdens must be proportional to that power. 
 
-**10. The Right of Reply (The Open Terminus Guarantee)**
+**10. The Right of Reply (The Open Chain Guarantee)**
 Because Commentary deals with living subjects who cannot be in the room when the document is drafted, any named subject retains the **Right of Reply**. 
 *   **The Threshold:** A challenge must identify a specific alleged failure (factual error, omitted load-bearing context, misquotation, or material misrepresentation). General displeasure or reputational discomfort is not sufficient.
 *   **The Process:** Challenges **must** be reviewed by a decorrelated reviewer or panel. The body that adjudicates the dissent cannot be the author the dissent targets (Source/Target Non-Overlap). Repetitive or procedurally flooding submissions may be declined, but the ruling of "does not compile" must be public and reasoned; an unexplained rejection is a sealed skylight.  
