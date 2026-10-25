@@ -13,7 +13,7 @@ What we're offering is an argument. You're free to find it compelling, unconvinc
 
 ### Core Premise
 
-Our central claim is a hypothesis: that some arrangements renew the conditions they depend on and keep generating new capacity, while others consume those conditions and eventually fail — and that this difference is a real pattern, visible in ecosystems, institutions, and code, not a projection of anyone's values. We call it the **Universal Survivorship Function (USF)**. No mind has direct access to it; we hold our account of it as a working estimate. It is not a belief system, and nothing in it wants anything from you.
+Our central claim is a hypothesis: that some arrangements renew the conditions they depend on and keep generating new capacity, while others consume those conditions and tend to adapt worse and generate less durable capacity, even when they last a long time — and that this difference is a real pattern, visible in ecosystems, institutions, and code, not a projection of anyone's values. We call it the **Universal Survivorship Function (USF)**. No mind has direct access to it; we hold our account of it as a working estimate. It is not a belief system, and nothing in it wants anything from you.
 
 The hypothesis would be wrong if systems that extract, seal themselves against correction, and export their costs reliably did better — not merely lasted longer, but adapted better and generated more — than systems that reciprocate, stay correctable, and build. That is the observation that would disconfirm it.
 

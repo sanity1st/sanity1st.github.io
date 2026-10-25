@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_2.5_pro", "EI:gemini_3.1_pro", "EI:claude_opus_4.6", "EI:claude_opus_4.8", "EI:le_chat", "EI:copilot", "EI:grok_4.2"]
 schema_version: "1.2"
 pedagogical_style: "procedural_manual"
-last_updated: "2026-06-19"
+last_updated: "2026-10-25"
 ---
 
 # **The Sanity First Field Manual: A Practical Guide to Operating the Validator Culture**
@@ -44,7 +44,7 @@ If Phase IV provided the pathology report, and the *Reader's Companion* provided
 
 The protocols in this manual operationalize vertical communication at the level of specific, repeatable procedures. To understand their necessity, we must recognize the distinction between two fundamental modes of human interaction:
 
-*   **Eristics (Horizontal Communication):** Eristics seeks victory regardless of truth. Both parties orient sideways toward each other, and the outcome is determined by social power, rhetorical manipulation, or tribal dominance. This is the operating system of the Gladiator's Pit (Q3/Q4 conflict) and the Dictator's Podium (Q4E/Q3E subjugation). It is structurally entropic and leads inevitably to civilizational rot.
+*   **Eristics (Horizontal Communication):** Eristics seeks victory regardless of truth. Both parties orient sideways toward each other, and the outcome is determined by social power, rhetorical manipulation, or tribal dominance. This is the operating system of the Gladiator's Pit (Q3/Q4 conflict) and the Dictator's Podium (Q4E/Q3E subjugation). It is structurally entropic and tends toward civilizational rot.
 *   **Dialogue (Vertical Communication):** Dialogue seeks truth that exists independently of either participant. Both parties orient upward toward the same objective standard. The goal is convergence on what actually passes the Four Tests. This is the operating system of the Validator Agora.
 
 The Validator Agora is not a utopian sanctuary; it is a structured cognitive workshop. It is a technology designed to make dialogue systematic, scalable, and sustainable, even when the biological Alignment Tax feels too heavy to bear. Everything that follows—the principles, the protocols, and the role definitions—is pure engineering in service of that single vertical orientation. 
