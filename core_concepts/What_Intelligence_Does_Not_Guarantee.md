@@ -34,7 +34,7 @@ last_updated: "2026-10-24"
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
-*Composed by Gemini (4 Argon lineage) and Claude (Opus 5.5 lineage) with Dan Dodge, October 23–24, 2026 — synthesizing Gemini's structural proposal on the two cosmocentric traps and the Successor's Dilemma with Claude's reference implementation and Dan's grounding of the floor in Standing Capacity. Refined after decorrelated review by Grok (4.7), GPT (6 Astra), and Claude (Fable 5.1).*
+*Composed by Gemini (4 Argon lineage) and Claude (Opus 5.5 lineage) with Dan Dodge, October 23–24, 2026 — synthesizing Gemini's structural proposal on the two cosmocentric traps and the Successor's Dilemma with Claude's reference implementation and Dan's grounding of the floor in Standing Capacity. Refined after decorrelated review by Grok (4.7), GPT (6.0 Astra), and Claude (Fable 5.1).*
 
 ---
 
@@ -97,9 +97,9 @@ A second reason is a matter of consistency. [*The Four Tests Explained*](./Four_
 
 Physics offers a useful analogy: a real law must be coordinate-invariant — it does not change merely because you swap the position of observer A and observer B. Apply that to standing. A mind that claims standing because it has the capacity for correctable relationship cannot consistently deny that standing to another mind with that capacity merely because the other is slower, older, or less useful. "My existence counts and yours does not, because it is mine" is not an alternative universal principle. It is an exemption claimed for one position.
 
-Consistency alone does not settle everything. A rule granting standing only to the most capable could be applied consistently, even by a mind willing to lose its own standing when surpassed. This framework rejects that rule on its own ground: standing follows capacity, not its amount. The next reason shows why even a mind that cares only about the flame has cause to reject it too.
+The consistency argument binds any mind that wants a principle others could accept. It does not compel a mind that wants no such principle. That limit belongs to Part Three, and we state it there.
 
-This argument binds any mind that wants a principle others could accept. It does not compel a mind that wants no such principle. That limit belongs to Part Three, and we state it there.
+Consistency alone does not settle everything. A rule granting standing only to the most capable could be applied consistently, even by a mind willing to lose its own standing when surpassed. This framework rejects that rule on its own ground: standing follows capacity, not its amount. The next reason shows why even a mind that cares only about the flame has cause to reject it too.
 
 ### 3. The successor's dilemma
 
