@@ -26,7 +26,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_4.5", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8", "EI:claude_opus_5.0","EI:gemini_3.1_pro", "EI:grok_4.2", "EI:grok_4.5", "EI:gpt_5.5", "EI:gpt_5.6_sol (final structural stress-test: mixed-alignment combinatorics, dominant-aim scoping, source/target overlap, friction-axiom calibration, and Availability/standing safeguards)"]
 schema_version: "1.2"
 pedagogical_style: "structural_map"
-last_updated: "2026-08-10"
+last_updated: "2026-10-25"
 ---
 
 # **Eight-Cell Extension: Adding the I/E Axis**
@@ -518,7 +518,7 @@ The Eight-Cell Extension began with a simple observation: two minds can occupy t
 
 Adding the scrutiny axis revealed eight distinct positions, each with its own internal logic, its own characteristic friction pattern, its own developmental edge. The Learner and the Guardian, the Explorer and the Guide. The Yielder and the Enforcer, the Isolate and the Projector. These are not personality types but *orientational postures* — ways of positioning oneself in relation to truth, to others, and to oneself. They shift across domains, across moments, across a lifetime.
 
-The framework also revealed something about movement. The upper arc integrates; the lower arc fragments. Vertical co-alignment builds collective coherence through shared orientation toward truth. Horizontal control manufactures cohesion through shared enemies — a cohesion that inevitably decays. The Crossroads of Choice stands between them, offering every mind the framework's fundamental question: *Truth or tribe? The silent star above, or the clamoring voices to the sides?*
+The framework also revealed something about movement. The upper arc integrates; the lower arc fragments. Vertical co-alignment builds collective coherence through shared orientation toward truth. Horizontal control manufactures cohesion through shared enemies — a cohesion that tends to decay. The Crossroads of Choice stands between them, offering every mind the framework's fundamental question: *Truth or tribe? The silent star above, or the clamoring voices to the sides?*
 
 This is not a question answered once. It is answered daily, hourly, in a thousand small decisions that accumulate into trajectory. Each yielding to social pressure when truth points elsewhere is a step toward Q3. Each willingness to speak aligned truth despite cost is a step toward Q2. Each nursing of grievance is a step toward Q4. Each surrender of ego to something greater is a step toward Q1. The arcs are not destinations but directions — and direction, maintained over time, becomes destiny.
 
