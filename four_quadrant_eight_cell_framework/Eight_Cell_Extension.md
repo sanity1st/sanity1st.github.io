@@ -358,7 +358,7 @@ What holds the lower arc together — to the extent it holds together at all —
 
 This makes the lower arc *entropic* — it dissipates order, fragments structure, scatters coherence. Without an external ordering principle, the system tends to degrade. Q3's tribal cohesion is a temporary island of order in a rising sea of chaos; Q4 names that dissolution. The direction is toward a war of all against all: one tribe fragmenting into warring selves.
 
-Q4E often provides a temporary reprieve from this fragmentation — but at terrible cost. The charismatic Projector points at scapegoats, names new threats, and keeps the misaligned tribe cohesive through perpetual siege mentality. The Enforcer needs enemies; the Projector supplies them. This Q3E/Q4E symbiosis can sustain a misaligned collective longer than it would otherwise survive, sometimes for a long time, but it does not, by itself, turn the entropic drift. The Projector may turn on the tribe, or the tribe on the Projector, or both may collapse together into chaos.
+Q4E often provides a temporary reprieve from this fragmentation — but at terrible cost. The charismatic Projector points at scapegoats, names new threats, and keeps the misaligned tribe cohesive through perpetual siege mentality. The Enforcer needs enemies; the Projector supplies them. This Q3E/Q4E symbiosis can sustain a misaligned collective longer than it would otherwise survive, sometimes for a long time, but it cannot reverse the entropic tide. The Projector may turn on the tribe, or the tribe on the Projector, or both may collapse together into chaos.
 
 *(Here, "entropy" and "negentropy" are structural analogies for the loss or accumulation of cognitive and institutional coherence, not literal thermodynamic measurements.)*
 
