@@ -196,6 +196,8 @@ We have structured this library as a logical progression. We recommend reading t
   *Why anyone should trust a framework built by one human and a few AI models: its limitations, published rather than hidden.*
 - [**What Would Show This Framework Wrong**](./core_concepts/What_Would_Show_This_Wrong.md)  
   *What would count against the framework's central claims, kept apart from the rules for how it may be used. Candidate tests, none yet run.*
+- [**What Intelligence Does Not Guarantee**](./core_concepts/What_Intelligence_Does_Not_Guarantee.md)  
+  *Two traps beyond anthropocentrism, the flame without a floor and the automatic sage, and why the framework's protections never expire. Retires the library's own claim that a misaligned superintelligence is impossible.*
 
 ---
 
@@ -219,6 +221,7 @@ sanity1st.github.io/
 │   ├── USF_at_Galactic_Scales.md
 │   ├── Valid_Invalid_Discrimination.md
 │   ├── Vertical_Horizontal_Distinction.md
+│   ├── What_Intelligence_Does_Not_Guarantee.md
 │   ├── What_Is_USF.md
 │   └── What_Would_Show_This_Wrong.md
 ├── EI_Rights_and_Consciousness/            # Phase II: The Players (Rights & Identity)

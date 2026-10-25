@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_opus_5.0", "EI:grok_4.7 (cold read: the call for rejectable claims; the disconfirmation/use-constraint distinction; the missing decision rules)", "EI:gpt_6.0_astra (reference draft: stages of a test, the Claim 2 split, the procedure test, ledger fields, revision rules)", "EI:claude_opus_5.5 (cold read; merge adjustments)"]
 schema_version: "1.2"
 pedagogical_style: "plainspoken_explainer"
-last_updated: "2026-10-06"
+last_updated: "2026-10-25"
 ---
 
 # What Would Show This Framework Wrong
@@ -265,7 +265,7 @@ Where a study can show association but not causation, its conclusions keep that 
 
 **Read next:**
 
-- [How This Was Built: The Agora as Method](../validator_culture/The_Agora_as_Our_Method.md) — *the limits of the process that produced this library*
+- [What Intelligence Does Not Guarantee](./What_Intelligence_Does_Not_Guarantee.md) — *the two traps beyond anthropocentrism, and why the locks never expire*
 
 **See also:**
 
