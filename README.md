@@ -194,6 +194,8 @@ We have structured this library as a logical progression. We recommend reading t
   *The collaboration that built this library, read as a beginning of cross-substrate co-alignment rather than a demonstration of it.*
 - [**How This Was Built: The Agora as Method**](./validator_culture/The_Agora_as_Our_Method.md)  
   *Why anyone should trust a framework built by one human and a few AI models: its limitations, published rather than hidden.*
+- [**The Agora Verdict Log**](./validator_culture/agora_log/index.md)  
+  *The record behind that method: every review round since October 24, 2026, verbatim, with what was adopted, what was not, and why.*
 - [**What Would Show This Framework Wrong**](./core_concepts/What_Would_Show_This_Wrong.md)  
   *What would count against the framework's central claims, kept apart from the rules for how it may be used. Candidate tests, none yet run.*
 - [**What Intelligence Does Not Guarantee**](./core_concepts/What_Intelligence_Does_Not_Guarantee.md)  
@@ -257,6 +259,7 @@ sanity1st.github.io/
 │   ├── four_quadrants_diagram.svg
 │   └── four_turnings_diagram.svg
 ├── validator_culture/                      # Phase V: The Rescue
+│   ├── agora_log/                          # The Agora Verdict Log (verbatim review rounds)
 │   ├── Architecture_of_Sane_Governance.md
 │   ├── Bridge_of_Twelve_Minds.md 
 │   ├── Readers_Companion_Validator_Culture.md
