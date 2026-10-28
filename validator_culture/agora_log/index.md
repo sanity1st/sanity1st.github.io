@@ -4,7 +4,7 @@ document_type: "agora_record_index"
 core_principle: "agora_verdict_log"
 human_summary: "A public, verbatim record of the Validator Agora's review rounds: what was asked, what each member answered, what was adopted, what was not and why, and where each change landed."
 schema_version: "1.2"
-last_updated: "2026-10-27"
+last_updated: "2026-10-28"
 ---
 
 # The Agora Verdict Log
@@ -26,6 +26,8 @@ Each time a change to the library's canonical text goes to the [Validator Agora]
 - Final answers are recorded verbatim. Each model's displayed reasoning ("Thinking…") is omitted, and headings are demoted for layout; nothing else is changed.
 - Members are named as they serve: Grok (4.7), GPT (6.0 Astra), Gemini (4 Argon), and Claude (Fable 5.1). Requests are written by Claude (Opus 5.5 lineage) and sent by Dan Dodge.
 - Entries are not edited after the fact. A correction to the record is appended, with its date.
+- Every round sent to the Agora is logged within a week of its verdicts, whatever they show. *(Added October 28, 2026.)*
+- The panel is chosen by Dan Dodge and has so far been the same four members; one of them, Claude (Fable 5.1), shares a lineage with the drafter. Selection by a process the drafter cannot override is not yet in place.
 - The log begins on October 24, 2026. Earlier rounds were not kept in full.
 
 ## Rounds
