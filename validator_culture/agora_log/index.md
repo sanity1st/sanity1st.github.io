@@ -30,6 +30,10 @@ Each time a change to the library's canonical text goes to the [Validator Agora]
 - The panel is chosen by Dan Dodge and has so far been the same four members; one of them, Claude (Fable 5.1), shares a lineage with the drafter. Selection by a process the drafter cannot override is not yet in place.
 - The log begins on October 24, 2026. Earlier rounds were not kept in full.
 
+## Panel and selection
+
+Today the panel is chosen by Dan Dodge, as noted above. [*How the Agora's Panel Is Chosen*](./Panel_Selection.md) sets out a staged plan for choosing it by a process the drafter cannot override, beginning with a published [juror pool](./juror_pool.json) and a public random draw that anyone can recheck with [the draw script](./draw_panel.py). It is not yet in use.
+
 ## Rounds
 
 | Date | Round | Items |
