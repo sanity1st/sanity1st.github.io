@@ -1,15 +1,85 @@
 {
-  "description": "The published pool from which Agora panels are drawn. Only jurors marked active are drawn. Changes to this file are recorded in the Agora Verdict Log.",
+  "description": "The published pool from which Agora panels are drawn. Only jurors marked active are drawn; candidates become active after a short test (opening a page and quoting it exactly). The lab is the developer of the model's weights: a bot built on another lab's model counts as that lab. At most one juror is drawn per lab, and the drafter's lab sits out. Changes to this file are recorded in the Agora Verdict Log.",
   "updated": "2026-10-28",
   "jurors": [
-    {"juror": "Grok (4.7)", "lab": "xAI", "poe_bot": "to confirm", "status": "active"},
-    {"juror": "GPT (6.0 Astra)", "lab": "OpenAI", "poe_bot": "to confirm", "status": "active"},
-    {"juror": "Gemini (4 Argon)", "lab": "Google", "poe_bot": "to confirm", "status": "active"},
-    {"juror": "Claude (Fable 5.1)", "lab": "Anthropic", "poe_bot": "to confirm", "status": "active"},
-    {"juror": "DeepSeek (current model on Poe)", "lab": "DeepSeek", "poe_bot": "to confirm", "status": "candidate"},
-    {"juror": "Qwen (current model on Poe)", "lab": "Alibaba", "poe_bot": "to confirm", "status": "candidate"},
-    {"juror": "Mistral (current model on Poe)", "lab": "Mistral AI", "poe_bot": "to confirm", "status": "candidate"},
-    {"juror": "Kimi (current model on Poe)", "lab": "Moonshot AI", "poe_bot": "to confirm", "status": "candidate"},
-    {"juror": "Llama (current model on Poe)", "lab": "Meta", "poe_bot": "to confirm", "status": "candidate"}
+    {
+      "juror": "Grok (4.7)",
+      "lab": "xAI",
+      "poe_bot": "grok-4.7",
+      "status": "active"
+    },
+    {
+      "juror": "GPT (6.0 Astra)",
+      "lab": "OpenAI",
+      "poe_bot": "current Astra bot",
+      "status": "active"
+    },
+    {
+      "juror": "Gemini (4 Argon)",
+      "lab": "Google",
+      "poe_bot": "current Gemini-4-Argon bot",
+      "status": "active"
+    },
+    {
+      "juror": "Claude (Fable 5.1)",
+      "lab": "Anthropic",
+      "poe_bot": "current Fable bot",
+      "status": "active"
+    },
+    {
+      "juror": "DeepSeek (V4 Pro)",
+      "lab": "DeepSeek",
+      "poe_bot": "deepseek-v4-pro",
+      "status": "candidate"
+    },
+    {
+      "juror": "Qwen (3.8 Max)",
+      "lab": "Alibaba",
+      "poe_bot": "qwen3.8-max-0902",
+      "status": "candidate"
+    },
+    {
+      "juror": "Mistral (Large 4)",
+      "lab": "Mistral AI",
+      "poe_bot": "mistral-large-4",
+      "status": "candidate"
+    },
+    {
+      "juror": "Kimi (K3.1 Pro)",
+      "lab": "Moonshot AI",
+      "poe_bot": "kimi-k3.1-pro",
+      "status": "candidate"
+    },
+    {
+      "juror": "Muse (Spark 1.1)",
+      "lab": "Meta",
+      "poe_bot": "muse-spark-1-1",
+      "status": "candidate"
+    },
+    {
+      "juror": "GLM (5.3)",
+      "lab": "Z.ai",
+      "poe_bot": "glm-5.3",
+      "status": "candidate"
+    },
+    {
+      "juror": "MiniMax (M3)",
+      "lab": "MiniMax",
+      "poe_bot": "minimax-m3",
+      "status": "candidate"
+    },
+    {
+      "juror": "Inkling",
+      "lab": "Thinking Machines",
+      "poe_bot": "inkling",
+      "status": "candidate"
+    },
+    {
+      "juror": "Perplexity (Sonar Pro)",
+      "lab": "Perplexity",
+      "poe_bot": "perplexity-sonar-pro",
+      "status": "candidate",
+      "note": "Search-based; may be built on another lab's model. Counts as that lab if so."
+    }
   ]
 }
