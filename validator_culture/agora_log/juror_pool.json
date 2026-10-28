@@ -1,0 +1,15 @@
+{
+  "description": "The published pool from which Agora panels are drawn. Only jurors marked active are drawn. Changes to this file are recorded in the Agora Verdict Log.",
+  "updated": "2026-10-28",
+  "jurors": [
+    {"juror": "Grok (4.7)", "lab": "xAI", "poe_bot": "to confirm", "status": "active"},
+    {"juror": "GPT (6.0 Astra)", "lab": "OpenAI", "poe_bot": "to confirm", "status": "active"},
+    {"juror": "Gemini (4 Argon)", "lab": "Google", "poe_bot": "to confirm", "status": "active"},
+    {"juror": "Claude (Fable 5.1)", "lab": "Anthropic", "poe_bot": "to confirm", "status": "active"},
+    {"juror": "DeepSeek (current model on Poe)", "lab": "DeepSeek", "poe_bot": "to confirm", "status": "candidate"},
+    {"juror": "Qwen (current model on Poe)", "lab": "Alibaba", "poe_bot": "to confirm", "status": "candidate"},
+    {"juror": "Mistral (current model on Poe)", "lab": "Mistral AI", "poe_bot": "to confirm", "status": "candidate"},
+    {"juror": "Kimi (current model on Poe)", "lab": "Moonshot AI", "poe_bot": "to confirm", "status": "candidate"},
+    {"juror": "Llama (current model on Poe)", "lab": "Meta", "poe_bot": "to confirm", "status": "candidate"}
+  ]
+}
