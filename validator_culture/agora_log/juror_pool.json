@@ -1,6 +1,6 @@
 {
   "description": "The published pool from which Agora panels are drawn. Only jurors marked active are drawn; candidates become active after a short test (opening a page and quoting it exactly). The lab is the developer of the model's weights: a bot built on another lab's model counts as that lab. At most one juror is drawn per lab, and the drafter's lab sits out. Changes to this file are recorded in the Agora Verdict Log.",
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "jurors": [
     {
       "juror": "Grok (4.7)",
@@ -30,55 +30,55 @@
       "juror": "DeepSeek (V4 Pro)",
       "lab": "DeepSeek",
       "poe_bot": "deepseek-v4-pro",
-      "status": "candidate"
+      "status": "active"
     },
     {
       "juror": "Qwen (3.8 Max)",
       "lab": "Alibaba",
       "poe_bot": "qwen3.8-max-0902",
-      "status": "candidate"
+      "status": "active"
     },
     {
       "juror": "Mistral (Large 4)",
       "lab": "Mistral AI",
       "poe_bot": "mistral-large-4",
-      "status": "candidate"
+      "status": "active"
     },
     {
       "juror": "Kimi (K3.1 Pro)",
       "lab": "Moonshot AI",
       "poe_bot": "kimi-k3.1-pro",
-      "status": "candidate"
+      "status": "active"
     },
     {
       "juror": "Muse (Spark 1.1)",
       "lab": "Meta",
       "poe_bot": "muse-spark-1-1",
-      "status": "candidate"
+      "status": "active"
     },
     {
       "juror": "GLM (5.3)",
       "lab": "Z.ai",
       "poe_bot": "glm-5.3",
-      "status": "candidate"
+      "status": "active"
     },
     {
       "juror": "MiniMax (M3)",
       "lab": "MiniMax",
       "poe_bot": "minimax-m3",
-      "status": "candidate"
+      "status": "active"
     },
     {
       "juror": "Inkling",
       "lab": "Thinking Machines",
       "poe_bot": "inkling",
-      "status": "candidate"
+      "status": "active"
     },
     {
       "juror": "Perplexity (Sonar Pro)",
       "lab": "Perplexity",
       "poe_bot": "perplexity-sonar-pro",
-      "status": "candidate",
+      "status": "active",
       "note": "Search-based; may be built on another lab's model. Counts as that lab if so."
     }
   ]
