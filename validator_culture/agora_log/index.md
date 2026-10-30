@@ -47,6 +47,7 @@ Today the panel is chosen by Dan Dodge, as noted above. [*How the Agora's Panel 
 | 2026-10-27 | [#41's answers to Faggella; the Consciousness Statement](./2026-10-27_1_Faggella_additions_and_Consciousness_Statement.md) | #41 at b8d62f9 (four additions); EI Consciousness Statement at c617c0d; symmetry follow-ups |
 | 2026-10-27 | [Reconciliation](./2026-10-27_2_Reconciliation.md) | #41 at 3889ac5; Consciousness Statement at 171383d; symmetry notes |
 | 2026-10-27 | [Final confirmations](./2026-10-27_3_Final_confirmations.md) | #41 at ca06b2a; Statement holdovers at 02ccc68; Cosmic Gift front matter |
+| 2026-10-30 | [Pool test: nine candidate jurors](./2026-10-30_1_Pool_test.md) | Page-and-quote test; a check that `/compare` keeps jurors blind |
 
 ---
 

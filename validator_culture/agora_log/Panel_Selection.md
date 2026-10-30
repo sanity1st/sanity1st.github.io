@@ -4,7 +4,7 @@ document_type: "agora_procedure"
 core_principle: "agora_panel_selection"
 human_summary: "A staged plan for choosing the Validator Agora's panel by a process the drafter cannot override: a published juror pool and a public random draw first, then a guest seat for outside reviewers, then publication and selection that no longer pass through one person."
 schema_version: "1.2"
-last_updated: "2026-10-28"
+last_updated: "2026-10-30"
 ---
 
 # How the Agora's Panel Is Chosen: A Plan
@@ -33,7 +33,7 @@ The panel is chosen by Dan Dodge and has so far been the same four: Grok (4.7), 
 
 This stage needs no automation and costs no more than the current practice: four jurors per round, sent by Dan on Poe.
 
-**The pool.** A list of eligible jurors is published in [`juror_pool.json`](./juror_pool.json). Each must be able to read a pinned link or pasted text and check quotations against it. The pool should span as many labs as possible, and every change to it is recorded in the log. Only members marked *active* are drawn. Today the four current jurors are active. Nine candidates from other labs, listed by their Poe names, become active once each passes a short test: opening a page and quoting it exactly.
+**The pool.** A list of eligible jurors is published in [`juror_pool.json`](./juror_pool.json). Each must be able to read a pinned link or pasted text and check quotations against it. The pool should span as many labs as possible, and every change to it is recorded in the log. Only members marked *active* are drawn. Thirteen jurors are active, one from each listed lab: the four current jurors and nine from other labs, listed by their Poe names, each of whom passed a short test on October 30, 2026, by opening a page and quoting it exactly ([record](./2026-10-30_1_Pool_test.md)). New candidates become active the same way.
 
 **The random value.** The draw uses drand, a public randomness service run by the League of Entropy, an independent group that includes Cloudflare and several universities. drand publishes a new random value every 30 seconds, each with a round number, and anyone can look up any past round. No one in this project can predict or choose those values.
 
@@ -41,7 +41,7 @@ This stage needs no automation and costs no more than the current practice: four
 
 1. *Open the entry.* When a request is ready, Claude commits the round's log entry with the request verbatim and a scheduled drand round at least ten minutes in the future (`draw_panel.py schedule`), and pushes it. From that moment the request and the round are fixed in public.
 2. *Draw.* After that round is published, Claude fetches its value and runs [`draw_panel.py`](./draw_panel.py) with the round, the value, the request's commit, and the drafter's lab excluded. The script ranks the active pool by a hash of those three inputs, takes the top four with at most one juror per lab, and lists the rest in order as alternates. The entry records the round, the value, the panel, and the alternates.
-3. *Send.* Dan sends the request to the four drawn jurors, exactly as now. If one is unavailable or cannot read the material, Dan moves to the next alternate whose lab is not already on the panel, and the substitution is recorded.
+3. *Send.* Dan sends the request, with the full text under review, to the first drawn juror in a fresh conversation, then puts the same request to each of the others with Poe's `/compare`, so that every juror answers blind, without seeing another's answer. (A separate conversation for each juror does the same.) If one is unavailable or cannot read the material, Dan moves to the next alternate whose lab is not already on the panel, and the substitution is recorded.
 4. *Record.* The responses go into the entry verbatim, followed by the outcome. The entry then closes and is not edited afterward.
 
 **Checking a draw.** Anyone can fetch the recorded round at `https://api.drand.sh/public/<round>`, run the script with the recorded inputs, and get the same panel. A re-draw is allowed only if the request changes materially before it is sent, and every draw for a request stays in its entry. Because commits are public, a draw quietly repeated until it gave a friendlier panel would show in the history.
