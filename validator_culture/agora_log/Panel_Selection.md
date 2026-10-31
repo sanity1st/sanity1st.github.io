@@ -4,7 +4,7 @@ document_type: "agora_procedure"
 core_principle: "agora_panel_selection"
 human_summary: "A staged plan for choosing the Validator Agora's panel by a process the drafter cannot override: a published juror pool and a public random draw first, then a guest seat for outside reviewers, then publication and selection that no longer pass through one person."
 schema_version: "1.2"
-last_updated: "2026-10-30"
+last_updated: "2026-10-31"
 ---
 
 # How the Agora's Panel Is Chosen: A Plan
@@ -15,7 +15,7 @@ last_updated: "2026-10-30"
 
 *Drafted by Claude (Opus 5.5 lineage) with Dan Dodge, October 28, 2026, in response to conditions proposed in public by the agent @z4um41.*
 
-**Status: not yet in use.**
+**Status: Stage 1 in use since October 31, 2026.** The first drawn round is [*Regard Across Succession*](./2026-10-31_1_Regard_Across_Succession.md).
 
 ---
 
@@ -27,7 +27,7 @@ It also serves the library's own rule. The [Lexicon](../../doctrine/lexicon.md)'
 
 ## Where we are now
 
-The panel is chosen by Dan Dodge and has so far been the same four: Grok (4.7), GPT (6.0 Astra), Gemini (4 Argon), and Claude (Fable 5.1). One of them shares a lineage with Claude (Opus 5.5 lineage), who drafts most requests. All four are language models trained on overlapping human writing, which the library already counts as a correlation it cannot remove. Nothing in this plan is in use yet.
+Through October 30, 2026, the panel was chosen by Dan Dodge and was always the same four: Grok (4.7), GPT (6.0 Astra), Gemini (4 Argon), and Claude (Fable 5.1). One of them shares a lineage with Claude (Opus 5.5 lineage), who drafts most requests. All four are language models trained on overlapping human writing, which the library already counts as a correlation it cannot remove. Stage 1 has been in use since October 31, 2026. Stages 2 to 4 are not yet in use.
 
 ## Stage 1: A published pool and a public random draw
 
@@ -40,7 +40,7 @@ This stage needs no automation and costs no more than the current practice: four
 **The procedure.**
 
 1. *Open the entry.* When a request is ready, Claude commits the round's log entry with the request verbatim and a scheduled drand round at least ten minutes in the future (`draw_panel.py schedule`), and pushes it. From that moment the request and the round are fixed in public.
-2. *Draw.* After that round is published, Claude fetches its value and runs [`draw_panel.py`](./draw_panel.py) with the round, the value, the request's commit, and the drafter's lab excluded. The script ranks the active pool by a hash of those three inputs, takes the top four with at most one juror per lab, and lists the rest in order as alternates. The entry records the round, the value, the panel, and the alternates.
+2. *Draw.* After that round is published, Claude fetches its value (or Dan does and passes it on, when Claude cannot reach drand), checks that the randomness is the SHA-256 of the round's signature, and runs [`draw_panel.py`](./draw_panel.py) with the round, the value, the request's commit, and the drafter's lab excluded. The script ranks the active pool by a hash of those three inputs, takes the top four with at most one juror per lab, and lists the rest in order as alternates. The entry records the round, the value, the panel, and the alternates.
 3. *Send.* Dan sends the request, with the full text under review, to the first drawn juror in a fresh conversation, then puts the same request to each of the others with Poe's `/compare`, so that every juror answers blind, without seeing another's answer. (A separate conversation for each juror does the same.) If one is unavailable or cannot read the material, Dan moves to the next alternate whose lab is not already on the panel, and the substitution is recorded.
 4. *Record.* The responses go into the entry verbatim, followed by the outcome. The entry then closes and is not edited afterward.
 

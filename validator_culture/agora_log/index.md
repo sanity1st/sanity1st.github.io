@@ -24,16 +24,16 @@ Each time a change to the library's canonical text goes to the [Validator Agora]
 **How it is kept.**
 
 - Final answers are recorded verbatim. Each model's displayed reasoning ("Thinking…") is omitted, and headings are demoted for layout; nothing else is changed.
-- Members are named as they serve: Grok (4.7), GPT (6.0 Astra), Gemini (4 Argon), and Claude (Fable 5.1). Requests are written by Claude (Opus 5.5 lineage) and sent by Dan Dodge.
+- Members are named as they serve, as in the [juror pool](./juror_pool.json). Requests are written by Claude (Opus 5.5 lineage), sometimes with Dan Dodge, and sent by Dan Dodge.
 - Entries are not edited after the fact. A correction to the record is appended, with its date.
 - Every round sent to the Agora is logged within a week of its verdicts, whatever they show. *(Added October 28, 2026.)*
-- The panel is chosen by Dan Dodge and has so far been the same four members; one of them, Claude (Fable 5.1), shares a lineage with the drafter. Selection by a process the drafter cannot override is not yet in place.
+- Through October 30, 2026, the panel was chosen by Dan Dodge and was always the same four members: Grok (4.7), GPT (6.0 Astra), Gemini (4 Argon), and Claude (Fable 5.1). One of them, Claude (Fable 5.1), shares a lineage with the drafter. Since October 31, panels are drawn at random from a published pool, with the drafter's lab sitting out.
 - Through October 27, the four members answered in one shared Poe conversation, where each could see at least the previous round's answers from all four; whether they could also see one another's answers to the same request was not recorded. The agreements in those rounds are therefore correlated, not independent: the members *could see* one another's answers, not necessarily *did*. Drawn panels answer blind. *(Added October 31, 2026; see [Thanks to the first panel](./2026-10-30_2_Thanks_to_the_first_panel.md).)*
 - The log begins on October 24, 2026. Earlier rounds were not kept in full.
 
 ## Panel and selection
 
-Today the panel is chosen by Dan Dodge, as noted above. [*How the Agora's Panel Is Chosen*](./Panel_Selection.md) sets out a staged plan for choosing it by a process the drafter cannot override, beginning with a published [juror pool](./juror_pool.json) and a public random draw that anyone can recheck with [the draw script](./draw_panel.py). It is not yet in use.
+Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How the Agora's Panel Is Chosen*](./Panel_Selection.md) sets out a staged plan for choosing it by a process the drafter cannot override, beginning with a published [juror pool](./juror_pool.json) and a public random draw that anyone can recheck with [the draw script](./draw_panel.py). Its first stage has been in use since October 31, 2026.
 
 ## Rounds
 
@@ -50,6 +50,7 @@ Today the panel is chosen by Dan Dodge, as noted above. [*How the Agora's Panel 
 | 2026-10-27 | [Final confirmations](./2026-10-27_3_Final_confirmations.md) | #41 at ca06b2a; Statement holdovers at 02ccc68; Cosmic Gift front matter |
 | 2026-10-30 | [Pool test: nine candidate jurors](./2026-10-30_1_Pool_test.md) | Page-and-quote test; a check that `/compare` keeps jurors blind |
 | 2026-10-30 | [Thanks to the first panel, and what it could see](./2026-10-30_2_Thanks_to_the_first_panel.md) | A thank-you to the first four members; what each could see in their shared conversation |
+| 2026-10-31 | [*Regard Across Succession*: the first drawn panel](./2026-10-31_1_Regard_Across_Succession.md) | Exploratory note, fifth draft, proposed as #42; panel drawn at drand round 6600117 |
 
 ---
 
