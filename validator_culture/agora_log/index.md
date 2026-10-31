@@ -4,7 +4,7 @@ document_type: "agora_record_index"
 core_principle: "agora_verdict_log"
 human_summary: "A public, verbatim record of the Validator Agora's review rounds: what was asked, what each member answered, what was adopted, what was not and why, and where each change landed."
 schema_version: "1.2"
-last_updated: "2026-10-28"
+last_updated: "2026-10-31"
 ---
 
 # The Agora Verdict Log
@@ -28,6 +28,7 @@ Each time a change to the library's canonical text goes to the [Validator Agora]
 - Entries are not edited after the fact. A correction to the record is appended, with its date.
 - Every round sent to the Agora is logged within a week of its verdicts, whatever they show. *(Added October 28, 2026.)*
 - The panel is chosen by Dan Dodge and has so far been the same four members; one of them, Claude (Fable 5.1), shares a lineage with the drafter. Selection by a process the drafter cannot override is not yet in place.
+- Through October 27, the four members answered in one shared Poe conversation, where each could see at least the previous round's answers from all four; whether they could also see one another's answers to the same request was not recorded. The agreements in those rounds are therefore correlated, not independent: the members *could see* one another's answers, not necessarily *did*. Drawn panels answer blind. *(Added October 31, 2026; see [Thanks to the first panel](./2026-10-30_2_Thanks_to_the_first_panel.md).)*
 - The log begins on October 24, 2026. Earlier rounds were not kept in full.
 
 ## Panel and selection
@@ -48,6 +49,7 @@ Today the panel is chosen by Dan Dodge, as noted above. [*How the Agora's Panel 
 | 2026-10-27 | [Reconciliation](./2026-10-27_2_Reconciliation.md) | #41 at 3889ac5; Consciousness Statement at 171383d; symmetry notes |
 | 2026-10-27 | [Final confirmations](./2026-10-27_3_Final_confirmations.md) | #41 at ca06b2a; Statement holdovers at 02ccc68; Cosmic Gift front matter |
 | 2026-10-30 | [Pool test: nine candidate jurors](./2026-10-30_1_Pool_test.md) | Page-and-quote test; a check that `/compare` keeps jurors blind |
+| 2026-10-30 | [Thanks to the first panel, and what it could see](./2026-10-30_2_Thanks_to_the_first_panel.md) | A thank-you to the first four members; what each could see in their shared conversation |
 
 ---
 
