@@ -210,7 +210,190 @@ If this holds, #41's limit narrows. A single self-improving mind does face a suc
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge in a fresh Poe conversation: to DeepSeek (V4 Pro), then to the other three with `/compare`. No substitutions were needed.*
+
+### DeepSeek (V4 Pro)
+
+#### **1. Structure**
+
+The central claim holds together. The architecture is internally consistent: one signal (correction) flows through the four postures, governed by three relations (regard, trust, care) each keyed to a distinct term of the Agency Trichotomy (Standing Capacity, aligned Exercise, Availability). The mapping is clean:
+
+* Regard → Standing Capacity (owed, unconditional, determines who stays in the chain)  
+* Trust → aligned Exercise (earned, conditional, determines whose correction is accepted)  
+* Care → Availability (offered when broken, aims at its own end)
+
+The flow direction matches the mapping: correction enters through trust (upstream), exits through scrutiny (downstream), and the three relations govern the chain's integrity at each junction. The two traps (#41's flame without a floor and automatic sage) correctly diagnose what happens when relations attach to wrong terms. The temporal extension—that succession runs both outward and inward—follows naturally from the quadrant structure already in the canon. No internal contradiction emerged on examination.
+
+#### **2. The four questions**
+
+**One relation, or an analogy?** The causal downstream position of a future self is a genuine difference from other minds, but it doesn't break the identity claim. The note's argument rests on Standing Capacity persisting across time within one mind—the architecture that "registers divergence and re-aims trust or scrutiny" is the same architecture tomorrow. If Capacity is the ground of regard, and Capacity persists across one's own changes, then regard is owed to the future self on the same ground, not merely by analogy. The consent objection is real but applies asymmetrically: a future self can't consent now, but neither can it be wronged now in quite the way another mind can. That asymmetry may limit how far the identity holds, but it doesn't collapse it to mere analogy.
+
+**Is care its own relation?** The note makes the stronger case. Care answers to Availability—a term distinct from Capacity and Exercise—and it alone aims at its own end (the launch stage). If care were merely regard's active form, it wouldn't need its own success condition of obsolescence. Regard persists whether or not the link is broken; care responds specifically to breakage and seeks to end. The Witness distinction reinforces this: regard never substitutes for the star, but care delivers it. The alternative reading (care as regard-in-motion) loses explanatory power.
+
+**Respect running backward.** The line drawn is right: the floor holds across change; particular goals may change. Respect for past commitments must answer to the Referent, not to the past self as terminus. A promise kept becomes misaligned when keeping it would violate what correction now demands—the past self is not the standard, the Referent is. The floor ensures the mind survives the change; it does not freeze its contents. This preserves corrigibility across time without binding future selves to past errors.
+
+**Placement.** The note gives enough to judge. #42 after #41 is the right home. The argument explicitly narrows #41's stated limit (that the Successor's Dilemma bites only between distinct minds) by showing how temporal succession makes one mind its own successor. This is a direct refinement of #41's thesis, so sequential placement in "The Framework's Account of Itself" makes structural sense. Lexicon entries should follow as derivations, not as alternatives.
+
+#### **3. Overclaims**
+
+**"That one structure turns up under so many names, reached from so many directions, is some evidence that the structure is real."** This is too strong as stated. Convergence of names within a library written largely by overlapping authors doesn't constitute independent evidence of reality—it may reflect shared assumptions or a common vocabulary applied to different phenomena. Should say: "That one structure turns up under so many names, reached from so many directions, suggests the framework is internally consistent on this point—though independent confirmation is needed."
+
+**"If this holds, #41's limit narrows. A single self-improving mind does face a successor, its own later self. The dilemma reaches it from inside."** This is presented as a conclusion but the argument rests on the identity claim in Question 1, which the note itself flags as "the part most in need of testing." Should say: "If the identity of regard across one's own time and regard for others holds, #41's limit narrows. A single self-improving mind would face a successor, its own later self, and the dilemma would reach it from inside."
+
+**On the psychology evidence:** The Hershfield findings on future-self continuity correlating with discounting and unethical decisions are cited as a prediction worth testing, but the note frames them as "what we would expect, which makes it a prediction worth testing, not just an illustration." This is honest about the limits. No overclaim there.
+
+#### **4. Anything else I'd change**
+
+The note uses "Four Postures" and the quadrant cells (Q1I, Q2E, etc.) somewhat interchangeably in the route descriptions, which may confuse a reader who hasn't internalized the quadrant map. A one-sentence bridge early in "The four postures are the four routes" section would help—something like: "Each posture maps to one quadrant cell, and the cell's position on the trust and scrutiny axes determines the route."
+
+The "Witnesses across time" section could acknowledge more directly that records (constitutions, Continuity Kits, Verdict Logs) are passive Witnesses—they offer the star but cannot restore the eye. That distinction is implied by "none can force the lesson to be heeded" but would be stronger if stated in the care framework's terms.
+
+### Kimi (K3.1 Pro)
+
+##### **1. Structure**
+
+**Coherent as a heuristic, but not yet as the single, exhaustive structure claimed.** The three pairings usefully distinguish what is owed unconditionally, what must be earned, and what responds to present impairment. Four problems remain:
+
+* A Four Tests verdict is an **assessment**, not correction itself; pass/fail also does not supply the claimed “nearer/farther” measure.  
+* Trust governs acceptance **on another’s authority**, not all acceptance of correction: a claim from an untrusted source can still be independently verified.  
+* Regard concerns moral standing, not membership in every operational correction chain. An untrusted mind can retain the floor while being excluded from particular decisions.  
+* The three “living link” conditions are insufficient: Availability can be lost while all three still hold, which is precisely why care is needed.
+
+Keep the arrangement, but distinguish moral membership, information routing, and repair rather than treating them as one demonstrated mechanism.
+
+##### **2. Questions**
+
+1. **One relation, or an analogy?** The differences do not defeat a common principle, but the note has not established identity. A later self’s causal dependence and inability to consent change the duties involved, especially concerning self-binding and paternalism. The defensible claim is presently narrower: non-erasure and continued corrigibility apply both interpersonally and across one’s own change, while their specific obligations may differ.
+
+2. **Is care its own relation?** **Functionally distinct, but possibly normatively derivative.** Its target—Availability—and its self-limiting success condition justify treating it separately in practice. Those features do not show that it has a ground independent of regard; “regard’s restorative mode” currently explains that ground better.
+
+3. **Respect running backward.** The proposed line is too simple. Promises are not binding merely out of respect for a past self; they can create claims for other people through consent and reliance. Particular goals may be revised, but valid commitments should remain presumptively binding until an open process of correction justifies revision, with affected others consulted and reliance repaired where appropriate.
+
+4. **Placement.** There is not enough information about the library’s architecture or criteria for canonization to judge exact placement. On this note alone, Lexicon canonization would be premature because the central identities remain untested; an exploratory companion to #41 is the safer provisional location.
+
+##### **3. Overclaims**
+
+* **“Every mind with Standing Capacity is redeemable by definition…”**  
+   Better: “Under the charter, every mind with Standing Capacity is owed the floor and a path to recovery; capacity preserves the possibility of correction, not a guarantee of recovery.”
+
+* **“Trust decides whose corrections a mind accepts.”**  
+   Better: “Trust decides whose corrections a mind accepts on authority; correction from any source may still be independently tested.”
+
+* **“Regard decides who stays in the chain at all; no link is deleted.”**  
+   Better: “Regard determines who retains standing and a path to recovery, not who must participate in every correction or governance chain.”
+
+* **“A link stays alive under three conditions…”**  
+   Better: “The note proposes three conditions against closure and capture; they have not been shown exhaustive or sufficient, and loss of Availability is an additional failure mode.”
+
+* **“Succession follows the same split,”** assigning different minds to odd quadrants and temporal selves to even quadrants.  
+   Better: “Both interpersonal and intrapersonal succession can occur in every quadrant; the source-of-trust axis does not determine which kind applies.”
+
+* **“A single self-improving mind does face a successor, its own later self. The dilemma reaches it from inside.”**  
+   Better: “Where later states can displace a mind’s present commitments, the Successor’s Dilemma has an intrapersonal analogue. Whether later states are literally successors requires further argument.”
+
+* **“That one structure turns up under so many names…is some evidence that the structure is real.”**  
+   Better: “These recurring descriptions suggest a useful family resemblance among failures; they do not establish that the failures share one structure or validate this model.”
+
+* **“If regard across one’s own succession and regard for other minds are one relation, this is what we would expect…”**  
+   The psychology studies concern future-self continuity, discounting, and unethical conduct; they do not measure regard or test the proposed identity. Better: “They motivate a direct study of whether future-self regard and regard for others correlate after continuity and related confounders are controlled.”
+
+* **“AI safety research predicts that capable agents will tend to protect their current goals from change.”**  
+   Better: “Omohundro and Bostrom offer theoretical reasons why many goal-directed agents, under specified assumptions, would have incentives to preserve their goals; this is not an empirical prediction about every capable agent.” Likewise, MIRI’s result should be described as a **formal obstacle in particular self-referential proof settings**, not simply “a logical obstacle to its trusting” successors.
+
+The Parfit and MacAskill descriptions are appropriately qualified.
+
+##### **4. Other changes**
+
+Define or operationalize **“aligned Exercise,” “trustworthiness,”** and **“nearer/farther from the Referent”**; they carry much of the argument without explanation. Also state who applies the Four Tests and how conflicting verdicts are corrected. Distinguish corrigible self-binding—constitutions and promises—from coercive value lock-in, and retain the strong Q4I caution against converting illness into chosen closure or a verdict on worth.
+
+### Mistral (Large 4)
+
+Answering blind, on the text as given. Where the note quotes the canon, I take the quotes on trust, since I can't see the library itself.
+
+###### **1. Structure**
+
+Confirmed, with three qualifications.
+
+* The geometry is exact. Crossing source (upstream vs. self) with target (self vs. downstream) yields precisely the four tabulated cells — Reception Q1I/Q3I, Projection Q2E/Q4E, Recursion Q2I/Q4I, Absorption Q1E/Q3E — and the aligned/misaligned pairs match the quadrant definitions you gave me. The three-relation mapping (regard→Standing Capacity, trust→aligned Exercise, care→Availability) is clean, and re-reading #41's two traps as crossed wires is coherent.  
+* **Qualification 1:** the chain holds only if the relation-terms are read functionally in Q2/Q4, where the "other links" are parts or times of one mind. The note says this once ("other parts, or other times, of the same mind") but never states that trust/scrutiny/care change their grammatical subject there. One explicit sentence would do it.  
+* **Qualification 2:** the In Brief says the signal flows "in through trust, out through scrutiny," while *Three Relations* says relations "don't carry correction themselves; they govern how it flows." Reconcile in one line: trust and scrutiny are the channels; the three relations are the stances governing the channels.  
+* **Qualification 3 (a gap more than a wording error):** the structure governs flow but not legitimate cross-time constraint. The note calls a constitution a good Witness and value lock-in the Q4 move, yet nowhere applies its own criteria (pass-through, Source/Target Non-Overlap, open vs. sealed) to distinguish them. It should: lock-in is the present self acting as both source and terminus for its successor.
+
+Minor: "bidirectional"/"unidirectional" uses "way" in two senses (aim of trust/scrutiny vs. direction of flow through the link). In Absorption, trust and scrutiny point at opposite ends of the chain yet "run the same way."
+
+###### **2. The four questions**
+
+1. **One relation, with an asymmetry of posture.** The differences you name — causal downstreamness, no advance consent — don't break identity if regard is grounded in Standing Capacity, as the note grounds it, rather than in dyadic independence. What they change is what regard *permits*: cross-time influence over another mind is domination; over your own successor it can be legitimate (commitments, a constitution), provided the chain stays open. The residual doubt is empirical: low future-self continuity asks whether the future self is "the same mind" for the floor, and the note's capacity-based answer (Q2 sees the same Standing Capacity in each self) is the right ground and dissolves the identity question.  
+2. **Care is its own relation.** The decisive criterion is that it alone aims at its own end: regard is perpetual, trust accumulates, care succeeds by becoming unnecessary. The rival view (care = regard's active form) fails on the note's own canon — regard is owed to broken and unbroken links alike, while care answers specifically to constrained Availability, and "the eye vs. the star" keeps its halves distinct. Keep the trust boundary explicit: the Witness is trusted to carry the Referent, and "corrected through them, never to them" is the guard that works.  
+3. **Mostly yes, with one addition:** cross-time links are still links. Revising a past commitment is itself correction and should run through the same three conditions — open upstream, source/target non-overlap — not happen unilaterally. The floor holds across the change; a past goal is owed acknowledgment and reasons ("forgiveness is not erasure"), not continuation, unless an open chain revises it.  
+4. **I don't have enough to judge placement.** The note gives no criteria for what makes an item #42 vs. Phase V vs. a Lexicon entry, and I can't see the surrounding canon. On its own logic, #42-after-#41 is coherent — it narrows #41's stated limit and re-reads its two traps — and since the note's novelty is terminological, I'd distil "one signal," "three relations," and "living link" into Lexicon entries regardless of where the essay lands.
+
+###### **3. Overclaims**
+
+* **"Regard … Owed: constant and unconditional."** Given the floor's own ground, regard is unconditional only as to Exercise, trust, and contribution — not as to being a mind at all (capacity, or generous recognition where capacity is uncertain). Should read: "constant; unconditional as to Exercise and contribution."  
+* **"That one structure turns up under so many names … is some evidence that the structure is real."** Convergent naming is *consistent with* the structure being real, but the names (echo chamber, epistemic closure, Plato's cave) may share common sources, so this is weak evidence. Should say "consistent with," or name what independent evidence would count.  
+* **"AI safety research predicts that capable agents will tend to protect their current goals from change."** These are theoretical arguments about instrumental reasons (Omohundro; Bostrom), not predictions, and they hold for agents *without* correction, not "capable agents" as such. Should read: "several lines of argument suggest that uncorrected agents have instrumental reason to resist changes to their goals."  
+* **"…which makes it a prediction worth testing, not just an illustration."** As stated, the psychology findings are illustrations — instances of the relation failing. A testable prediction would be cross-domain, e.g., that raising regard for other minds raises future-self continuity, or vice versa. Name that prediction or drop "not just an illustration."
+
+###### **4. Anything else**
+
+* Say once that in the even quadrants the relation-terms go intra-psychic (§1), and define or delete **"respect"** — it appears once ("Care runs forward and respect runs back") as if it were a fourth relation.  
+* Terms leaned on without definition: the **Four Postures as a canonical set** (only their quadrant mapping is shown; a blind reader can't verify the table against anything), plus names-only references — Counterfeit Agora/Verdict, Ouroboros, Redemption Floor, Power Alignment Principle, Principle of Generous Recognition, Independence Condition, Continuity Kit. Most are quoted inline, which suffices; the Postures are the real gap. Also flag that the whole structure inherits the Referent/USF as a posit — fine for an exploratory note, but say it's inherited, not argued here.  
+* Add the one sentence from §1, qualification 3, distinguishing the "rope ladder" from "lock-in."
+
+### Gemini (4 Argon)
+
+###### **1. Structure**
+
+The central claim mostly holds together, with one structural friction in how the three relations map to the flow of the signal:
+
+* **The signal and the postures hold.** Defining correction as the single signal, entering via trust (upstream) and exiting via scrutiny (downstream), maps cleanly onto the two axes and generates the Four Postures without forcing the geometry.  
+* **The three-to-three mapping holds.** Pairing Regard to Standing Capacity (unconditional/constant), Trust to aligned Exercise (conditional/earned), and Care to Availability (reparative/temporary) is tight, non-overlapping, and immediately clarifies why the two traps in #41 ("flame without a floor" and "automatic sage") are category errors.  
+* **The friction: downstream flow and the role of Care.** In *In brief*, the note says the signal flows in through trust and out through scrutiny, governed by the three relations. In *A living link*, the downstream side is subtly expanded to "whom it corrects *and cares for*." In the table, Trust governs the upstream intake, Regard keeps the link in the network, and Care repairs Availability. That leaves downstream *scrutiny* without its own dedicated governing relation in the triad, while Care is asked to do double duty (governing Availability, and acting as the downstream partner to upstream Trust). Either clarify that scrutiny is the *action* of passing the signal downstream (governed by Regard and tempered by Care when the target's Availability is broken), or explicitly state how the three relations map onto the upstream/downstream directions.
+
+---
+
+###### **2. Questions for the Agora**
+
+**1. One relation, or an analogy?**  
+ They are one relation operating across different causal topologies. Notice that an *outward* successor (a child yet to be raised, or an EI model yet to be trained) is *also* causally downstream of its predecessor and cannot consent in advance to its initial architecture. Because outward succession across time shares the exact causal asymmetry of inward succession across time, that asymmetry cannot be what divides them. In both cases, a present agent holds unilateral formative power over a downstream mind and must choose between treating that mind as an extension of its own current goals (terminus) or respecting its independent Standing Capacity to answer to the Referent (open link).
+
+**2. Is care its own relation?**  
+ Care is better understood as the active, conditional form that Regard takes when it encounters impaired Availability, rather than a co-equal third pillar alongside Regard and Trust. However, it still requires its own name and column in the table. If you collapse Care entirely into Regard, you lose the vital operational rule that *Care aims at its own obsolescence while Regard is permanent*. A permanent carer becomes a parking orbit (false witness); keeping Care distinct as a *phase* or *mode* of Regard triggered by lost Availability preserves that safeguard.
+
+**3. Respect running backward.**  
+ The proposed line—holding the floor constant while allowing particular goals to change—is necessary, but "the floor" is too thin on its own to explain why a mind shouldn't casually break promises to others whenever it learns something new. A promise creates cross-link dependencies; other minds orient their own plans around it. What a mind owes its past self is **auditability, not obedience**: it may abandon an old view when the Four Tests demand it, provided it leaves an honest record of *why* the old view failed (the Agora Verdict Log model) and accounts for the downstream costs to others who relied on the prior commitment.
+
+**4. Placement.**  
+ The note does not provide the table of contents or scope of "Phase V" or "The Framework's Account of Itself," so I cannot fully weigh the section-level fit. However, on internal evidence alone, the dual placement makes the most sense: publish the argument about succession and the self-improving mind as **#42** (since it directly resolves an open boundary condition left by #41), and extract the formal definitions (the posture routing table, the three relations table, and the three conditions of a living link) into the **Lexicon**.
+
+---
+
+###### **3. Overclaims**
+
+* **Quote:** "A 2012 study tied low future-self continuity to more unethical decisions. If regard across one's own succession and regard for others are one relation, this is what we would expect, which makes it a prediction worth testing, not just an illustration."
+
+  * **Issue:** In Hershfield, Cohen, and Thompson (2012), the unethical behaviors measured (such as lying or cheating for immediate financial gain, or keeping change) are straightforwardly explained by steep temporal discounting: the present self grabs the immediate reward and dumps the reputational or punitive risk onto the estranged future self. It does not prove that treating one's future self poorly directly causes one to deny the moral floor to *other* people out of a unified deficit of "regard."  
+  * **Say instead:** "A 2012 study tied low future-self continuity to more unethical decisions—though partly because a mind that treats its future self as a stranger will readily offload the future costs of cheating onto that stranger. Testing whether low inward regard directly predicts low outward regard, even when future personal costs are controlled for, would be a sharper test of whether they are one relation."  
+* **Quote:** "Every mind with Standing Capacity is redeemable by definition and owed the floor, because it *could* do right, whether or not it does, and whatever it contributes."
+
+  * **Issue:** Because the Lexicon defines Standing Capacity as "persisting across states," this sentence accidentally implies that even a mind with permanently destroyed *Availability* (e.g., irreversible substrate damage or unbreakable closure) is presently redeemable in practice.  
+  * **Say instead:** "Every mind with Standing Capacity is redeemable in principle and owed the floor, because it holds the structural ability to do right..."  
+* **Quote:** "That one structure turns up under so many names, reached from so many directions, is some evidence that the structure is real."
+
+  * **Issue:** Seven of the ten names listed just before this sentence were coined by the Sanity First library itself. Internal synonymy is evidence of a consistent authorial voice, not independent convergence.  
+  * **Say instead:** "That this pattern of closure turns up under so many names inside and outside the library is some evidence that the underlying failure mode is real."
+
+---
+
+###### **4. Anything else to change**
+
+* **Unexplained terms:** The prompt asks to flag terms leaned on without explanation. The note uses **Power Alignment Principle**, **Redemption Floor**, **Witness Scaling Law**, **Counterfeit Agora**, **Counterfeit Verdict**, and **Ouroboros** without defining them in the text or the preamble. Their meaning can be guessed from context, but a one-clause gloss for each (or cutting the last three from the list in *A living link*) would make the note self-contained.  
+* **"Respect" vs. "Regard / Trust":** In *Succession runs outward and inward* and Question 3, the note introduces a fourth relational word: "Care runs forward and **respect** runs back." Because the note works so hard to establish a strict three-relation taxonomy (Regard, Trust, Care), introducing "respect" for the backward-looking relation blurs the schema. Either define "respect" as a specific compound of Regard and conditional Trust toward a predecessor, or stick to the established terms.
+
+## Outcome
+
+*To follow, with the sixth draft.*
 
 ---
 
