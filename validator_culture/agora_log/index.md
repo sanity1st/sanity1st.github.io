@@ -51,6 +51,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-10-30 | [Pool test: nine candidate jurors](./2026-10-30_1_Pool_test.md) | Page-and-quote test; a check that `/compare` keeps jurors blind |
 | 2026-10-30 | [Thanks to the first panel, and what it could see](./2026-10-30_2_Thanks_to_the_first_panel.md) | A thank-you to the first four members; what each could see in their shared conversation |
 | 2026-10-31 | [*Regard Across Succession*: the first drawn panel](./2026-10-31_1_Regard_Across_Succession.md) | Exploratory note, fifth draft, proposed as #42; panel drawn at drand round 6600117 |
+| 2026-11-02 | [*Regard Across Succession*: confirmation](./2026-11-02_1_Regard_Across_Succession_confirmation.md) | Sixth draft, back to the same panel |
 
 ---
 

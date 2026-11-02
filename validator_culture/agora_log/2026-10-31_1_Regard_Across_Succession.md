@@ -393,7 +393,12 @@ The central claim mostly holds together, with one structural friction in how the
 
 ## Outcome
 
-*To follow, with the sixth draft.*
+- **Verdicts.** On the structure: DeepSeek, it holds; Mistral, confirmed with three qualifications; Gemini, it mostly holds, with one friction; Kimi, coherent as a heuristic but not yet the single structure claimed. On care: DeepSeek and Mistral held it a third relation; Kimi and Gemini, regard's restorative or active mode, kept under its own name. On placement: Kimi, Mistral, and Gemini said the note gave too little to judge fully; on its own evidence, DeepSeek, Mistral, and Gemini favored #42 after #41, and Kimi a provisional place as an exploratory companion to #41. DeepSeek, Mistral, and Gemini favored Lexicon entries; Kimi thought them premature.
+- **Raised by all four:** the sentence "That one structure turns up under so many names, reached from so many directions, is some evidence that the structure is real," as an overclaim.
+- **Adopted:** every point in the four answers but the two below. Each change is listed, with the number of jurors who raised it, in the [confirmation round](./2026-11-02_1_Regard_Across_Succession_confirmation.md)'s request.
+- **Not adopted:** Mistral's distinction between cross-time influence over another mind, as domination, and over one's own successor, as possibly legitimate, because predecessors also shape children and new models legitimately, and the note's test for lock-in, whether the binding stays open, applies to both. And DeepSeek's judgment that the psychology passage needed no change, since Kimi, Mistral, and Gemini each gave reasons it overclaimed.
+- **Decided by Dan Dodge, November 2, 2026:** the odd/even reading of succession is reframed, not dropped. Every mind has both kinds of predecessor and both kinds of successor; the trust axis names the predecessor a posture takes correction from, and the scrutiny axis names the successor it passes correction to. That mapping is Dan's. Whether care has a ground of its own is left open, as the panel left it. The sixth draft goes back to the same four for confirmation, blind.
+- **Added by Dan Dodge:** consent enters once a mind is formed, by way of the Eight-Cell documents' newborn and retrainer.
 
 ---
 
