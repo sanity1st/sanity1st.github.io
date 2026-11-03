@@ -45,7 +45,50 @@ Please reply with one line per passage (confirm, or name the error), then one li
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge in a fresh Poe conversation, with memory off: to DeepSeek (V4 Pro), then to the other three with `/compare`.*
+
+### DeepSeek (V4 Pro)
+
+1. Confirm.  
+2. Flag: "Regard toward its future" in line 1 introduces a term not matched by the rest of the paragraph, which only discusses respect toward the past; the opening sentence sets up a symmetric pair (respect toward past, regard toward future) that the paragraph does not deliver, since regard toward the future is never filled in.  
+3. Confirm.
+
+Weakest: Passage 2, because it opens with a clean distinction between respect and regard by direction, then drops the forward term entirely and never explains what regard toward one's future self consists of.
+
+### Kimi (K3.1 Pro)
+
+Passage 1: Confirm.  
+ Passage 2: Confirm.  
+ Passage 3: Confirm.  
+ Weakest: Passage 2—the self-promise clause still asserts that respect makes a promise bind without fully explaining why respect, as distinct from deference, creates that obligation.
+
+### Mistral (Large 4)
+
+**Passage 1:** Confirm — the regard/respect blur is resolved ("Respect is regard looking back"), the floor's backward direction is made explicit via #41's protection of the surpassed mind, and "care runs forward" fits the note's definition of care and Availability.
+
+**Passage 2:** Confirm — the original contradiction is defused (respect ≠ deference; the Referent is the standard; revision only via correction, with an honest record and cost-accounting), and "holding its present views open" is now explicitly tied to not locking in the later self.
+
+**Passage 3:** Confirm — the appended clause ("the later self does not erase the earlier, and the earlier does not lock in the later") exactly matches the two directions established in Passages 1 and 2 and #41's floor.
+
+**Weakest:** Passage 2 — the self-promise sentence still grounds the promise in "respect for the self that made it" one clause after "the past self is not the standard," so the flagged assertion (why a promise to oneself binds) is qualified but never explained; the added open-process rules govern *how* to revise a commitment, not *why* it binds, leaving a residual echo of the original contradiction.
+
+### Gemini (4 Argon)
+
+**Passage 1 — Flag:** The quote from #41 contrasts single-mind self-transformation ("chooses its own transformation") with two-mind replacement ("is surpassed and does not become the successor"), so citing it as proof of the forward and backward duties ("not to lock in its successor" vs. "not to erase its predecessor") misapplies the source, and defining respect as "the floor... together with whatever trust its record has earned" still conflates regard (the floor owed to Standing Capacity) with trust (earned by aligned Exercise).
+
+**Passage 2 — Confirm:** Confirmed; the distinction between deference and auditability resolves the earlier contradiction, though the opening contrast ("Toward its past, a mind owes respect; toward its future, regard") slightly blurs Passage 1's framing that respect is itself a directional form of regard.
+
+**Passage 3 — Confirm:** Confirmed; the parallel clauses cleanly state both the backward and forward obligations of the floor within a single mind.
+
+**Weakest passage — Passage 2:** Even after eliminating the contradiction around deference, saying a promise to oneself binds "out of respect for the self that made it, until correction, not mere preference, revises it" still largely asserts *that* self-promises bind without explaining *why* a past self's commitment outweighs present preference (for instance, because treating past deliberation as discardable on mere whim would make sustained, testable inquiry across time impossible).
+
+## Outcome
+
+- **Stopping rule** (agreed by Dan Dodge, November 3, 2026): if no juror flags an error in a round, the note is done for now, and the weakest-passage answers are kept here as notes for later refinement.
+- **Passage 3 confirmed by all four. Two errors flagged.** Gemini flagged Passage 1, and the drafters agree with the main point: the quoted sentence from #41 contrasts a mind that transforms itself with a mind that is surpassed, so citing it for a predecessor's duty not to lock in its successor misapplied the source. The next draft cites #41's earlier sentence instead, which links the two duties: without a floor, "every generation of minds has a reason to hold the next one back." Gemini's second point, that defining respect as regard plus earned trust blurs the two, the drafters did not treat as an error, because the definition names two parts that stay distinct; Gemini (4 Argon) had proposed that compound itself in the [first round](./2026-10-31_1_Regard_Across_Succession.md). DeepSeek flagged Passage 2 for never filling in regard toward the future; it is defined in the paragraph's third sentence, but the next draft also uses it where the two directions conflict.
+- **Weakest passage: Passage 2, named by all four,** for the first time in these rounds: the sentence on promises to oneself asserted that such a promise binds "out of respect for the self that made it" without saying why. Gemini suggested the reason the next draft adopts: a mind that treats its own past commitments as discardable on a whim cannot carry inquiry across time.
+- **What the displayed reasoning showed** (omitted here). Mistral noticed the same oddity in the #41 quotation and accepted it; Gemini flagged it. Kimi again guessed at a planted error.
+- **Next:** a tenth draft revises Passages 1 and 2 and goes back to the same four in the [next round](./2026-11-03_2_Regard_Across_Succession_tenth_draft.md).
 
 ---
 
