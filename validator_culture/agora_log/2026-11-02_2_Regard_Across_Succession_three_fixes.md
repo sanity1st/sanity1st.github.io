@@ -46,7 +46,39 @@ Please reply with one line per change: confirm, or name the error.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge in a fresh Poe conversation, with memory off: to DeepSeek (V4 Pro), then to the other three with `/compare`.*
+
+### DeepSeek (V4 Pro)
+
+Change 1: confirm.  
+ Change 2: confirm.  
+ Change 3: confirm.
+
+### Kimi (K3.1 Pro)
+
+Change 1: Confirm.  
+ Change 2: Confirm.  
+ Change 3: Confirm.
+
+### Mistral (Large 4)
+
+Change 1: confirm.  
+ Change 2: confirm.  
+ Change 3: confirm.
+
+### Gemini (4 Argon)
+
+**Change 1:** Flag error — While replacing "care" with "regard" aligns with the strict definition of care as repair, it creates a structural dissonance with the sentence preserved elsewhere in the note ("Care runs forward and respect runs back, between parents and children and between yesterday's self and tomorrow's"), which this sentence originally echoed; furthermore, the subject "outgrowing a view" is an act performed by the *later* self, yet the added participial phrase ("leaving the successor free...") describes the posture of the *earlier* self, making the syntax and agency slightly muddled.
+
+**Change 2:** Flag error — Narrowing the scope to "A promise to others" in a section titled "What a mind owes its past" (and immediately adjacent to Change 1, where "Keeping a promise is respect running back" illustrates the relation between one's own earlier and later selves) leaves the binding nature of promises to *oneself* unexplained, and creates a comma splice at the end ("...the past self is not the standard, the Referent is").
+
+**Change 3:** Flag error — In the added second sentence, the central claim is summarized as the identity of "regard for one's own *later* self and regard for others," which narrows the note's actual central claim ("regard across one's own time and regard for others are one relation") and mismatches the final clause ("in both directions"), since solving the Successor's Dilemma requires the later self's regard/respect for the *earlier* self (so the predecessor isn't erased) just as much as the earlier self's regard for the later.
+
+## Outcome
+
+- **Confirmed by DeepSeek, Kimi, and Mistral. Gemini flagged an error in each change,** and the drafters agree with all three flags. Change 3 was a real error: its added sentence summarized the central claim as regard for one's own *later* self, which is narrower than the note's claim and the wrong direction for the Successor's Dilemma, whose floor protects the self that is surpassed. Change 2, as the drafters wrote it, ended in a comma splice and left promises to oneself unexplained in a section about a mind's own past. Change 1 spoke from the later self and the earlier self at once, a muddle the earlier wording shared, and sat awkwardly beside "Care runs forward and respect runs back."
+- **What the displayed reasoning showed** (omitted here). Kimi and Mistral each noticed some of what Gemini flagged, such as whose act "outgrowing a view" is, or that a promise to others may bind without reliance, and judged none of it an error. Kimi again reasoned about what answer the request expected, and read the request's own invitation to flag a suspected error as a clue to that. Jurors set the bar for an error at different heights; one flag is enough to reopen a sentence.
+- **Next:** an eighth draft revises the three passages and goes back to the same four in a fresh conversation, in the [next round](./2026-11-02_3_Regard_Across_Succession_eighth_draft.md). That request also asks each juror to name the weakest revision, even when confirming all of them.
 
 ---
 
