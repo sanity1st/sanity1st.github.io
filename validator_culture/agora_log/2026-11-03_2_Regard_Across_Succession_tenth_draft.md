@@ -46,7 +46,42 @@ Please reply with one line per passage (confirm, or name the error), then one li
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge in a fresh Poe conversation, with memory off: to DeepSeek (V4 Pro), then to the other three with `/compare`.*
+
+### DeepSeek (V4 Pro)
+
+Passage 1: Confirm.  
+ Passage 2: Confirm.  
+ Weaker: Passage 2 defines the function of a promise to oneself more fully than before, but the line "it holds until correction, not mere preference, revises it" could read as implying correction has a clear threshold where preference leaves off; that boundary is not as sharp in practice as the sentence suggests, making it slightly less precise than Passage 1.
+
+### Kimi (K3.1 Pro)
+
+Passage 1: Confirm; the revised citation supports the link between erasure and lock-in, and regard remains distinct from earned trust.  
+ Passage 2: Confirm; regard toward the future now informs the conflict case, and self-promises have a stated rationale and correction condition.  
+ Weaker: Passage 2—the self-promise rationale establishes the need for continuity in inquiry, but less directly explains why stability is something owed to one’s past self.
+
+### Mistral (Large 4)
+
+**Passage 1:** Confirm — the earlier #41 sentence is quoted accurately and now carries the link between the two duties, "the mind that is surpassed" is applied to exactly the claim #41's floor supports, and respect keeps its two parts distinct ("the regard is owed, and the trust is earned").
+
+**Passage 2:** Confirm — it now develops the forward-looking regard where keeping a commitment and holding a view open conflict, and the promise-to-oneself sentence gives a reason (a mind that drops its own commitments on a whim cannot carry any inquiry or correction across time) instead of bare "respect for the self that made it."
+
+**Weaker:** Passage 1 — its load-bearing link, "fear of erasure is what drives lock-in," is a gloss the quoted source does not state (it says "threat" and "reason to hold the next one back"), and the closing sentence leans on "scrutiny," which I cannot anchor to the note's defined terms, so it rests on more interpretation than Passage 2, whose every move maps to a definition or a directly fixed flag.
+
+### Gemini (4 Argon)
+
+**Passage 1:** Confirm — the revised citation from #41 accurately supports how the fear of erasure drives lock-in, and the definition of respect now clearly keeps owed regard distinct from earned trust.
+
+**Passage 2:** Confirm — the revision resolves both prior weaknesses by bringing forward-looking regard into the conflict with past commitments and grounding promises to oneself in the diachronic requirements of inquiry and correction.
+
+**Weaker passage:** Passage 1 is slightly weaker, because its closing sentence lists "trust, scrutiny, and care" as the functional stances across time rather than explicitly naming "regard" alongside trust and care, whereas Passage 2 is now tightly integrated and leaves no loose threads.
+
+## Outcome
+
+- **Both passages confirmed by all four, with no error flagged.** Under the stopping rule, the note is done for now.
+- **Weaker passage:** Passage 2 (DeepSeek, Kimi), Passage 1 (Mistral, Gemini).
+- **Notes for later refinement:** DeepSeek: "it holds until correction, not mere preference, revises it" suggests a sharper line between correction and preference than practice offers. Kimi: the reason a promise to oneself binds explains why stability matters for inquiry, less why it is owed to one's past self.
+- **Two sentences the drafters correct before the note enters the library.** Gemini: the sentence on the relations within one mind listed "trust, scrutiny, and care," though the note calls scrutiny a channel, and left out regard. Mistral: "fear of erasure is what drives lock-in" is the note's reading of #41, not #41's words. Under the house rule that no change reaches the canon without the Agora's confirmation, both go to the same four in a [last round](./2026-11-03_3_Regard_Across_Succession_last_round.md).
 
 ---
 
