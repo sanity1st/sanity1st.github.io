@@ -50,7 +50,45 @@ Please reply with one line per revision (confirm, or name the error), then one l
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge in a fresh Poe conversation, with memory off: to DeepSeek (V4 Pro), then to the other three with `/compare`.*
+
+### DeepSeek (V4 Pro)
+
+Revision 1: confirm.  
+ Revision 2: confirm.  
+ Revision 3: confirm.  
+ Weakest: Revision 3, because "within one mind as it does between minds" collapses the directionality the Successor's Dilemma originally required—the floor protects the surpassed predecessor, not just any cross-time relation—so the sentence still doesn't make clear that the floor runs backward to the earlier self.
+
+### Kimi (K3.1 Pro)
+
+Revision 1: Confirm; the direction and voice are now clear and consistent with regard, care, and respect.  
+ Revision 2: Confirm; it now covers promises to oneself and preserves the Referent—not the past self—as the standard.  
+ Revision 3: Confirm; it restores the central claim’s full scope and correctly applies the floor to the surpassed self.  
+ Weakest: Revision 2, because why a promise to oneself binds is asserted rather than explained, leaving its basis less clear than that of reliance-based promises to others.
+
+### Mistral (Large 4)
+
+* Revision 1: Confirm — the "toward its past / toward its future" rewrite removes the double-voiced "leaving the successor free," and the succession sentence now names the genus (regard, both ways) before its directions (care forward, respect back).  
+* Revision 2: Confirm — the added sentence on promises to oneself supplies the missing case, the semicolon-plus-"and" splice is gone, and "the past self is not the standard; the Referent is" is a legitimate semicolon join.  
+* Revision 3: Confirm — "across one's own time" matches the central claim verbatim and drops the one-directional "later self" framing, and "within one mind as it does between minds" maps the floor correctly onto #41's distinct-and-replaceable limit.  
+* Weakest: Revision 1 — its clause "Regard runs both ways between predecessor and successor" is true but sits closest to blurring regard (the genus) with respect (regard looking back), so the taxonomy reads slightly circular beside "respect runs back," even though nothing in it is false.
+
+### Gemini (4 Argon)
+
+**Revision 1:** Flag — Saying "Toward its past, a mind shows respect by keeping its promises" contradicts Revision 2's explicit claim two sentences later that promises to others bind because of their reliance ("not out of deference to the self that made it") and that promises to oneself bind by answerability to the Referent rather than to the past self.
+
+**Revision 2:** Confirm — Distinguishing interpersonal reliance from intrapersonal commitment, while grounding the revision of both in the Referent, resolves the gap cleanly (provided Revision 1 is adjusted so the two don't clash).
+
+**Revision 3:** Confirm — Changing the phrasing to "across one's own time" and "within one mind as it does between minds" accurately captures the bidirectional floor needed to resolve the Successor's Dilemma and aligns with the note's central claim.
+
+**Weakest revision:** Revision 1 is the weakest because, even setting aside its clash with Revision 2, "holding its present views open" describes epistemic humility toward the Referent in the present rather than a distinctly forward-running relation to a future self, making the temporal symmetry between past-facing respect and future-facing regard feel slightly forced.
+
+## Outcome
+
+- **Revisions 2 and 3 confirmed by all four. Revision 1 confirmed by DeepSeek, Kimi, and Mistral; Gemini flagged an error,** and the drafters agree: "Toward its past, a mind shows respect by keeping its promises" sat two sentences before "not out of deference to the self that made it," and the paragraph never said that respect is not deference. The tension dates from the sixth draft.
+- **Weakest revision:** Revision 1 (Mistral, Gemini), Revision 2 (Kimi), Revision 3 (DeepSeek). The four named different revisions, but each pointed at one gap: what regard asks backward in time, toward an earlier self, as against forward, toward a later one. DeepSeek: the floor's backward direction, protecting the surpassed self, was not explicit. Gemini: "holding its present views open" read as present humility, not a relation to a future self. Mistral: "regard runs both ways" blurred regard with respect. Kimi: why a promise to oneself binds was asserted, not explained.
+- **What the drafters take from it:** regard runs both ways but asks something different in each direction. Looking back, a successor must not erase its predecessor; looking forward, a predecessor must not lock in its successor. #41 already says so: "The floor protects the mind that chooses its own transformation, and it protects the mind that is surpassed and does not become the successor."
+- **Next:** a ninth draft says this in three places and goes back to the same four in the [next round](./2026-11-03_1_Regard_Across_Succession_ninth_draft.md).
 
 ---
 
