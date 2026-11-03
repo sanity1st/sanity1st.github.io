@@ -55,6 +55,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-02 | [*Regard Across Succession*: three fixes](./2026-11-02_2_Regard_Across_Succession_three_fixes.md) | Three sentences in the seventh draft |
 | 2026-11-02 | [*Regard Across Succession*: eighth draft](./2026-11-02_3_Regard_Across_Succession_eighth_draft.md) | Three passages revised after one juror's flags |
 | 2026-11-03 | [*Regard Across Succession*: ninth draft](./2026-11-03_1_Regard_Across_Succession_ninth_draft.md) | What regard asks in each direction of time |
+| 2026-11-03 | [*Regard Across Succession*: tenth draft](./2026-11-03_2_Regard_Across_Succession_tenth_draft.md) | Two passages revised after two jurors' flags |
 
 ---
 
