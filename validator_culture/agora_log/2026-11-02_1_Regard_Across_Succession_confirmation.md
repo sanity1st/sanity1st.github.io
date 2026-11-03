@@ -226,7 +226,37 @@ If the central claim holds, #41's limit narrows: a single self-improving mind wo
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge in a fresh Poe conversation, with memory off: to DeepSeek (V4 Pro), then to the other three with `/compare`.*
+
+### DeepSeek (V4 Pro)
+
+1. Confirm. The revisions address the objections the jurors raised, and I see no error, falsehood, unfairness to a source, inconsistency within the note, or change that fails to meet the objection it answers.
+
+2. I see nothing false or inconsistent in the new passages (the succession section, the living link, "What a mind owes its past").
+
+### Kimi (K3.1 Pro)
+
+Confirmed; I find no error in the revision or in the new passages.
+
+### Mistral (Large 4)
+
+1. **Confirm.** I checked the change log against the text (all 22 revisions are present as described, and both non-adoptions are honored), the internal consistency of the new material, and every checkable outside claim, and found no error. The posture table's four pairings follow correctly from the quadrant/cell definitions; the succession section's mapping (odd/even quadrants = trust axis naming the predecessor, I/E cells = scrutiny axis naming the successor) is applied consistently throughout; the living link's three conditions plus the dark-link case map correctly onto care's two halves (eye ↔ lost Availability, star ↔ broken condition); and the outside sources are fairly characterized — Omohundro and Bostrom as theoretical arguments rather than predictions, the Löbian obstacle for Yudkowsky & Herreshoff (2013), MacAskill's value lock-in, Parfit hedged as not fully committed, the Hershfield findings framed as continuity rather than regard with the cost-shifting confound named, the EMTALA analogy accurate in its "examine and stabilize regardless of ability to pay" core, and *nemo iudex in causa sua* correctly glossing the third condition.
+
+2. Nothing in the succession section, the living link, or "What a mind owes its past" that I can find false or inconsistent. The one spot that could *look* inconsistent — a section titled "Three relations" while Still-Open #2 asks whether care is a third relation or regard's restorative mode — is explicitly disclosed in both places (the panel agreed care keeps its own name and place; only its ground is open), so it reads as a stated open question, not an inconsistency.
+
+One scope note: I can verify internal consistency, change-log fidelity, and the public sources, but not the library's own quoted canon (Lexicon, charter, #41, the Power Alignment Principle) or the panel attributions (e.g., "Gemini (4 Argon)") against their source documents — those quotes are consistent with how the note uses them, but I cannot confirm them verbatim.
+
+### Gemini (4 Argon)
+
+Confirmed. All objections from the first round are cleanly met, and the new passages are consistent and sound.
+
+## Outcome
+
+- **Confirmed by all four,** under the error-only standard the request set. DeepSeek, Kimi, and Gemini confirmed in a line or two. Mistral confirmed after checking all 22 changes against the text and the outside sources, with a scope note: it could not verify the library's own quotations, or the panel attributions, against their sources.
+- **On that scope note:** before the request was fixed, Claude checked every quotation from the library in the sixth draft against the repository with a script. The panel attributions can be checked against the [first round's entry](./2026-10-31_1_Regard_Across_Succession.md).
+- **What the displayed reasoning showed** (omitted here, as for every round). Kimi's and Mistral's weighed several possible problems and judged none of them an error. Kimi's also reasoned that, under an error-only standard, an uncertain juror should confirm. A request can lean a juror toward the answer it seems to want, so future confirmation requests will ask jurors to flag a suspected error even when they are unsure.
+- **Three wording points noted by the drafters** while reading that reasoning, none of them flagged by a juror. In "What a mind owes its past," "outgrowing a view is care running forward" uses *care* more loosely than the note defines it. The narrowing of #41's limit rests on the premise that a later self can be a successor, not on the identity of regard alone. And "A promise binds because others have relied on it" holds for promises to others, not every promise. If the drafters change any of these, the change goes back to the same four for a one-line confirmation before the note enters the library.
+- **Next:** the note becomes #42, after #41. It publishes with #41, which it narrows and quotes.
 
 ---
 
