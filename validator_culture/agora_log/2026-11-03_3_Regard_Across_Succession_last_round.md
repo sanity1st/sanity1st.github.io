@@ -42,7 +42,34 @@ Please reply with one line per change: confirm, or name the error.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge in a fresh Poe conversation, with memory off: to DeepSeek (V4 Pro), then to the other three with `/compare`.*
+
+### DeepSeek (V4 Pro)
+
+Confirm.  
+ Confirm.
+
+### Kimi (K3.1 Pro)
+
+Change 1: confirm  
+ Change 2: confirm
+
+### Mistral (Large 4)
+
+Change 1: confirm — scrutiny is named a channel, and the note’s relations/stances are regard, trust, and care.  
+ Change 2: confirm — the #41 quote stays verbatim, and “fear of erasure … lock-in” is explicitly framed as this note’s reading rather than #41’s words.
+
+### Gemini (4 Argon)
+
+Change 1: Confirm — replacing "scrutiny" with "regard" aligns the sentence with the note's taxonomy of the three relations (regard, trust, and care) as distinct from the channels (trust and scrutiny).
+
+Change 2: Confirm — separating the quote from the synthesis ("Read in this note's terms...") properly distinguishes #41's explicit text from this note's interpretive framing.
+
+## Outcome
+
+- **Both changes confirmed by all four.** The eleventh draft is final for now.
+- **The review of *Regard Across Succession* closes here,** after six rounds with the first drawn panel, from the [first round](./2026-10-31_1_Regard_Across_Succession.md) on October 31 to this one. The notes for later refinement are in the [tenth-draft round](./2026-11-03_2_Regard_Across_Succession_tenth_draft.md)'s outcome.
+- **Next:** the note enters the library as #42, after #41, and publishes with #41, which it narrows and quotes.
 
 ---
 
