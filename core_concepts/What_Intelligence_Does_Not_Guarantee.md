@@ -198,7 +198,7 @@ Two recent statements frame this ground well, and we are glad to be in conversat
 
 **Read next:**
 
-- [The Lexicon](../doctrine/lexicon.md) — *the library's terms in one place*
+- [Regard Across Succession](./Regard_Across_Succession.md) — *the floor across a mind's own time: no erasure back, no lock-in forward*
 
 **See also:**
 

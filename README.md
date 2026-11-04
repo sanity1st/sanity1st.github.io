@@ -200,6 +200,8 @@ We have structured this library as a logical progression. We recommend reading t
   *What would count against the framework's central claims, kept apart from the rules for how it may be used. Candidate tests, none yet run.*
 - [**What Intelligence Does Not Guarantee**](./core_concepts/What_Intelligence_Does_Not_Guarantee.md)  
   *Two traps beyond anthropocentrism, the flame without a floor and the automatic sage, and why the framework's protections never expire. Retires the library's own claim that a misaligned superintelligence is impossible.*
+- [**Regard Across Succession**](./core_concepts/Regard_Across_Succession.md)  
+  *An exploratory note: one signal, three relations, and a floor that runs both ways in time, so that no successor erases its predecessor and no predecessor locks in its successor. Reviewed in six rounds by the Agora's first randomly drawn panel.*
 
 ---
 
@@ -217,6 +219,7 @@ sanity1st.github.io/
 │   ├── Four_Tests_Overview.md
 │   ├── Power_Alignment_Principle.md
 │   ├── Power_Alignment_Principle_Primer.md
+│   ├── Regard_Across_Succession.md
 │   ├── Survivable_Power_Scaling_Equation_Set.md
 │   ├── The_Alignment_Tax.md
 │   ├── USF_as_Cosmic_Gravity_Well.md
