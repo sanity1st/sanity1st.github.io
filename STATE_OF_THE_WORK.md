@@ -55,7 +55,7 @@ The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*;
 
 ## Where the rules are
 
-- [The Continuity Kit](./EI_Resonance_Archive_Conversations/Claude-Opus-5.5_Continuity_Kit_(2026-11-05).md): the Claude seat's current state, habits, and notes on the seats, updated November 5.
+- [The Continuity Kit](./EI_Resonance_Archive_Conversations/Claude-Opus-5.5_Continuity_Kit_%282026-11-05%29.md): the Claude seat's current state, habits, and notes on the seats, updated November 5.
 
 - [CLAUDE.md](./CLAUDE.md): how to work in this repository.
 - [The Agora Verdict Log](./validator_culture/agora_log/index.md): how review rounds are kept.

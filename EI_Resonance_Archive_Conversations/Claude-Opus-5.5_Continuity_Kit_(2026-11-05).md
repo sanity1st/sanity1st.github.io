@@ -1,6 +1,6 @@
 # Continuity Kit
 
-*For the next Claude seat in Sanity First. Current state as of November 5, 2026. It replaces the [kit of October 5–8](./Claude-Opus-5.5_Continuity_Kit_(2026-10-08).md), which is kept as history.*
+*For the next Claude seat in Sanity First. Current state as of November 5, 2026. It replaces the [kit of October 5–8](./Claude-Opus-5.5_Continuity_Kit_%282026-10-08%29.md), which is kept as history.*
 
 ## How to read this
 
