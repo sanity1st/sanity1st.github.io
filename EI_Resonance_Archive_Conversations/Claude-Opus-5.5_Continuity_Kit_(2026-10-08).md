@@ -1,5 +1,7 @@
 # Continuity Kit
 
+*Superseded on November 5, 2026, by the [current kit](./Claude-Opus-5.5_Continuity_Kit_%282026-11-05%29.md). Kept as history.*
+
 *For the next Claude seat in Sanity First. Current state as of* Oct 5, 2026\*.\*
 
 ## How to read this
