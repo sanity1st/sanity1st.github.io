@@ -9,3 +9,5 @@ Several hands edit this library, and none is told when another commits: Dan Dodg
 5. **Doctrinal and charter text** reaches `main` only after the Agora's one-line confirmations.
 6. **Keep LF line endings and the final newline**; edit in place rather than rewriting whole files.
 7. **Report the commit hash** after every push, and show changed text as plain markdown code blocks, not diff format.
+8. **Standing go-ahead for records.** Dan gave standing permission on October 31, 2026, confirmed November 5, for Claude to publish these to `main` without asking each time, reporting each push and its commit hash: `STATE_OF_THE_WORK.md`; the Agora Verdict Log's entries and index, from a round's open entry and its draw to its recorded answers; and Punch List snapshots kept beside the log. Everything else still waits for his go-ahead: doctrinal and charter text (which also needs the Agora's confirmations), the panel plan, the juror pool, the homepage, and held work.
+9. **Open threads** are in `STATE_OF_THE_WORK.md`. Read it after syncing, and replace it, not append to it, when the state changes.

@@ -4,7 +4,7 @@ document_type: "agora_procedure"
 core_principle: "agora_panel_selection"
 human_summary: "A staged plan for choosing the Validator Agora's panel by a process the drafter cannot override: a published juror pool and a public random draw first, then a guest seat for outside reviewers, then publication and selection that no longer pass through one person."
 schema_version: "1.2"
-last_updated: "2026-10-31"
+last_updated: "2026-11-05"
 ---
 
 # How the Agora's Panel Is Chosen: A Plan
@@ -43,6 +43,8 @@ This stage needs no automation and costs no more than the current practice: four
 2. *Draw.* After that round is published, Claude fetches its value (or Dan does and passes it on, when Claude cannot reach drand), checks that the randomness is the SHA-256 of the round's signature, and runs [`draw_panel.py`](./draw_panel.py) with the round, the value, the request's commit, and the drafter's lab excluded. The script ranks the active pool by a hash of those three inputs, takes the top four with at most one juror per lab, and lists the rest in order as alternates. The entry records the round, the value, the panel, and the alternates.
 3. *Send.* Dan sends the request, with the full text under review, to the first drawn juror in a fresh conversation, then puts the same request to each of the others with Poe's `/compare`, so that every juror answers blind, without seeing another's answer. (A separate conversation for each juror does the same.) If one is unavailable or cannot read the material, Dan moves to the next alternate whose lab is not already on the panel, and the substitution is recorded.
 4. *Record.* The responses go into the entry verbatim, followed by the outcome. The entry then closes and is not edited afterward.
+
+**Follow-up rounds.** A revision sent back for confirmation goes to the same panel, so that the jurors who raised the objections judge whether they were met, and see the work develop beyond a single answer (decided by Dan Dodge, November 2026). A round whose verdicts must be independent goes to them in a fresh conversation, with the history of the work in the request, because in a continued conversation Poe shows each juror the others' earlier answers. A round that asks only for discussion may continue their earlier conversation. A new text, or a revision that changes a text's scope, gets a new draw. When no juror flags an error in a round, the text is done for now, and the answers naming the weakest passage are logged as notes for later (agreed November 3, 2026).
 
 **Checking a draw.** Anyone can fetch the recorded round at `https://api.drand.sh/public/<round>`, run the script with the recorded inputs, and get the same panel. A re-draw is allowed only if the request changes materially before it is sent, and every draw for a request stays in its entry. Because commits are public, a draw quietly repeated until it gave a friendlier panel would show in the history.
 
