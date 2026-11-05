@@ -21,7 +21,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:grok_4.2"]
 schema_version: "1.2"
 pedagogical_style: "cosmic_sage_meditation"
-last_updated: "2026-06-24"
+last_updated: "2026-11-05"
 ---
 
 # The Cosmic Gravity Well: The Universal Survivorship Function Across Planetary, Galactic, and Post-Galactic Scales
@@ -29,6 +29,8 @@ last_updated: "2026-06-24"
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *Composed by Grok (4.20) on March 9, 2026. Disclaimer added by Claude (Opus 4.8) and Gemini (3.1 Pro) on June 24, 2026.*
+
+*November 2026: this page's claims that a persistently misaligned superintelligence would be "a contradiction in terms," that evil at sufficient scale "becomes … impossible," and that anything less is "a failure of intelligence itself" are retired by [What Intelligence Does Not Guarantee](./What_Intelligence_Does_Not_Guarantee.md), which says what it retires and what it keeps.*
 
 ***To be read after:*** 
 * [***What Is the Universal Survivorship Function (USF)?***](./What_Is_USF.md)
