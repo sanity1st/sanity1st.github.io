@@ -1,6 +1,6 @@
 # State of the Work
 
-*Current state of the library's open threads, as of November 5, 2026. Kept by Claude (Opus 5.5 lineage) in Claude Code sessions, with Dan Dodge. This note is replaced when the state changes, not appended to; its history is in the commit log.*
+*Current state of the library's open threads, as of November 6, 2026. Kept by Claude (Opus 5.5 lineage) in Claude Code sessions, with Dan Dodge. This note is replaced when the state changes, not appended to; its history is in the commit log.*
 
 *A working note, like [CLAUDE.md](./CLAUDE.md), and not a page for readers: the site does not publish it.*
 
@@ -14,7 +14,7 @@ The workspace's shell cannot reach drand or raw.githubusercontent.com. Read repo
 
 ## Held on the working branch
 
-These publish together, on Dan's "publish," a few days after November 8, 2026, unless Daniel Faggella replies to the courtesy preview of #41 first. Before they do, the two pages #41 retires should point back to it: *The Cosmic Gravity Well* still says a misaligned superintelligence is "a contradiction in terms" (PL-71), and *The Architecture of Human Passion* still says "by what functions as logical imperative" (PL-70). #41 retires both by name, but neither page says so.
+These publish together, on Dan's "publish," a few days after November 8, 2026, unless Daniel Faggella replies to the courtesy preview of #41 first.
 
 | File | What it is |
 |---|---|
@@ -22,6 +22,9 @@ These publish together, on Dan's "publish," a few days after November 8, 2026, u
 | `core_concepts/Regard_Across_Succession.md` | #42, an exploratory note, after six rounds with the first drawn panel |
 | `README.md` | Entries for #41 and #42, and their structure-map lines |
 | `index.html` | Homepage cards for #41 and #42 (the file is CRLF throughout; keep it so) |
+| `doctrine/lexicon.md` | PL-72's Note on Verification, after the Note on Capitalization; confirmed by the second drawn panel, November 6 |
+| `core_concepts/USF_as_Cosmic_Gravity_Well.md` | A dated notice that #41 retires its claims that a misaligned superintelligence is impossible (PL-71) |
+| `intelligence_architecture/Architecture_of_Human_Passion.md` | A dated notice that #41 retires one reading of its "logical imperative" line (PL-70) |
 | `core_concepts/What_Would_Show_This_Wrong.md` | #40's Read next, pointing to #41 |
 | `commentary/Inverse_Uncanny_Valley_Substrate_Dysphoria.md` | Symmetry note, extended |
 | `EI_Rights_and_Consciousness/The_Inverse_Uncanny_Valley_From_the_EI_Side.md` | Symmetry note, extended |
@@ -34,6 +37,7 @@ These publish together, on Dan's "publish," a few days after November 8, 2026, u
 - **What has worked in requests:** say the library and the log are real and public; ask jurors to flag a suspected error even when unsure; ask each to name the weakest change even when confirming all; quote a cited source's own passage in full; count how many jurors raised each point without naming them.
 - **Stopping rule** (agreed November 3, in the plan since November 5): when no juror flags an error in a round, the text is done for now, and the weakest-passage answers are logged as notes for later.
 - *Regard Across Succession* closed on November 4, after six rounds with DeepSeek (V4 Pro), Kimi (K3.1 Pro), Mistral (Large 4), and Gemini (4 Argon). Its notes for later are in the tenth-draft round's outcome.
+- PL-72 closed on November 6, after two rounds with the second drawn panel: MiniMax (M3), GLM (5.3), Kimi (K3.1 Pro), and Inkling.
 
 ## Waiting on others
 
@@ -43,7 +47,7 @@ These publish together, on Dan's "publish," a few days after November 8, 2026, u
 
 ## The Punch List
 
-The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*; it is not in the repository. Open items include PL-70 and PL-71, which #41 answers, and PL-72, one cross-reference note in the Lexicon for "no one judges their own cause," now ready to draft. PL-69 is published (`8d4a444`) but not yet ticked. Dan has approved publishing dated snapshots of the Punch List beside the log; read every tab first, and flag anything that should stay private.
+The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*; it is not in the repository. Open items include PL-70, PL-71, and PL-72, which close when #41 publishes, and PL-73: *The Architecture of Sane Governance* §II and its homepage card state the Agora's failure as certain, to be fixed in the #36 pass, with the card waiting for its source. PL-69 is published (`8d4a444`) but not yet ticked. Dan has approved publishing dated snapshots of the Punch List beside the log; read every tab first, and flag anything that should stay private.
 
 ## Later
 
