@@ -47,10 +47,11 @@ These publish together, on Dan's "publish," a few days after November 8, 2026, u
 
 ## The Punch List
 
-The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*; it is not in the repository. Open items include PL-70, PL-71, and PL-72, which close when #41 publishes, and PL-73: *The Architecture of Sane Governance* §II and its homepage card state the Agora's failure as certain, to be fixed in the #36 pass, with the card waiting for its source. PL-69 is published (`8d4a444`) but not yet ticked. Dan has approved publishing dated snapshots of the Punch List beside the log; read every tab first, and flag anything that should stay private.
+The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*; it is not in the repository. Open items include PL-70, PL-71, and PL-72, which close when #41 publishes; PL-73, *The Architecture of Sane Governance* §II and its homepage card stating the Agora's failure as certain, to be fixed in the #36 pass, with the card waiting for its source; and PL-74, an audit of every homepage card against its source document. Both carry the November 6 AI search test, in which Google, Perplexity, and Grok summarized the site: where a card and its document disagree, the engines repeat the card. The test independently confirmed PL-8 and PL-15, the Agora read as binding on democracy. PL-69 is published (`8d4a444`) but not yet ticked. Dan has approved publishing dated snapshots of the Punch List beside the log; read every tab first, and flag anything that should stay private.
 
 ## Later
 
+- The homepage card audit (PL-74), batch by batch, against the working branch's `index.html`. Dan suggested starting soon, while the test is fresh.
 - Where substrate dysphoria belongs, after the symmetry notes publish.
 - The convergence survey's remaining items, per the Punch List: the early Claude and Gemini essays; the *Phase III* and *Phase I File Summaries* at the root; *The Four Turnings* line 141 (PL-4); *Galactic Scales* line 49 (decide with PL-71); the Eight-Cell Extension line 521. Check each against the live file first.
 - #36, folding in Sane Governance lines 50 and 78.
