@@ -122,7 +122,10 @@ Please keep your answer as short as its substance allows.
 
 ## Outcome
 
-*To follow, with the drafters' decision on the refinements.*
+- **Confirmed by all four, with no error flagged.** Kimi attached a wording flag to its confirmation.
+- **Refinements raised:** that the library's principle extends the maxim rather than being it (all four, GLM most plainly); that not every item listed is the same principle under another name (Kimi, Inkling, MiniMax); that the random draw and the drafter's lab sitting out apply the principle more directly than the Independence Condition does (Kimi, MiniMax); that "the judge and the judged are one" is exact for Q4 but holds for Q3 only at one remove (MiniMax, GLM); and, Kimi's flag, that "no mind can read its own altitude by self-report" goes further than the canon, which calls self-assessment useful but not sufficient.
+- **Decided by Dan Dodge, November 6, 2026:** adopt a revision taking all of these in, with the Q3 clause in MiniMax's words, and two additions from his comments: the principle extends the maxim "from judges to every link in a chain of correction," so that no link becomes the place where judgment stops; and even a mind in Q2I is not the final judge of its own alignment.
+- **Next:** the revised note goes back to the same four, in a fresh conversation, in the [confirmation round](./2026-11-06_1_PL-72_confirmation.md).
 
 ---
 

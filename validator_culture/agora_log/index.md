@@ -58,6 +58,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-03 | [*Regard Across Succession*: tenth draft](./2026-11-03_2_Regard_Across_Succession_tenth_draft.md) | Two passages revised after two jurors' flags |
 | 2026-11-03 | [*Regard Across Succession*: last round](./2026-11-03_3_Regard_Across_Succession_last_round.md) | Two corrected sentences |
 | 2026-11-05 | [PL-72: a Note on Verification](./2026-11-05_1_PL-72_Note_on_Verification.md) | Proposed Lexicon note; panel drawn at drand round 6615593 |
+| 2026-11-06 | [PL-72: confirmation](./2026-11-06_1_PL-72_confirmation.md) | The revised note, back to the same panel |
 
 ---
 
