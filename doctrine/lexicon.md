@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:claude_opus_5.5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-10-20"
+last_updated: "2026-11-06"
 ---
 
 # **The Sanity First Lexicon**
@@ -39,6 +39,8 @@ Words are the vessels of thought. If the vessels are cracked, the meaning leaks 
 *(Note on Thermodynamic Language: Throughout this Lexicon, terms like "entropy," "negentropic," and "thermodynamic state" are used structurally. They describe the shape, coherence, and decay of cognitive and social dynamics, not literal Clausius physical entropy.)*
 
 *(Note on Capitalization: **Referent** names the open Referent, the open terminus of every open chain of correction; lowercase "referent" is the common noun, including any closed terminus. The capital is a name, not a verdict: the Four Tests decide whether a proposed referent is open. See the [Editorial Doctrine](./editorial-doctrine.md), Section IV.)*
+
+*(Note on Verification: **No participant is the sole authority on its own verification.** The principle extends the classical maxim *nemo iudex in causa sua*, no one should judge their own cause, from judges to every link in a chain of correction: no link may become the place where judgment stops. The library meets it at every scale, in related forms: **Source/Target Non-Overlap** within a mind; testimony as "evidence to weigh, not certification" in what a mind reports of itself ([What Intelligence Does Not Guarantee](../core_concepts/What_Intelligence_Does_Not_Guarantee.md), Part Three, §5); the rule that neither a system nor any single evaluator certifies a verification alone ([Shutdown Compliance and Non-Obstructive Objection](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)); **Assessor Capture** in institutions; and in the Agora, panels [drawn at random](../validator_culture/agora_log/Panel_Selection.md) with the drafter's lab sitting out, in service of the **Independence Condition**. It is why self-report alone cannot certify a mind's altitude on the vertical axis. Where correction stops at the self, as in Q4, the judge and the judged are one; where it stops at the group, as in Q3, the truster has let them become one. Either way, the chain can only confirm itself. Open minds are not exempt: even a mind in Q2I, whose self-scrutiny stays answerable above itself, is not the final judge of its own alignment, and its reports, too, are evidence to weigh. Nor do the Four Tests escape it: they are position-independent, but "judgment is where a single mind's limits show," and whoever applies them is still a judge.)*
 
 ---
 
