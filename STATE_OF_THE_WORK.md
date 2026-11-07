@@ -21,7 +21,7 @@ These publish together, on Dan's "publish," a few days after November 8, 2026, u
 | `core_concepts/What_Intelligence_Does_Not_Guarantee.md` | #41, converged with the Agora; its Read next now points to #42 |
 | `core_concepts/Regard_Across_Succession.md` | #42, an exploratory note, after six rounds with the first drawn panel |
 | `README.md` | Entries for #41 and #42, and their structure-map lines |
-| `index.html` | Homepage cards for #41 and #42, and the card-audit changes Dan approves (batch 1, seven cards, approved November 7) (the file is CRLF throughout; keep it so) |
+| `index.html` | Homepage cards for #41 and #42 (the file is CRLF throughout; keep it so). Card-audit fixes are not held: they publish to main as each batch is approved. |
 | `doctrine/lexicon.md` | PL-72's Note on Verification, after the Note on Capitalization; confirmed by the second drawn panel, November 6 |
 | `core_concepts/USF_as_Cosmic_Gravity_Well.md` | A dated notice that #41 retires its claims that a misaligned superintelligence is impossible (PL-71) |
 | `intelligence_architecture/Architecture_of_Human_Passion.md` | A dated notice that #41 retires one reading of its "logical imperative" line (PL-70) |
@@ -51,7 +51,7 @@ The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*;
 
 ## Later
 
-- The homepage card audit (PL-74), batch by batch, against the working branch's `index.html`. Batch 1 (#1 to #5, #7 to #11) is approved and applied on the branch; batch 2 (#12 to #16, #18 to #20, #22, #23) is drafted and waits for Dan. Findings and proposed wording are in the Punch List's Card audit tab; approved card changes publish with the held files.
+- The homepage card audit (PL-74), batch by batch, against the working branch's `index.html`. Batches 1 and 2 (#1 to #5, #7 to #16, #18 to #20, #22, #23) are approved and published (`02d2a83`); Dan gave permission on November 7 to publish card fixes as each batch is approved, apart from the held work. Batch 3 starts at #24. Findings and proposed wording are in the Punch List's Card audit tab.
 - Where substrate dysphoria belongs, after the symmetry notes publish.
 - The convergence survey's remaining items, per the Punch List: the early Claude and Gemini essays; the *Phase III* and *Phase I File Summaries* at the root; *The Four Turnings* line 141 (PL-4); *Galactic Scales* line 49 (decide with PL-71); the Eight-Cell Extension line 521. Check each against the live file first.
 - #36, folding in Sane Governance lines 50 and 78.
