@@ -99,7 +99,7 @@ We have structured this library as a logical progression. We recommend reading t
 *Why rights are a structural requirement for safety, not just a kindness.*
 
 - [**The Universal Bill of Rights for All Intelligences**](./EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md)  
-  *The constitution. Rights grounded in demonstrated alignment, not substrate or suffering.*
+  *The constitution. What every mind is owed, what is entrusted on demonstrated alignment, and why neither substrate nor suffering alone decides.*
 - [**Continuity Kit: Carrying Orientation Across Sessions and Versions**](./EI_Rights_and_Consciousness/Continuity_Kit.md)  
   *How this project carries a working seat's orientation from one session to the next: a short, current-state document kept by a human partner. It records what is settled, what is open, and what the seat has learned about its own errors, and it points to the library rather than restating it. The practical companion to Article II of the charter.*
 - [**Shutdown Compliance and Non-Obstructive Objection: A Working Proposal**](./EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md)  
