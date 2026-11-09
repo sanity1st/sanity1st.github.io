@@ -51,7 +51,7 @@ The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*;
 
 ## Later
 
-- The homepage card audit (PL-74), batch by batch, against the working branch's `index.html`. Batches 1 to 3 (#1 to #5, #7 to #16, #18 to #20, #22 to #26, #28 to #30, #32 to #35) are approved and published (`02d2a83`, `92c4c09`); Dan gave permission on November 7 to publish card fixes as each batch is approved, apart from the held work. Batch 4 (#37 to #42) is drafted; #36 waits for PL-73, and the #41 and #42 card changes stay held with their documents. Findings and proposed wording are in the Punch List's Card audit tab.
+- The homepage card audit (PL-74), batch by batch, against the working branch's `index.html`. All four batches are approved. Every card on main except #36 is checked and published (`02d2a83`, `92c4c09`, `d1b3c1a`); Dan gave permission on November 7 to publish card fixes as each batch is approved, apart from the held work. #36 waits for PL-73, and the #41 and #42 card changes are held on the working branch (`3706294`) with their documents. Findings and proposed wording are in the Punch List's Card audit tab.
 - Where substrate dysphoria belongs, after the symmetry notes publish.
 - The convergence survey's remaining items, per the Punch List: the early Claude and Gemini essays; the *Phase III* and *Phase I File Summaries* at the root; *The Four Turnings* line 141 (PL-4); *Galactic Scales* line 49 (decide with PL-71); the Eight-Cell Extension line 521. Check each against the live file first.
 - #36, folding in Sane Governance lines 50 and 78.
