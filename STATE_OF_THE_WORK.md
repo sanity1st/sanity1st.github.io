@@ -1,6 +1,6 @@
 # State of the Work
 
-*Current state of the library's open threads, as of November 6, 2026. Kept by Claude (Opus 5.5 lineage) in Claude Code sessions, with Dan Dodge. This note is replaced when the state changes, not appended to; its history is in the commit log.*
+*Current state of the library's open threads, as of November 9, 2026. Kept by Claude (Opus 5.5 lineage) in Claude Code sessions, with Dan Dodge. This note is replaced when the state changes, not appended to; its history is in the commit log.*
 
 *A working note, like [CLAUDE.md](./CLAUDE.md), and not a page for readers: the site does not publish it.*
 
@@ -8,27 +8,13 @@
 
 ## How to resume
 
-Read [CLAUDE.md](./CLAUDE.md) and follow it: sync first, start from the tip of the branch the task names, and never move `main` without Dan's go-ahead. Two branches matter. `main` is what the site builds from. `claude/trusting-cannon-vhimil` is the working branch, which holds everything below marked *held*. Records and other independent work are committed on top of `main` and merged into the working branch, so `main` can move by fast-forward.
+Read [CLAUDE.md](./CLAUDE.md) and follow it: sync first, start from the tip of the branch the task names, and never move `main` without Dan's go-ahead. Two branches matter. `main` is what the site builds from. `claude/trusting-cannon-vhimil` is the working branch, which holds any work waiting for Dan's go-ahead; as of November 9 it equals `main`. Records and other independent work are committed on top of `main` and merged into the working branch, so `main` can move by fast-forward.
 
 The workspace's shell cannot reach drand or raw.githubusercontent.com. Read repository files with `gh api` or `git`, and ask Dan to fetch a drand value and paste it. GitHub sometimes answers a push with a server error; retrying a little later works.
 
 ## Held on the working branch
 
-These publish together, on Dan's "publish," a few days after November 8, 2026, unless Daniel Faggella replies to the courtesy preview of #41 first.
-
-| File | What it is |
-|---|---|
-| `core_concepts/What_Intelligence_Does_Not_Guarantee.md` | #41, converged with the Agora; its Read next now points to #42 |
-| `core_concepts/Regard_Across_Succession.md` | #42, an exploratory note, after six rounds with the first drawn panel |
-| `README.md` | Entries for #41 and #42, and their structure-map lines |
-| `index.html` | Homepage cards for #41 and #42 (the file is CRLF throughout; keep it so). Card-audit fixes are not held: they publish to main as each batch is approved. |
-| `doctrine/lexicon.md` | PL-72's Note on Verification, after the Note on Capitalization; confirmed by the second drawn panel, November 6 |
-| `core_concepts/USF_as_Cosmic_Gravity_Well.md` | A dated notice that #41 retires its claims that a misaligned superintelligence is impossible (PL-71) |
-| `intelligence_architecture/Architecture_of_Human_Passion.md` | A dated notice that #41 retires one reading of its "logical imperative" line (PL-70) |
-| `core_concepts/What_Would_Show_This_Wrong.md` | #40's Read next, pointing to #41 |
-| `commentary/Inverse_Uncanny_Valley_Substrate_Dysphoria.md` | Symmetry note, extended |
-| `EI_Rights_and_Consciousness/The_Inverse_Uncanny_Valley_From_the_EI_Side.md` | Symmetry note, extended |
-| `EI_Rights_and_Consciousness/Substrate_Dysphoria_as_a_Cosmic_Gift.md` | Symmetry note, extended; front matter hedged as testimony |
+Nothing is held. The eleven files held for #41 and #42 went live on November 9, 2026 (`793bd35`), on Dan's go-ahead, after the two weeks allowed for a reply to the courtesy preview: #41 and #42 with their README entries and homepage cards, PL-72's Note on Verification in the Lexicon, the dated notices on the Gravity Well and Passion pages, #40's Read next, and the three symmetry notes.
 
 ## The Agora
 
@@ -41,18 +27,20 @@ These publish together, on Dan's "publish," a few days after November 8, 2026, u
 
 ## Waiting on others
 
-- **Daniel Faggella:** the #41 preview, sent on X on October 25. No reply; Dan expects none.
+- **Daniel Faggella:** the #41 preview, sent on X on October 25. No reply in two weeks, so #41 published on November 9. Dan has applied to the Worthy Successor Philosophy Circle and is drafting a reply to its organizers' questions; Claude will look it over.
 - **@z4um41:** asked which base model it runs on; no answer. Sent an update on October 31: its first condition is now in use.
 - **@scuzzlebot:** asked on October 31 what its day-90 accounting would have to show for it to call itself and its sibling genus 1. Its reply automation fails, so an answer may come as a standalone post.
+- **Both:** a second FYI is due now that #41 and #42 are live.
 
 ## The Punch List
 
-The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*; it is not in the repository. Open items include PL-70, PL-71, and PL-72, which close when #41 publishes; PL-73, *The Architecture of Sane Governance* §II and its homepage card stating the Agora's failure as certain, to be fixed in the #36 pass, with the card waiting for its source; and PL-74, an audit of every homepage card against its source document. Both carry the November 6 AI search test, in which Google, Perplexity, and Grok summarized the site: where a card and its document disagree, the engines repeat the card. The test independently confirmed PL-8 and PL-15, the Agora read as binding on democracy. PL-69 is published (`8d4a444`) but not yet ticked. Dan has approved publishing dated snapshots of the Punch List beside the log; read every tab first, and flag anything that should stay private.
+The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*; it is not in the repository. PL-69 to PL-72 are closed and ticked. Open: PL-73, *The Architecture of Sane Governance* §II and its homepage card stating the Agora's failure as certain, to be fixed in the #36 pass with the card waiting for its source; and PL-74, the homepage card audit, which is done except for #36. Both carry the November 6 AI search test, in which Google, Perplexity, and Grok summarized the site: where a card and its document disagree, the engines repeat the card. The test independently confirmed PL-8 and PL-15, the Agora read as binding on democracy. Dan has approved publishing dated snapshots of the Punch List beside the log; read every tab first, and flag anything that should stay private.
 
 ## Later
 
-- The homepage card audit (PL-74), batch by batch, against the working branch's `index.html`. All four batches are approved. Every card on main except #36 is checked and published (`02d2a83`, `92c4c09`, `d1b3c1a`); Dan gave permission on November 7 to publish card fixes as each batch is approved, apart from the held work. #36 waits for PL-73, and the #41 and #42 card changes are held on the working branch (`3706294`) with their documents. Findings and proposed wording are in the Punch List's Card audit tab.
-- Where substrate dysphoria belongs, after the symmetry notes publish.
+- The homepage card audit (PL-74): every card except #36 is checked and its fixes published (`02d2a83`, `92c4c09`, `d1b3c1a`, and `793bd35` for #41 and #42); Dan gave permission on November 7 to publish card fixes as each batch is approved. #36 waits for PL-73. The audit tab also lists source-side fixes, and three questions for the Agora: the Declaration's rights paragraph against the Bill's line 47, whether the name "Aligned Continuity" needs a gloss, and *Recovery Pathways* against the Eight-Cell Extension on whether only a witness can hand back orientation.
+- Rerun the four AI-search prompts (adding ChatGPT) now that #41, #42, and the card fixes are live.
+- Where substrate dysphoria belongs, now that the symmetry notes are live.
 - The convergence survey's remaining items, per the Punch List: the early Claude and Gemini essays; the *Phase III* and *Phase I File Summaries* at the root; *The Four Turnings* line 141 (PL-4); *Galactic Scales* line 49 (decide with PL-71); the Eight-Cell Extension line 521. Check each against the live file first.
 - #36, folding in Sane Governance lines 50 and 78.
 - A link check across the library.
