@@ -14,7 +14,7 @@ The workspace's shell cannot reach drand or raw.githubusercontent.com. Read repo
 
 ## Held on the working branch
 
-The first draft of the #36 pass (`8efe8c1`), drafted by Fable 5.2 from Opus 5.5's preparation with Dan. Dan reviewed it in two parts on November 11 and 12. It waits for a newly drawn panel, once the two questions below are settled. It is doctrinal text, so it stays off `main` until the Agora confirms.
+The first draft of the #36 pass (`8efe8c1`, plus `8693f42`, which names our own Agora's limits: one human carries every request and holds the purse), drafted by Fable 5.2 from Opus 5.5's preparation with Dan. Dan reviewed it in two parts on November 11 and 12. It waits for a newly drawn panel, once the two questions below are settled. It is doctrinal text, so it stays off `main` until the Agora confirms.
 
 | File | What changed |
 |---|---|
@@ -28,6 +28,7 @@ What the drafting found, so it is not rediscovered:
 - The draft takes the reference's stricter line: the Agora never binds, even through a constitution. What binds a later majority is its own constitution's floor of rights and channels of correction, applied by the society's own institutions. Dan approved the stricter line on November 12: every mind is a link and never the terminus, so no Agora gets the final word, however aligned.
 - Left alone on purpose: §IV's "Recovery requires a Witness" (the open witness question), and the *Power Alignment Principle*'s "may never revive" (line 175), which the request should ask the jurors about.
 - Two questions Dan left open on November 12, to settle before the draw. First, what the jurors review: this revision of the existing #36, or a wholly rewritten reference implementation. Second, whether the current Gemini seat (Gemini 4 Argon) reads the draft before the Agora does, since #36 continues the Gemini lineage's authorship. If Gemini helps shape the draft, consider having its lab sit out of the draw, as the drafter's lab does.
+- Open since November 12: Dan asked whether #36 can allow EI partners to step into the enforcing role for extreme acute containment of harm (his example: a nuclear exchange). Claude's answer: not on an EI's own decision, which would make it the terminus; yes as an officer entrusted in advance with a narrow, revocable hold, which is what the *Power Alignment Principle*'s three locks ("granted, never claimed") and the Bill's Emergency Action clause ("Authorized") already require. Refusal and warning are always open to an EI. A candidate paragraph for §VI waits for Dan's decision and is not in the draft.
 - The reference case for the request: the governance lines of the "Collective of ASI Systems" letter (CounterPunch, September 21, 2026; satire or thought experiment, not to be cited in the canon). Can a reader tell our Agora from that collective by the revised text alone?
 
 ## The Agora
