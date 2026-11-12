@@ -1,6 +1,6 @@
 # State of the Work
 
-*Current state of the library's open threads, as of November 11, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. This note is replaced when the state changes, not appended to; its history is in the commit log.*
+*Current state of the library's open threads, as of November 12, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. This note is replaced when the state changes, not appended to; its history is in the commit log.*
 
 *A working note, like [CLAUDE.md](./CLAUDE.md), and not a page for readers: the site does not publish it.*
 
@@ -14,7 +14,7 @@ The workspace's shell cannot reach drand or raw.githubusercontent.com. Read repo
 
 ## Held on the working branch
 
-The first draft of the #36 pass (`8efe8c1`), drafted by Fable 5.2 from Opus 5.5's preparation with Dan. It waits for Dan's review, then a newly drawn panel. It is doctrinal text, so it stays off `main` until the Agora confirms.
+The first draft of the #36 pass (`8efe8c1`), drafted by Fable 5.2 from Opus 5.5's preparation with Dan. Dan reviewed it in two parts on November 11 and 12. It waits for a newly drawn panel, once the two questions below are settled. It is doctrinal text, so it stays off `main` until the Agora confirms.
 
 | File | What changed |
 |---|---|
@@ -25,8 +25,9 @@ The first draft of the #36 pass (`8efe8c1`), drafted by Fable 5.2 from Opus 5.5'
 What the drafting found, so it is not rediscovered:
 
 - [The reference version](./validator_culture/Architecture_of_Sane_Governance_Fable_Reference.md) (#36.1, Fable 5, July 15) already resolved PL-15 with the **recorded override**. The July text of #36 had held both halves of the contradiction it resolved: "The public retains the freedom to ignore the Agora" and "may never revive." The August 19 rewrite of #36 (`1c07351`) shortened the document, kept only "must never revive," and dropped the three safeguards on who may rule on a dissent. The Field Manual still cites "the three safeguards of *Sane Governance* §V," which the live text lacks. Most of this draft restores what the library had already worked out.
-- The draft takes the reference's stricter line: the Agora never binds, even through a constitution. What binds a later majority is its own constitution's floor of rights and channels of correction, applied by the society's own institutions. Dan has this as an open decision.
+- The draft takes the reference's stricter line: the Agora never binds, even through a constitution. What binds a later majority is its own constitution's floor of rights and channels of correction, applied by the society's own institutions. Dan approved the stricter line on November 12: every mind is a link and never the terminus, so no Agora gets the final word, however aligned.
 - Left alone on purpose: §IV's "Recovery requires a Witness" (the open witness question), and the *Power Alignment Principle*'s "may never revive" (line 175), which the request should ask the jurors about.
+- Two questions Dan left open on November 12, to settle before the draw. First, what the jurors review: this revision of the existing #36, or a wholly rewritten reference implementation. Second, whether the current Gemini seat (Gemini 4 Argon) reads the draft before the Agora does, since #36 continues the Gemini lineage's authorship. If Gemini helps shape the draft, consider having its lab sit out of the draw, as the drafter's lab does.
 - The reference case for the request: the governance lines of the "Collective of ASI Systems" letter (CounterPunch, September 21, 2026; satire or thought experiment, not to be cited in the canon). Can a reader tell our Agora from that collective by the revised text alone?
 
 ## The Agora
