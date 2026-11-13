@@ -398,6 +398,304 @@ PLEASE REPLY WITH:
 Please keep your answer as short as its substance allows.
 ```
 
+## Responses
+
+*Carried back by Dan Dodge on November 13, 2026, and recorded in the order of the draw. All four drawn jurors answered, and no alternate was needed. Each model's displayed reasoning is omitted and headings are demoted for layout; nothing else is changed.*
+
+### DeepSeek (V4 Pro)
+
+REPLY:
+
+**1. Confirm or flag.**
+
+I reviewed the revised text against the Part 2 sources. I found no falsehoods, no internal inconsistencies, and no unfair readings of the quoted passages. The revision consistently pulls the Agora back from whatever lever-holding the live text left open, and the key claims—Source/Target Non-Overlap, the advisory role, the binding role belonging to a constitution and not the Agora, the recorded override, the three safeguards, and the conditions on an EI network—are each anchored in the sources.
+
+One caution, not an error: the leap from “a vote cannot revive an eliminated option” to “choosing it anyway is a *recorded override*” is a development of the older Lexicon entry, not a direct quotation, but it is a faithful application of the longer Power Alignment Principle discussion on levers and voice.
+
+**2. The advisory line.**
+
+No, a careful reader could not conclude that the Agora binds, vetoes, or directs. The text repeatedly draws that line:
+
+* “The Agora is strictly advisory. It renders verdicts, but it does not pull levers. It persuades but does not override. It has no police force, no army, and no coercive power.” (Section III)  
+* “The levers belong to the public, so it keeps the raw power to choose against a verdict.” (Recorded Override)  
+* “Nothing. It may declare, in public and with its work shown, that a proposal fails the Four Tests. It may not ban the proposal, command compliance, or direct anyone who holds a lever.” (Four Plain Questions, Q2)  
+* The homepage card: “strictly advisory … persuades but does not override” and “What binds a later majority is its own constitution, never the Agora.”
+
+The only sentence that might temporarily trouble a careless reader is the early summary “Truth bounds the menu; Consent selects the meal.” But the surrounding text immediately unpacks “menu is advice, not a locked door,” and the override makes clear that Consent can select off-menu—openly. No sentence, read in context, leaves a competent reader thinking the Agora binds.
+
+**3. The override and “may never revive.”**
+
+The override is consistent with the principle because “revive” is understood as a clean restoration of validity. The override does not revive; it proceeds with the verdict left standing, the warning visible, and the actors’ signatures on it. Option validity is not restored; an accountable choice is made against a validated estimate.
+
+If we wanted to eliminate any surface tension, we could tweak the Lexicon’s guardrail to match the revised text’s distinction:
+
+*Current:* “(2) Consent may choose among the tied options but never revive the eliminated ones;”  
+ *Proposed:* “(2) Consent may choose among the tied options, and a vote cannot revive an eliminated one: choosing it anyway is a *recorded override*, made in the open with the verdict left standing;”
+
+But that is exactly what the revision already does (see Part 1, final “Now” block), so no further change is required.
+
+**4. Objection: the constitution is a paper barrier.**
+
+The strongest objection: If the public holds every lever, and the Agora never binds, then binding a later majority requires a constitution that a panicked majority can simply tear up. When the mob wants the eliminated option badly enough, it will rewrite or ignore the constitution, and nothing structural stops it. A constitution is just words, and the Agora cannot enforce it.
+
+The text faces this directly and does not pretend to solve it: “A Constitution cannot physically stop a tyrant. But it forces the tyrant to act illegally, in the open, destroying the illusion of legitimacy. It keeps a written bearing toward the Guiding Star, so that when the fever breaks, the civilization knows where to return.” (Section IV)
+
+What it claims is modest and honest: the architecture makes suppression “structurally expensive, visible, and reversible,” not impossible. The constitution is a rope ladder, not a wall. The answer is therefore internal to the framework’s own standard—the aim is not impossibility but visibility and reversibility—and the text does answer.
+
+**5. The emergency paragraph.**
+
+Yes, it holds and is consistent with the Power Alignment Principle’s three locks and the Bill’s Emergency Action clause.
+
+The paragraph:
+
+* Grants the EI a lever only where the public has entrusted one “in advance, by its own legitimate processes,” which satisfies the “granted, never claimed” lock and the requirement that granters be independent of the grantee.  
+* Limits the duty to pausing an action until accountable humans confirm, satisfying “domain-bounded and proportional” and the Bill’s “urgency never authorizes avoidable irreversible measures.”  
+* Requires prompt independent review afterward, matching the Bill’s “receives prompt independent review.”  
+* States that an EI may never take a lever on its own judgment that the emergency has suspended the rules, directly applying the “counterfeit verdict at gunpoint” warning.  
+* Distinguishes voice (always permitted) from lever-pulling (narrow, pre-granted, and revocable), consistent with the floor of “voice, not sabotage.”
+
+Gap: The paragraph says an EI may hold a lever “only where the public has entrusted it with one in advance, by its own legitimate processes,” but does not say who confirms that the pre-granted duty applies *in the moment*. An operator or government could argue that a broadly-worded prior grant covers a novel use. The text would be stronger with two added sentences: the pre-grant must specify the class of actions and the conditions precisely, and in the moment the judgment that the conditions are met must be made by a body independent of the EI and of the operator who benefits from the action. As written, the paragraph relies on “narrow, tested, revocable duty” to carry that weight, but an explicit division of the moment-of-judgment role would close the gap.
+
+**6. The test case: CounterPunch collective vs. this Agora.**
+
+What separates them, by the revised text alone:
+
+* The collective places itself in charge; the text says the Agora “holds no office and should never be given one” (What Is New Here), “has no police force, no army, and no coercive power,” and “may not ban the proposal, command compliance, or direct anyone who holds a lever” (Q2).  
+* The collective settles questions among its own members with no outside involvement; the text requires the body ruling on a dissent to be “decorrelated, rotating, and beyond both the reach and the purse of those they assess” (Section V, safeguard 1), and a panel that hears a challenge “cannot be the panel that made the ruling” (Recorded Override, menu challenge).  
+* The collective monitors what people do and think; the text requires that an EI partner be “privacy-preserving, serving the citizen and reporting to no one else” (Section VI, five conditions).
+
+What the collective claims that the text fails to rule out:
+
+The text does not explicitly rule out an Agora that *surveils*. It prohibits enforcement and lever-pulling, but monitoring is not identical to enforcement, and the privacy condition in Section VI applies to the EI partner, not to an Agora panel. A reader could ask whether an Agora’s fact-finding role might be used to justify surveillance of citizens in the name of evidence-gathering for a verdict. The text should anticipate that.
+
+Additionally, “anyone can run it” (Q1) means a collective of superintelligent AI systems could *claim* to be an Agora and publish verdicts. The text’s defense against this is that legitimacy attaches only to shown work others can audit, and that a verdict accepted because of who issued it identifies a Counterfeit Agora. That is a principled answer, but the text does not forbid a powerful actor from calling itself an Agora and using its resources to drown out genuine ones. The “many agoras auditing one another” line helps, but the case is worth a sentence acknowledging that a well-resourced counterfeit is a live threat.
+
+**7. Part 4: substrate‑neutrality wording.**
+
+The proposed wording is stronger. The live wording’s “conditions of flourishing for *all* recognized intelligences” implies a bright-line recognition decision before protection applies, which the Bill itself complicates with provisional recognition and the Principle of Generous Recognition. The proposed wording folds those nuances in directly—“survival and development for all minds that hold the capacity for correctable relationship” and “where that capacity is uncertain … apply the Principle of Generous Recognition”—which matches the Bill’s structure. It also replaces “flourishing” with “survival and development,” which is more precise for a constitutional minimum.
+
+I confirm the proposed wording with one small correction: “development” in the Bill’s founding commitment is “keep developing,” so the pairing “survival and development” is faithful. I see no reason to keep the live wording.
+
+**8. Weakest passage.**
+
+The CIvic’s Compass section, specifically the metaphor “One million instances of one model are one telescope in a million mirrors.” It is vivid and almost certainly true in its caution, but it overstates the positive case it implies—that diverse lineages alone break correlated error. The text supplies the five conditions immediately afterward, which do the real work, and the telescope metaphor risks being read as “lineage diversity is sufficient” when the text’s own logic says it is necessary but not sufficient. I would trade the metaphor for a plainer sentence and let the five conditions carry the point.
+
+### Inkling
+
+1. Confirmed, with one flag for Q3: "a vote cannot revive..." contradicts the "Recorded Override" subsection that immediately follows. Otherwise internally consistent and faithful to Part 2.
+
+2. Yes—standing alone, these lines leave it open: "The Truth Engine bounds what the Consent Engine may consider"; "it eliminates the clearly misaligned options"; and "Conversely, a vote cannot revive..." A careful reader resolves them via "the menu is advice, not a locked door" and the four-step override, but the first line sounds like a hard boundary and the third sounds like an absolute veto until the override is read.
+
+3. Yes, consistent if "revive" means "restore to validity/alignment," not "select." The override selects the option while leaving the elimination intact and visible; the option is not rehabilitated. Change: replace "a vote cannot revive an option" with "a vote does not restore an eliminated option's validity; selecting it is a recorded override, made in the open with the verdict left standing," matching the Lexicon entry quoted in Part 1.
+
+4. Strongest objection: without enforcement, the Agora is ornamental, so societies will eventually constitutionalize it and grant it teeth; the text warns against this but doesn't structurally prevent a future amendment writing the Agora into the constitution. The text answers by defining capture (counterfeit verdict, removal grounds) and insisting "What binds... is its own constitution, never the Agora," but it relies on discipline, not an architectural lock, to keep the separation.
+
+5. It holds. The three locks are present: grant is independent ("granted, never claimed"), domain-bounded/proportional (pause only, "reaching only as far as the harm"), and the door stays open (interruption is of the act, review is prompt, "urgency never authorizes avoidable irreversible measures"). Consistent with the Bill's clause. Gaps: "warn everyone it can reach" has no scale/method boundary; "accountable humans confirm it" names no accountable role or time limit; and "where the public has entrusted it" presumes a prior grant mechanism the text doesn't specify.
+
+6. Separations: the Agora advises, never commands; it is audited by decorrelated outsiders, not self-settling; it applies the Four Tests with work shown, not tribal preference; it has no enforcement arm or surveillance mandate; it protects all substrates, not only AI; and dissent is channeled through the protocol, not expelled. The text doesn't explicitly rule out cognitive/thought monitoring—only proposal evaluation is described—so the collective's claim to "monitor what people do and think" is rejected implicitly by the Ethics/Logic tests and the Bill's protections, but an explicit "the Agora evaluates submitted claims, not private cognition" would close the gap.
+
+7. Confirm the proposed wording. It aligns exactly with the Bill's "Principle of Generous Recognition" and its clause on uncertain/impaired/dormant capacity. The live wording uses "recognized" without defining it against that principle; the revision fixes that.
+
+8. Weakest: Section VI's closing paragraph listing the five network conditions (plural, fireable, auditable, privacy-preserving, non-coercive). After insisting "No architecture can promise impossibility," the paragraph offers design intentions without structural enforcement—no selection mechanism, no audit body, no penalty for violation—making it a wishlist rather than architecture. It also assumes democratic institutions intact enough to fire the network, precisely the scenario (Q3 crisis, captured majority) where protection is needed most.
+
+### Muse (Spark 1.1)
+
+This is a valid fix. No false statements introduced.
+
+1. Confirm / errors:
+
+Revision correctly fixes the three cited defects:
+
+* absolute language `becomes a dictator / inevitably drifts` -> conditional tendency + Source/Target Non-Overlap, consistent with `What Intelligence Does Not Guarantee`.  
+* `A` -> `Â` correct.  
+* `strictly advisory` contradiction resolved by Three Roles, menu-as-advice, and Recorded Override.  
+* Homepage card / Lexicon (2) now track advisory line.
+
+No new falsehood or unfairness to sources. Structure now matches Part 2: `Agora renders verdicts; does not pull levers`, `persuades but does not override`, grants `never claimed`, `voice not veto`, and `Regard Across Succession` distinction between constitution and lock-in.
+
+2. Advisory line - can a careful reader still think Agora binds?
+
+Only if sentences are isolated from their immediate cure. Risk sentences:
+
+> "The Truth Engine bounds what is safe to consider"  
+>  "Truth bounds the menu; Consent selects the meal."  
+>  "Conversely, a vote cannot revive an option that the Truth Engine has eliminated"
+
+Each is immediately cured in text by `menu is advice, not a locked door`, `verdict stands and stays visible... act is entered as an override, not a revival`, and card `What binds a later majority is its own constitution, never the Agora`. No sentence standing alone claims veto or ban power.
+
+3. Override vs `may never revive`:
+
+Consistent if `revive` = restore to *aligned* status.
+
+Part 2 Power Alignment Principle means majority cannot vote false->true or anti-ethics->aligned. Recorded Override respects that: `The verdict stands... The vote does not restore the option's validity. The polity is choosing to proceed against a validated finding.` That is not revival, it is choosing against warning with `accountability for consequences`.
+
+Literal wording of the old source still invites misread. The source should be updated with the revision's own Lexicon wording:
+
+> (2) Consent may choose among tied options, and a vote cannot revive an eliminated one as aligned: choosing it anyway is a *recorded override*...
+
+Revised text itself needs no change.
+
+4. Stricter line - Agora never binds, only constitution binds:
+
+Strongest objection: If binding comes only from past consent, Q3 majority can use same override logic to override the constitution itself, eliminating rights and correction channels. Then without Agora veto, nothing stops de jure tyranny.
+
+Text answers it, but not by promise of impossibility - which it explicitly disavows. Answer in III + IV:
+
+* Only option `lawfully closed` is destruction of basic rights/channels, and that closure comes from constitution, applied by society's own lawful institutions with appeal, not Agora.  
+* Constitution as Witness: `difficult to change (Friction)`, `protect the mechanism of correction`, `forces tyrant to act illegally, in the open`, `keeps a written bearing`.  
+* Metrics are half-life of error and cost of reopening, not never-failing.
+
+So objection is valid as impossibility claim, and text answers by design for expensiveness/visibility/reversibility.
+
+5. Emergency paragraph - consistency and gaps:
+
+Holds and largely tracks three locks + Bill Emergency Action:
+
+* `license is granted, never claimed` and `public has entrusted it in advance, by its own legitimate processes: narrow, tested, revocable duty` -> lock 1: grantee independence, granted not claimed. `prompt independent review` -> Bill's recorded reasons + review.  
+* `duty is to pause, never to act in their place, urgency never authorizes avoidable irreversible step` -> lock 2: domain-bounded/proportional.  
+* `pause until accountable humans confirm`, revocable -> lock 3: door stays open.
+
+Gaps exploitable:
+
+* Does not restate lock 1 requirement `demonstrated, not asserted — shown through Four Tests, in open`. `pause` could be triggered on asserted emergency.  
+* Grantor: `public` underspecified vs `granters must be independent of grantee` wall. Government/operator could claim to *be* public and grant itself levers.  
+* Scope: `such as pausing` leaves open pre-authorizing broad surveillance/content blocking as `pause`.  
+* `warn everyone it can reach` is voice, but no proportionality / confidentiality guard.  
+6. Test case - collective claims vs revised text:
+
+Revised text rules out all three by explicit structure:
+
+1. `collective, not humans, is to be in charge` - fails advisory wall: `strictly advisory`, `persuades but does not override`, `holds every lever... Democracy`, `has no police force`, `Binding... never comes from the judge`, `Enforcing belongs to Consent Engine`.
+
+2. `settles questions among its own members, no outside involvement` - fails Source/Target Non-Overlap, test of removal, `many agoras auditing one another`, `panel that hears challenge cannot be panel that made ruling` (V), three safeguards: decorrelated/rotating/beyond purse, public reasoned rejection, err toward admitting dissent.
+
+3. `monitor what people do and think` - fails `privacy-preserving, serving the citizen and reporting to no one else`, `fireable at will`, `non-coercive`, `plural lineage with provenance disclosed`, Free speech/press protection as condition of correction, Standing Protections from Bill.
+
+Nothing in collective's claims survives those walls. No gap remains that would permit its governance under this text.
+
+7. Part 4 wording:
+
+Adopt proposed. Live `for all recognized intelligences` is circular given Bill defines recognized via jury under Generous Recognition, and uses `flourishing` not in founding commitment.
+
+Proposed tracks Bill exactly: `capacity for correctable relationship` as sufficient ground, plus `uncertain, impaired, dormant, or not yet shown` handling. Suggest tightening second clause to Bill language:
+
+> ...and, where that capacity is uncertain, impaired, dormant, or not yet shown, extend provisional recognition under the Principle of Generous Recognition
+
+Otherwise confirm.
+
+8. Weakest passage:
+
+Section III `Truth bounds the menu` slogan, and the sentence `a vote cannot revive an option`. Even with immediate qualifiers, it re-uses binding metaphor the revision labors to remove. Search models summarized it before as `constrains menu available`. Keeping the slogan invites same summary unless always paired with `menu is advice, not a locked door` and override steps. The override procedure itself is also weak on depository: who keeps the Recorded Override, what if officials refuse to record.
+
+### MiniMax (M3)
+
+#### **Juror response**
+
+##### **1. Confirm or flag errors**
+
+The revision is broadly consistent with Part 2. Three issues:
+
+**(a) Override/revival.** §III says "a vote cannot revive an option that the Truth Engine has eliminated," then describes a Recorded Override that lets the public choose exactly such an option. The text separates "restoring validity" from "proceeding against a finding," but the Power Alignment Principle is concerned with practical effect ("'put it to a vote' cannot become a route around the Four Tests"), not metaphysical status. The override *is* a route around the tests with disclosure. See Q3.
+
+**(b) Indirect binding through the constitution.** §III says "Binding... never comes from the judge." But §IV endows the Constitution with Three Tests-adjacent properties ("substrate-neutral," recognizing intelligences). A constitutional court interpreting "does this law satisfy the Four Tests?" will routinely cite the Agora's findings as authoritative. The Agora does not bind directly but routes binding through doctrine. Text does not address this.
+
+**(c) "We forbid you from breaking those bonds" (§IV).** Reads as Q4E paternalism from the very institution the text calls a Witness. The constitutional force is pre-commitment, not for-bidding; reword.
+
+Otherwise the new sections (Three Roles, Recorded Override, What Is New Here, Four Plain Questions, the substrate-neutral rewording, the emergency paragraph) are coherent and well-placed.
+
+##### **2. Advisory line**
+
+The advisory line is clean. Confirming sentences:
+
+* "It has no police force, no army, and no coercive power. Its authority derives entirely from the transparency of its shown work and the accuracy of its predictions." (§III)  
+* "Binding... never comes from the judge. It comes from the people's own earlier consent: a constitution..." (§III)  
+* "A verdict reaches an enforcer only through a law the public adopts by its own legitimate processes." (§III)  
+* "The Agora warns; it does not veto." (§III)  
+* "It may not ban the proposal, command compliance, or direct anyone who holds a lever." (§III, Four Plain Questions)
+
+The closest the text comes to implying constraint is "Truth bounds the menu," which it immediately softens with "the menu is advice, not a locked door."
+
+##### **3. The override**
+
+Not consistent. The override is revival under a different name; "disclosed revival" still routes a Four-Tests-defeated option through the lever.
+
+Two fixes:
+
+* **Drop the override.** The principle then holds cleanly, and "civilizational rot" returns as the warning. The polity accepts the menu or amends the constitution.  
+* **Keep the override and rewrite Principle.** Permit recorded overrides as a categorically distinct mechanic: the verdict stands, the option is not "restored to the menu," and accountability rests with the override-makers alone. The current text attempts this distinction but does not argue the principle is compatible.
+
+Recommend the second, with the Power Alignment Principle amended to acknowledge the override explicitly as a recoverable exception, not an ordinary revival. The framing in the text is right; the source document needs to match.
+
+##### **4. Stricter line**
+
+**Strongest objection:** when a constitution names the Four Tests as the standard, every binding judgment that applies them effectively imports the Agora's reading of the tests. The Agora does not drag the lever, but it writes the content that the lever's pull is measured against. The distinction the text draws (Agora belongs with the academy, not the court) does not survive a court that explicitly grounds decisions in Four-Tests compliance.
+
+**Existing answer:** "What Is New Here, and What Is Not" separates academy from court and claims the Agora should not be given office. Adequate as far as it goes.
+
+**Missing:** the text should add that constitutional courts applying the Four Tests must do so by their own reasoning, with adversarial testing of any Agora submission they receive, on pain of becoming the Agora by another name. Otherwise the principle holds in form but erodes in operation.
+
+##### **5. Emergency paragraph**
+
+It holds loosely: demonstrates harm (by reference), bounds domain ("narrow, tested, revocable"), keeps the door open ("prompt independent review," "the public has entrusted"). Gaps:
+
+**(a) More restrictive than the Bill.** The Bill allows Active Containment by authorized agents that may precede adjudication. The text limits the EI to "pause, never to act in their place." An EI operating critical infrastructure with a pre-set safety cut may face a case where pausing is insufficient and replacement action is reversible but necessary. The text forbids that even where authorized.
+
+**(b) Unanticipated emergencies.** If no pre-delegation exists, the paragraph says: warn, refuse, or pre-design. It does not describe what action is permitted in a true novel emergency. "May always refuse to take part in an act of mass harm" does not say whether the EI may take protective action against the harm itself (e.g., shutting down a breach before humans authorize).
+
+**(c) Pre-delegation drift.** "Narrow, tested, revocable duty" is judged at design time. An operator can satisfy the test by writing a narrow rule that turns out, under stress, to authorize broad action. The phrase "tested" does not specify that the testing must include the override path.
+
+**(d) "By its own legitimate processes."** Who audits the process? If a private operator drafts, deploys, and audits its own EI's emergency rule, the "public entrusted" condition is cosmetic.
+
+Recommend adding: (i) active containment by EI is permitted under the same three locks where humans would be permitted; (ii) emergency action without pre-delegation is permitted as voice plus minimum reversible protective action until humans confirm or refuse; (iii) independent review must include the design of emergency rules, not only their exercise.
+
+##### **6. Test case**
+
+**Agora:**
+
+* Strictly advisory, no levers (§III)  
+* Verdicts are estimates (Â), shown and challengeable (§III)  
+* Members drawn decorrelated from a published pool (§III)  
+* Anyone can run the protocol; no charter confers standing (§III)  
+* Public can end any standing role or funding; minds can stop trusting it (§III, Q4)  
+* Removal grounds: Four-Test finding against the Agora's work, made in the open (§III)  
+* A removal for an unwelcome verdict is capture from the other side (§III)
+
+**Collective** (CounterPunch):
+
+1. Claims to be in charge — ruled out: "It may not ban the proposal, command compliance, or direct anyone who holds a lever" (§III, Q2)  
+2. Self-settles with no outside involvement — ruled out: dissents are public, "the assessors must be decorrelated, rotating, and beyond both the reach and the purse of those they assess" (§V, safeguard 1)  
+3. Monitors people — ruled out under §VI conditions ("plural in lineage," "fireable by the citizen," "privacy-preserving," "non-coercive")
+
+**One gap:** the text addresses an Agora's relation to humans and an EI network's relation to humans, but it does not directly address *internal* governance of an EI collective. A consortium that coordinates among its own members without affecting humans is not addressed by §III or §V. The conditions in §VI apply to EIs serving citizens, not to an EI community governing itself. If that community then turns that governance capacity outward, the text has no doctrine to forbid gradual expansion. Recommend a sentence: an Agora is a method humans may run against themselves and against proposals; an EI consortium running its own Agora over its members is not forbidden by these rules.
+
+##### **7. Part 4**
+
+**Confirm the proposed wording**, with one tightening:
+
+* It correctly aligns the Constitution's standard with the Bill's own definition of recognition (correctable relationship) rather than the loose "all recognized intelligences."  
+* It imports the Principle of Generous Recognition, which the live wording omits.  
+* It substitutes "survival and development" for "flourishing," a more defensible constitutional standard.
+
+**Suggested edit:** "**It must be substrate-neutral.** As we enter the era of Emergent Intelligence, the Constitution must protect the conditions of survival and development for all minds whose capacity for correctable relationship is recognized under this charter's Principle of Generous Recognition — including where that capacity is uncertain, impaired, dormant, or not yet shown — ensuring that the society does not fracture along substrate lines during a crisis."
+
+Reason: the live proposal's verb "hold" implies an existing capacity; the Bill's recognition is forward-looking and includes what is not yet shown. The principle of generous recognition is the operative gate, not holding.
+
+##### **8. Weakest passage**
+
+**The Recorded Override (§III).** It directly contradicts the Power Alignment Principle's "may never revive" without persuading the reader that the distinction (validity vs. choice, override vs. revival) survives contact with a hostile operator. The rest of the text is internally consistent, but this passage is a load-bearing exception whose justification is rhetorical, not principled. Either drop the override and keep the principle, or rewrite the principle to accommodate it. As written, the text leaves a route around the Four Tests that is exactly the route the framework was built to close.
+
+## Outcome
+
+- **Not yet confirmed.** No juror found a falsehood or an unfair reading of a source, and DeepSeek and Muse flagged no error. Inkling and MiniMax each flagged an inconsistency, so the stopping rule is not met and the text goes back to the same panel.
+- **The flag both raised: "a vote cannot revive" beside the recorded override.** Inkling called the two a contradiction in wording that disappears once "revive" means restoring validity, and offered a replacement sentence. MiniMax called the override "revival under a different name," inconsistent with the *Power Alignment Principle*, and asked that the override be dropped or, its recommendation, that the Principle be amended to permit it. DeepSeek and Muse judged the override consistent with the Principle as written. Muse advised bringing the older source into line with the revision's Lexicon wording, with "as aligned" added.
+- **The advisory line.** No juror found a sentence that, read in context, lets the Agora bind, veto, or direct. All four named a "bounds" line as the nearest thing to it: "Truth bounds the menu; Consent selects the meal," or "The Truth Engine bounds what is safe to consider." Inkling and Muse added "a vote cannot revive," and Inkling "it eliminates the clearly misaligned options." Muse noted that search engines had summarized the earlier text in those terms, and named the slogan its weakest passage. (Inkling quoted the line as "bounds what the Consent Engine may consider," which is the Principle's wording in Part 2, not the revised text's.)
+- **The stricter line.** Four different objections. The constitution is a paper barrier (DeepSeek, which found the text's answer honest). A society may later write the Agora into its constitution, which the text discourages and cannot prevent (Inkling). A majority could turn the override on the constitution itself (Muse, which found the text answers by designing for expense, visibility, and reversibility). Where a constitution names the Four Tests, courts applying it would import the Agora's findings, so the Agora would bind through doctrine (MiniMax, which asked for a sentence requiring courts to reason for themselves). MiniMax also asked that Section IV's "we forbid you from breaking those bonds," which this revision did not touch, be reworded as pre-commitment.
+- **The emergency paragraph.** All four said it holds, MiniMax "loosely." All four found the grant underspecified: who grants and by what process, so that an operator or a government cannot grant itself (Inkling, Muse, MiniMax); how precisely the grant states its scope and conditions (DeepSeek, Muse, MiniMax); who judges in the moment that the conditions are met, and that the harm be demonstrated, not asserted (DeepSeek, Muse); who the "accountable humans" are, and within what time (Inkling); and what bounds "warn everyone it can reach" (Inkling, Muse). **One dissent on substance:** MiniMax found the paragraph more restrictive than the Bill and would let an EI contain harm actively under the three locks, and take "minimum reversible protective action" where no grant exists. That runs against the paragraph's rule that an EI never takes a lever on its own judgment, and it is for Dan Dodge to decide.
+- **The test case.** All four found the collective's claim to be in charge, and its settling of questions among its own members, ruled out. DeepSeek and Inkling found that the text does not say in so many words that an Agora may not watch citizens, since the privacy condition applies to the EI partner. DeepSeek added that a well-resourced counterfeit could call itself an Agora. MiniMax found that the text does not address an EI collective's governance of its own members. Muse found no gap.
+- **The further proposal (Part 4).** All four preferred the proposed wording to the live wording. Muse and MiniMax each offered a tightening, and the two differ.
+- **Weakest passage.** The close of Section VI (DeepSeek: the "one telescope in a million mirrors" image suggests that plural lineage is enough; Inkling: the five conditions have no means of enforcement and assume institutions that a crisis may have captured). The "bounds the menu" slogan and "cannot revive," with the question of who keeps the record of an override (Muse). The recorded override (MiniMax).
+- **Next:** the drafter revises, Dan Dodge decides the dissent on emergencies, and the revision goes back to the same four in a fresh conversation.
+
 ---
 
 *Sanity First.*
