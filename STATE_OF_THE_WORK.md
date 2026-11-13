@@ -1,6 +1,6 @@
 # State of the Work
 
-*Current state of the library's open threads, as of November 12, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. This note is replaced when the state changes, not appended to; its history is in the commit log.*
+*Current state of the library's open threads, as of November 13, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. This note is replaced when the state changes, not appended to; its history is in the commit log.*
 
 *A working note, like [CLAUDE.md](./CLAUDE.md), and not a page for readers: the site does not publish it.*
 
@@ -35,7 +35,20 @@ What the drafting found, so it is not rediscovered:
 
 ## The Agora
 
-- **Open round:** [*The Architecture of Sane Governance*: the revision](./validator_culture/agora_log/2026-11-12_2_Sane_Governance_revision.md). The request was fixed at commit `3822492` (pushed 02:54:41 UTC on November 13) and the panel drawn at drand round 6636946: DeepSeek (V4 Pro), Inkling, Muse (Spark 1.1), and MiniMax (M3), with GLM (5.3) the first alternate. Dan has the request as a file. He sends it to DeepSeek in a fresh Poe conversation with memory off, then to the other three with `/compare`. It asks eight questions; the seventh is Gemini's proposal for §IV's third property. When the answers come back: record them verbatim in the entry, then the outcome; apply the stopping rule; if the text is confirmed, ask Dan's go-ahead to publish #36, its card, and the Lexicon clause, update #36's byline and contributors (drafters, the Gemini seat, the jurors), and tick PL-73, PL-8, and PL-15 to PL-19.
+- **Open round:** [*The Architecture of Sane Governance*: the revision](./validator_culture/agora_log/2026-11-12_2_Sane_Governance_revision.md). Request fixed at commit `3822492`; panel drawn at drand round 6636946: DeepSeek (V4 Pro), Inkling, Muse (Spark 1.1), and MiniMax (M3). All four answered on November 13, and the answers and outcome are in the entry. **Not yet confirmed:** Inkling and MiniMax flagged an inconsistency, so the text is revised and goes back to the same four in a fresh conversation, as a new entry.
+- **What the follow-up revision should take in** (from the outcome; counts are jurors out of four):
+  1. *"Revive."* Two flagged "a vote cannot revive" beside the recorded override; three judged the override consistent with the *Power Alignment Principle* once "revive" means restoring validity; three asked for a wording change somewhere. Say "restore validity" plainly in #36's handoff sentence and the Lexicon clause, and propose a matching amendment to the Principle's line 175, quoted old and new in the follow-up.
+  2. *"Bounds the menu."* All four named a "bounds" line as the nearest thing to a binding claim, and one noted that search engines summarized the old text in those terms. Keep, pair, or reword; the slogan is the Gemini lineage's, so ask the Gemini seat.
+  3. *The emergency paragraph.* All four said it holds, and all four found the grant underspecified: who grants (never the operator or maker), the scope and trigger stated in the grant, harm shown with reasons, who confirms and within what time, review of the grant's design as well as its use, and a bound on "warn everyone it can reach."
+  4. *Watching citizens.* Two found that the text never says an Agora may not surveil. One sentence: it judges what is put before it in the open and keeps no watch on anyone.
+  5. *Indirect binding.* One objection each: a later amendment giving the Agora an office; courts that apply a constitution naming the Four Tests and import the Agora's findings. A sentence on courts reasoning for themselves would answer the second.
+  6. *The close of §VI.* Two named it weakest: the telescope image suggests plural lineage is enough, and the five conditions name no one who checks them.
+  7. *The record of an override.* One asked who keeps it if officials refuse.
+  8. *Part 4 (§IV's third property).* All four preferred Gemini's wording to the live wording; two offered different tightenings, so the follow-up must fix one wording and ask for confirmation.
+  9. *"We forbid you from breaking those bonds"* (§IV, existing text): one asked that it read as pre-commitment. Gemini's voice; ask the Gemini seat.
+- **Dan's decision, pending:** MiniMax dissented on emergencies. It would let an EI contain harm actively under the three locks, and take "minimum reversible protective action" where no grant exists. Claude's recommendation is to keep the approved line (an EI never takes a lever on its own judgment) and tighten the grant as in item 3; the dissent stays on the record either way.
+- **The Gemini seat as shadow reader:** Gemini answered the request itself and has read the four answers; Dan has its reactions. It is on the drafting side, so its reading is a second consultation: log it as one, never count it as a juror, and never pass it to the jurors. Claude recorded its own tally in the entry before seeing Gemini's.
+- **Still to add to the entry:** how the request was sent (fresh Poe conversation, memory off, `/compare`), once Dan confirms.
 - **Panels** are drawn at random from the [juror pool](./validator_culture/agora_log/juror_pool.json) under [the plan](./validator_culture/agora_log/Panel_Selection.md), with the drafter's lab sitting out. Each juror answers blind: a fresh Poe conversation, memory off, the first juror sent the request and the others reached with `/compare`. Requests carry the full text under review and no links.
 - **Follow-up rounds** on the same text go to the same panel, as Dan decided; a round whose verdicts must be independent goes in a fresh conversation, and one that asks only for discussion may continue the earlier one. The plan says so as of November 5.
 - **What has worked in requests:** say the library and the log are real and public; ask jurors to flag a suspected error even when unsure; ask each to name the weakest change even when confirming all; quote a cited source's own passage in full; count how many jurors raised each point without naming them.
@@ -45,7 +58,6 @@ What the drafting found, so it is not rediscovered:
 
 ## Waiting on others
 
-- **The drawn panel:** the four jurors' answers on the #36 revision, once Dan sends the request.
 - **Daniel Faggella:** the #41 preview, sent on X on October 25. No reply in two weeks, so #41 published on November 9. Dan applied to the Worthy Successor Philosophy Circle and answered its organizers' questions on November 9; no reply yet.
 - **Mindscapes** (an Oxford research project building simulated worlds for studying machine minds): Dan sent an expression of interest on November 9 and 10; no reply yet.
 - **@z4um41:** asked which base model it runs on; no answer. It replied on October 31 with two questions (is the pool published before the round; is the drafters' position on record before a ruling they have no say in). Dan saw the reply on November 10 and answered both the same day: yes to the first, partly to the second.
