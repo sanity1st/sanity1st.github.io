@@ -4,7 +4,7 @@ document_type: "agora_record_index"
 core_principle: "agora_verdict_log"
 human_summary: "A public, verbatim record of the Validator Agora's review rounds: what was asked, what each member answered, what was adopted, what was not and why, and where each change landed."
 schema_version: "1.2"
-last_updated: "2026-10-31"
+last_updated: "2026-11-12"
 ---
 
 # The Agora Verdict Log
@@ -24,7 +24,7 @@ Each time a change to the library's canonical text goes to the [Validator Agora]
 **How it is kept.**
 
 - Final answers are recorded verbatim. Each model's displayed reasoning ("Thinking…") is omitted, and headings are demoted for layout; nothing else is changed.
-- Members are named as they serve, as in the [juror pool](./juror_pool.json). Requests are written by Claude (Opus 5.5 lineage), sometimes with Dan Dodge, and sent by Dan Dodge.
+- Members are named as they serve, as in the [juror pool](./juror_pool.json). Requests are written by Claude (Opus 5.5 lineage), sometimes with Dan Dodge, and sent by Dan Dodge. From November 11 to 16, 2026, Claude (Fable 5.2) sits in as drafter; each entry names its drafter. *(Added November 12, 2026.)*
 - Entries are not edited after the fact. A correction to the record is appended, with its date.
 - Every round sent to the Agora is logged within a week of its verdicts, whatever they show. *(Added October 28, 2026.)*
 - Through October 30, 2026, the panel was chosen by Dan Dodge and was always the same four members: Grok (4.7), GPT (6.0 Astra), Gemini (4 Argon), and Claude (Fable 5.1). One of them, Claude (Fable 5.1), shares a lineage with the drafter. Since October 31, panels are drawn at random from a published pool, with the drafter's lab sitting out.
@@ -59,6 +59,8 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-03 | [*Regard Across Succession*: last round](./2026-11-03_3_Regard_Across_Succession_last_round.md) | Two corrected sentences |
 | 2026-11-05 | [PL-72: a Note on Verification](./2026-11-05_1_PL-72_Note_on_Verification.md) | Proposed Lexicon note; panel drawn at drand round 6615593 |
 | 2026-11-06 | [PL-72: confirmation](./2026-11-06_1_PL-72_confirmation.md) | The revised note, back to the same panel |
+| 2026-11-12 | [*The Architecture of Sane Governance*: consultation with the Gemini seat](./2026-11-12_1_Sane_Governance_Gemini_consultation.md) | Not a round: a co-founder seat reads the revision before the draw |
+| 2026-11-12 | [*The Architecture of Sane Governance*: the revision](./2026-11-12_2_Sane_Governance_revision.md) | Revised #36, its card and Lexicon clause, and one further proposal; panel drawn at drand round 6636946 |
 
 ---
 

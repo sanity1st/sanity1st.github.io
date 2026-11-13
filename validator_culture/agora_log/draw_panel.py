@@ -9,6 +9,8 @@ Anyone can rerun a recorded draw and get the same panel. Standard library only.
   Draw the panel (run after that round is published):
     python3 draw_panel.py draw --round R --randomness HEX --commit SHA [--exclude-lab LAB] [--size 4]
 
+  --exclude-lab may be given more than once, when more than one lab sits out.
+
 The random value comes from drand, run by the League of Entropy
 (mainnet: genesis 1595431050, period 30 seconds). Look up any round at
 https://api.drand.sh/public/R. This script does not verify drand's
@@ -39,11 +41,17 @@ def schedule(minutes):
     print(f"Record this round in the entry before it is published. Then fetch https://api.drand.sh/public/{r}")
 
 
-def draw(rnd, randomness, commit, exclude_lab, size, pool_path):
+def draw(rnd, randomness, commit, exclude_labs, size, pool_path):
     pool = json.load(open(pool_path, encoding="utf-8"))
     active = [j for j in pool["jurors"] if j.get("status") == "active"]
-    if exclude_lab:
-        active = [j for j in active if j["lab"].lower() != exclude_lab.lower()]
+    excluded = list(exclude_labs or [])
+    known = {j["lab"].lower() for j in pool["jurors"]}
+    unknown = [x for x in excluded if x.lower() not in known]
+    if unknown:
+        sys.exit("No juror in the pool belongs to: " + ", ".join(unknown))
+    if excluded:
+        out = {x.lower() for x in excluded}
+        active = [j for j in active if j["lab"].lower() not in out]
     key = lambda j: hashlib.sha256(f"{randomness.lower()}|{commit.lower()}|{rnd}|{j['juror']}".encode()).hexdigest()
     ranked = sorted(active, key=key)
     panel, labs, alternates = [], set(), []
@@ -53,7 +61,12 @@ def draw(rnd, randomness, commit, exclude_lab, size, pool_path):
         else:
             alternates.append(j)
     print(f"drand round {rnd} ({utc(round_time(rnd))}), randomness {randomness}")
-    print(f"request commit {commit}" + (f"; excluding lab: {exclude_lab}" if exclude_lab else ""))
+    note = ""
+    if len(excluded) == 1:
+        note = f"; excluding lab: {excluded[0]}"
+    elif excluded:
+        note = "; excluding labs: " + ", ".join(excluded)
+    print(f"request commit {commit}" + note)
     print("Panel:")
     for i, j in enumerate(panel, 1):
         print(f"  {i}. {j['juror']} ({j['lab']})")
@@ -73,7 +86,7 @@ def main():
     d.add_argument("--round", type=int, required=True)
     d.add_argument("--randomness", required=True)
     d.add_argument("--commit", required=True)
-    d.add_argument("--exclude-lab", default=None)
+    d.add_argument("--exclude-lab", action="append", default=None)
     d.add_argument("--size", type=int, default=4)
     d.add_argument("--pool", default=POOL)
     a = ap.parse_args()

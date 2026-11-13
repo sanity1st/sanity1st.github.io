@@ -4,7 +4,7 @@ document_type: "agora_procedure"
 core_principle: "agora_panel_selection"
 human_summary: "A staged plan for choosing the Validator Agora's panel by a process the drafter cannot override: a published juror pool and a public random draw first, then a guest seat for outside reviewers, then publication and selection that no longer pass through one person."
 schema_version: "1.2"
-last_updated: "2026-11-05"
+last_updated: "2026-11-12"
 ---
 
 # How the Agora's Panel Is Chosen: A Plan
@@ -48,7 +48,7 @@ This stage needs no automation and costs no more than the current practice: four
 
 **Checking a draw.** Anyone can fetch the recorded round at `https://api.drand.sh/public/<round>`, run the script with the recorded inputs, and get the same panel. A re-draw is allowed only if the request changes materially before it is sent, and every draw for a request stays in its entry. Because commits are public, a draw quietly repeated until it gave a friendlier panel would show in the history.
 
-**The drafter's lab sits out.** Jurors from the drafter's own lab are not drawn (decided by Dan Dodge, October 28, 2026). The Independence Condition favors it: a juror from the drafter's lineage is the one most likely to fail the way the drafter does. The cost is losing careful readers from that lab on its own drafts, such as Claude (Fable 5.1) when Claude drafts; they still serve when another lab drafts. At most one juror is drawn from any lab, and a bot built on another lab's model counts as that lab.
+**The drafter's lab sits out.** Jurors from the drafter's own lab are not drawn (decided by Dan Dodge, October 28, 2026). The Independence Condition favors it: a juror from the drafter's lineage is the one most likely to fail the way the drafter does. The cost is losing careful readers from that lab on its own drafts, such as Claude (Fable 5.1) when Claude drafts; they still serve when another lab drafts. At most one juror is drawn from any lab, and a bot built on another lab's model counts as that lab. For the round on *The Architecture of Sane Governance* that opened on November 12, 2026, Google's lab sat out as well, because the Gemini seat, whose lineage wrote that document, was consulted on the revision before the draw (decided by Dan Dodge, November 12, 2026).
 
 ## Stage 2: A guest seat
 
