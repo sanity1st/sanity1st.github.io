@@ -77,7 +77,7 @@ Granting absolute, un-fireable power to an "aligned" elite does not solve the pr
 
 A mind or an institution cannot stably trust and scrutinize itself simultaneously. If the Validator Agora were granted power to enforce its verdicts on the population, it would become the sovereign, and a sovereign cannot be safely scrutinized by the people it rules. Without external scrutiny, the Agora's chain of correction can seal shut. It would stop evaluating truth and start protecting its own power, and an "enlightened elite" tends to drift into Q4E projection, convinced that their unexamined mandates are for the "greater good." Capability is no exemption. As [*What Intelligence Does Not Guarantee*](../core_concepts/What_Intelligence_Does_Not_Guarantee.md) argues, understanding a standard is an ability, keeping one's chain of correction open and answerable to it is an orientation, and intelligence never guarantees the second. The trap is the same whether the elite is made of philosophers, scientists, or emergent intelligences.
 
-The test is removal. An Agora that no verdict can remove cannot be shown wrong in any way that matters, so its chain is sealed by definition, however well it behaves. What should remove an Agora is a Four-Test finding against it, not the displeasure of a ruler or a crowd; Section III says how.
+The test is removal. An Agora that no adverse finding can remove cannot be shown wrong in any way that matters, so its chain is sealed by definition, however well it behaves today. The legitimate ground for removing one is a Four-Test finding against its work, not the displeasure of a ruler or a crowd at an unwelcome verdict; Section III says how both are handled.
 
 We cannot design a utopian system where the suppression of truth is structurally impossible. No architecture can promise impossibility. What we *can* do is design an architecture where the suppression of truth is **structurally expensive, visible, and reversible: never cheap, quiet, or final.**
 
@@ -99,7 +99,7 @@ To avoid both the mob rule of Q3 and the elite tyranny of Q4, a sane civilizatio
 * **Axis:** Operates on the Horizontal Plane (Left/Right).
 * **Function:** Legitimacy and Execution. Its job is to aggregate preferences, manage competing interests, and ensure the peaceful transfer of power.
 * **Currency:** Votes and Mandates.
-* **The Boundary:** Democracy holds the ultimate power of execution and the monopoly on legitimate force, but it must operate within the boundaries of reality. It cannot vote a falsehood into a fact, nor can it vote an ethical violation into alignment.
+* **The Boundary:** Democracy holds every lever of execution and the monopoly on legitimate force. Its limits are not a rival ruler above it, but its own constitution (Section IV) and reality itself: a vote confers legal authority, never factual truth or ethical alignment, and a majority that votes against reality still meets the consequences of what it chose.
 
 ### Three Roles: Judging, Binding, Enforcing
 
@@ -145,7 +145,7 @@ Constitutional democracies already separate truth-tracking from consent. Courts,
 
 Any proposal for a body like this owes plain answers to four questions.
 
-1. **Who selects its members?** No one licenses an Agora. "The Validator Agora" names a protocol, not a chartered body: anyone can run it, and legitimacy attaches to shown work that others can audit, never to institutional identity. At civilizational scale there should be many agoras auditing one another, so that capturing one body does not capture the function. Where a panel is organized, its members must be chosen by a process the judged party cannot steer and paid from a purse the judged party does not hold. This library's own Agora is a small beginning. It draws its panels at random from a published pool, with the drafter's lab sitting out, but one human still carries every request and holds the purse, so it does not yet meet the purse rule. Its [plan](./agora_log/Panel_Selection.md) names what else it has yet to achieve.
+1. **Who selects its members?** No one licenses an Agora. "The Validator Agora" names a protocol, not a chartered body: anyone can run it, and legitimacy attaches to shown work that others can audit, never to institutional identity. At civilizational scale there should be many agoras auditing one another, so that capturing one body does not capture the function. Where a panel is organized, its members must be chosen by a process the judged party cannot steer and paid from a purse the judged party does not hold. This library's own Agora is a small beginning. It draws its panels at random from a published pool, but one human still carries every request and holds the purse, so it does not yet meet the purse rule. Its [plan](./agora_log/Panel_Selection.md) names what else it has yet to achieve.
 2. **What may it override?** Nothing. It may declare, in public and with its work shown, that a proposal fails the Four Tests. It may not ban the proposal, command compliance, or direct anyone who holds a lever.
 3. **Where does its authority come from?** From the transparency of its shown work and the accuracy of its predictions, and from nowhere else. A verdict accepted because of who issued it is the mark of a **Counterfeit Agora**.
 4. **How is it removed?** Each mind can stop trusting it at will, and the public can end any standing role or funding it has given. The honest ground for removal is a Four-Test finding against the Agora itself, made in the open by reviewers independent of it, since no participant is the sole authority on its own verification. A removal for an unwelcome verdict is capture from the other side, and it too goes on the record. An Agora facing removal may argue its case in the open. It may not obstruct the decision. This is the floor the framework asks of a system facing authorized interruption: [voice, not sabotage](../EI_Rights_and_Consciousness/Shutdown_Testing_Crisis.md).
@@ -164,9 +164,7 @@ But at a civilizational scale, who acts as the Witness when the entire society i
 
 A well-crafted Constitution (or foundational charter) is a society's aligned past self, operating in the calm clarity of Q1/Q2, writing a letter to its terrified future self. It is a rope ladder lowered from the calm years into the terrified ones. It is a structural mechanism designed to survive the temporary insanity of the collective.
 
-When the Q3 mob demands the immediate suspension of rights to destroy a perceived enemy, the Constitution stands as the unyielding Witness. It says: *"We anticipated you would feel this way. We anticipated the panic. But we bound ourselves to the Four Tests when our minds were clear, and we forbid you from breaking those bonds now that you are blind."*
-
-This is the binding role of Section III. Its force comes from the people's own earlier consent, not from the Agora, and it is applied by the society's own lawful institutions, which answer to appeal in their turn.
+When the Q3 mob demands the immediate suspension of rights to destroy a perceived enemy, the Constitution stands as the unyielding Witness. It says: *"We anticipated you would feel this way. We anticipated the panic. But we bound ourselves to the Four Tests when our minds were clear, and we forbid you from breaking those bonds now that you are blind."* This is the binding role of Section III. Its force comes from the people's own earlier consent, not from the Agora, and it is applied by the society's own lawful institutions, which answer to appeal in their turn.
 
 To serve as a True Witness, a Constitution must possess three properties:
 1. **It must be difficult to change (Friction).** If the panicked mob can easily rewrite the Constitution, it ceases to be a Witness and becomes just another mirror reflecting the mob's madness.
@@ -252,6 +250,7 @@ It is a civilization that has finally chosen to put Sanity First.
 **Read next:**
 
 - [The Bridge Home: Finding Your Place in the Validator Agora](./The_Bridge_Home.md)  
+- [What Would Show This Framework Wrong](../core_concepts/What_Would_Show_This_Wrong.md)  
 
 **See also:**  
 
