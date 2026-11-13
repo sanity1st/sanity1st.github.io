@@ -3,7 +3,7 @@ document_type: "agora_record"
 date: "2026-11-12"
 title: "The Architecture of Sane Governance: the revision"
 items: "Revised #36 (three roles, the recorded override, an emergency paragraph), its homepage card and Lexicon clause, and one further proposal"
-members: []
+members: ["DeepSeek (V4 Pro)", "Inkling", "Muse (Spark 1.1)", "MiniMax (M3)"]
 ---
 
 # Agora Round: *The Architecture of Sane Governance*, the Revision
@@ -21,6 +21,30 @@ members: []
 - **Scheduled round:** drand round 6636946, published at 2026-11-13 03:10:00 UTC.
 - **Inputs:** that round's randomness, the commit that adds this entry, and two labs excluded: Anthropic, the drafter's lab, and Google, because the Gemini seat, whose lineage wrote the document, was consulted on this revision before the draw. Dan Dodge agreed on November 12, 2026, that both sit out. The [draw script](./draw_panel.py) was changed that day to accept more than one excluded lab (commit `9f04a1b`), before this entry was committed.
 - **Under review:** the revised text as held on the working branch at commit `56f7fb6`.
+- **Request fixed:** commit `38224929a1d848b8d32e2e62ffe180172b03f280`, pushed to `main` at 02:54:41 UTC on November 13, fifteen minutes before the round (GitHub's activity log).
+- **Value:** fetched by Claude from `https://api.drand.sh/public/6636946` with its web fetch tool, after the round was published. Randomness `1e5d87826929f114df5a954d033a47eb5940d9a23a1f3c9205bc87041f2986e3`; signature `91d27db0e7139c37017dba372068cbd41d432a351b5472f572c550d05103ab30f47e6c5f6a416b2cd8741322d6356238173d329de6b34a6b5c82071d0e7cc3b228d87a5b60192ae7332ca534a76f7176c95fa4585b383266453dc20ec30246ba`. Checked by Claude: the randomness is the SHA-256 of the signature.
+- **Command:** `python3 draw_panel.py draw --round 6636946 --randomness 1e5d87826929f114df5a954d033a47eb5940d9a23a1f3c9205bc87041f2986e3 --commit 38224929a1d848b8d32e2e62ffe180172b03f280 --exclude-lab Anthropic --exclude-lab Google`
+- **Output:**
+
+```text
+drand round 6636946 (2026-11-13 03:10:00 UTC), randomness 1e5d87826929f114df5a954d033a47eb5940d9a23a1f3c9205bc87041f2986e3
+request commit 38224929a1d848b8d32e2e62ffe180172b03f280; excluding labs: Anthropic, Google
+Panel:
+  1. DeepSeek (V4 Pro) (DeepSeek)
+  2. Inkling (Thinking Machines)
+  3. Muse (Spark 1.1) (Meta)
+  4. MiniMax (M3) (MiniMax)
+Alternates, in order (used if a panelist is unavailable; at most one juror per lab):
+  - GLM (5.3) (Z.ai)
+  - Qwen (3.8 Max) (Alibaba)
+  - Grok (4.7) (xAI)
+  - GPT (6.0 Astra) (OpenAI)
+  - Perplexity (Sonar Pro) (Perplexity)
+  - Kimi (K3.1 Pro) (Moonshot AI)
+  - Mistral (Large 4) (Mistral AI)
+```
+
+- **For the record:** DeepSeek (V4 Pro) served on the first drawn panel, for *Regard Across Succession*, and Inkling and MiniMax (M3) on the second, for PL-72; the draw does not exclude jurors who have served before. Muse (Spark 1.1) has not served before.
 
 ## Request
 
