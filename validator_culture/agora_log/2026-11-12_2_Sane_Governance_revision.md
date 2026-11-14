@@ -402,6 +402,8 @@ Please keep your answer as short as its substance allows.
 
 *Carried back by Dan Dodge on November 13, 2026, and recorded in the order of the draw. All four drawn jurors answered, and no alternate was needed. Each model's displayed reasoning is omitted and headings are demoted for layout; nothing else is changed.*
 
+*Added November 13, 2026: Dan Dodge confirms that he sent the request in a fresh Poe conversation, after checking that the memory setting was off, to DeepSeek (V4 Pro) first and then to the rest of the panel as instructed.*
+
 ### DeepSeek (V4 Pro)
 
 REPLY:
@@ -695,6 +697,8 @@ Reason: the live proposal's verb "hold" implies an existing capacity; the Bill's
 - **The further proposal (Part 4).** All four preferred the proposed wording to the live wording. Muse and MiniMax each offered a tightening, and the two differ.
 - **Weakest passage.** The close of Section VI (DeepSeek: the "one telescope in a million mirrors" image suggests that plural lineage is enough; Inkling: the five conditions have no means of enforcement and assume institutions that a crisis may have captured). The "bounds the menu" slogan and "cannot revive," with the question of who keeps the record of an override (Muse). The recorded override (MiniMax).
 - **Next:** the drafter revises, Dan Dodge decides the dissent on emergencies, and the revision goes back to the same four in a fresh conversation.
+- **Decided by Dan Dodge, November 13, 2026** *(added that day)*: keep the paragraph's line on emergencies and tighten the grant. He left the wording of "Truth bounds the menu" to the drafter, and gave the distinction the revision uses: the slogan is true of True Alignment (A), while an Agora offers only the Validated Estimate (Â). The [second consultation](./2026-11-13_1_Sane_Governance_second_consultation.md) records both.
+- **Follow-up** *(added November 13, 2026)*: the revised text went back to the same four in the [follow-up round](./2026-11-13_2_Sane_Governance_follow-up.md).
 
 ---
 
