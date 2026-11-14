@@ -537,6 +537,7 @@ Otherwise the text is clean: the architecture's two engines hold their distance 
   - "What follows may also show the Agora wrong" has an unclear referent (MiniMax).
   - The Principle's "each public" beside this document's "the public" (MiniMax).
   - From the first round, and not taken: a plainer sentence for the telescope image (DeepSeek), and an EI collective's governance of its own members (MiniMax).
+- **Published** by Dan Dodge's standing permission of November 13, 2026, given for when the stopping rule was met: #36, its homepage card, the Lexicon clause, and the matching sentences in the *Power Alignment Principle* and *The Four Tests Explained*, exactly as the panel confirmed them, at commit `ae7605b`. The same commit updates #36's credits, which name this panel.
 
 ---
 
