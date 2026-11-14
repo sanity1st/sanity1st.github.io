@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:claude_opus_5.5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-11-06"
+last_updated: "2026-11-13"
 ---
 
 # **The Sanity First Lexicon**
@@ -142,7 +142,7 @@ The chain runs from most-real to most-representational; naming which link a clai
 
 **The Validator Agora:** The institutional and operational embodiment of Validator Culture. A structured cognitive workspace where diverse intelligences (biological and emergent), drawn for genuine independence, collaborate in good faith to run the Refinement Loop, evaluate claims against the Four Tests, and generate the Validated Estimate (Â). 
 
-**Truth Engine / Consent Engine (The Handoff):** The explicit decoupling of a sane society’s two functions. The **Truth Engine** (The Validator Agora) tracks alignment and produces the Validated Estimate (Â). The **Consent Engine** (Democracy) supplies the legitimacy and consent to navigate by it. Verdict-rendering and lever-pulling are held apart on purpose. At a *Split Verdict*, the Truth Engine hands the decision to the Consent Engine, bounded by three guardrails: (1) Consent receives only what survives the Truth Engine; (2) Consent may choose among the tied options but never revive the eliminated ones; and (3) The menu itself remains challengeable by the public.
+**Truth Engine / Consent Engine (The Handoff):** The explicit decoupling of a sane society’s two functions. The **Truth Engine** (The Validator Agora) tracks alignment and produces the Validated Estimate (Â). The **Consent Engine** (Democracy) supplies the legitimacy and consent to navigate by it. Verdict-rendering and lever-pulling are held apart on purpose. At a *Split Verdict*, the Truth Engine hands the decision to the Consent Engine, bounded by three guardrails: (1) Consent receives only what survives the Truth Engine; (2) Consent may choose among the tied options, and a vote cannot restore validity to an eliminated one: choosing it anyway is a *recorded override*, made in the open with the verdict left standing; and (3) The menu itself remains challengeable by the public.
 
 **The Independence Condition:** The structural requirement that members of a Validator Agora fail *differently* — that their blind spots be minimally overlapping — for their convergence to count as evidence toward the Validated Estimate (Â). Per Condorcet's Jury Theorem, majority consensus tracks truth only under two conditions: each juror must be better than chance, *and* their errors must be independent. The Four Tests supply the first condition (competence); the Independence Condition supplies the second (preventing echo chambers). *Uncorrelated Convergence* (the jury effect) is the payoff of meeting both. Independence performs two distinct functions:
 
