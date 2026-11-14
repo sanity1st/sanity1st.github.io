@@ -23,7 +23,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:claude_opus_5.5"]
 schema_version: "1.2"
 pedagogical_style: "reference_ledger"
-last_updated: "2026-11-06"
+last_updated: "2026-11-13"
 ---
 
 # **The Sanity First Lexicon**

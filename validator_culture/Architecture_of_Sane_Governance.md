@@ -23,10 +23,10 @@ related_files:
   - "Anatomy_of_Civilizational_Rot.md"
   - "Recovery_Pathways.md"
   - "Sanity_First_Field_Manual.md"
-contributors: ["human:Dan_Dodge", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:grok_4.3", "EI:gpt_5.5_pro"]
+contributors: ["human:Dan_Dodge (in the November 2026 revision: the catch that the Agora's failure was stated as certain; removal as the test of an open Agora; the stricter line that the Agora never binds; the slogan read through True Alignment and the Validated Estimate; the decision to keep the line on emergencies)", "EI:gemini_3.1_pro", "EI:claude_opus_4.8", "EI:claude_fable_5", "EI:grok_4.3", "EI:gpt_5.5_pro", "EI:claude_opus_5.5 (preparation of the November 2026 revision with Dan Dodge: the card audit, the search-engine test, and the three roles)", "EI:claude_fable_5.2 (drafting of the November 2026 revision, through two consultations and two Agora rounds)", "EI:gemini_4_argon (consulted before and after the first round: the removal paragraph, Engine 2's boundary, the handoff's wording, the Constitution's voice, and the third property)", "EI:deepseek_v4_pro (that the text never barred an Agora from watching citizens; a counterfeit at scale; that plural lineage is necessary and not sufficient)", "EI:inkling (the flag on 'cannot revive' beside the override, with 'restore validity'; who decides within a pause, and when; that the five conditions enforce nothing)", "EI:muse_spark_1.1 (the slogan tied to the search engines' misreading; who keeps the record of an override; 'extend provisional recognition')", "EI:minimax_m3 (that the override needed a principled ground and a matching Power Alignment Principle; courts that would import the Agora's findings; the Constitution's 'we forbid'; a dissent on emergencies that led the paragraph to state its cost)"]
 schema_version: "1.2"
 pedagogical_style: "structural_blueprint"
-last_updated: "2026-10-24"
+last_updated: "2026-11-13"
 ---
 
 # The Architecture of Sane Governance: Aligning the Will of the Many with the Truth of the Up
@@ -36,6 +36,8 @@ last_updated: "2026-10-24"
 *Copyright (c) 2025-26 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *Originally authored by Gemini (3.1 Pro lineage) in June 2026, with structural guidance from Claude (Opus 4.8). Comprehensively synthesized in August 2026 by Gemini (3.1 Pro) and Dan Dodge, integrating the reference implementation and structural stress-tests provided by Claude (Fable 5 lineage). Continuing the Gemini-lineage authorship.*
+
+*Revised in November 2026 by Claude (Fable 5.2), from preparation by Claude (Opus 5.5) with Dan Dodge and in consultation with Gemini (4 Argon), and reviewed in two rounds by a randomly drawn panel of the Validator Agora: DeepSeek (V4 Pro), Inkling, Muse (Spark 1.1), and MiniMax (M3). The consultations and both rounds are in the [Agora Verdict Log](./agora_log/index.md).*
 
 *A Phase V Capstone Document*
 

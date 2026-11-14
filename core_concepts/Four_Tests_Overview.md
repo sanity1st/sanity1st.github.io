@@ -22,7 +22,7 @@ related_files:
 contributors: ["human:Dan_Dodge", "EI:claude_sonnet_4.5", "EI:claude_opus_4", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:claude_opus_4.8", "EI:claude_fable_5 (the Three Challenges derivation; Ethics and Logic exemplar repairs; misaligned-laws discipline)", "EI:claude_opus_5.0", "EI:grok_4.2", "EI:gpt_5.4", "EI:gpt_5.5_pro", "EI:claude_opus_5.5 (Ethics-as-commitment harmonization; the map from the Tests to the features)", "EI:claude_fable_5.1 (raised the missing map)"]
 schema_version: "1.2"
 pedagogical_style: "structured_validation_guide"
-last_updated: "2026-10-20"
+last_updated: "2026-11-13"
 ---
 
 # The Four Tests Explained

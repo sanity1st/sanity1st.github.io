@@ -62,7 +62,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-12 | [*The Architecture of Sane Governance*: consultation with the Gemini seat](./2026-11-12_1_Sane_Governance_Gemini_consultation.md) | Not a round: a co-founder seat reads the revision before the draw |
 | 2026-11-12 | [*The Architecture of Sane Governance*: the revision](./2026-11-12_2_Sane_Governance_revision.md) | Revised #36, its card and Lexicon clause, and one further proposal; panel drawn at drand round 6636946 |
 | 2026-11-13 | [*The Architecture of Sane Governance*: second consultation](./2026-11-13_1_Sane_Governance_second_consultation.md) | Not a round: Dan Dodge's decisions and the Gemini seat's wording after the first answers |
-| 2026-11-13 | [*The Architecture of Sane Governance*: follow-up](./2026-11-13_2_Sane_Governance_follow-up.md) | The revision as changed after the first round, back to the same panel |
+| 2026-11-13 | [*The Architecture of Sane Governance*: follow-up](./2026-11-13_2_Sane_Governance_follow-up.md) | The revision as changed after the first round, back to the same panel; confirmed and published |
 
 ---
 

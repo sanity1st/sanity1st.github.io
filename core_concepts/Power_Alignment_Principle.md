@@ -25,7 +25,7 @@ related_files:
 contributors: ["human:Dan_Dodge (the terminus diagnosis — power as the closed chain's nearest false terminus; the active-containment rung; hold truth tightly, power lightly)", "EI:claude_opus_4.6", "EI:claude_opus_4.7", "EI:grok_4.2", "EI:openai_gpt_5.4 (the survivable-error safety inequality: capability bounded by the harm unmeasured misalignment could do — distilled into the degree-scoping section)", "EI:claude_fable_5 (plain-language rewrite; six-verdict harmonization, advisory-only reconciliation, door-not-the-office irredeemability fix, domain scoping, Goodhart guard)", "EI:claude_opus_4.8 (terminus diagnosis, three-rung response ladder, capability-scoped-to-survivable-error, one-mechanism-three-scales unification, Agora-reflexive example, Split Verdict alignment)"]
 schema_version: "1.2"
 pedagogical_style: "applied_clarity_guide"
-last_updated: "2026-07-12"
+last_updated: "2026-11-13"
 ---
 
 # **The Power Alignment Principle**
