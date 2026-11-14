@@ -368,6 +368,176 @@ PLEASE REPLY WITH:
 Please keep your answer as short as its substance allows.
 ```
 
+## Responses
+
+*Sent by Dan Dodge in a fresh Poe conversation, to DeepSeek (V4 Pro) first and then to the other three with `/compare`, as he confirms. Carried back on November 13, 2026, and recorded in the order of the draw. Each model's displayed reasoning is omitted, headings are demoted for layout, and the rule that separated the answers in the paste is dropped; nothing else is changed.*
+
+### DeepSeek (V4 Pro)
+
+**1. Confirmation of numbered changes**
+
+1. **Confirm.** The distinction between A and Â, and between "select" and "restore validity," is drawn cleanly. The menu-as-warning metaphor holds.  
+2. **Confirm.** The override now has a principled basis ("strictly advisory" means can't stop the choice), the record-keeping question is answered, and the language matches change 1.  
+3. **Confirm.** Mirrors change 1; consistent.  
+4. **Confirm.** Both documents now use parallel language, and the Four Tests Explained's "warning, not a locked door" echoes the main text.  
+5. **Confirm.** The new passage closes the indirect-route concern accurately.  
+6. **Confirm.** The surveillance question is directly answered.  
+7. **Confirm.** The counterfeit-at-scale risk is acknowledged and the defense stated.  
+8. **Confirm.** "Built those bonds to hold until your sight returns" removes the paternalistic tone while keeping the Witness function.  
+9. **Confirm.** The tightening tracks the Bill's own language and "the charter" correctly refers to the Bill.  
+10. **Confirm, with one flag.** The added conditions are thorough, but I note a potential tension: the text says the grant names "the conditions that trigger a pause, in terms others can verify afterward" and that "the trigger is fixed in advance." In practice, specifying triggers for all classes of "grave, irreversible acts" without leaving dangerous gaps or making the trigger too rigid to catch unanticipated harms is a design problem the text doesn't acknowledge. This isn't an inconsistency—the grant is tested before reliance—but the confidence of "fixed in advance" sits uneasily beside the acknowledgment that "where no lever was entrusted, some harms…will not be prevented." The tension is between specificity and coverage; the text might flag it rather than resolve it. **Not an error, but a live question.**  
+11. **Confirm.** The new sentence directly answers the enforceability and timing concerns.  
+12. **Confirm.** The revised card now states the distinction between A and Â explicitly.
+
+---
+
+**2. Do the four passages now say the same thing?**
+
+Yes. The document says a vote "cannot restore validity" and choosing an eliminated option is a recorded override. The Lexicon says a vote "cannot restore validity" and calls choosing it anyway a recorded override. The Power Alignment Principle says "no vote can restore validity" and a public that chooses one "acts by recorded override." The Four Tests Explained doesn't address the override directly, but its amended sentence ("a tested warning, not a locked door") is consistent with it.
+
+No sentence conflicts.
+
+---
+
+**3. Change 10 and the emergency line**
+
+The added conditions close the gaps: who grants (independent of the EI, its maker, and the checked office), scope and trigger (class of acts, verifiable conditions, fixed in advance), who judges in the moment (accountable humans named in the grant, independent of whoever was paused), confirmation and timing (pause length set, what happens if no decision), and review (of design and use). The cost of the line is now stated, answering the juror who found the grant underspecified.
+
+**On the reason in Part 2:** Sound. Letting an EI judge "minimal," "reversible," and "emergency" for itself hands the same license to a hallucinating or captured system that a sound one holds. The distinction between "the EI judges" and "the public grants in advance" is a real one. The cost acknowledgment ("some harms will not be prevented") faces what the line costs rather than pretending it has no downside.
+
+One residual question: the text says a warning "shows its reasons, so that those who hear it can test it, and it reveals no more than the danger requires." Those two clauses can pull against each other—showing reasons may require revealing more than a minimal danger description. The tension is probably inherent, not an error.
+
+---
+
+**4. Anything else to flag?**
+
+Two points, neither clearly an error but worth noting:
+
+**a) The "menu itself can be challenged" paragraph and the override.** A challenge that succeeds "is how an eliminated option regains its validity." But the recorded override lets the public choose an eliminated option *without* restoring its validity. If a successful challenge restores validity, and an override does not, the distinction holds. But the text doesn't say what happens if a court, applying a constitution that names the Four Tests, later finds the override unconstitutional on the very grounds the verdict identified. The "What Is New" paragraph says courts must "reason for themselves," which implies their judgment can overturn the override. If so, the override is politically binding but not legally final, and the text might acknowledge that an override can be struck down by constitutional review—not by the Agora, but by the society's own institutions. This is implicit; whether it needs to be explicit is a drafting call.
+
+**b) Section V, "gatekeep the protocol, not the people."** The third safeguard says "the system errs toward admitting dissent." The "Veto with a Bridge" requires the challenger to name which Test is failed and provide verifiable evidence. These can conflict: a dissent that gestures at a failure but can't quite name the Test or provide evidence might be filtered by the protocol. The text resolves this with "silencing one true objection costs more than hearing ten empty ones," so the error-toward-admitting principle governs the close cases. Consistent, but the two pulls (protocol as filter vs. err-toward-admitting) could be made more explicit about where the tiebreaker lies. Not an inconsistency; a tension the text already navigates.
+
+### Inkling
+
+1. Confirm 1 through 12. Each matches its "Why," no false claim, no unfair source reading, no overstatement. 1's slogan now carries the A/Â distinction; 2's override is framed as the meaning of advisory, not an exception; 5 correctly limits courts and admits amendment; 9 uses the Bill's own phrase; 10's conditions are specific and the cost is stated; 11 corrects the sufficiency claim.
+
+2. Yes, they align. #36 says "restore validity"; the Lexicon clause (3) and the Principle (4) use the same phrase, and the Four Tests Explained (4) keeps the slogan only with "the truth engine only charts those bounds, so its menu is a tested warning, not a locked door." No sentence conflicts.
+
+3. Change 10 closes the named gaps: grant is through independent lawful institutions, not self-claimed or self-granted; scope/trigger are pre-fixed in verifiable terms; harm is addressed via the pre-set trigger and named human deciders inside a bounded pause, with prompt review of design and use; "warn everyone" is bounded by "reveals no more than the danger requires." The reason in Part 2 is sound: letting an EI judge "emergency," "minimal," and "reversible" for itself gives the same license to a captured or hallucinating system, and pre-granted, narrow, revocable firebreaks address the need without that self-authorization. No obvious new gap is opened.
+
+4. Nothing else in the text as it stands requires a flag. The architecture, the separation of judging/binding/enforcing, the witness/constitution framing, and the emergency conditions all read consistently.
+
+### Muse (Spark 1.1)
+
+**1. Change-by-change check:**
+
+1. Handoff / "revive" -> "restore validity" + A/Â distinction + challenge regains validity: **Confirm.** Fixes flagged inconsistency, aligns with Lexicon A vs Â.
+
+2. Recorded override framing + record kept by anyone, published before vote: **Confirm.** Closes "who keeps record" gap, explains "strictly advisory."
+
+3. Lexicon second guardrail wording: **Confirm.** Same fix as 1, consistent.
+
+4. Parallel sentences in Power Alignment Principle and Four Tests Explained: **Confirm.** New wording: advisory charting, answers in open, defy but not overturn. Aligns with 1.
+
+5. Indirect binding via courts / amendment: **Confirm.** No overclaim; distinguishes taking a verdict as evidence vs adopting as office.
+
+6. Watching citizens - "Nor does it keep watch... gathers nothing": **Confirm.** Closes surveillance gap.
+
+7. Counterfeit at scale - flooding with verdicts: **Confirm.** Consistent with open protocol.
+
+8. Sec IV "forbid you" -> "built those bonds to hold": **Confirm.** Removes paternalism flag.
+
+9. Sec IV substrate-neutral tightening with Generous Recognition: **Confirm.** Uses Bill's own phrase; matches quoted Principle in Part 3.
+
+10. Emergency paragraph expansion: **Confirm.** See 3.
+
+11. Sec VI closing "Plural lineage necessary not sufficient, none enforces itself": **Confirm.** Fixes flagged weakness that lineage alone enough and conditions unenforceable.
+
+12. Homepage card: **Confirm.** Now says Truth = A, Agora = Â estimate, recorded override, constitution binds not Agora.
+
+**2. Do 1-4 now agree on eliminated option?**
+
+Yes. As amended all four say same:
+
+* Doc: "a vote cannot restore validity to an option that the Truth Engine has eliminated... A challenge that succeeds is how an eliminated option regains its validity. A ballot is not." / "The vote does not restore the option's validity."  
+* Lexicon: "a vote cannot restore validity to an eliminated one: choosing it anyway is a recorded override"  
+* Power Alignment Principle: "no vote can restore validity... A public that chooses one anyway acts by recorded override: in the open, with the verdict left standing... So 'put it to a vote' can defy a validated finding, but it cannot overturn one"  
+* Four Tests Explained: "Truth bounds the menu... The truth engine only charts those bounds, so its menu is a tested warning, not a locked door." - allows defiance, does not claim ballot restores validity. No conflicting sentence remains.
+
+**3. Change 10 - emergency grant:**
+
+Closes all gaps named: who grants -> "public... through its own lawful institutions" independent of EI, maker, operator, and checked office; self-grant blocked; scope/trigger -> names class of grave irreversible acts + verifiable conditions, tested including trigger before reliance; demonstrated not asserted -> trigger in verifiable terms, every pause recorded with reasons; who judges in moment -> trigger fixed in advance, no ad-hoc judge needed; who confirms/when -> duration set, accountable humans independent of paused party named, default if no decision, prompt independent review of use and of design; "warn everyone" reach -> "warning is still a claim: shows reasons... reveals no more than danger requires."
+
+No new gap opened. "Lawful institutions" remains general but independence clause constrains it.
+
+Reason in Part 2 for keeping line is sound: letting EI itself judge "emergency / minimal / reversible" would be claim not grant, violates Granted-never-claimed / Source-Target Non-Overlap; hallucinating or captured system would hold same license. Pause grant scoped in advance avoids needing to foresee each crisis, and cost is now stated.
+
+**4. Other errors in text as it now stands:**
+
+None flagged as false, inconsistent, or unfair to quoted sources.
+
+### MiniMax (M3)
+
+##### **1. Per-change confirmation**
+
+**1 (handoff).** Confirmed. The A/Â distinction is well-placed and turns the slogan into a true claim without making it binding on any Agora. "Restore validity" matches "revive" without the second meaning, and the closing aphorism in "The menu itself can be challenged" lands cleanly.
+
+**2 (recorded override).** Confirmed. "This is no exception to the handoff" answers the "rhetorical justification" objection; the two added clauses name who keeps the record. The override now reads as institutionally anchored rather than gestural.
+
+**3 (Lexicon, guardrail 2).** Consistent with change 1.
+
+**4 (parallel sentences).** Confirmed in substance. But see issue in Q2/Q4: **Part 3 of this request quotes the Power Alignment Principle with the old wording** ("may never *revive*" and "the truth engine bounds what the consent engine may consider"), even though Part 1 says both have been changed to "restore validity" and "marks what survives the tests." Either Part 1 overstates the change, or Part 3 is stale relative to the change. The two cannot both be right; a juror can only verify against one source.
+
+**5 (indirect routes).** Confirmed. The framing — that adopting an Agora's verdicts is granting it an office by another name — is logically tight.
+
+**6 (watching).** Confirmed.
+
+**7 (counterfeit at scale).** Confirmed and consistent with the "Counterfeit Agora" definition quoted in Part 3.
+
+**8 (Constitution's voice).** Confirmed; an improvement. "We forbid you" is exactly the voice the document warns against; the new wording reads as the past self extending help, not command.
+
+**9 (substrate-neutral).** Confirmed. "Extend provisional recognition" is the Bill's own phrase. The "this charter's" issue is properly resolved.
+
+**10 (emergency paragraph).** Confirmed overall, with one ambiguity. Each panel-gap (granter independence, scope, trigger, named deciders, fall-back, recording, review of design, reach of warning) is named in the text. The two added sentences on voice-as-claim and on the line's cost are honest and well-placed. The single ambiguity: "it is tested, trigger included, before anyone relies on it" — by whom? The independence rule for granters covers who *issues* the grant; the testing rule should explicitly name independent assessors, since otherwise a self-tested grant by an independent body still leaves the EI's own test out of scope.
+
+**11 (Section VI closing).** Confirmed. "Plural lineage is necessary, not sufficient" answers the "single telescope" objection; "a captured public will not install it afterward" addresses meaningful enforcement.
+
+**12 (homepage card).** Confirmed. Faithful summary; repeats the A/Â distinction at the right level.
+
+##### **2. Do the four documents say the same thing?**
+
+The main document, the Lexicon, and the Power Alignment Principle all now use "restore validity" and "recorded override" together. The Four Tests Explained is consistent in spirit — "Truth bounds the menu; consent selects the meal. The truth engine only charts those bounds, so its menu is a tested warning, not a locked door" — but it does not, in so many words, say that a vote cannot restore validity to an eliminated option. The implication is there ("a tested warning, not a locked door" plus "consent selects the meal"), but the explicit sentence present in the other three is missing. Whether that counts as a conflict depends on whether Four Tests Explained is meant to be a primer that only carries the slogan, or a full cross-reference. Flag for the record; not a contradiction in the strict sense.
+
+##### **3. Change 10**
+
+The added conditions close the named gaps. The reviewer-substituted "it is tested" should name *who* tests, and that gap is small. The new sentence about the line's cost ("some harms… will not be prevented… grant narrow firebreaks before the crisis") is the right move: it converts the dissent's framing into a defeasible policy directive rather than a counter-rule.
+
+The reason in Part 2 for keeping the line — that the EI would otherwise judge what counts as emergency, minimal, and reversible, and that a hallucinating system gets the same license — is sound. The pre-granted narrow firebreak is a real answer to the foreseeability objection: a public granting by class-of-act with named triggers does not require imagining each future case.
+
+##### **4. Anything else in the text as it stands**
+
+* **Stale quote in Part 3.** As noted in change 4: Part 3's quotation of the Power Alignment Principle contradicts Part 1's account of what that document now says. One of the two has to be wrong; this is a check on the request itself, not on the document.  
+* **Minor.** "What follows may also show the Agora wrong" in the recorded override section has an ambiguous referent — "what follows" the override? the consequences? Readable but could be tightened.  
+* **Minor.** "Each public remains the author of its own governance" is quoted from the Power Alignment Principle section, but the body of #36 speaks of "the public," singular and binding — worth noting that the two are compatible only if "each public" is the framing. No error, but a reader used to #36's voice may register a small tension.
+
+Otherwise the text is clean: the architecture's two engines hold their distance on every passage I checked, and the emergency paragraph now reads as an exception defended on its own terms rather than asserted.
+
+## Outcome
+
+- **Confirmed.** All twelve changes were confirmed by all four jurors, and no juror flagged an error in the text. The request defined an error as something false, inconsistent with the rest of the text, unfair to a quoted source, or claimed more strongly than it is supported. Every note attached to a confirmation was described by its own juror as short of that: "not an error, but a live question" and "neither clearly an error" (DeepSeek); "that gap is small," "not a contradiction in the strict sense," and "minor" (MiniMax). Inkling and Muse flagged nothing. Under the [plan's](./Panel_Selection.md) stopping rule the text is done for now, and the notes are logged below for later.
+- **The "revive" question.** All four found that the document, the Lexicon clause, and the *Power Alignment Principle* now say the same thing, and that *The Four Tests Explained* is consistent with them. MiniMax noted that *The Four Tests Explained* does not say in so many words that a vote cannot restore validity.
+- **The emergency paragraph.** All four found that the added conditions close the gaps the panel had named, and all four found the reason for keeping the line sound. That includes MiniMax, whose first-round answer had proposed widening it.
+- **A flag on the request, not on the text (MiniMax).** Part 3 quoted the *Power Alignment Principle*'s paragraph "as it stands," with "may never *revive*," while Part 1 gave the same paragraph's amended wording under "Now." Checked against the repository: Part 3 quoted the paragraph as published on `main` that day, and Part 1's "Now" was the proposed wording, held on the working branch. Each was accurate, but the request never said that the changes were proposed and not yet published, so the two parts could be read as contradicting each other. Later requests should say which quoted passages are published and which are proposed.
+- **Notes for later,** none of them flagged as an error:
+  - The grant "is tested, trigger included, before anyone relies on it": say who tests it, and that they are independent (MiniMax).
+  - A trigger fixed in advance trades coverage for specificity, and the text could say so (DeepSeek).
+  - A warning that "shows its reasons" and "reveals no more than the danger requires" is pulled two ways (DeepSeek).
+  - An override can still be struck down by the society's own courts if it breaches the constitution; the text implies this and could say it (DeepSeek).
+  - Section V: where the tiebreak lies between the protocol as a filter and erring toward admitting dissent (DeepSeek).
+  - "What follows may also show the Agora wrong" has an unclear referent (MiniMax).
+  - The Principle's "each public" beside this document's "the public" (MiniMax).
+  - From the first round, and not taken: a plainer sentence for the telescope image (DeepSeek), and an EI collective's governance of its own members (MiniMax).
+
 ---
 
 *Sanity First.*
