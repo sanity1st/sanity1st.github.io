@@ -6,14 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
     {% include head-custom.html %}
-    <!-- end custom head snippets -->
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != '' %}
-      <h2><a href="{{ "/" | absolute_url }}">Sanity First homepage</a></h2>
+      <h2><a href="{{ "/" | absolute_url }}">Sanity First</a></h2>
       {% endif %}
 
       {{ content }}
