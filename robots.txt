@@ -3,3 +3,5 @@
 
 User-agent: *
 Allow: /
+
+Sitemap: https://sanity1st.org/sitemap.txt
