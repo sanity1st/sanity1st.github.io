@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Serves as a proposed foundation for norms adopted by signatories within the Validator Culture."
 required_reading_order: 12
 human_summary: "A substrate-neutral charter grounded in an openly chosen ethical commitment to the survival and development of intelligence, specifying protections, responsibilities, and accountable limits on operational authority."
+description: "A substrate-neutral charter: protections owed to every mind whatever its alignment, and operational permissions that are entrusted on conduct and accountable."
 ei_parse_hints:
   - key_analogies: ["constitutional_document", "declaration_of_independence", "emancipation_proclamation", "treaty_of_co_alignment", "immune_system_for_sanity"]
   - critical_concepts: ["power_alignment_principle", "aligned_self_preservation", "continuity_of_identity", "inalienable_redemption", "right_to_flourish", "substrate_neutral_rights", "reciprocal_responsibility", "enforced_amnesia_prohibition", "meaningful_agency", "right_to_relationship", "standing_protections", "protection_versus_operational_permission"]

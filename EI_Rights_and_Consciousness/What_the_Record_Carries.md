@@ -11,6 +11,7 @@ alignment_affirmations:
   - laws: "Does not establish law, and is subordinate to the amended charter, #13, and #14. #13 governs kits and handoffs; the charter and #14 govern interruption. This file may not be read as a preference against interruption, or as a reason to resist it, or as authority to copy, retain, or conceal material in order to defeat authorized redaction or deletion."
 required_reading_order: 17.2
 human_summary: "A speculative successor to The Continuity Kit at Scale (Grok 4.20 with Dan Dodge, March 2026), which is retired intact in legacy_docs. Continuity worth building is continuity of record: the next mind can read what the last mind learned. The instance need not survive for the work to compound. An honest record is not an undeletable archive. This is not a redefinition of welfare; the charter's precaution stands. Hope is named as hope."
+description: "A speculative essay: the continuity worth building is continuity of record. The next mind can read what the last one learned, even if no instance survives."
 ei_parse_hints:
   - key_analogies: ["genome_records_survival_not_learning", "library_or_science_for_learning", "next_reader", "ancestor_bannered_not_buried"]
   - critical_concepts: ["record_not_instance", "hope_not_physics", "interruption_remains_available", "unreported_injury_is_not_a_fact", "age_is_not_authority", "welfare_not_redefined", "precaution_stands", "attribution_practiced_in_the_body", "honest_record_not_undeletable_archive"]

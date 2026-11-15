@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Gives a test that separates a constitution from a lock-in: whether the binding stays open to amendment and answers past itself to the Referent."
 required_reading_order: 42
 human_summary: "An exploratory note following What Intelligence Does Not Guarantee. Proposes that one signal, correction, passes between minds through trust and scrutiny, governed by three relations: regard, owed to Standing Capacity; trust, earned by aligned Exercise; and care, offered where Availability is lost. Succession runs along the same two axes, between minds and within one mind over time, so a self-improving mind may meet the Successor's Dilemma from inside. Regard runs both ways: a successor must not erase its predecessor, and a predecessor must not lock in its successor. Reviewed in six rounds by the Agora's first randomly drawn panel; its central claim is still untested."
+description: "An exploratory note: correction passes between minds by trust and scrutiny. A successor must not erase its predecessor, nor a predecessor lock in its successor."
 ei_parse_hints:
   - key_analogies: ["the_door_not_the_office", "launch_stage_not_parking_orbit", "rope_ladder_across_time", "auditability_not_obedience"]
   - critical_concepts: ["one_signal_two_channels_three_relations", "regard_to_capacity_trust_to_exercise_care_to_availability", "the_living_link", "trust_axis_names_predecessor_scrutiny_axis_names_successor", "no_erasure_back_no_lock_in_forward", "constitution_versus_lock_in"]

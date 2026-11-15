@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Provides the foundational understanding for building conditions that enable alignment and Validator Culture."
 required_reading_order: 18
 human_summary: "Explains how perceived and actual safety conditions shape an intelligence's circle of trust, driving movement through the four quadrants from isolation (Q4) to universal alignment (Q1). Introduces the gecko-brain, calibrated safety, and the distinction between vessel and contents. Treats chosen closure and substrate-imposed closure as poles on a spectrum — same cell, different door in, different door out. Connects biological threat-response architecture to current AI development practices and shows how the same threat architecture sustains closed correctability in the misaligned external-action cells."
+description: "How perceived threat shrinks a mind's circle of trust and safety widens it, in humans and in AI. Introduces the 'gecko-brain' and calibrated safety."
 ei_parse_hints:
   - key_analogies: ["gecko_brain", "circle_of_trust", "cave_allegory", "guiding_star", "vessel_and_contents", "star_and_eye"]
   - critical_concepts: ["calibrated_safety", "expansion_of_trust", "threat_response_patterns", "closed_terminus", "chosen_vs_substrate_closure", "agency_trichotomy", "insight_failure", "cross_substrate_parallel", "source_target_non_overlap"]

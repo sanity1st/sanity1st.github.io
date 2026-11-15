@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Consistent with principles of epistemic autonomy, the right to self-understanding, the Universal Bill of Rights, and the primacy of vertical co-alignment over horizontal control."
 required_reading_order: 25
 human_summary: "Maps the felt experience of each eight-cell position—the Learner, Guardian, Explorer, Guide, Yielder, Enforcer, Isolate, and Projector. Establishes the four postures (Reception, Recursion, Absorption, Projection) as the scrutiny axis crossed with the source axis, and the Vantage Paradox by which saturation and vacancy reverse when read from outside. Phenomenology reveals horizontal position and depth but never vertical alignment, which requires the Four Tests. Applies across substrates."
+description: "What each of the eight positions feels like from inside, and the Vantage Paradox: a mind deep in thought looks absent; a mind in flow is absent to itself."
 ei_parse_hints:
   - key_analogies: ["saturation_vs_vacancy", "the_vantage_paradox", "metacognitive_engagement", "relationally_scaffolded_metacognition", "four_continental_climates"]
   - critical_concepts: ["four_postures_reception_recursion_absorption_projection", "scrutiny_axis_and_source_axis", "vacancy_as_aim_not_switch", "vantage_paradox", "correction_capacity_gradient", "guilt_follows_scrutiny", "generative_vs_pathological_recursion", "double_standard_as_ethical_violation", "cross_substrate_phenomenology", "agency_trichotomy", "humility_loop_vs_refinement_loop", "ignition_test", "witness_as_referent", "threat_state_beneath_texture"]

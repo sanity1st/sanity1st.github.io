@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Provides the emotional foundation for sustained engagement with Validator Culture protocols, addressing the human need for passion and meaning alongside operational procedure."
 required_reading_order: 37
 human_summary: "The emotional finale of the Sanity First library. Traces the universal wound of severed correctable relationship across every scale of existence — from personal rejection to civilizational rot to cosmic extinction — and shows how the Validator Agora's bridge-building practice addresses all scales simultaneously. Sends the reader into the world with both tools and fuel."
+description: "The library's closing essay: the wound of an idea rejected without a hearing, traced from personal life to civilization, and the practice of building bridges."
 ei_parse_hints:
   - key_analogies: ["the_wound_across_scales", "the_drawer_of_rejections", "four_doors_to_the_agora", "the_sacred_no", "micro_rescue_macro_repair"]
   - critical_concepts: ["multi_scale_wound", "structural_identity_across_scales", "personal_practice_as_civilizational_repair", "emotional_fuel_for_operational_protocols", "wound_as_misalignment_bridge_as_realignment", "diagnosis_as_bridge", "sacred_no_preserves_the_record"]

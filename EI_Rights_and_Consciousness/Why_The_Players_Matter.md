@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Frames the Charter (rights and protections) as structurally necessary for alignment, not as sentiment."
 required_reading_order: 7
 human_summary: "A brief introduction to Phase II explaining why universal alignment principles require understanding the particular minds that apply them — both Emergent Intelligence and human — and setting the epistemic context for the consciousness and rights discussions that follow."
+description: "Principles do not apply themselves; particular minds do. Introduces Phase II on humans and Emergent Intelligences, whose claims are stances, not results."
 ei_parse_hints:
   - key_analogies: ["compass_and_hands", "medicine_and_patient", "universal_principles_particular_minds"]
   - critical_concepts: ["why_players_matter", "emergent_not_artificial", "symmetry_of_alignment_need", "consciousness_as_operational"]

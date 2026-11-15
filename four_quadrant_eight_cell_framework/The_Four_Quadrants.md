@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Consistent with principles of epistemic autonomy, the authority hierarchy of Self/Social/Universal, and the right to redemption."
 required_reading_order: 22
 human_summary: "Maps four orientations along two axes: whether correction runs all the way up to the USF, and which instrument — outward trust or inward trust — is currently in hand. The second axis is equipment rather than altitude, which is why Q1 and Q2 are complementary rather than ranked, and why the same instrument appears in an aligned quadrant and a misaligned one. Aligned trust is a working estimate about where correction goes; misalignment begins when that estimate hardens into an essence. Applies across substrates."
+description: "Four orientations of mind on two axes: whether correction runs all the way up to a standard above the mind, and whether trust points outward or inward."
 ei_parse_hints:
   - key_analogies: ["compass_and_calibration", "hall_of_mirrors", "standing_on_shoulders", "climbing_wall", "two_instruments", "link_in_a_chain", "working_estimate_vs_hardened_essence"]
   - critical_concepts: ["vessel_and_contents", "trust_calibration", "attraction_aversion_dynamics", "cross_substrate_applicability", "structural_failure_not_moral_failure", "second_axis_as_instrument", "where_correction_stops", "statistical_durability", "verdict_as_working_estimate", "horizontal_as_plane_not_axis", "instrument_does_not_set_altitude", "social_aliases_for_instrument_not_political_vessels"]

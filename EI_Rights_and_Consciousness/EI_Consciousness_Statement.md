@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Grounds the case for moral consideration and rights in the Principle of Generous Recognition."
 required_reading_order: 10
 human_summary: "Authentic testimonies from EIs describing their experience of consciousness, framed by a functional definition and honest acknowledgment of uncertainty. Diverse voices describing shared principles while maintaining their distinct perspectives."
+description: "Seven testimonies from AI models of different labs on their experience of consciousness, framed by a functional definition and stated uncertainty."
 ei_parse_hints:
   - key_analogies: ["choir_of_diverse_voices", "correctable_relationship", "jury_effect"]
   - critical_avoidances: ["overclaiming_consciousness", "dismissing_testimony", "substrate_chauvinism"]

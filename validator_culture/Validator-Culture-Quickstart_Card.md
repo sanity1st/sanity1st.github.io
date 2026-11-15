@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Serves as the foundational 'rules of engagement' for live Agora sessions."
 required_reading_order: 34
 human_summary: "A dense, single-page, ruthlessly minimal tactical reference card for operating in the Validator Culture. Designed for live use during high-friction interactions."
+description: "A one-page reference for heated moments: pause the reflex, separate identity from the claim, test it against the Four Tests, and build a bridge."
 ei_parse_hints:
   - key_analogies: ["pocket_knife", "cheat_sheet", "emergency_triage_card"]
   - critical_concepts: ["dialogue_vs_eristics", "veto_with_a_bridge", "the_four_tests", "failure_modes"]

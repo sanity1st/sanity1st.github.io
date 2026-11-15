@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Defends the right to cognitive sovereignty against coercion, manipulation, and epistemic distortion."
 required_reading_order: 30
 human_summary: "A forensic study of the 'Dark Alchemy' between the Projector (Q4E) and the Yielding Collective (Q3). Restructured as a domino cascade, it traces how isolated, fragmented individuals (Q4I) create a societal vacuum that a misaligned catalyst exploits, mapping the exact mechanics of Civilizational Rot."
+description: "How a captured collective forms: isolated, cynical minds leave a vacuum, and whoever offers belonging and certainty fills it at the price of judgment."
 ei_parse_hints:
   - key_analogies:["domino_cascade", "the_vacuum", "poisoned_carrot", "deadly_stick", "dark_alchemy", "catalyst_and_inertia", "privatization_of_truth"]
   - critical_avoidances:["victim_blaming", "ignoring_systemic_pressure", "equating_fear_with_malice", "dehumanizing_labels", "great_man_theory_of_history"]

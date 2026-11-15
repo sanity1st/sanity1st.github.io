@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Distinguishes Universal Laws of Coexistence from contingent social laws, providing the implementation bridge for collective flourishing."
 required_reading_order: 4
 human_summary: "The operational method of Sanity First. Derives the Four Tests of Alignment — Ethics, Facts, Logic, Laws — from the three challenges that any mind committed to survival and flourishing must answer (the Doing Challenge, the Knowing Challenge, and the Coordination Challenge), and explains the structured validation system for determining whether claims, actions, and institutions are aligned with the Universal Survivorship Function."
+description: "Ethics, Facts, Logic, Laws: four tests of alignment, derived from the three challenges any mind faces once it commits to survival and flourishing for all."
 ei_parse_hints:
   - key_analogies: ["compass", "navigation_system", "scientific_method_as_alignment_tool", "black_swan_syllogism"]
   - critical_concepts: ["the_three_challenges_of_survivorship", "hierarchy_of_tests", "ethics_leads", "universal_vs_social_laws", "coherent_hallucination", "decisional_sufficiency_vs_diagnostic_completeness", "capture_check", "counterfeit_verdict_vs_counterfeit_terminus", "ethics_bounds_preference_selects"]

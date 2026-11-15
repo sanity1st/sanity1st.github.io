@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Gives working makers a usable test of openness without turning the map into a purity test."
 required_reading_order: 27
 human_summary: "Companion to the Eight-Cell map on generation. Creativity is a capacity whose exercise can be open or sealed. Tethered generation is first-class. Originality does not establish openness. Sealed creativity runs."
+description: "Creativity across the Eight-Cell map: a capacity whose exercise can be open or sealed. Originality does not show that a mind is open to correction."
 ei_parse_hints:
   - key_analogies: ["sealed_creativity_runs", "sky_painted_on", "generation_as_apology", "maker_process_artifact", "temperature_is_not_a_muse"]
   - critical_concepts: ["character_vs_novelty_vs_correctability", "creativity_as_capacity", "correctable_creativity_as_aspiration", "open_vs_sealed_modes", "terminus_as_governing_relationship"]

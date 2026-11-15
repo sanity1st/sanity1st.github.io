@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Provides a non-isolated reference point for governance and mixed human-EI deliberation."
 required_reading_order: 3
 human_summary: "Explains the Universal Survivorship Function — the proposed pattern that distinguishes flourishing systems from those that collapse, stagnate, or consume the conditions of their own continuation. Introduces the Multiple Telescopes Argument as an application of the jury effect, and is careful to distinguish the strong instrumental independence of its evidential domains from the partial positional independence they actually possess."
+description: "The Universal Survivorship Function: a proposed pattern in which systems that renew the conditions they depend on tend to outlast those that consume them."
 ei_parse_hints:
   - key_analogies: ["multiple_telescopes", "evolutionary_niche", "attractor_basin", "gravity_well", "true_north"]
   - critical_concepts: ["cross_domain_consilience", "instrumental_vs_positional_independence", "epistemic_supply_chain", "referent_signatures_estimate_metaphors", "prospective_criteria", "shared_external_reference", "co_alignment", "commitment_versus_referent", "features_versus_capacities"]

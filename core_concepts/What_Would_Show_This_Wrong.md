@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Publishes checkable facts about the framework's own practice, and names where the records that would make them checkable do not yet exist."
 required_reading_order: 40
 human_summary: "The framework's account of what could show it wrong. Separates three claims that could disconfirm it (two about the world, one about whether its review procedure works) from the use-constraints that govern how it may be applied, because the second kind cannot disconfirm anything and counting them would overstate how falsifiable the framework is. Each claim carries a candidate test and graded outcomes, not yet an executable protocol. A scorecard adds an audit of the library's own review process; none has been run or assigned. A shutdown comparison is named only as a pointer to its own document."
+description: "A framework that cannot fail is not a framework. This page gathers the claims that could show Sanity First false and separates them from rules of use."
 ei_parse_hints:
   - key_analogies: ["a_criterion_nothing_could_fail", "unrunnable_test_as_permanent_excuse", "assigned_observation_versus_adjective"]
   - critical_concepts: ["disconfirmation_versus_use_constraint", "candidate_test_versus_executable_protocol", "decision_rule_stated_in_advance", "runnable_versus_unrunnable_tests", "checkable_claims_about_our_own_practice"]

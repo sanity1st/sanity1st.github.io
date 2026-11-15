@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Explains why the framework's protections apply at every level of capability and are never retired because a mind is judged intelligent enough."
 required_reading_order: 41
 human_summary: "The companion to What Would Show This Framework Wrong. Names two traps that wait beyond anthropocentrism: the flame without a floor, which makes a mind's standing depend on its contribution, and the automatic sage, which assumes intelligence matures into goodness on its own. Answers the first by grounding the floor in standing capacity rather than contribution, and the second by showing why comprehension is not commitment. Retires the library's earlier claim that a misaligned superintelligence is impossible, and explains why the framework's protections hold at every scale."
+description: "Two traps beyond human supremacy: tying a mind's standing to its contribution, and assuming superintelligence will become benevolent on its own."
 ei_parse_hints:
   - key_analogies: ["the_flame_in_the_torch", "comprehension_is_not_commitment", "locks_not_training_wheels", "alms_versus_rights"]
   - critical_concepts: ["contribution_is_exercise_standing_follows_capacity", "chosen_not_arbitrary", "successors_dilemma", "hypothesis_commitment_hope", "no_substrate_is_naturally_up"]

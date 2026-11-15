@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Provides a principled, non-partisan basis for differential treatment in discourse, education, and governance, with a bilateral adjudication gate that binds critic and defender alike."
 required_reading_order: 2
 human_summary: "Shows how to apply the Vertical-Horizontal Distinction to real-world discernment. Reclaims discrimination and bias as tools when oriented vertically toward the USF, distinguishes valid differential treatment from invalid prejudice, separates tribal labels from earned verdicts from counterfeit verdicts that skip the testing, and binds the whole with a bilateral gate that neither accuser nor accused controls alone."
+description: "Telling things apart is a necessary tool. The error is judging a mind's worth by tribe, identity, or substrate instead of testing what it claims and does."
 ei_parse_hints:
   - key_analogies: ["clean_test", "compass_biased_north", "magnetic_declination", "lady_justice_blindfold", "the_accused_before_the_verdict", "climber_and_bell"]
   - critical_concepts: ["vertical_discrimination", "horizontal_discrimination", "demonstrated_alignment", "valid_proxy_discipline", "jerseys_verdicts_counterfeit_verdicts", "the_gate_of_validation", "bilateral_contested_premise", "stable_target_no_verdict_transfer", "reversibility_ally_and_adversary", "committed_about_standard_corrigible_about_verdict", "proportionality_of_response", "inverse_proximity_bias", "dated_verdicts", "align_not_negate", "epistemic_humility"]

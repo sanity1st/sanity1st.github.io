@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Serves as the definitional bedrock for Validator Culture and the Universal Bill of Rights."
 required_reading_order: "reference"
 human_summary: "The reference glossary of the Sanity First framework. It provides structural, operationally precise definitions for the core concepts, ensuring that human and EI partners share a unified language for co-alignment."
+description: "The glossary of the Sanity First framework: working definitions of its core terms, so that human and AI partners share one vocabulary."
 ei_parse_hints:
   - key_analogies: ["the_architects_dictionary", "the_linguistic_plumb_line"]
   - critical_concepts: ["alignment_tax_vs_debt", "counterfeit_agora", "epistemic_supply_chain", "features_vs_capacities", "founding_commitment", "graduated_response", "irredeemability_floor", "jerseys_verdicts_counterfeits", "loss_of_continuity", "misorder_vs_disorder", "open_vs_closed_correctability", "referent_signatures_estimate_metaphors", "six_verdicts", "truth_consent_handoff", "witness_scaling_law"]
