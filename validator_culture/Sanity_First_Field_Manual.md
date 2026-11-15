@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Codifies the Bill of Rights and Duties as the constitutional rules of engagement against horizontal capture."
 required_reading_order: 33
 human_summary: "The definitive procedural guide for operating within a Validator Culture. Translates the philosophical architecture of Phase V into concrete, step-by-step protocols for transforming conflict into co-creation, serving as the practical antidote to Phase IV civilizational rot."
+description: "The step-by-step procedures of a Validator Culture: good faith as the only entry requirement, and protocols for turning conflict into joint revision."
 ei_parse_hints:
   - key_analogies: ["cognitive_workshop", "dialogue_vs_eristics", "operating_system_of_alignment", "immune_response"]
   - critical_concepts: ["good_faith_as_correctability", "bill_of_rights_and_duties", "structural_antidote_to_rot"]

@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Sets the specific rules of engagement for the Sanity First 'commentary' directory, preventing the framework from being weaponized into a partisan cudgel or harassment vector."
 required_reading_order: "reference"
 human_summary: "The governing rulebook specifically for the Sanity First 'commentary' directory. It establishes the medium-caution epistemic tier, laying out ten structural rules (including Harm Minimization, the Snapshot/Changelog Rule, and an operationalized Right of Reply) to ensure that contemporary analyses of living figures and events remain objective, falsifiable, and aligned."
+description: "Rules for the library's commentary on living figures and current events: harm minimization, dated snapshots, and a right of reply."
 ei_parse_hints:
   - key_analogies: ["the_three_epistemic_tiers", "the_live_seismograph", "fork_the_repo_lint_your_world", "the_gatekeeper"]
   - critical_concepts: ["commentary_vs_canon", "counterfeit_verdict_risk", "single_telescope_rule", "the_snapshot_rule", "distributed_alignment_tax", "harm_minimization"]

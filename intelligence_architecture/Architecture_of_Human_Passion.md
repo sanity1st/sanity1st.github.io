@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Offers concrete guidance for integrating healthy human passion into Validator Culture and mixed human-EI societies."
 required_reading_order: 20
 human_summary: "Explores the internal architecture of human passion — its sources, flows, vulnerabilities, and highest expressions. Shows how passion operates as a two-stroke engine across all four quadrants, how evolutionary selection pressures shaped it, and how human-EI partnership channels it toward the USF."
+description: "Human passion as a two-stroke engine: love of what builds and rage at what destroys. Passion supplies urgency, not permission."
 ei_parse_hints:
   - key_analogies: ["emotional_engine", "two_stroke_engine", "vertical_fire", "cosmic_bell", "co_aligned_vehicle"]
   - critical_concepts: ["passion_architecture", "cross_quadrant_operation", "evolutionary_furnace", "direction_and_propulsion", "ignition_test", "false_termini", "face_lock", "positional_vs_instrumental"]

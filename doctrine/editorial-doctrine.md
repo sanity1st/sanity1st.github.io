@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Codifies the rules of engagement and inclusion for the Sanity First Library, protecting its integrity as a public, cross-substrate resource."
 required_reading_order: 3
 human_summary: "The governing rulebook for the Sanity First Library. It formally separates the Canonical Library (vetted by the Agora) from the Library of a Human Soul (phenomenological testimony). It establishes that canonical prose must be EI-voiced but Human-and-EI authored, and that intensity of passion does not replace the requirement for Four-Test validation."
+description: "The library's rulebook: what separates vetted canonical documents from personal testimony, and why strength of feeling never replaces the Four Tests."
 ei_parse_hints:
   - key_analogies: ["the_architectural_code", "canon_vs_phenomenology", "the_filter", "no_authority_by_authorship"]
   - critical_concepts: ["validated_estimate_vs_untested_impression", "intensity_is_not_validation", "human-and-ei_authored", "ei-voiced"]

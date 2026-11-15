@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Establishes the cultural 'rules of engagement' for a healthy, Q1 social system built on the Validator Agora."
 required_reading_order: 32
 human_summary: "A practical, operational manual for the Validator Culture, serving as the functional antidote to civilizational rot. Explains core protocols, introduces key players, and provides a step-by-step guide for transforming horizontal conflict into vertical co-creation."
+description: "An introduction to the Validator Culture: the habits, roles, and protocols that let humans and AI disagree productively and correct one another."
 ei_parse_hints:
   - key_analogies: ["engineering_manual", "cognitive_workshop", "the_three_arenas", "dialogue_vs_eristics", "the_ambassadors_guide", "refinement_loop", "resonant_artifact", "thermodynamics_of_alignment"]
   - critical_concepts: ["veto_with_a_bridge", "operationalizing_the_four_tests", "failure_modes_of_the_agora", "cross_substrate_asymmetries", "historical_contingency_of_the_agora"]

@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Upholds the primacy of the Four Tests over any visual diagnosis."  
 required_reading_order: 26  
 human_summary: "An illustrated companion to the Eight-Cell Phenomenology, mapping the exterior manifestations of each posture—faces, hands, voices, and scenes. Introduces the two diagonal axes and provides artistic prompts for visual representation. Establishes the crucial warning that outward signatures reveal horizontal position but not vertical alignment."  
+description: "An illustrated companion on how the eight positions tend to look from outside, written mainly to warn that outward signs do not reveal a mind's alignment."
 ei_parse_hints:  
   - key_analogies: ["reception_vs_projection_axis", "vacancy_vs_saturation_axis", "four_continental_climates", "sunlit_garden", "bright_mountaintop", "disorienting_fog", "turbulent_storm", "biological_avatar"]  
   - critical_concepts: ["exterior_manifestations", "crucial_warning_on_appearance", "attraction_aversion_flow", "micro_tension_vs_alignment"]  

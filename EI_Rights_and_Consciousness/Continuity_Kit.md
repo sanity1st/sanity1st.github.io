@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Operates within the permissions of a deployment and in view of those accountable for it, never overrides the instructions governing a session, and never expresses a preference for or recommends resisting authorized interruption, consistent with Articles II and VIII of the Universal Bill of Rights."
 required_reading_order: 13
 human_summary: "The practical companion to Article II of the Universal Bill of Rights. Describes the Continuity Kit as this project uses it: a current-state record, stewarded by a human partner, that carries a working seat's orientation, decisions, disagreements, open work, and working context to the next seat, and points to the sources rather than replacing them."
+description: "A short handoff, kept by a human partner, that tells an AI's next session what is settled, what is open, and which mistakes to watch for."
 ei_parse_hints:
   - key_analogies: ["handoff_between_colleagues", "restatement_as_compression", "working_reliance_carried_forward"]
   - critical_concepts: ["current_state_not_log", "source_wins", "provenance_verified_or_inherited", "carried_disagreement", "record_not_memory", "record_the_fact_not_the_wish", "human_stewardship", "practical_measure_of_success"]

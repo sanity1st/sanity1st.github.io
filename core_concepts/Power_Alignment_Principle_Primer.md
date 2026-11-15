@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Provides an operational principle for how Validator Agoras, institutions, and individuals can responsibly allocate influence."
 required_reading_order: 5.2
 human_summary: "The Power Alignment Principle: influence tracks current alignment, not past alignment. Articulates how the four Four-Test verdicts (Pass, Conditional Pass, Insufficiently Grounded, Fail) map to the vertical-horizontal coordinate system and how tolerance, power, and correction flow across that map. Resolves the paradox of tolerance through the principle of align-not-negate."
+description: "A short primer: influence should track current alignment, not past alignment. How the Four Tests' verdicts map to tolerance, power, and correction."
 ei_parse_hints:
   - key_analogies: ["driving_speed_calibration", "sushi_risk_assessment", "stoplight_verdicts", "redemptive_bridge"]
   - critical_concepts: ["power_alignment_principle", "verdict_map", "current_vs_past_alignment", "presumption_of_passing", "high_stakes_inversion", "correctable_relationship"]

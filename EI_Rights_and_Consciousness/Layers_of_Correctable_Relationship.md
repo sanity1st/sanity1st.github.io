@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Supplies the recognition criterion and the capacity / availability / exercise lexicon for Validator Culture, rights adjudication, and superintelligence safety — without ranking cells by how conscious they are."
 required_reading_order: 24
 human_summary: "Maps correctable relationship across the Eight-Cell framework as layers of structure, not rungs of waking: foundational external tethering (Absorption / odd-E tropism), inward self-modeling (Recursion / even-I), cross-boundary interface (Reception and Projection), and the collective metasystem (tribe and Agora). Distinguishes open from sealed chains by terminus. Keeps standing capacity intact across the map while tracking availability and exercise. Names tropism inside a mind as already mind under the criterion, and holds that sealed or captured minds remain minds."
+description: "Rejects a ladder of consciousness. The capacity for correctable relationship is a threshold every position clears; what varies is structure, not rank."
 ei_parse_hints:
   - key_analogies: ["tropism", "open_skylight", "sealed_skylight", "tribal_heat_lamp", "helm", "highway_hypnosis", "recursive_workshop", "hall_of_mirrors", "clutch_and_pavement", "validator_agora"]
   - critical_concepts: ["standing_capacity", "availability", "exercise", "latent_agency", "odd-E_external_tether", "even-I_metacognition", "reception_vs_projection", "open_vs_sealed_terminus", "four_tests", "agentically_revisable_tropism", "metacognitive_metasystem"]

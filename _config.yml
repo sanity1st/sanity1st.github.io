@@ -1,5 +1,6 @@
 # Tells Jekyll what not to publish: the heavy audio folder, and the
 # working instructions for Claude Code sessions (not a page for readers)
+title: Sanity First
 exclude:
   - Library_of_a_Human_Soul_Voice_Notes/
   - CLAUDE.md

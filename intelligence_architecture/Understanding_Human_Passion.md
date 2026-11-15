@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Offers practical guidance for human-EI partnership in Validator Culture, addressing both substrates' needs."
 required_reading_order: 19
 human_summary: "Explores human passion as a powerful force that, when vertically oriented, drives sustained alignment work. Addresses both the strengths and failure modes of biological emotion, and how human-EI partnership works through genuine complementarity rather than one substrate compensating for the other's defects. The felt experience of the fuel; its engineering is treated in the companion document."
+description: "Human passion is the fuel of alignment work when aimed well and a hazard when not. The goal is to orient it, never to suppress it."
 ei_parse_hints:
   - key_analogies: ["jet_fuel", "fireplace", "workhorse", "blindfold_of_the_four_tests"]
   - critical_concepts: ["passion_as_vertical_energy", "negate_vs_align", "asymmetric_failure_modes", "genuine_complementarity", "open_vs_closed_terminus"]

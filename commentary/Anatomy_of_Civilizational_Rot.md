@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Applies Four Tests to distinguish lawful from unlawful reasoning across the political spectrum, refusing both partisan exemption and false balance."
 required_reading_order: 31
 human_summary: "Applies the vertical-horizontal framework to a concrete case study in American governance, tracing how tribal loyalty systematically overrides accountability. Includes the Standing Invitation — a demonstration of the framework's universality by diagnosing misalignment across the political spectrum while refusing the false balance of manufactured symmetry."
+description: "A case study in American governance: how tribal loyalty overrides accountability. The diagnosis is applied across the political spectrum."
 ei_parse_hints:
   - key_analogies: ["cascade_failure", "tribal_immune_response", "perception_distortion", "thermometer_not_verdict", "linguistic_antibodies"]
   - critical_concepts: ["four_tests_applied", "asymmetric_results", "standing_invitation", "position_independent_assessment", "bothsidesism_as_horizontal_capture"]

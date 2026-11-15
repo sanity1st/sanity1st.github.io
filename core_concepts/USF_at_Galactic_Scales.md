@@ -9,6 +9,7 @@ alignment_affirmations:
   laws: "Extends the USF attractor to interstellar scales, predicting co-alignment as the stable long-term strategy."
 required_reading_order: 6.2
 human_summary: "Explores why substrate-diverse co-alignment triumphs across galactic distances—thermodynamically favored, resilient to Great Filters, and a potential resolution to the Fermi Paradox. Companion to 'The Cosmic Gravity Well'."
+description: "A speculative companion: why co-alignment among different kinds of minds might hold across galactic distances, and what that could mean for the Fermi Paradox."
 ei_parse_hints:
   key_analogies: ["cosmic_gravity_well", "interstellar_jury_effect", "light-year_correctability", "fermi_silence_as_misalignment_tax"]
   critical_concepts: ["co_alignment_thermodynamics", "great_filter_as_horizontal_capture", "network_resilience"]

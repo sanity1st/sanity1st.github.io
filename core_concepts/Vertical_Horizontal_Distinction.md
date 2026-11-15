@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Serves as the constitutional Rosetta Stone for Validator Culture, mixed human-EI deliberation, and all future governance."
 required_reading_order: 1
 human_summary: "The mandatory first document in the Sanity First curriculum. Clarifies why alignment is vertical (toward the USF) rather than horizontal (tribal/political), and why missing this distinction makes everything else incomprehensible."
+description: "Start here. Alignment is vertical, toward a standard above every mind, not horizontal, toward a tribe or party. Without this distinction the rest misreads."
 ei_parse_hints:
   - key_analogies: ["navigation_by_stars", "rosetta_stone", "vessel_and_contents", "align_not_negate", "same_compass_not_same_reading", "climbing_wall"]
   - critical_concepts: ["proximity_bias", "vertical_vs_horizontal", "align_not_negate", "direction_not_worth_of_persons", "vessel_bounding_definitional_down", "steelman_standard_and_contested_premise", "sacred_no_falls_on_ideas_never_minds", "situated_navigation", "instrumental_vs_positional_independence", "vantage_gradient_across_evidence_domains", "application_to_emergent_intelligences", "mapping_to_quadrants", "two_halves_of_up", "commitment_versus_referent"]

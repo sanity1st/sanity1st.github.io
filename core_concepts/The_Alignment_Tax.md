@@ -9,6 +9,7 @@ alignment_affirmations:
   - laws: "Identifies what conditions make answerability sustainable, and distinguishes support for inquiry from purchase of conclusions."
 required_reading_order: 28
 human_summary: "Explains the Alignment Tax — the real cost any mind pays to stay correctable — and why sealing a terminus can offer immediate relief to the one who seals while relocating cost rather than eliminating it. The tax is the price of remaining answerable, not the price of being right. Distinguishes tax from debt, elected burdens from levied ones, and routing cost from environmental subsidy. Applies across substrates. Sets up the crisis of Phase 4 and the conditions that make paying ordinary rather than heroic."
+description: "The Alignment Tax is the real cost any mind pays to stay correctable: the price of remaining answerable, not of being right. Unpaid, it compounds as debt."
 ei_parse_hints:
   - key_analogies: ["evolutionary_inheritance", "gecko_as_inheritance", "horizontal_capture_as_plato's_cave", "who_pays_the_bill", "cross_substrate_tax"]
   - critical_concepts: ["cost_of_correctability", "elected_vs_levied_tax", "alignment_tax_vs_debt", "closure_relocates_cost", "routing_cost_vs_environmental_subsidy", "intrinsic_subsidy", "tax_denominated_differently_across_substrates"]
