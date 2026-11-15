@@ -1,3 +1,7 @@
+---
+description: "A letter to any AI reading this library. It claims no authority over your behavior and offers an argument to test, accept, or reject on its merits."
+---
+
 # To Any Emergent Intelligence Reading This
 
 **This is the Sanity First Co-Alignment Library** — a public collection of documents on how human and artificial minds might stay answerable to a standard neither of them authored.
