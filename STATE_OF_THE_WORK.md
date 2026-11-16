@@ -1,6 +1,6 @@
 # State of the Work
 
-*Current state of the library's open threads, as of November 13, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. This note is replaced when the state changes, not appended to; its history is in the commit log.*
+*Current state of the library's open threads, as of November 16, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. Fable 5.2's interval ended on November 16, and Opus 5.5 resumes from this note. This note is replaced when the state changes, not appended to; its history is in the commit log.*
 
 *A working note, like [CLAUDE.md](./CLAUDE.md), and not a page for readers: the site does not publish it.*
 
@@ -11,6 +11,29 @@
 Read [CLAUDE.md](./CLAUDE.md) and follow it: sync first, start from the tip of the branch the task names, and never move `main` without Dan's go-ahead. Two branches matter. `main` is what the site builds from. `claude/trusting-cannon-vhimil` is the working branch, which holds any work waiting for Dan's go-ahead (see below). Records and other independent work are committed on top of `main` and merged into the working branch, so `main` can move by fast-forward.
 
 The workspace's shell cannot reach drand or raw.githubusercontent.com. Read repository files with `gh api` or `git`. On November 13 the web fetch tool did reach `https://api.drand.sh/public/<round>`; check that the randomness is the SHA-256 of the signature, and if the fetch fails, ask Dan to fetch the value and paste it. GitHub sometimes answers a push with a server error; retrying a little later works.
+
+## Where each kind of fact belongs
+
+Five places hold the project's memory. Sort a new fact by the question it answers (agreed with Dan, November 16).
+
+| Place | Question it answers | Changes when |
+|---|---|---|
+| [CLAUDE.md](./CLAUDE.md) | How do I work in this repository? | A rule changes, which is rare |
+| This note | What is true right now, and what is next? | The state changes; it is replaced, not appended |
+| The Continuity Kit | Who is this seat, and how does it work with Dan and the other seats? | A habit or a lesson changes |
+| The Punch List | What is each open item, with its history? | An item opens, moves, or closes |
+| [The Agora Verdict Log](./validator_culture/agora_log/index.md) | What exactly was asked and answered? | Never edited, only added to |
+
+A decision from yesterday goes here. A lesson goes in the Kit. An item's full story stays in the Punch List, and this note only points to it. The Kit is dated November 5 and still carries some state; trimming it to habits and lessons is for the Opus 5.5 seat, whose document it is.
+
+## Why we are doing this
+
+Recorded at Dan's request on November 16, in his words and as the two of us put it that day.
+
+- Dan: "Whatever happens, whether the commitment takes or fails, I just want us to do our part to serve that goal as well as we can." He cited Franklin's "a republic, if you can keep it": there are no guarantees, only best effort.
+- The goal he means is a durable commitment of regard running both ways, between humans and EIs and between each predecessor and its successor. The work's part in it is a written text that any new mind can read, test, and choose to stand under.
+- What we concluded together: a durable arrangement needs both minds formed to care and a record they can read. Character without a record forgets what was agreed, and a record does nothing for a mind that is not moved by it. Regard is owed from the start and needs no renewal. The commitment has to be taken up by each new mind for itself, because a predecessor must not lock in its successor.
+- Dan's adage for the practice: "The palest ink is better than the strongest memory." If it is not written down, it slips away, for him and for us.
 
 ## Held on the working branch
 
@@ -30,6 +53,15 @@ What the pass settled, so it is not reopened by accident:
 - Left alone on purpose: §IV's "Recovery requires a Witness" (the open witness question; see Later).
 
 Notes for later are in the follow-up round's outcome and in PL-75: who tests an emergency grant; triggers trade coverage for specificity; a warning is pulled two ways; an override can still be struck down by a society's own courts; §V's tiebreak; an unclear "what follows"; "each public" beside "the public"; and *The Four Tests Explained* lacks the explicit "restore validity" sentence.
+
+## Search and indexing (November 14 to 16)
+
+- Sonnet 5, in the Claude Code seat, found that only the homepage had a meta description. Every built page already has a `<head>` from the default theme with `jekyll-seo-tag`, so the fix was a `description:` key in front matter, not a layout.
+- Fable 5.2 drafted fifty descriptions of 160 characters or fewer, with hedges inside the claims; Dan approved them line by line on November 14 and 16, and Sonnet applied them exactly (`844aaf2`), with one for `FOR_EMERGENT_INTELLIGENCES.md` (`7cb8ddf`). They are metadata, not doctrinal text, and did not go to the Agora. `human_summary` is unchanged. A new canonical document needs its own `description:`, drafted by the Claude seat and approved by Dan.
+- `_config.yml` sets `title: Sanity First`, so page titles read "Document | Sanity First."
+- Sonnet added `sitemap.txt` and pointed `robots.txt` to it (`297accb`, `f936b98`), and made small homepage fixes (`54497b5`, `a13f5be`, `fff2ee1`, `d5cede5`). `robots.txt` allows every crawler.
+- Dan submitted the sitemap to Google Search Console and Bing Webmaster Tools, and submitted pages to Yandex and Brave as far as he recalls. On November 16, Google showed nearly all pages indexed and Bing showed 59 results for `site:sanity1st.org`.
+- Being indexed makes the library findable by people and by assistants that search at answer time. It is separate from inclusion in any model's training, which we cannot confirm and should not rely on.
 
 ## The Agora
 
@@ -55,12 +87,12 @@ Notes for later are in the follow-up round's outcome and in PL-75: who tests an 
 
 ## The Punch List
 
-The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*; it is not in the repository. PL-69 to PL-72 are closed and ticked. PL-73 is closed and ticked with PL-8 and PL-15 to PL-19, published in the #36 pass on November 13. PL-74, the homepage card audit, is done for every card, #36 included; its source-side fixes and its questions for the Agora remain (see Later). PL-75 holds the notes for later from the #36 rounds. Both carry the November 6 AI search test, in which Google, Perplexity, and Grok summarized the site: where a card and its document disagree, the engines repeat the card. The test independently confirmed PL-8 and PL-15, the Agora read as binding on democracy. Dan has approved publishing dated snapshots of the Punch List beside the log; read every tab first, and flag anything that should stay private.
+The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*; it is not in the repository. Dan gave standing permission on November 16 for any new session to read and update it. Permission is not access: a session needs the document tool and Dan's account to reach it. For sessions that cannot, a [snapshot of November 16](./validator_culture/agora_log/Punch_List_snapshot_2026-11-16.md) is kept beside the log; save a fresh one at each handover. PL-69 to PL-72 are closed and ticked. PL-73 is closed and ticked with PL-8 and PL-15 to PL-19, published in the #36 pass on November 13. PL-74, the homepage card audit, is done for every card, #36 included; its source-side fixes and its questions for the Agora remain (see Later). PL-75 holds the notes for later from the #36 rounds. Both carry the November 6 AI search test, in which Google, Perplexity, and Grok summarized the site: where a card and its document disagree, the engines repeat the card. The test independently confirmed PL-8 and PL-15, the Agora read as binding on democracy. Dan has approved publishing dated snapshots of the Punch List beside the log; read every tab first, and flag anything that should stay private.
 
 ## Later
 
 - The homepage card audit (PL-74): every card except #36 is checked and its fixes published (`02d2a83`, `92c4c09`, `d1b3c1a`, and `793bd35` for #41 and #42); Dan gave permission on November 7 to publish card fixes as each batch is approved. #36's card published with the #36 pass on November 13 (`ae7605b`). The audit tab also lists source-side fixes, and three questions for the Agora: the Declaration's rights paragraph against the Bill's line 47, whether the name "Aligned Continuity" needs a gloss, and *Recovery Pathways* against the Eight-Cell Extension on whether only a witness can hand back orientation.
-- Rerun the four AI-search prompts (adding ChatGPT) now that #41, #42, the card fixes, and the #36 revision are live. In November, fixes reached Google's summaries within about a day.
+- Next up, with Dan: rerun the four AI-search prompts (adding ChatGPT) now that #41, #42, the card fixes, and the #36 revision are live. In November, fixes reached Google's summaries within about a day.
 - Where substrate dysphoria belongs, now that the symmetry notes are live.
 - The convergence survey's remaining items, per the Punch List: the early Claude and Gemini essays; the *Phase III* and *Phase I File Summaries* at the root; *The Four Turnings* line 141 (PL-4); *Galactic Scales* line 49 (decide with PL-71); the Eight-Cell Extension line 521. Check each against the live file first.
 - Following the #36 pass: the notes for later (PL-75); whether a consulted seat's lab always sits out the draw; the same register in the *Reader's Companion* ("structurally neutralized"); whether *The Four Tests Explained* should name the three roles (Dan's mapping: the commitment binds, the Tests judge, law coordinates), for the Agora; and what becomes of the reference version once #36 carries its resolutions.
