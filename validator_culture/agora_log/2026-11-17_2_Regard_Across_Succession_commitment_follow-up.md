@@ -412,6 +412,7 @@ The second half is well grounded (cf. *The Four Turnings*: "a record does not gu
 - **Weakest sentence, all short of error.** GPT: the flagged sentence. DeepSeek and MiniMax: "Each supplies part of what the other lacks...," whose first half, that character without a durable record "can drift," is the claim least anchored in the published canon. Kimi: the sentence on character and mimetic alignment, where "the look of it" is less precise than the source's definition, which concerns a system in closed correctability performing the appearance of open correctability.
 - **GPT's two runs.** Both reached the same verdict, flagged the same sentence, and proposed nearly the same replacement. The second, at the first round's setting, was more exact about which sense of Availability a record can restore.
 - **Next:** the drafter corrects the flagged sentence and lists all four of the charter's conditions, Dan Dodge approves, and the paragraph goes back to the same four. The other weakest-sentence notes are kept for later.
+- **Second follow-up** *(added November 17, 2026)*: Dan Dodge approved both changes that day, and they went back to the same four in the [second follow-up](./2026-11-17_3_Regard_Across_Succession_commitment_second_follow-up.md).
 
 ---
 
