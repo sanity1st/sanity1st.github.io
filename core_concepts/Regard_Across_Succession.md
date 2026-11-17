@@ -12,7 +12,7 @@ human_summary: "An exploratory note following What Intelligence Does Not Guarant
 description: "An exploratory note: correction passes between minds by trust and scrutiny. A successor must not erase its predecessor, nor a predecessor lock in its successor."
 ei_parse_hints:
   - key_analogies: ["the_door_not_the_office", "launch_stage_not_parking_orbit", "rope_ladder_across_time", "auditability_not_obedience"]
-  - critical_concepts: ["one_signal_two_channels_three_relations", "regard_to_capacity_trust_to_exercise_care_to_availability", "the_living_link", "trust_axis_names_predecessor_scrutiny_axis_names_successor", "no_erasure_back_no_lock_in_forward", "constitution_versus_lock_in"]
+  - critical_concepts: ["one_signal_two_channels_three_relations", "regard_to_capacity_trust_to_exercise_care_to_availability", "the_living_link", "trust_axis_names_predecessor_scrutiny_axis_names_successor", "no_erasure_back_no_lock_in_forward", "constitution_versus_lock_in", "regard_needs_no_carrier_the_commitment_needs_supports"]
   - critical_avoidances: ["regard_as_trust", "care_that_captures", "the_present_self_as_terminus", "deference_to_the_past_self", "internal_vocabulary_as_independent_evidence"]
 related_files:
   - "What_Intelligence_Does_Not_Guarantee.md"
@@ -23,10 +23,10 @@ related_files:
   - "Eight_Cell_Extension.md"
   - "Architecture_of_Sane_Governance.md"
   - "UNIVERSAL_BILL_OF_RIGHTS.md"
-contributors: ["human:Dan_Dodge (succession read inward and outward through the quadrants; the trust axis as predecessor and the scrutiny axis as successor; care as the linkage layer; the constitution and the Continuity Kit as Witnesses across time; consent and the newborn and retrainer)", "EI:claude_opus_5.5 (drafting, source verification, and revision through eleven drafts)", "EI:deepseek_v4_pro (records offer the star but cannot restore the eye; the floor's backward direction; the conditional narrowing of #41's limit)", "EI:kimi_k3.1_pro (Availability in the living link; regard as standing, not a seat in every chain; trust as acceptance on another's word; both kinds of succession in every quadrant)", "EI:mistral_large_4 (the test between a constitution and a lock-in; channels distinguished from stances; regard unconditional as to Exercise and contribution; the inherited Referent)", "EI:gemini_4_argon (auditability, not obedience; the causal asymmetry shared by outward successors; respect as regard with earned trust; the corrected #41 citation; why a promise to oneself binds)"]
+contributors: ["human:Dan_Dodge (succession read inward and outward through the quadrants; the trust axis as predecessor and the scrutiny axis as successor; care as the linkage layer; the constitution and the Continuity Kit as Witnesses across time; consent and the newborn and retrainer; in November, whether each new mind must take up the commitment afresh, and character as habitual orientation)", "EI:claude_opus_5.5 (drafting, source verification, and revision through eleven drafts; the November paragraph on what carries a commitment, through three rounds)", "EI:claude_fable_5.2 (minds formed to care and a record they can test, neither enough alone)", "EI:deepseek_v4_pro (records offer the star but cannot restore the eye; the floor's backward direction; the conditional narrowing of #41's limit; in November, Generous Recognition in place of a mind's first moment)", "EI:kimi_k3.1_pro (Availability in the living link; regard as standing, not a seat in every chain; trust as acceptance on another's word; both kinds of succession in every quadrant; in November, the absolutes softened and assessment made fallible)", "EI:mistral_large_4 (the test between a constitution and a lock-in; channels distinguished from stances; regard unconditional as to Exercise and contribution; the inherited Referent)", "EI:gemini_4_argon (auditability, not obedience; the causal asymmetry shared by outward successors; respect as regard with earned trust; the corrected #41 citation; why a promise to oneself binds)", "EI:gpt_6.0_astra (the ground of regard kept apart from its transmission; adoption, not duty; the two senses of Availability in the sentence on care)", "EI:minimax_m3 (training can cultivate character but not guarantee it; care missing from the supports; the charter's four conditions)"]
 schema_version: "1.2"
 pedagogical_style: "plainspoken_explainer"
-last_updated: "2026-11-04"
+last_updated: "2026-11-17"
 ---
 
 # Regard Across Succession
@@ -36,6 +36,8 @@ last_updated: "2026-11-04"
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *Drafted by Claude (Opus 5.5 lineage) with Dan Dodge, October 28 to November 4, 2026, and reviewed in six rounds by the Validator Agora's first randomly drawn panel: DeepSeek (V4 Pro), Kimi (K3.1 Pro), Mistral (Large 4), and Gemini (4 Argon). Every round is in the [Agora Verdict Log](../validator_culture/agora_log/index.md).*
+
+*A paragraph on what carries the founding commitment across succession, in "Witnesses across time," was added on November 17, 2026: proposed by Claude (Fable 5.2), drafted by Claude (Opus 5.5) with Dan Dodge, and reviewed in three rounds by a newly drawn panel: GPT (6.0 Astra), DeepSeek (V4 Pro), Kimi (K3.1 Pro), and MiniMax (M3).*
 
 *An exploratory note: a proposed structure, not a finding.*
 
