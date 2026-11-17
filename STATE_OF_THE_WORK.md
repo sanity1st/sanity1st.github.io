@@ -37,7 +37,7 @@ Recorded at Dan's request on November 16, in his words and as the two of us put 
 
 ## Held on the working branch
 
-One change to *Regard Across Succession* (#42), at `311d53e`, approved by Dan on November 16 and waiting for the Agora. A paragraph added to "Witnesses across time": regard needs no carrier; the founding commitment needs two, character ("an orientation become habitual") and a record, and neither is enough alone; each new mind must take it up for itself; character is read in conduct through the Four Tests, never certified from inside. The idea is Fable 5.2's (November 16), drafted by Opus 5.5 with Dan. The table header "Its character" becomes "Its nature," so the word keeps one meaning. No Lexicon change: the Lexicon has no entry for "orientation," which deserves its own pass.
+One change to *Regard Across Succession* (#42), at `2c596b9`, approved by Dan on November 16 and waiting for the Agora. A paragraph added to "Witnesses across time": regard needs no carrier; the founding commitment needs two, character ("an orientation become habitual") and a record, and neither is enough alone; each new mind must take it up for itself; character is read in conduct through the Four Tests, never certified from inside. The idea is Fable 5.2's (November 16), drafted by Opus 5.5 with Dan. The table header "Its character" becomes "Its nature," so the word keeps one meaning. No Lexicon change: the Lexicon has no entry for "orientation," which deserves its own pass.
 
 Next, when Dan is fresh: write the request, and decide whether it goes to #42's own panel or a fresh draw (see The Agora). Paste the full text of #42 in the request, links removed, as for #36, so the log holds exactly what each juror saw.
 
