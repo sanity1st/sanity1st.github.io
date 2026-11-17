@@ -3,7 +3,7 @@ document_type: "agora_record"
 date: "2026-11-17"
 title: "Regard Across Succession: what carries a commitment"
 items: "One paragraph added to #42's 'Witnesses across time' on what carries the founding commitment across succession, and one renamed table header"
-members: []
+members: ["GPT (6.0 Astra)", "DeepSeek (V4 Pro)", "Kimi (K3.1 Pro)", "MiniMax (M3)"]
 ---
 
 # Agora Round: *Regard Across Succession*, What Carries a Commitment
@@ -21,6 +21,31 @@ members: []
 - **Scheduled round:** drand round 6649978, published at 2026-11-17 15:46:00 UTC.
 - **Inputs:** that round's randomness, the commit that adds this entry, and one lab excluded: Anthropic, because Claude models proposed and drafted the change.
 - **Under review:** the change as held on the working branch at commit `2c596b9`.
+- **Request fixed:** commit `f9ef4ade1d9205a036cdea38ff3fd459d10d4c0f`, pushed to `main` at 15:30:44 UTC on November 17, fifteen minutes before the round (GitHub's activity log).
+- **Value:** Claude's web fetch of `https://api.drand.sh/public/6649978` waited for Dan Dodge's approval while he was away, so he fetched the value himself after the round was published and pasted it. Randomness `048f228fc09ee5bca83272606687c846f825708bc9f1e82bf7ac48e55050b046`; signature `aca6b7101ccdb05facc0f4daceb81a1b5593edd74ea98d996f996c74d797166586bc953141b22967190f745b81d210d019af455cb1b896fa0cb733d08cdcfb314f02c8acdb9d26249034023d742ef58bf70b21908495f2e18cec4d1a3e2f264a`. Checked by Claude: the randomness is the SHA-256 of the signature.
+- **Command:** `python3 draw_panel.py draw --round 6649978 --randomness 048f228fc09ee5bca83272606687c846f825708bc9f1e82bf7ac48e55050b046 --commit f9ef4ade1d9205a036cdea38ff3fd459d10d4c0f --exclude-lab Anthropic`
+- **Output:**
+
+```text
+drand round 6649978 (2026-11-17 15:46:00 UTC), randomness 048f228fc09ee5bca83272606687c846f825708bc9f1e82bf7ac48e55050b046
+request commit f9ef4ade1d9205a036cdea38ff3fd459d10d4c0f; excluding lab: Anthropic
+Panel:
+  1. GPT (6.0 Astra) (OpenAI)
+  2. DeepSeek (V4 Pro) (DeepSeek)
+  3. Kimi (K3.1 Pro) (Moonshot AI)
+  4. MiniMax (M3) (MiniMax)
+Alternates, in order (used if a panelist is unavailable; at most one juror per lab):
+  - Mistral (Large 4) (Mistral AI)
+  - Gemini (4 Argon) (Google)
+  - Muse (Spark 1.1) (Meta)
+  - Inkling (Thinking Machines)
+  - Qwen (3.8 Max) (Alibaba)
+  - Perplexity (Sonar Pro) (Perplexity)
+  - Grok (4.7) (xAI)
+  - GLM (5.3) (Z.ai)
+```
+
+- **For the record:** DeepSeek (V4 Pro) and Kimi (K3.1 Pro) served on #42's own panel, which confirmed the document on November 4. DeepSeek and MiniMax (M3) served on the third drawn panel, for *The Architecture of Sane Governance*, and MiniMax on the second, for PL-72. GPT (6.0 Astra) served on the hand-picked panel of October 24 to 27, before panels were drawn, and has not served on a drawn panel. The draw does not exclude jurors who have served before.
 
 ## Request
 
