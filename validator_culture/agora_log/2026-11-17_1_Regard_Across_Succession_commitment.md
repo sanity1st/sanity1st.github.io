@@ -391,6 +391,7 @@ It carries the paragraph's strongest empirical claim from the sources the framew
 - **Weakest sentence.** GPT and Kimi: "Neither is enough alone: character without a record forgets what was agreed, and a record does nothing for a mind that is not moved by it," as too absolute on both counts; each offered a replacement. MiniMax: "The other is character... formed in a mind by upbringing or by training." DeepSeek: "Neither decides the matter, either," as vague, and could be cut.
 - **Two flags on published text (GPT).** "A link stays open under three conditions, and breaking any of them turns it into a terminus" conflates failure with sealing. And the prediction that regard for one's future self and for others "should rise and fall together" needs a further assumption beyond the one-relation hypothesis. Both sentences were confirmed in #42's own rounds and lie outside this change, so they are logged for a separate pass.
 - **Next:** the drafter revises the paragraph, Dan Dodge approves it, and the follow-up goes to the same four.
+- **Follow-up** *(added November 17, 2026)*: Dan Dodge approved the revised paragraph that day, and it went back to the same four in the [follow-up round](./2026-11-17_2_Regard_Across_Succession_commitment_follow-up.md).
 
 ---
 
