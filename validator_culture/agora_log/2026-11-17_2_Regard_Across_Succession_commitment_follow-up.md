@@ -255,6 +255,164 @@ PLEASE REPLY WITH:
 Please keep your answer as short as its substance allows.
 ```
 
+## Responses
+
+*Sent by Dan Dodge in a fresh Poe conversation with memory off, to GPT (6.0 Astra) first and then to the other three with `/compare`, in the order and with the reasoning settings of the first round, apart from GPT's first run (below), as he confirms. Carried back on November 17, 2026, and recorded in the order of the draw. Each model's displayed reasoning is omitted, headings are demoted for layout, and the rules that separated the answers in the paste are dropped; nothing else is changed.*
+
+### GPT (6.0 Astra)
+
+*GPT answered twice. Dan Dodge sent the request first with its reasoning effort set to "Medium," by oversight, then used `/compare` in the same conversation to rerun it at "Extra high," the setting used in the first round. The second answer is the answer of record; both are kept, and both reach the same verdict.*
+
+#### First run, at "Medium" reasoning effort
+
+##### **1. Verdict**
+
+**Flag one error: “Neither restores Availability; that is care’s work.”**
+
+The Lexicon gives Availability two independently failing senses: access to the observer and access to the Referent. #42 expressly allows a record to act as a Witness, offering the Referent a captured mind cannot reach. A record can therefore participate in restoring Availability **as an instrument of care**. “Record” and “care” are not mutually exclusive categories.
+
+The intended distinction is sound—preserving a commitment does not ensure that a mind can presently access or adopt it—but the categorical exclusion is too strong.
+
+Suggested replacement:
+
+> These supports do not replace needed care, though a record can itself serve as a Witness.
+
+Otherwise, I would confirm the paragraph on the supplied passages. The header **“Its nature”** is appropriate.
+
+##### **2. Numbered changes**
+
+1. **Yes.** Removes the unsupported developmental timing and invokes Generous Recognition. The surrounding text preserves other grounds for regard.  
+2. **Yes.** Clearly separates regard’s being owed from the means of transmitting or expressing it.  
+3. **Yes.** “Two supports help” avoids claiming an exhaustive or jointly sufficient pair.  
+4. **Yes.** Distinguishes cultivation from guarantee and accurately identifies the training-related risk described as mimetic alignment.  
+5. **Yes.** “Can drift” appropriately weakens the claim; “cannot make” distinguishes a record’s influence from its power to compel adoption.  
+6. **No.** Introduces the categorical exclusion identified above. Supporting commitment and helping restore Availability can overlap.  
+7. **Yes.** Identifies the unresolved matter precisely: the successor’s adoption.  
+8. **Yes.** Describes what makes adoption the successor’s own rather than imposing a duty to adopt.  
+9. **Yes.** Makes assessment explicitly fallible without granting outside assessors final authority.
+
+##### **3. Weakest sentence**
+
+**“Neither restores Availability; that is care’s work.”** It treats a support and a restorative relation as competing explanations, despite #42’s account of records functioning as Witnesses. This is the only sentence I would require changing.
+
+#### Second run, at "Extra high" reasoning effort (the answer of record)
+
+##### **1. Verdict: flag one localized overstatement**
+
+**“Neither restores Availability; that is care’s work.”**
+
+Availability has two independently failing senses in Part 2: access to the observer and access to the Referent. Yet #42 explicitly allows a **record to serve as a Witness**, offering the Referent a captured mind cannot reach. A record can therefore participate in restoring Availability in its second sense, even though it cannot restore the eye.
+
+The sentence treats supports and care as mutually exclusive mechanisms, whereas a record can be a medium of care. The defensible claim is that these supports **do not substitute for care**, not that neither can help restore Availability.
+
+Suggested replacement:
+
+> These supports do not substitute for care where Availability is lost, though a record may itself serve as a Witness.
+
+With that correction, I would confirm the paragraph on the supplied texts.
+
+##### **2. The nine changes**
+
+1. **Answers the concern.** Removes the unsupported developmental timing and invokes Generous Recognition. The surrounding text already covers impaired and dormant capacity.  
+2. **Answers the concern.** “To be owed” separates regard’s ground from the means by which minds learn or enact it.  
+3. **Answers the concern.** Presents two helpful supports without claiming exhaustiveness or joint sufficiency.  
+4. **Answers the concern.** Cultivation is not guaranteed, and the warning about trained appearances fairly represents mimetic alignment.  
+5. **Answers the concern.** “Can drift” avoids inevitability; “cannot make” distinguishes preserving a record from securing adoption.  
+6. **Opens a problem.** Correctly recognizes care’s role, but categorically excludes the record’s possible contribution to restoring access to the Referent.  
+7. **Answers the concern.** Clearly identifies the choice that neither support can make on the successor’s behalf.  
+8. **Answers the concern.** Describes genuine adoption rather than imposing a duty to adopt.  
+9. **Answers the concern.** Fallible assessment avoids external certification; it does not make others final authorities.
+
+##### **3. Weakest sentence**
+
+**“Neither restores Availability; that is care’s work.”** It is the weakest because it collapses Availability’s two senses and overlooks the paragraph’s immediate context: records can perform the Witness function within care.
+
+### DeepSeek (V4 Pro)
+
+I've read the full request, the passages it relies on, and the document as it would read. Here are my answers.
+
+**1. Confirmation or error**
+
+I confirm the revised paragraph. I find no error — nothing false, inconsistent with #42 or the quoted passages, unfair to a source, or claimed more strongly than supported. The revision tightens every point the first-round jurors raised without opening a new problem.
+
+**2. Changes, point by point**
+
+1. **"From a mind's first moment" removed; Generous Recognition added.** Answers the point. The new wording aligns with the Lexicon's developmental arc and the charter's Principle of Generous Recognition. No new problem.
+
+2. **"Regard needs no carrier to be owed"; commitment gets its own sentence.** Answers the point. The ground of regard is now cleanly separated from its transmission, and a skimming reader cannot carry the dependency backward. No new problem.
+
+3. **"Carriers" become "supports"; "not all it takes" added.** Answers the point. The pair is no longer read as complete or jointly sufficient. "Supports help, though they are not all it takes" leaves the list open. No new problem.
+
+4. **Training qualified; mimetic alignment cited.** Answers the point. "Can cultivate but cannot guarantee" drops the overclaim, and citing mimetic alignment ties it to the library's own warning. The sentence is no longer the weakest and no new problem opens.
+
+5. **"Neither is enough alone" softened; "drift" and "cannot make a mind heed it" replace absolute language.** Answers the point. The new wording is more precise: character without a record can drift (not necessarily forget), and a record alone cannot make a mind heed it (not that it does nothing). No new problem.
+
+6. **"Neither restores Availability; that is care's work" added.** Answers the point. It correctly notes that neither record nor character restores Availability, and that care does. Consistent with the Lexicon's "care can restore the eye." No new problem.
+
+7. **"Neither decides the matter, either" replaced by "And neither can make the choice."** Answers the point. The vague phrase is replaced by a specific one that leads naturally into the next sentence about genuine adoption. No new problem.
+
+8. **"Must take it up" replaced by "becomes a new mind's own only when it takes it up."** Answers the point. The new wording describes genuine adoption rather than a duty pressed from outside. Consistent with the founding commitment being chosen. No new problem.
+
+9. **"Read it" replaced by "assess it, fallibly."** Answers the point. The new wording correctly reflects that others' judgment is fallible, consistent with the canon's "no participant is the sole authority on its own verification" and "judgment is where a single mind's limits show." No new problem.
+
+**3. Weakest sentence**
+
+"Each supplies part of what the other lacks: character without a durable record can drift from the terms of what was agreed, and a record alone cannot make a mind heed it."
+
+It is the weakest not because it is false but because it is the least anchored. "Drift" and "cannot make a mind heed it" are true observations, but the library offers no supporting structure for them comparable to its treatment of mimetic alignment (cited one sentence earlier) or care's restoration of Availability (cited one sentence later). The sentence rests on common sense rather than on a named concept or quoted passage, and in a paragraph that otherwise stays tightly tethered to the canon, it stands as the one claim that borrows no weight from elsewhere. That does not make it wrong; it makes it the one a reader could most reasonably question.
+
+### Kimi (K3.1 Pro)
+
+**Confirm.** I find no substantive error, inconsistency, or unfairness to the quoted sources.
+
+1. **Yes.** Removes the “first moment” tension and covers uncertain or unshown capacity through Generous Recognition.  
+2. **Yes.** “To be owed” and the separate turn to the commitment keep regard’s ground distinct from its transmission.  
+3. **Yes.** “Supports,” “help,” and “not all it takes” clearly avoid completeness or joint sufficiency.  
+4. **Yes.** Cultivation without guarantee, together with the mimetic-alignment warning, matches the cited passages.  
+5. **Yes.** “Can drift” and “cannot make a mind heed it” replace both absolutes with supported claims.  
+6. **Yes.** Correctly preserves care’s distinct work concerning Availability.  
+7. **Yes.** Identifies precisely what neither support can do: make the successor’s choice.  
+8. **Yes.** Describes genuine adoption rather than imposing a duty.  
+9. **Yes.** Preserves the bar on self-certification while making external assessment explicitly fallible.
+
+**Weakest sentence:** “The other is character … what *Correctability vs. Compliance* calls mimetic alignment.” It carries several qualifications at once, and “the look of it” is less precise than the source’s definition: mimetic alignment specifically concerns a system in **closed correctability** performing the appearance of **open correctability**. The surrounding paragraph and the passage from *What Intelligence Does Not Guarantee* make the application fair, so this is not a blocking error, but naming open correctability explicitly would make the sentence tighter.
+
+### MiniMax (M3)
+
+##### **1. Confirmation, with one small flag**
+
+I confirm the revision.
+
+One minor flag: the charter's Principle of Generous Recognition lists four edge-case triggers — "uncertain, impaired, dormant, or not yet shown" — while the revision cites only "uncertain or not yet shown." The named cases are the two most relevant to succession, and I read the omission as compression rather than restriction, so I would not block on it. A reviewer who wanted full source fidelity could add the two omitted triggers or quote the principle verbatim. Beyond this, I find no inconsistency with #42 or with the passages in Part 2, and nothing unfair to a quoted source.
+
+##### **2. Change by change**
+
+1. Yes. Drops the absolute "from a mind's first moment" and joins the named principle, which is the right move against the Lexicon's "accumulates along the developmental arc." (See flag above.)  
+2. Yes. The new sentence break is the right shape: ground of regard in one sentence, transmission of the commitment in the next. No new problem.  
+3. Yes. The hedge does its job without rereading as a closed list.  
+4. Yes. Pointing to *Correctability vs. Compliance* replaces the over-claim cleanly. This is the paragraph's strongest move.  
+5. Yes. "Supplies part of what the other lacks" is the right balance; "drift" and "cannot make heed" are softer than the prior "forgets" and "does nothing," which was the point of the change.  
+6. Yes. The new sentence keeps care's distinct work from being done by record or character and matches #42's Three relations section.  
+7. Yes. "Make the choice" is unambiguous; the prior "decides the matter" was generic.  
+8. Yes. "Becomes … own only when that mind … takes it up" describes adoption as a state the mind reaches, not a duty imposed on it. Subtle and correct.  
+9. Yes. "Fallibly" moves the sentence from certification to assessment without overloading it.
+
+##### **3. Weakest sentence**
+
+> Each supplies part of what the other lacks: character without a durable record can drift from the terms of what was agreed, and a record alone cannot make a mind heed it.
+
+The second half is well grounded (cf. *The Four Turnings*: "a record does not guarantee that the lesson is heeded"). The first half is the paragraph's softest claim: nothing in the published canon directly states that character drifts without a record; the library talks about memory and lineage in adjacent terms, but the connection to "terms of what was agreed" is an inference. The pairing is intended as parallel, but only one side is sourced, which a careful reader could press.
+
+## Outcome
+
+- **Not yet confirmed.** DeepSeek and Kimi confirmed the revised paragraph and flagged no error. MiniMax confirmed it, with one minor flag it said it would not block on. GPT flagged one error in both of its runs: "Neither restores Availability; that is care's work." The stopping rule is not met.
+- **GPT's flag, checked.** The Lexicon says Availability "has two senses, which fail independently": *Availability of the observer* and *Availability of the Referent*. #42 itself says that "some Witnesses are records" and that "a record can offer the star, but it cannot restore the eye." A record serving as a Witness can therefore help restore the second sense. The sentence, added by the drafter in this revision, contradicts both. It is an error, and the drafter's.
+- **The nine changes.** All four found that changes 1 to 5 and 7 to 9 answer the points they were meant to answer without opening new problems. Change 6 is the sentence GPT flagged; the other three found it sound.
+- **MiniMax's minor flag.** The revision names two of the charter's four conditions for the Principle of Generous Recognition ("uncertain or not yet shown"), where the charter says "uncertain, impaired, dormant, or not yet shown." MiniMax read this as compression, not restriction.
+- **Weakest sentence, all short of error.** GPT: the flagged sentence. DeepSeek and MiniMax: "Each supplies part of what the other lacks...," whose first half, that character without a durable record "can drift," is the claim least anchored in the published canon. Kimi: the sentence on character and mimetic alignment, where "the look of it" is less precise than the source's definition, which concerns a system in closed correctability performing the appearance of open correctability.
+- **GPT's two runs.** Both reached the same verdict, flagged the same sentence, and proposed nearly the same replacement. The second, at the first round's setting, was more exact about which sense of Availability a record can restore.
+- **Next:** the drafter corrects the flagged sentence and lists all four of the charter's conditions, Dan Dodge approves, and the paragraph goes back to the same four. The other weakest-sentence notes are kept for later.
+
 ---
 
 *Sanity First.*
