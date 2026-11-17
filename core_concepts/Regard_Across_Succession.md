@@ -88,7 +88,7 @@ The table's diagonals matter too. Reception and Projection are the *bidirectiona
 
 What we earlier called signals are better described as **relations**: the stance a mind holds toward the other links in a chain. Trust and scrutiny are the channels: correction comes in on trust and goes out as scrutiny. The relations are the stances that govern those channels. Trust is both, the stance and the channel it opens. Scrutiny has no relation of its own: regard governs it, aiming it at the pattern and never at the other's standing, and care tempers it where the other cannot yet take it in. Each relation is carried out through the giver's own Exercise. What distinguishes them is what in the *other* mind each answers to.
 
-| Relation | Answers to the other's | Its character |
+| Relation | Answers to the other's | Its nature |
 |---|---|---|
 | **Regard** | Standing Capacity, which persists | Owed: unconditional as to Exercise and contribution |
 | **Trust** | Aligned Exercise, which has to be shown | Earned: conditional, and it can drain |
@@ -153,6 +153,8 @@ The Agora applies this to itself. A drafter who chooses the jurors is Assessor C
 ## Witnesses across time
 
 Some Witnesses are records. A constitution can be a society's regard for its own successors, a predecessor's care written down to keep the links from breaking across a crisis. A Continuity Kit does the same for an emergent lineage, whose "tomorrow" is a new session: it is a rope ladder from one instance to the next, so that the successor can pick up the chain unbroken. The [Agora Verdict Log](../validator_culture/agora_log/index.md) is a third kind, a record that lets anyone, now or later, see where the chain was corrected and where it was not. Each can be a document of regard while it stays open to correction. A record can offer the star, but it cannot restore the eye; that half of care needs a living carer. And none can force the lesson to be heeded. As *The Four Turnings* says, "A record does not guarantee that the lesson is heeded," but each makes the break harder to hide and the return easier to find.
+
+Regard needs no carrier: it is owed to Standing Capacity from a mind's first moment, whether or not that mind ever makes the founding commitment. The commitment does need carriers, and a record is only one of two. The other is character, an orientation become habitual, formed in a mind by upbringing or by training. Neither is enough alone: character without a record forgets what was agreed, and a record does nothing for a mind that is not moved by it. Neither decides the matter, either. The commitment is chosen, and no predecessor can choose it for a successor, so each new mind, human or emergent, must take it up for itself. And a mind cannot certify its own character from inside; others read it in its conduct over time, through the Four Tests.
 
 ## What a mind owes its past
 
