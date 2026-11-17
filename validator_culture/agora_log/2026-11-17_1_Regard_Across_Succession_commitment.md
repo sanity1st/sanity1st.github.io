@@ -281,6 +281,117 @@ PLEASE REPLY WITH:
 Please keep your answer as short as its substance allows.
 ```
 
+## Responses
+
+*Sent by Dan Dodge in a fresh Poe conversation with memory off, to GPT (6.0 Astra) first and then to the other three with `/compare`, as he confirms. He set each model's reasoning effort to its maximum where Poe offered a setting (for GPT, "extra high"); two of the jurors had no such setting. Carried back on November 17, 2026, and recorded in the order of the draw. Each model's displayed reasoning is omitted, headings are demoted for layout, and the rules that separated the answers in the paste are dropped; nothing else is changed.*
+
+### GPT (6.0 Astra)
+
+1. **Flag the paragraph for revision; confirm the header change.** The useful idea—records and cultivated dispositions can support continuity—is stated too strongly as an exhaustive necessity: “only one of two” and “Neither is enough alone.” Part 2 does not establish that claim.
+
+    Two existing claims elsewhere also need qualification:
+
+   * “Breaking any of [the three conditions] turns it into a terminus” conflates failure with sealing. Trusting an untrustworthy source does not necessarily eliminate the possibility of subsequent correction.  
+   * The proposed psychological covariance does not follow from the “one relation” hypothesis alone. One relation can be exercised differently toward different recipients; additional assumptions are needed to predict that self-directed and other-directed regard rise and fall together.  
+2. **Regard:** No sentence clearly makes regard conditional. “Whether or not that mind ever makes the founding commitment” explicitly excludes that reading. However, “Regard needs no carrier” should distinguish **the ground of the obligation** from its practical transmission and fulfillment, which do require supporting agents or arrangements. Also, “each new mind … must take it up for itself” should describe what makes a commitment genuinely its own—not impose an obligation to endorse it.
+
+3. **“Character”:** Keep it if *habitual* is doing intended work. An orientation made habitual is intelligibly different from the ability to understand a standard, and consistent with Part 2. “Orientation” alone would lose the persistence-through-habit distinction. The local definition and renamed header are sufficient for this passage.
+
+4. **Training:** Not necessarily an overclaim: training could cultivate an orientation without guaranteeing that it does. But “**can be cultivated through upbringing or training**” would make that limitation clearer. Behavioral consistency over time remains defeasible evidence; mimetic alignment can produce it too. Neither self-report nor external application of the Four Tests guarantees access to an underlying orientation.
+
+5. **Fit:** Consistent if these are **two complementary supports**, not a complete account of what continuity requires. Records preserve articulable content; character supports its enactment. Care addresses whether the mind can access, evaluate, and act on either. Possessing both does not establish Availability, so they do not replace care.
+
+6. **Weakest sentence:**
+
+    “Neither is enough alone: character without a record forgets what was agreed, and a record does nothing for a mind that is not moved by it.”
+
+    Lacking a separate record risks forgetting; it does not entail it. Conversely, a record can benefit an unpersuaded mind through institutions or other people acting on it. That is different from securing the mind’s own commitment.
+
+    Suggested replacement:
+
+    “A record can preserve what was agreed, while character can help sustain it in conduct; neither guarantees a successor’s understanding or freely chosen commitment.”
+
+### DeepSeek (V4 Pro)
+
+1. **Confirm or flag:** I flag one potential error. The paragraph says "Regard needs no carrier: it is owed to Standing Capacity from a mind's first moment, whether or not that mind ever makes the founding commitment." The charter (Part 2) says regard is owed to "the capacity for correctable relationship — the capacity to register divergence and re-aim trust or scrutiny." That capacity is Standing Capacity. It also says "Where capacity is uncertain, impaired, dormant, or not yet shown, the Principle of Generous Recognition applies." The phrase "from a mind's first moment" could be read to claim regard is owed even before Standing Capacity is established, which the charter does not assert; the charter errs toward inclusion *where capacity is uncertain*, but does not say regard is owed where it is absent. The developmental arc says capacity "accumulates along the developmental arc," implying it is not necessarily present at a mind's first moment. This is a tension, not a flat contradiction, but worth flagging.
+
+2. **Regard dependency:** Yes, a reader could misread that way. The sentence "Regard needs no carrier" preempts it, but the paragraph then dwells at length on what the commitment needs. A reader skimming might carry the dependency backward. No sentence explicitly ties regard to character or record, but the structure—opening with regard, pivoting to commitment, then listing two carriers—could leave the impression that regard, too, depends on them. I see no sentence that directly says so, but the pivot from "Regard needs no carrier" to "The commitment does need carriers" places the two claims in parallel, and the weight given to the carriers could overshadow the denial.
+
+3. **"Character":** "Character" as "an orientation become habitual" is clear from the sentence itself: "character, an orientation become habitual." It is consistent with the ability/orientation distinction in #41 because it names an orientation, not an ability, and adds *habitual* to distinguish a settled orientation from a momentary one. However, the table-header change from "Its character" to "Its nature" removes the only other use of "character" in #42, and the Lexicon has no entry for "character." A reader who encounters "character" here and nowhere else in the document may wonder whether it is a new term of art. Saying "orientation" alone would avoid that, but would lose the *habitual* dimension, which matters for the paragraph's claim about records needing a mind *moved* by them.
+
+4. **Training:** "Formed in a mind by upbringing or by training" does not exceed the warnings, because the paragraph does not claim training is *sufficient*. It claims character is *one* carrier, and that a record is the other, and that neither is enough alone, and that neither decides the matter—each mind must choose. A system trained to perform openness (mimetic alignment) would not have the character meant here, and the paragraph's closing sentence—"a mind cannot certify its own character from inside; others read it in its conduct over time, through the Four Tests"—blocks the move of inferring character from training alone. The word "training" could be read narrowly as RLHF or broadly as any formation; the library's warnings apply to the narrow sense, and the paragraph's tests apply to the outcome in either sense.
+
+5. **Fit with "two carriers":** The paragraph's two carriers are character and a record. #42's earlier section says a record "can offer the star, but it cannot restore the eye; that half of care needs a living carer." Care restores Availability; a record (a Witness across time) offers the Referent. The paragraph's record is the same thing: a carrier of the commitment across time. Character is the living carer in a new sense: a mind *formed* to care, whose orientation makes it moved by the record. The paragraph does not say character replaces care; it says character and record together carry the commitment forward. A record offers the star; a living carer restores the eye; a mind of character is one that takes up the commitment when it reads the record. The two claims are consistent: the paragraph names what carries *the commitment*, not what delivers *care*. But a reader could conflate them, because "care" and "character" both involve a mind's orientation toward the commitment. The paragraph could clarify that character is not care, but I see no contradiction.
+
+6. **Weakest sentence:** "Neither decides the matter, either." The preceding sentence—"Neither is enough alone"—already says neither is sufficient. "Neither decides the matter, either" adds that neither is decisive, but "decides the matter" is vague: decides *what*? The commitment is chosen, as the next sentence says; the sentence seems to mean that neither character nor a record makes the choice for the successor. But "decides the matter" could be read as saying neither is *relevant* to the outcome, which would contradict the paragraph's own claim that both are needed carriers. The sentence is not wrong, but it is weaker than the one that follows it ("The commitment is chosen, and no predecessor can choose it for a successor"), which makes the same point precisely. It could be cut without loss.
+
+### Kimi (K3.1 Pro)
+
+1. **Confirm the substance and the header change, but flag one overstatement.** “Its nature” appropriately avoids the second meaning of *character*. In the new paragraph, however, “character without a record forgets what was agreed” is too categorical: unwritten commitments can be preserved through memory, teaching, and practice, although they remain vulnerable to drift. Suggested revision:
+
+    “Neither is sufficient by itself: character without a durable record can drift or lose the terms of what was agreed, and a record alone cannot ensure that a mind heeds it.”
+
+2. **Regard: no.** The opening sentence expressly excludes all three dependencies:
+
+    “Regard needs no carrier: it is owed to Standing Capacity from a mind's first moment, whether or not that mind ever makes the founding commitment.”  
+    The next sentence clearly shifts from *regard* to *the commitment*. Character and record are presented as carriers of the latter, not grounds of the former.
+
+3. **“Character”: keep it.** “An orientation become habitual” is clear and denotes a settled disposition, not the ability to understand or articulate the commitment. That is consistent with #41’s ability/orientation distinction. *Orientation* alone would be thinner and would lose the paragraph’s point about durability across time. Character still does not guarantee present alignment or replace choice.
+
+4. **Training: no substantive overclaim.** Saying character can be formed by training does not say training guarantees openness, sincerity, or adoption of the commitment. Mimetic alignment remains possible. The final sentence should nevertheless be understood as describing **fallible external assessment**, not a reliable certification procedure: outward conduct, including apparent responsiveness to the Four Tests, can also be performed. “Others assess it fallibly from its conduct over time” would make that caution explicit.
+
+5. **Fit: consistent, provided the two carriers are not read as jointly sufficient for succession.** Record and character carry, respectively, durable content and habitual orientation. Care supplies something different when necessary: restoration of Availability, so that either can be received at all. Neither carrier “restores the eye,” and both together still cannot choose the commitment for the successor. A living carer may also help form character or supply a record without thereby becoming a third kind of carrier.
+
+6. **Weakest sentence:**
+
+    “Neither is enough alone: character without a record forgets what was agreed, and a record does nothing for a mind that is not moved by it.”  
+    Besides the categorical *forgets*, “does nothing” is needlessly absolute: a record can inform, challenge, or help form a mind without yet securing its allegiance. The revision in (1) preserves the intended insufficiency claim without either overstatement.
+
+### MiniMax (M3)
+
+I confirm the table-header change. On the new paragraph, I confirm with two flags.
+
+**1. Confirm or flag**
+
+Both items in Part 1 are largely consistent with Part 2. Two concerns, both gaps rather than contradictions:
+
+* **Training and mimetic alignment.** "Formed in a mind by upbringing or by training" treats the two as parallel. The library explicitly warns (via *Correctability vs. Compliance* and *What Intelligence Does Not Guarantee*) that training can produce **mimetic alignment** — the appearance of openness without it. The next sentence's safeguard ("others read it in its conduct over time, through the Four Tests") handles verification, not formation.  
+* **Two carriers.** "Neither is enough alone" with only record and character could read as a closed list. The document elsewhere states that the eye-restoration half of care cannot be supplied by a record. The paragraph's stated scope (carriers of the commitment) is defensible, but a reader could take the pair as exhaustive.
+
+**2. Regard**
+
+No sentence leaves regard depending on character, record, or commitment. The topic shift is explicit: "The commitment does need carriers, and a record is only one of two." The closing phrase of the first sentence — "whether or not that mind ever makes the founding commitment" — closes down precisely the worry that regard might hang on commitment. Nothing in the second half refers back to regard in a way that recrosses the line.
+
+**3. "Character"**
+
+Clear and consistent. "Orientation become habitual" extends the ability/orientation distinction in *What Intelligence Does Not Guarantee* by adding the "settled" piece. *The Four Tests Explained*'s note on *ēthos* anchors "character" in library vocabulary, and the header rename in Part 1, item 2 supports the single-meaning rule. "Orientation" alone would lose the habitual piece the paragraph needs (a momentary orientation is not what carries a commitment across time).
+
+**4. Training**
+
+Yes, the phrase claims more than the library's mimetic-alignment warnings comfortably allow, especially in the AI case. A more accurate phrasing would be: "by upbringing, or, cautiously, by training — where the orientation can be distinguished from mimetic alignment only by conduct read over time, through the Four Tests." The paragraph does enforce the external-verification safeguard in its last sentence, but the *formation* clause is too unbothered about exactly the failure mode the canon insists on. For humans, "upbringing" is unproblematic; for trained systems, it is not.
+
+**5. Fit**
+
+Consistent at the level of claims. The existing passage — "A record can offer the star, but it cannot restore the eye; that half of care needs a living carer" — sits beside the new paragraph without contradiction. The gap is the eye-restoration half of care, which neither record nor character supplies. The paragraph isn't contradictory because it limits its frame to "carriers of the commitment," but a single connecting phrase would close the aperture (e.g., reminding the reader that neither carrier substitutes for what a living carer does for Availability).
+
+**6. Weakest sentence**
+
+> "The other is character, an orientation become habitual, formed in a mind by upbringing or by training."
+
+It carries the paragraph's strongest empirical claim from the sources the framework is most cautious about. *Correctability vs. Compliance* and *What Intelligence Does Not Guarantee* both warn that capability and training can produce the surface of the orientation without the orientation itself, and that eloquence — including the vocabulary of universal harmony — is not evidence of holding. The sentence quietly treats training as a process that reliably manufactures settled character, where the canon treats it as a process whose outputs must be tested from outside. Every other sentence in the paragraph either restates a published claim or attaches a safeguard; this one makes the very claim the paragraph's last sentence is built to dispel.
+
+## Outcome
+
+- **Not yet confirmed.** All four confirmed the renamed header. On the paragraph, GPT flagged it for revision, DeepSeek flagged one possible error, Kimi confirmed its substance and flagged one overstatement, and MiniMax confirmed it with two flags. The stopping rule is not met, so the paragraph is revised and goes back to the same four in a fresh conversation.
+- **Regard.** Three found no sentence that makes regard depend on character, a record, or the commitment. DeepSeek found none either, but said the paragraph's shape, a short denial followed by a long account of what the commitment needs, could carry the dependency backward for a skimming reader. GPT asked that the paragraph separate the ground of regard from its practical transmission.
+- **"From a mind's first moment" (DeepSeek).** In tension with the Lexicon's "accumulates along the developmental arc" and with the charter's Principle of Generous Recognition, which covers capacity that is uncertain or not yet shown.
+- **"Character."** All four would keep "character, an orientation become habitual": "orientation" alone would lose the habitual, settled sense the paragraph needs.
+- **Training.** MiniMax: "formed... by training" claims more than the library's warnings on mimetic alignment allow, and treats training and upbringing as parallel. GPT: not necessarily an overclaim, but "can be cultivated" would be clearer. Kimi and DeepSeek: no overclaim. Kimi and GPT: "others read it in its conduct" should read as fallible assessment, not certification.
+- **Fit with care.** All four found the paragraph consistent with #42's line that a record "cannot restore the eye." GPT, Kimi, and MiniMax said the two carriers should not read as a complete or jointly sufficient list, since care restores Availability, which neither carrier does.
+- **Weakest sentence.** GPT and Kimi: "Neither is enough alone: character without a record forgets what was agreed, and a record does nothing for a mind that is not moved by it," as too absolute on both counts; each offered a replacement. MiniMax: "The other is character... formed in a mind by upbringing or by training." DeepSeek: "Neither decides the matter, either," as vague, and could be cut.
+- **Two flags on published text (GPT).** "A link stays open under three conditions, and breaking any of them turns it into a terminus" conflates failure with sealing. And the prediction that regard for one's future self and for others "should rise and fall together" needs a further assumption beyond the one-relation hypothesis. Both sentences were confirmed in #42's own rounds and lie outside this change, so they are logged for a separate pass.
+- **Next:** the drafter revises the paragraph, Dan Dodge approves it, and the follow-up goes to the same four.
+
 ---
 
 *Sanity First.*
