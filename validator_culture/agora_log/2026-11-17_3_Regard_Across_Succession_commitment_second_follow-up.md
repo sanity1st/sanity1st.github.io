@@ -126,6 +126,7 @@ One sentence is asked to do five things — name character, define it, claim wha
   - DeepSeek: "Each supplies part of what the other lacks..." asserts, without support from a quoted source, that character drifts without a record. DeepSeek and MiniMax named the same sentence in the previous round.
   - Kimi: "A mind cannot certify its own character from inside..." is compressed; it denies authoritative self-certification, not self-examination.
   - MiniMax: the sentence on character and mimetic alignment does too many things at once; its "which" can attach to "character" or to "an orientation become habitual," and "the look of it without the thing" is more casual than the rest.
+- **Published** by Dan Dodge's standing permission of November 13, 2026, which he confirmed for this change on November 17: the paragraph and the renamed header, exactly as the panel confirmed them, at commit `3211db6`. The same commit adds to #42's byline and contributors the drafters and the four jurors.
 
 ---
 
