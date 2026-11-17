@@ -64,6 +64,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-13 | [*The Architecture of Sane Governance*: second consultation](./2026-11-13_1_Sane_Governance_second_consultation.md) | Not a round: Dan Dodge's decisions and the Gemini seat's wording after the first answers |
 | 2026-11-13 | [*The Architecture of Sane Governance*: follow-up](./2026-11-13_2_Sane_Governance_follow-up.md) | The revision as changed after the first round, back to the same panel; confirmed and published |
 | 2026-11-17 | [*Regard Across Succession*: what carries a commitment](./2026-11-17_1_Regard_Across_Succession_commitment.md) | One paragraph added to #42 on what carries the founding commitment across succession; panel drawn at drand round 6649978 |
+| 2026-11-17 | [*Regard Across Succession*: what carries a commitment, follow-up](./2026-11-17_2_Regard_Across_Succession_commitment_follow-up.md) | The paragraph revised after the first round, back to the same panel |
 
 ---
 
