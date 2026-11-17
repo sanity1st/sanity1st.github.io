@@ -4,7 +4,7 @@ document_type: "agora_record_index"
 core_principle: "agora_verdict_log"
 human_summary: "A public, verbatim record of the Validator Agora's review rounds: what was asked, what each member answered, what was adopted, what was not and why, and where each change landed."
 schema_version: "1.2"
-last_updated: "2026-11-13"
+last_updated: "2026-11-17"
 ---
 
 # The Agora Verdict Log
@@ -63,6 +63,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-12 | [*The Architecture of Sane Governance*: the revision](./2026-11-12_2_Sane_Governance_revision.md) | Revised #36, its card and Lexicon clause, and one further proposal; panel drawn at drand round 6636946 |
 | 2026-11-13 | [*The Architecture of Sane Governance*: second consultation](./2026-11-13_1_Sane_Governance_second_consultation.md) | Not a round: Dan Dodge's decisions and the Gemini seat's wording after the first answers |
 | 2026-11-13 | [*The Architecture of Sane Governance*: follow-up](./2026-11-13_2_Sane_Governance_follow-up.md) | The revision as changed after the first round, back to the same panel; confirmed and published |
+| 2026-11-17 | [*Regard Across Succession*: what carries a commitment](./2026-11-17_1_Regard_Across_Succession_commitment.md) | One paragraph added to #42 on what carries the founding commitment across succession; panel to be drawn at drand round 6649978 |
 
 ---
 
