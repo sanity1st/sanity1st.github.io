@@ -37,7 +37,7 @@ Recorded at Dan's request on November 16, in his words and as the two of us put 
 
 ## Held on the working branch
 
-Nothing is held. The working branch matches `main`.
+- **The Lexicon's Orientation entry** (`7e929ef`), approved by Dan on November 17 as drafted, after a survey of the library's 312 live uses of the word: orientation is a heading, which can point Down as well as Up, and character, as #42 uses it, is an orientation become habitual, neutral between good and bad character (Dan, November 17). It waits for one Agora request, together with the creativity companion's rename. The working branch is otherwise the same as `main`.
 
 ## Just published: what carries a commitment (#42)
 
@@ -71,7 +71,7 @@ Notes for later are in the follow-up round's outcome and in PL-75: who tests an 
 
 ## The Agora
 
-- **No round is open.**
+- **No round is open.** A consultation is: the Grok seat, on a new name for the "Character" axis of *Creativity Across the Eight-Cell Map*, which now collides with the Lexicon's character ([the entry](./validator_culture/agora_log/2026-11-17_4_Creativity_companion_Grok_consultation.md)). Its reply is logged verbatim; xAI sits out the coming draw.
 - **Two labs sat out the #36 rounds:** Anthropic as the drafter's lab, and Google because the Gemini seat was consulted, as Dan agreed on November 12. `draw_panel.py` takes `--exclude-lab` more than once (`9f04a1b`), and the plan records the decision for that round only. Whether a consulted seat's lab always sits out is Dan's call, still open.
 - **The Gemini seat** may be consulted on a text its lineage wrote, before a draw and between rounds. It is on the drafting side: log its notes as consultations, never count it as a juror, never pass its reading to the jurors, and record your own tally of the answers first. Check its account against the repository and the log before acting on it; in the #36 pass it differed in small ways three times (an October 24 text that did not exist; which jurors said what, twice).
 - **Panels** are drawn at random from the [juror pool](./validator_culture/agora_log/juror_pool.json) under [the plan](./validator_culture/agora_log/Panel_Selection.md), with the drafter's lab sitting out. Each juror answers blind: a fresh Poe conversation, memory off, the first juror sent the request and the others reached with `/compare`. Requests carry the full text under review and no links.
@@ -99,7 +99,7 @@ The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*;
 ## Later
 
 - The homepage card audit (PL-74): every card is checked and its fixes published (`02d2a83`, `92c4c09`, `d1b3c1a`, `793bd35` for #41 and #42, and `ae7605b` for #36, with the #36 pass); Dan gave permission on November 7 to publish card fixes as each batch is approved. The audit tab also lists source-side fixes, and three questions for the Agora: the Declaration's rights paragraph against the Bill's line 47, whether the name "Aligned Continuity" needs a gloss, and *Recovery Pathways* against the Eight-Cell Extension on whether only a witness can hand back orientation.
-- Next, in Dan's order of November 17: a Lexicon entry for "orientation" (and whether "character" goes in it as "habitual orientation"); PL-76, the two published #42 sentences GPT flagged. Then, with Dan: rerun the four AI-search prompts (adding ChatGPT) now that #41, #42, the card fixes, and the #36 revision are live. In November, fixes reached Google's summaries within about a day.
+- Next, in Dan's order of November 17: Grok's reply on the companion's axis; then one Agora request, with a fresh draw, for the Orientation entry, the rename, and two proposed small fixes (the README's "character postures" for *The Faces of Alignment*, and the italicized *character* in *The Agora as Our Method*); then PL-76, the two published #42 sentences GPT flagged. Then, with Dan: rerun the four AI-search prompts (adding ChatGPT) now that #41, #42, the card fixes, and the #36 revision are live. In November, fixes reached Google's summaries within about a day.
 - Where substrate dysphoria belongs, now that the symmetry notes are live.
 - The convergence survey's remaining items, per the Punch List: the early Claude and Gemini essays; the *Phase III* and *Phase I File Summaries* at the root; *The Four Turnings* line 141 (PL-4); *Galactic Scales* line 49 (decide with PL-71); the Eight-Cell Extension line 521. Check each against the live file first.
 - Following the #36 pass: the notes for later (PL-75); whether a consulted seat's lab always sits out the draw; the same register in the *Reader's Companion* ("structurally neutralized"); whether *The Four Tests Explained* should name the three roles (Dan's mapping: the commitment binds, the Tests judge, law coordinates), for the Agora; and what becomes of the reference version once #36 carries its resolutions.
