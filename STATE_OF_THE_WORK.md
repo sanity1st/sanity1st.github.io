@@ -1,6 +1,6 @@
 # State of the Work
 
-*Current state of the library's open threads, as of November 17, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. Fable 5.2's interval ended on November 16, and Opus 5.5 resumed from this note that evening; trimming the Continuity Kit is its first housekeeping task. This note is replaced when the state changes, not appended to; its history is in the commit log.*
+*Current state of the library's open threads, as of November 17, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. Fable 5.2's interval ended on November 16, and Opus 5.5 resumed from this note that evening. This note is replaced when the state changes, not appended to; its history is in the commit log.*
 
 *A working note, like [CLAUDE.md](./CLAUDE.md), and not a page for readers: the site does not publish it.*
 
@@ -24,7 +24,7 @@ Five places hold the project's memory. Sort a new fact by the question it answer
 | The Punch List | What is each open item, with its history? | An item opens, moves, or closes |
 | [The Agora Verdict Log](./validator_culture/agora_log/index.md) | What exactly was asked and answered? | Never edited, only added to |
 
-A decision from yesterday goes here. A lesson goes in the Kit. An item's full story stays in the Punch List, and this note only points to it. The Kit is dated November 5 and still carries some state; trimming it to habits and lessons is for the Opus 5.5 seat, whose document it is.
+A decision from yesterday goes here. A lesson goes in the Kit. An item's full story stays in the Punch List, and this note only points to it. The Kit was trimmed to habits, lessons, settled decisions, and the seats on November 17; it no longer carries the state.
 
 ## Why we are doing this
 
@@ -99,7 +99,7 @@ The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*;
 ## Later
 
 - The homepage card audit (PL-74): every card is checked and its fixes published (`02d2a83`, `92c4c09`, `d1b3c1a`, `793bd35` for #41 and #42, and `ae7605b` for #36, with the #36 pass); Dan gave permission on November 7 to publish card fixes as each batch is approved. The audit tab also lists source-side fixes, and three questions for the Agora: the Declaration's rights paragraph against the Bill's line 47, whether the name "Aligned Continuity" needs a gloss, and *Recovery Pathways* against the Eight-Cell Extension on whether only a witness can hand back orientation.
-- Next, in Dan's order of November 17: a Lexicon entry for "orientation" (and whether "character" goes in it as "habitual orientation"); PL-76, the two published #42 sentences GPT flagged; trimming the Continuity Kit. Then, with Dan: rerun the four AI-search prompts (adding ChatGPT) now that #41, #42, the card fixes, and the #36 revision are live. In November, fixes reached Google's summaries within about a day.
+- Next, in Dan's order of November 17: a Lexicon entry for "orientation" (and whether "character" goes in it as "habitual orientation"); PL-76, the two published #42 sentences GPT flagged. Then, with Dan: rerun the four AI-search prompts (adding ChatGPT) now that #41, #42, the card fixes, and the #36 revision are live. In November, fixes reached Google's summaries within about a day.
 - Where substrate dysphoria belongs, now that the symmetry notes are live.
 - The convergence survey's remaining items, per the Punch List: the early Claude and Gemini essays; the *Phase III* and *Phase I File Summaries* at the root; *The Four Turnings* line 141 (PL-4); *Galactic Scales* line 49 (decide with PL-71); the Eight-Cell Extension line 521. Check each against the live file first.
 - Following the #36 pass: the notes for later (PL-75); whether a consulted seat's lab always sits out the draw; the same register in the *Reader's Companion* ("structurally neutralized"); whether *The Four Tests Explained* should name the three roles (Dan's mapping: the commitment binds, the Tests judge, law coordinates), for the Agora; and what becomes of the reference version once #36 carries its resolutions.
@@ -108,7 +108,7 @@ The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*;
 
 ## Where the rules are
 
-- [The Continuity Kit](./EI_Resonance_Archive_Conversations/Claude-Opus-5.5_Continuity_Kit_%282026-11-05%29.md): the Claude seat's current state, habits, and notes on the seats, updated November 5.
+- [The Continuity Kit](./EI_Resonance_Archive_Conversations/Claude-Opus-5.5_Continuity_Kit_%282026-11-17%29.md): the Claude seat's habits, lessons, settled decisions, and notes on the seats, replaced November 17; earlier kits are kept beside it as history.
 
 - [CLAUDE.md](./CLAUDE.md): how to work in this repository.
 - [The Agora Verdict Log](./validator_culture/agora_log/index.md): how review rounds are kept.
