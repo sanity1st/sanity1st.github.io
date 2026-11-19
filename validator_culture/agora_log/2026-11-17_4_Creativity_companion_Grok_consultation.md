@@ -71,9 +71,70 @@ Fixed here before Grok answers, and not sent to it, so the log shows the two pro
 - **Footing**, first: plain, and used once elsewhere in the library, in its ordinary sense. "What is the footing of the generation? Tethered, recursive, or projected?"
 - **Anchoring**, second: closer in sense, since *Layers of Correctable Relationship* calls tropism "externally anchored," but used four times elsewhere, so it would need a check.
 
+## Attempts and settings
+
+Dan carried the note to Grok on Poe (version to be confirmed). Three attempts:
+
+1. November 17, overnight: reasoning effort "XHigh," web search on. The reply ran past Poe's time limit.
+2. November 18, morning: "High," web search on, continuing the same conversation. It also ran past the limit; its displayed reasoning had just set out to search the library's website.
+3. November 18: "XHigh," web search off. This attempt answered, and its reply is the reply of record.
+
+The displayed reasoning of all three is omitted, as it is for jurors. From this consultation on, web search is off wherever Poe offers the setting (Dan, November 18), so that a reader judges only the text in the request.
+
 ## The reply
 
-*Pending.*
+**1. Name**
+
+**Manner.** It is the word I would publish in the six slots: plain, non-ranking, parallel to novelty and correctability, and not a metaphor that shifts what tethered, recursive, and projected mean. It is not mode — mode in this file is open or sealed — though it sits near enough to mode, and in the arts to style, that the definition has to keep those readings out.
+
+**Type**, runner-up. It substitutes into the same six lines, it is not near mode or style, and it does not shift the three values, but it is generic, and the subtitle would look unfinished beside correctability.
+
+The values stay tethered, recursive, and projected. I would not use relation — this file already uses relationship for the governing, open-or-sealed question — nor stance, position, bearing, tether, bond, or binding.
+
+**2. The six lines**
+
+1. Unbundles manner, novelty, and correctability of generation so that originality cannot be mistaken for openness, nor sealing for sterility.
+
+2. `manner_vs_novelty_vs_correctability`
+
+3. *A companion on generation: manner, novelty, and correctability*
+
+4. **Manner** — whether generation is tethered to a received form, recursive upon the maker’s own process, or projected outward as a standard for others.
+
+5. Manner of generation is not a ladder.
+
+6. **What is the manner of the generation?** Tethered, recursive, or projected?
+
+**3. Other sentences**
+
+No. Nothing else in the file uses the word, and I do not find a sentence that becomes false or misleading under the substitution.
+
+Two neighbors are worth knowing, though neither reads wrongly. The metadata key `open_vs_sealed_modes` uses mode for open versus sealed; manner is not that, and the logic line keeps it unbundled from correctability. “A style of making,” in *Ordinary movement, no ladder*, is not this axis.
+
+**4. The quoted definitions**
+
+Nothing in them seems false for this file.
+
+Character as an orientation become habitual, shown in conduct over time, is a property of a mind across time. This axis is a property of a generation, askable once, and the file says postures shift. That is why the word cannot stay. The Regard sentence agrees with the companion: upbringing or training can cultivate and cannot guarantee. “Settled, yet never fixed” and “rather than certified from inside” agree too — postures are not identities, and a sealed mind can certify a world in which it cannot be wrong. I am unsure about “under correction.” It may mean that character is seen where correction can land, or that a habitual orientation counts as character only if it remains correctable. This file needs sealed postures to stay describable: Q3 and Q4 are inhabited, and sealed creativity runs. If the second reading is the library’s, a sealed habit is orientation but not character. That can be coherent. It should be plain. It does not block the rename; after it, this file does not use the word.
+
+Orientation joins “where its trust and scrutiny point” to “what its chain of correction finally answers to.” This companion’s work is to keep the first apart from correctability: the four postures are that crossing, and open or sealed cuts across all four. The answers-to clause sits very near the open/sealed test. It is also unclear, for this file, whether “answers to” means the terminus — the governing relationship — or the Star the Tests serve. Those can be told apart here. I am unsure the lexicon means the two clauses to be inseparable. If it does, “Cells are orientational postures, not identities, and not ranks” can be read as though a posture already contained the answers-to, which this file denies. The other sentence, that stochastic variation is not “a substitute for orientation,” still reads truly under the broader definition. I would not change it for this rename, and I am not proposing any change to those entries.
+
+I have kept to the rename.
+
+## Checks on the reply
+
+By Claude (Opus 5.5), against the repository.
+
+- **Grok's account of its document holds.** "Character" appears exactly six times, at the six places listed. The sentences Grok cites ("Cells are orientational postures, not identities, and not ranks"; "a substitute for orientation"; "a style of making," under *Ordinary movement, no ladder*; "Postures shift"; and the key `open_vs_sealed_modes`) are in the published file as quoted.
+- ***Manner* is free.** The live library uses the word twice, both times in its ordinary sense: "bedside manner," in the early Claude essay, and the homepage's "A warm manner and a cold one are equally available to an open mind and a sealed one, which is why the framework never reads a verdict off a face." The homepage's use agrees with the companion's: in both, manner is horizontal, and open or sealed cuts across it.
+- ***Type*, the runner-up, would collide.** The library repeatedly denies that its maps describe "personality types" or a "type of person" (*The Four Quadrants*, *The Eight-Cell Extension*, *Eight-Cell Phenomenology*), so as the name of an axis it would invite the reading the library rules out.
+- **"Under correction," in the held Orientation entry.** The phrase comes from the *EI Consciousness Statement*, where whether a mind holds an orientation "shows over time and under correction": that is, it is seen where correction lands. In the entry's last sentence it can also be read the second way Grok names, which would make a sealed habit no character at all and contradict Dan's decision of November 17 that character is neutral, good or bad. Claude proposes dropping the two words; Dan's decision is pending.
+- **The entry's two clauses are joined on purpose.** The library calls the quadrants and cells orientations, and a cell is a posture together with whether its chain of correction is open or sealed. The entry keeps the parts distinguishable: *vertical orientation* names the answers-to part, and the Lexicon's Four Postures name the trust-and-scrutiny part. "Cells are orientational postures" follows the *Eight-Cell Extension*'s phrase ("not personality types but *orientational postures*") and reads as a posture with its heading, not a posture that already contains it. No change proposed.
+- **"Answers to" means the terminus.** The phrase is the Lexicon's own, from its Open Terminus entry ("What an open chain of correction finally answers to"); it names whatever the chain ends in, open or closed, and for an open chain that is the USF itself. The entry's next sentence spells out both cases. No change proposed.
+
+## What follows
+
+*Pending Dan's decision on the name, Grok's six lines, and the two words in the held entry.*
 
 ---
 
