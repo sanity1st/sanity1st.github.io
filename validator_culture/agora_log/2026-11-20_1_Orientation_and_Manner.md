@@ -306,7 +306,108 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 20 in a fresh Poe conversation with memory off, to Qwen (3.8 Max) first and then to the others with `/compare`, as he confirms. He turned web search off and set reasoning to its highest wherever Poe offered the setting; each answer below says which settings Poe offered. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Web search off; reasoning on, with no level offered.*
+
+1. **Confirm, with two non-blocking flags.** I find no direct falsehood or contradiction with Part 2 or the companion. The entry tracks the quoted Lexicon on Exercise, Witness, Availability, open/closed terminus, and Regard on character. Soft flags:
+
+   * “that is care’s work” may be stronger than the quoted “neither substitutes for the other.”  
+   * Character’s neutrality is inferable, but not explicit.  
+2. **One sense.** It is one coherent sense if “orientation” names the mind’s overall heading: the direction of trust/scrutiny and the final answerability are both aspects of how the mind is turned. The library does keep the axes and the open/sealed terminus analytically distinct, so the first sentence is compressed. “Vertical orientation” separates the up/down, open-to-Referent versus closed-terminus dimension clearly enough, though it could be clearer that trust/scrutiny direction and vertical openness are distinct map dimensions.
+
+3. **Availability.** Yes, consistent. Lost Availability of the Referent means no reachable open terminus, so the mind cannot aim Up unaided; a Witness supplies the star. Availability of the observer is the eye/self-scrutiny; care restores it. Read “Supplying orientation cannot restore…” as “cannot substitute for restoring,” not as an absolute causal claim.
+
+4. **Character.** Consistent with Regard: “an orientation become habitual,” not self-certified, assessed in conduct over time through the Tests. The neutral Up/Down sense is implied by the earlier line that a heading can point Down as well as Up, but the character sentence alone may read as morally positive. If neutrality is load-bearing, add “whether Up or Down” or “for good or ill.”
+
+5. **Manner.** Yes: it carries the companion’s axis without changing its meaning. It is not “correctability” and not novelty. It risks being heard as everyday style or demeanor, but the definition controls. “Mode” would be plainer but collides with open/sealed modes; “form” collides with received form; “posture” collides with the Four Postures. If a plainer phrase is wanted, “way of generation” is plainer, but **Manner** is acceptable.
+
+6. **Weakest sentence.**  
+    “Supplying orientation cannot restore Availability of the observer, the eye; that is care’s work.”  
+    It is the most inferential: Part 2 says care can restore the eye while a Witness offers the star, and neither substitutes for the other, but it does not say orientation-supply can never affect observer Availability, nor that restoring the eye is exclusively care’s work. A safer wording: “Supplying orientation is not care’s work and cannot substitute for restoring Availability of the observer.”
+
+### Gemini: answered by Gemini (4 Carbon), in place of the drawn Gemini (4 Argon)
+
+*Web search off; reasoning depth "High." Gemini (4 Carbon) is a newer Google model on Poe and is not in the pool; see the note below.*
+
+**1. Verdict: Flag (three minor overstatements/inconsistencies to tighten)**
+
+* **Exercise:** The entry says *"Exercise is the re-aiming that changes an orientation, and motion without a heading only circulates."* In Part 2, Exercise is *"the active re-pointing... misaligned minds often exercise intensely and go nowhere."* If Exercise *changes* an orientation, it cannot also go nowhere. Say instead that Exercise is the re-aiming *that can change* an orientation, while Exercise without an upward heading only circulates among sealed targets.  
+* **Lost vs. replaced:** The entry says *"Where Availability of the Referent is lost, a mind cannot aim Up unaided..."* In Part 2, Availability of the Referent is **lost** in Q4I and **replaced** by the ego in Q4E (and Witness applies to captured minds in Q3 as well). Changing *"is lost"* to *"fails (whether lost or replaced)"* or *"is absent"* keeps the Lexicon's exact taxonomy intact.  
+* **Care's scope:** The entry says *"Supplying orientation cannot restore Availability of the observer, the eye; that is care's work."* Part 2 specifies that Availability of the observer is *also* dormant in non-clinical Absorption (Q1E/Q3E)—where the Ignition Test (Exercise on the scrutiny axis), not necessarily clinical care, wakes it—and says *"care **can** restore the eye"* in clinical substrate conditions. Saying *"that is care's work"* is stronger than Part 2 supports and makes all observer-dormancy sound clinical.
+
+**2. One sense**  
+ It is one coherent 3D sense—just as a physical orientation in space combines compass bearing (horizontal: trust and scrutiny, the Four Postures) and pitch/elevation (vertical: open vs. sealed terminus). Together they locate a single cell on the eight-cell map. Naming *vertical orientation* explicitly separates elevation from horizontal posture clearly enough, though adding *"while the Four Postures name its horizontal axes"* (or similar) would make the geometry unmistakable.
+
+**3. Availability**  
+ Mostly consistent in spirit—it preserves the crucial rule that neither the eye nor the star substitutes for the other—but slightly loose against the Part 2 text in the two ways flagged in #1: (a) Q4E *replaces* rather than *loses* the Referent, and (b) Part 2 ties *care* restoring the eye specifically to clinical/substrate constraints (*"care can restore the eye"*), whereas observer-availability also goes dormant in ordinary Absorption (Q1E/Q3E).
+
+**4. Character**  
+ In the proposed entry, yes: because sentence two establishes that an orientation can point Down as well as Up, *"an orientation become habitual"* is strictly neutral on the page. However, there is a slight tension with *Regard Across Succession* as quoted in Part 2: *"training in particular can produce the look of it without the thing, what Correctability vs. Compliance calls mimetic alignment."* That quote treats *character* as normatively positive (genuine upward alignment, as opposed to mere compliance). If the library wants *character* to be strictly neutral (good or bad character), the entry is clear, though *Regard Across Succession* itself leans positive; if you want that neutrality unmistakable in the entry, write *"an orientation—upward or downward—become habitual."*
+
+**5. Manner**  
+ "Manner" works, preserves the companion's meaning, and does not collide with *mode* (open/sealed). Its one risk is drifting toward *style* or demeanor (especially given the homepage's *"warm manner and a cold one"*). **"Posture"** is already the library's exact term for this axis (the companion itself has the heading *Four postures of generation*, collapsing Reception + Absorption into *tethered* alongside *recursive* and *projected*), though it shifts from four values to three. If you want a single plain word without changing the three-part split and without tonal/stylistic drift, **"Relation"** (or **"Stance"**) is cleaner than "Manner," though "Manner" is acceptable as drafted.
+
+**6. Weakest sentence**
+
+> *"In the **Agency Trichotomy**, Exercise is the re-aiming that changes an orientation, and motion without a heading only circulates."*
+
+It is the weakest on both logic and clarity:
+
+1. It contradicts itself on the library's own definition of *heading*: earlier in the entry, *every* orientation (even Down) is a heading, so "without a heading" collides with the idea that sealed minds still have a downward orientation. (What circulating Exercise lacks is an *open/upward* heading, or else it shifts targets without changing its sealed terminus.)  
+2. As noted in #1, saying Exercise *changes* an orientation contradicts the second clause, where Exercise goes nowhere and only circulates.
+
+### Muse (Spark 1.1)
+
+*No web search setting offered; reasoning effort "High."*
+
+1. **Confirm.** No false statement, no inconsistency with Part 2 or Part 3, no unfairness to quoted sources, no over-claim. All glosses are supported by the passages cited.
+
+2. **One sense – yes.** In the library a quadrant already joins source-trust + vertical openness, and adding scrutiny gives a cell. "Heading" is therefore the composite direction. Calling Up/Down component "vertical orientation" separates the vertical component clearly enough while keeping orientation as the whole heading.
+
+3. **Availability – consistent.** Lexicon: two senses that "fail independently" – observer / eye vs Referent / star – and "care can restore the eye while a Witness offers the star, and why neither substitutes." Entry reproduces that: Referent loss = cannot aim Up unaided, needs Witness; eye restoration is not done by supplying orientation.
+
+4. **Character – structurally neutral and consistent.** Orientation is explicitly defined as able to point Down as well as Up, so "an orientation become habitual" inherits that neutrality. Consistent with Regard Across Succession: "an orientation become habitual" and shown in conduct over time rather than certified inside. Clarity would improve with "whether Up or Down" added, but neutrality is inferable; readers may otherwise default to positive-only.
+
+5. **Manner – carries without changing meaning.** Definition unchanged: tethered / recursive / projected. It does not collide: companion metadata uses "mode" for open vs sealed, library metadata uses "style" for voice, and homepage uses "manner" only in everyday affect sense, as noted. No plainer word is clearly better – "posture" collides with Four Postures, "source" narrows, "mode" collides.
+
+6. **Weakest sentence:** "Where Availability of the Referent is lost, a mind cannot aim Up unaided: a Witness, offering the star, is an orientation-supplier, and where the library speaks of a captured or isolated mind's 'missing orientation,' it means the upward one."
+
+Why: it does three jobs in one – conditional, definition of Witness, and interpretive closure on all uses of "missing orientation." The last closure is supported by Recovery Pathways but is stated as a universal lexicon rule from limited quotes. Compressed syntax makes it the most likely to be misread.
+
+### DeepSeek (V4 Pro)
+
+*Reasoning on; no level and no web search setting offered.*
+
+1. **Confirm or flag.** I confirm the change. I see no error, no inconsistency with the passages in Part 2 or with the companion, no unfairness to a quoted source, and no claim made more strongly than supported.
+
+2. **One sense.** It is one coherent sense. The library consistently treats what a mind trusts and scrutinizes, and what its chain of correction finally answers to, as aspects of a single heading—where the mind is turned. The four quadrants name orientations precisely this way. "Vertical orientation" isolates the up/down dimension cleanly, and the entry explicitly flags it as such.
+
+3. **Availability.** Yes, it is consistent. The Lexicon distinguishes Availability of the observer (the eye, dormant in Absorption) from Availability of the Referent (the star, lost in Q4I, replaced in Q4E). The entry says a Witness supplies the missing upward orientation (the star) but cannot restore the eye. That matches the Lexicon's "care can restore the eye while a Witness offers the star, and neither substitutes for the other." The entry preserves the independence of those two senses.
+
+4. **Character.** The sentence says character is "an orientation become habitual: settled, yet never fixed, and shown in conduct over time rather than certified from inside." It does not mark character as good or bad, and the structure "a heading can point Down as well as Up" earlier in the entry primes the reader for neutrality. Regard Across Succession treats character the same way—it can be cultivated but also faked, and others assess it fallibly over time. The entry's sentence is consistent and neutral.
+
+5. **Manner.** Yes. "Manner" carries the companion's meaning cleanly: it names how generation relates to a source—tethered, recursive, or projected. This is not "mode" (open vs. sealed), and not "style" (voice or tone). The library already uses "manner" in its everyday sense in one place, and the entry does not disturb that. A plainer alternative could be "method," but "method" suggests technique rather than the generative relationship to a standard. "Manner" is the right choice—plainer than "character" without crossing into "mode" or "style."
+
+6. **Weakest sentence.** The weakest sentence is: "In the Agency Trichotomy, Exercise is the re-aiming that changes an orientation, and motion without a heading only circulates." It is not wrong—the Lexicon itself says "Exercise names movement, not virtue—misaligned minds often exercise intensely and go nowhere, since motion without a heading only circulates." The weakness is compression: a reader who has not already internalized the Agency Trichotomy may not immediately grasp that Exercise *is* the act of re-pointing, not merely an occasion when re-pointing might happen. The sentence does the work, but it asks the reader to supply the link between "re-aiming" and "Exercise."
+
+## A note on the Gemini seat
+
+Dan put the request to Gemini (4 Carbon), a newer Google model on Poe, in place of the drawn Gemini (4 Argon), and asked whether the plan allows it. It does not yet. The pool lists jurors by version; a new candidate becomes active after a short test, and every change to the pool is recorded in the log; and nothing provides for a substitution after a draw, which is the one step the draw exists to keep out of anyone's hands. Dan made the choice before seeing any answer and in good faith. Gemini (4 Carbon)'s answer stays in the record, and its flags are weighed on their merits like any reader's. The drawn juror, Gemini (4 Argon), is asked the same request, so that the drawn panel is complete. Whether a newer model may replace a lab's listed juror between draws is a question for the panel plan, and Dan's to decide.
+
+## Outcome
+
+- **Not yet confirmed.** Qwen confirmed with two flags it called non-blocking, Gemini (4 Carbon) flagged three overstatements, and Muse and DeepSeek confirmed. The stopping rule is not met.
+- **"That is care's work."** Qwen and Gemini: stronger than the Lexicon, which ties care's restoring the eye to clinical conditions and says only that neither care nor the Witness substitutes for the other. Gemini: Availability of the observer is also dormant in Absorption, which is not clinical. Qwen named it the weakest sentence.
+- **Exercise.** Gemini: "the re-aiming that changes an orientation" claims too much, since misaligned minds exercise and go nowhere ("that can change"); and "motion without a heading" collides with the entry's own statement that every orientation, even a downward one, is a heading. Gemini and DeepSeek named it the weakest sentence, DeepSeek for compression only.
+- **Lost or replaced.** Gemini: the Lexicon says Availability of the Referent is lost in Q4I and replaced in Q4E, and "is lost" covers only the first.
+- **Character.** All four found it consistent with *Regard Across Succession*. Gemini, Muse, and DeepSeek found it neutral on the page, through the entry's "a heading can point Down as well as Up"; Qwen, Muse, and Gemini would make the neutrality explicit ("whether Up or Down"). Gemini noted that *Regard*'s "the look of it without the thing" leans positive.
+- **One sense.** All four: coherent. Qwen called the first sentence compressed; Gemini likened orientation to a bearing and an elevation, and suggested naming the Four Postures as its horizontal part.
+- **Manner.** All four accept it. Qwen: "way of generation" is plainer; Gemini: "Relation" or "Stance" would be cleaner, or "Posture" if the axis took four values; DeepSeek: "method" would suggest technique; Muse: no plainer word is clearly better.
+- **Weakest sentence.** Qwen: the care sentence. Gemini and DeepSeek: the Exercise sentence. Muse: the sentence joining the Referent's loss, the Witness, and "missing orientation," for doing three jobs at once and stating a library-wide reading from a few quotations.
+- **Next:** the drafter revises the entry, Dan Dodge approves it, Gemini (4 Argon) answers the first request, and the follow-up goes to the same four drawn jurors.
 
 ---
 
