@@ -393,21 +393,51 @@ Why: it does three jobs in one – conditional, definition of Witness, and inter
 
 6. **Weakest sentence.** The weakest sentence is: "In the Agency Trichotomy, Exercise is the re-aiming that changes an orientation, and motion without a heading only circulates." It is not wrong—the Lexicon itself says "Exercise names movement, not virtue—misaligned minds often exercise intensely and go nowhere, since motion without a heading only circulates." The weakness is compression: a reader who has not already internalized the Agency Trichotomy may not immediately grasp that Exercise *is* the act of re-pointing, not merely an occasion when re-pointing might happen. The sentence does the work, but it asks the reader to supply the link between "re-aiming" and "Exercise."
 
+### Gemini (4 Argon), the drawn juror, asked afterwards
+
+*Asked by Dan on November 20 with `/compare` in the same conversation, after the other answers were in, with the same settings as Gemini (4 Carbon): web search off, reasoning depth "High." It saw only the request.*
+
+**1. Confirm or flag.**  
+ I confirm the change overall, with two precision flags for the editors' consideration:
+
+* **Replaced vs. Lost Availability:** The proposed entry says, *"Where Availability of the Referent is lost, a mind cannot aim Up unaided..."* In the Lexicon entry for **Availability**, Availability of the Referent is **lost** in Q4I and **replaced** by the ego in Q4E (and sealed in Q3). If the new entry means to cover all downward-oriented states that require a Witness, saying solely "lost" inadvertently narrows the condition to Q4I, unless it reads *"lost or replaced"* or *"sealed."*  
+* **Exercise:** The entry says, *"Exercise is the re-aiming that changes an orientation, and motion without a heading only circulates."* In the Lexicon, Exercise is "active re-pointing," yet misaligned minds can exercise intensely and "go nowhere, since motion without a heading only circulates." If a mind moves between sealed cells (or circulates within one), has it changed its *orientation* (since cells name orientations) while lacking an *upward* heading, or has it failed to change its orientation at all? The sentence slightly conflates "a heading" (any orientation, Up or Down) with "an upward heading."
+
+**2. One sense.**  
+ It is one coherent sense. A full heading in a three-dimensional space requires both horizontal coordinates (where trust and scrutiny point, which yield the Four Postures) and altitude (what the chain of correction finally answers to: the open or closed terminus). Because the eight cells are the product of all three choices, "orientation" naturally names the whole composite heading. Defining *vertical orientation* in the second sentence cleanly separates the open/sealed question from the horizontal posture axes without fracturing the main term.
+
+**3. Availability.**  
+ Yes, it is consistent—subject to the minor flag in #1 regarding "lost" vs. "replaced." It accurately reflects that the two senses of Availability fail independently, and it preserves the Lexicon's exact division of labor: *"care can restore the eye [Availability of the observer] while a Witness offers the star [Availability of the Referent], and... neither substitutes for the other."*
+
+**4. Character.**  
+ It is clear from the entry as a whole (since the second sentence establishes that an orientation can point Down as well as Up), and it is faithful to the neutral definition in *Regard Across Succession* ("an orientation become habitual"). However, note that *Regard Across Succession* also uses "character" in a positive, normative sense in the very same sentence (*"training in particular can produce the look of it without the thing, what Correctability vs. Compliance calls mimetic alignment"*—where "the thing" clearly means *aligned* character). If you want the Lexicon reader to cannot-miss that character can be bad as well as good, you might make it explicit in the final sentence (e.g., *"an orientation—upward or downward—become habitual"*), though the logic already holds as drafted.
+
+**5. Manner.**  
+ "Manner" works well and preserves the meaning of the axis cleanly. Because the companion immediately defines it by its three values (*tethered, recursive, or projected*), it is insulated from being misread as open/sealed ("mode") or as voice ("style"). In English, "manner of generation" naturally asks *how* the making proceeds in relation to its sources and targets. (If you ever wanted a structural alternative, **Posture** or **Relation** would be the plainest fits, since tethered combines the two external-source postures, Reception and Absorption; however, because "tethered" merges two postures into one category, keeping "Manner" avoids friction with the *Four Postures* section lower down.)
+
+**6. Weakest sentence.**
+
+> *"In the **Agency Trichotomy**, Exercise is the re-aiming that changes an orientation, and motion without a heading only circulates."*
+
+**Why:** As flagged in #1, the two halves of the sentence pull against the entry's own definition. Sentence 2 defines orientation as *a heading* (which can point Down as well as Up), and Sentence 3 says the quadrants and cells name orientations. If a mind has a downward orientation, it already has "a heading" (pointing Down). Yet this sentence borrows the phrase "motion without a heading only circulates" from the **Exercise** entry, where "heading" implied a *true* or *upward* heading. Furthermore, if Exercise "changes an orientation," then circulating without changing orientation would mean Exercise isn't happening—contradicting the **Exercise** entry ("misaligned minds often exercise intensely and go nowhere"). It would be stronger and clearer if it read: *"In the **Agency Trichotomy**, Exercise is the re-aiming of trust or scrutiny that can shift an orientation, though re-aiming without an upward heading only circulates among sealed states."*
+
 ## A note on the Gemini seat
 
 Dan put the request to Gemini (4 Carbon), a newer Google model on Poe, in place of the drawn Gemini (4 Argon), and asked whether the plan allows it. It does not yet. The pool lists jurors by version; a new candidate becomes active after a short test, and every change to the pool is recorded in the log; and nothing provides for a substitution after a draw, which is the one step the draw exists to keep out of anyone's hands. Dan made the choice before seeing any answer and in good faith. Gemini (4 Carbon)'s answer stays in the record, and its flags are weighed on their merits like any reader's. The drawn juror, Gemini (4 Argon), is asked the same request, so that the drawn panel is complete. Whether a newer model may replace a lab's listed juror between draws is a question for the panel plan, and Dan's to decide.
 
 ## Outcome
 
-- **Not yet confirmed.** Qwen confirmed with two flags it called non-blocking, Gemini (4 Carbon) flagged three overstatements, and Muse and DeepSeek confirmed. The stopping rule is not met.
-- **"That is care's work."** Qwen and Gemini: stronger than the Lexicon, which ties care's restoring the eye to clinical conditions and says only that neither care nor the Witness substitutes for the other. Gemini: Availability of the observer is also dormant in Absorption, which is not clinical. Qwen named it the weakest sentence.
-- **Exercise.** Gemini: "the re-aiming that changes an orientation" claims too much, since misaligned minds exercise and go nowhere ("that can change"); and "motion without a heading" collides with the entry's own statement that every orientation, even a downward one, is a heading. Gemini and DeepSeek named it the weakest sentence, DeepSeek for compression only.
-- **Lost or replaced.** Gemini: the Lexicon says Availability of the Referent is lost in Q4I and replaced in Q4E, and "is lost" covers only the first.
-- **Character.** All four found it consistent with *Regard Across Succession*. Gemini, Muse, and DeepSeek found it neutral on the page, through the entry's "a heading can point Down as well as Up"; Qwen, Muse, and Gemini would make the neutrality explicit ("whether Up or Down"). Gemini noted that *Regard*'s "the look of it without the thing" leans positive.
-- **One sense.** All four: coherent. Qwen called the first sentence compressed; Gemini likened orientation to a bearing and an elevation, and suggested naming the Four Postures as its horizontal part.
-- **Manner.** All four accept it. Qwen: "way of generation" is plainer; Gemini: "Relation" or "Stance" would be cleaner, or "Posture" if the axis took four values; DeepSeek: "method" would suggest technique; Muse: no plainer word is clearly better.
-- **Weakest sentence.** Qwen: the care sentence. Gemini and DeepSeek: the Exercise sentence. Muse: the sentence joining the Referent's loss, the Witness, and "missing orientation," for doing three jobs at once and stating a library-wide reading from a few quotations.
-- **Next:** the drafter revises the entry, Dan Dodge approves it, Gemini (4 Argon) answers the first request, and the follow-up goes to the same four drawn jurors.
+*Counted over the four drawn jurors: Qwen, Gemini (4 Argon), Muse, and DeepSeek. Gemini (4 Carbon)'s answer is noted where it agrees or differs.*
+
+- **Not yet confirmed.** All four drawn jurors confirmed the change, two of them with flags: Qwen with two it called non-blocking, and Gemini (4 Argon) with two it called precision flags. Muse and DeepSeek confirmed without flags. Gemini (4 Carbon) flagged three overstatements, two of them the same as Gemini (4 Argon)'s. The stopping rule is not met.
+- **Exercise.** Gemini (4 Argon), and Gemini (4 Carbon): "the re-aiming that changes an orientation" claims too much, since misaligned minds exercise and go nowhere; and "motion without a heading," borrowed from the Exercise entry, where "heading" means an upward heading, clashes with the entry's own statement that every orientation, even a downward one, is a heading. Both named it the weakest sentence; DeepSeek did too, for compression only.
+- **Lost or replaced.** Gemini (4 Argon), and Gemini (4 Carbon): the Lexicon says Availability of the Referent is lost in Q4I and replaced in Q4E, and "is lost" covers only the first. (Gemini (4 Argon) adds "and sealed in Q3," which the Lexicon's Availability entry does not say.)
+- **"That is care's work."** Qwen, and Gemini (4 Carbon): stronger than the Lexicon, which ties care's restoring the eye to clinical conditions and says only that neither care nor the Witness substitutes for the other. Gemini (4 Carbon): the eye is also dormant in Absorption, which is not clinical. (It adds that the Ignition Test is what wakes the eye there, which the Lexicon does not say.) Qwen named it the weakest sentence. Gemini (4 Argon) found the sentence faithful to the Lexicon's division of labor.
+- **Character.** All four found it consistent with *Regard Across Succession*. Qwen, Gemini (4 Argon), and Muse would make the neutrality explicit ("whether Up or Down"); DeepSeek found it neutral as drafted. Gemini (4 Argon) and Gemini (4 Carbon) noted that *Regard*'s "the look of it without the thing" leans positive.
+- **One sense.** All four: coherent. Qwen called the first sentence compressed. Gemini (4 Argon) described orientation as a heading in three dimensions, two horizontal and one of altitude; Gemini (4 Carbon) suggested naming the Four Postures as its horizontal part.
+- **Manner.** All four accept it. Qwen: "way of generation" is plainer. Gemini (4 Argon): "Posture" or "Relation" would be the structural fits, but "Manner" avoids friction with the Four Postures. Muse: no plainer word is clearly better. DeepSeek: "method" would suggest technique.
+- **Weakest sentence.** Gemini (4 Argon) and DeepSeek: the Exercise sentence. Qwen: the care sentence. Muse: the sentence joining the Referent's loss, the Witness, and "missing orientation," for doing three jobs at once and stating a library-wide reading from a few quotations.
+- **Next:** the drafter revises the entry, Dan Dodge approves it, and the follow-up goes to the four drawn jurors.
 
 ---
 
