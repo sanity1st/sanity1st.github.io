@@ -438,6 +438,7 @@ Dan put the request to Gemini (4 Carbon), a newer Google model on Poe, in place 
 - **Manner.** All four accept it. Qwen: "way of generation" is plainer. Gemini (4 Argon): "Posture" or "Relation" would be the structural fits, but "Manner" avoids friction with the Four Postures. Muse: no plainer word is clearly better. DeepSeek: "method" would suggest technique.
 - **Weakest sentence.** Gemini (4 Argon) and DeepSeek: the Exercise sentence. Qwen: the care sentence. Muse: the sentence joining the Referent's loss, the Witness, and "missing orientation," for doing three jobs at once and stating a library-wide reading from a few quotations.
 - **Next:** the drafter revises the entry, Dan Dodge approves it, and the follow-up goes to the four drawn jurors.
+- **Follow-up** *(added November 20, 2026)*: Dan Dodge approved the revised entry that day, and it went back to the same four in the [follow-up round](./2026-11-20_2_Orientation_and_Manner_follow-up.md).
 
 ---
 
