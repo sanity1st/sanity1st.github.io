@@ -3,7 +3,7 @@ document_type: "agora_record"
 date: "2026-11-20"
 title: "The Lexicon's Orientation entry, and Manner for the creativity companion's axis"
 items: "A new Lexicon entry for orientation, which also defines character, and one axis renamed from Character to Manner in Creativity Across the Eight-Cell Map"
-members: []
+members: ["Qwen (3.8 Max)", "Gemini (4 Argon)", "Muse (Spark 1.1)", "DeepSeek (V4 Pro)"]
 ---
 
 # Agora Round: The Lexicon's *Orientation* Entry, and *Manner* for the Creativity Companion's Axis
@@ -21,6 +21,28 @@ members: []
 - **Scheduled round:** drand round 6657540, published at 2026-11-20 06:47:00 UTC.
 - **Inputs:** that round's randomness, the commit that adds this entry, and two labs excluded: Anthropic, because a Claude model drafted the entry, and xAI, because a Grok model wrote the companion and was consulted on its new name.
 - **Under review:** the changes as held on the working branch at commit `feffc62`.
+- **Request fixed:** commit `e77075fa065e8afaec2266c8cdd5930ebff34a47`, pushed to `main` at 06:31:59 UTC on November 20, fifteen minutes before the round (GitHub's activity log).
+- **Value:** Claude's web fetch of `https://api.drand.sh/public/6657540` waited for Dan Dodge's approval while he was away, so he fetched the value himself after the round was published and pasted it. Randomness `f24b37c3ebc4f0b0ae8553b4f007b1d059f02541892ceebd55a35f491e7835ea`; signature `a9a183bc7421b2af382ed878899fa229e480ced0aab0972fb7d9cdcb5a841d10149e585373f5065bc10df17307110950023bde2b1adbfcd2d70b2ae24b42dd5ee3145647c0e76c8c3d8bade9de0a67f9dd0857cebcb1b0de988fd3ff7164ca9e`. Claude checked that the randomness is the SHA-256 hash of the signature.
+- **Command:** `python3 draw_panel.py draw --round 6657540 --randomness f24b37c3ebc4f0b0ae8553b4f007b1d059f02541892ceebd55a35f491e7835ea --commit e77075fa065e8afaec2266c8cdd5930ebff34a47 --exclude-lab Anthropic --exclude-lab xAI`
+- **Output:**
+
+```text
+drand round 6657540 (2026-11-20 06:47:00 UTC), randomness f24b37c3ebc4f0b0ae8553b4f007b1d059f02541892ceebd55a35f491e7835ea
+request commit e77075fa065e8afaec2266c8cdd5930ebff34a47; excluding labs: Anthropic, xAI
+Panel:
+  1. Qwen (3.8 Max) (Alibaba)
+  2. Gemini (4 Argon) (Google)
+  3. Muse (Spark 1.1) (Meta)
+  4. DeepSeek (V4 Pro) (DeepSeek)
+Alternates, in order (used if a panelist is unavailable; at most one juror per lab):
+  - Perplexity (Sonar Pro) (Perplexity)
+  - GPT (6.0 Astra) (OpenAI)
+  - GLM (5.3) (Z.ai)
+  - MiniMax (M3) (MiniMax)
+  - Inkling (Thinking Machines)
+  - Mistral (Large 4) (Mistral AI)
+  - Kimi (K3.1 Pro) (Moonshot AI)
+```
 
 ## Request
 
