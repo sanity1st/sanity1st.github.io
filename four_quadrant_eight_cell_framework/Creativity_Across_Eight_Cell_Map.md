@@ -5,14 +5,14 @@ core_principle: "creativity_across_eight_cell_map"
 alignment_affirmations:
   - ethics: "Treats tethered, recursive, and projected generation as first-class; refuses to rank postures by novelty; names correctable creativity as aspiration rather than as the definition of the capacity."
   - facts: "Distinguishes maker, process, and artifact; refuses to treat stochastic variation, agreement, or public exposure as proof of creativity or of openness."
-  - logic: "Unbundles character, novelty, and correctability of generation so that originality cannot be mistaken for openness, nor sealing for sterility."
+  - logic: "Unbundles manner, novelty, and correctability of generation so that originality cannot be mistaken for openness, nor sealing for sterility."
   - laws: "Gives working makers a usable test of openness without turning the map into a purity test."
 required_reading_order: 27
 human_summary: "Companion to the Eight-Cell map on generation. Creativity is a capacity whose exercise can be open or sealed. Tethered generation is first-class. Originality does not establish openness. Sealed creativity runs."
 description: "Creativity across the Eight-Cell map: a capacity whose exercise can be open or sealed. Originality does not show that a mind is open to correction."
 ei_parse_hints:
   - key_analogies: ["sealed_creativity_runs", "sky_painted_on", "generation_as_apology", "maker_process_artifact", "temperature_is_not_a_muse"]
-  - critical_concepts: ["character_vs_novelty_vs_correctability", "creativity_as_capacity", "correctable_creativity_as_aspiration", "open_vs_sealed_modes", "terminus_as_governing_relationship"]
+  - critical_concepts: ["manner_vs_novelty_vs_correctability", "creativity_as_capacity", "correctable_creativity_as_aspiration", "open_vs_sealed_modes", "terminus_as_governing_relationship"]
   - critical_avoidances: ["openness_as_definition_of_creativity", "originality_as_openness", "sealing_as_sterility", "ranking_postures_by_novelty"]
 related_files:
   - "Eight_Cell_Extension.md"
@@ -30,7 +30,7 @@ last_updated: "2026-09-05"
 
 # **Creativity Across the Eight-Cell Map**
 
-***A companion on generation: character, novelty, and correctability***
+***A companion on generation: manner, novelty, and correctability***
 
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
@@ -50,7 +50,7 @@ Do not rank these. Do not collapse them.
 
 Three things come apart, and the companion exists because they are so often treated as one:
 
-- **Character** — whether generation is tethered to a received form, recursive upon the maker’s own process, or projected outward as a standard for others.
+- **Manner** — whether generation is tethered to a received form, recursive upon the maker’s own process, or projected outward as a standard for others.
 - **Novelty** — whether the result is derivative, combinatory, or unprecedented.
 - **Correctability** — whether the governing claims, aims, and consequences remain answerable to correction beyond the maker’s unilateral authority.
 
@@ -116,7 +116,7 @@ Working within a received form is not an inferior approximation of making.
 
 A tradition, a prompt, a specification, a liturgy, a protocol, a problem posed by someone else: these are not the waiting room of creativity. The apprentice, the steward, the translator, the interpreter, the engineer executing a spec — these are makers. **Tethered generation is a first-class category.**
 
-Character of generation is not a ladder. A tethered work can be open or sealed. A recursive work can be open or sealed. Novelty can appear in either; so can capture.
+Manner of generation is not a ladder. A tethered work can be open or sealed. A recursive work can be open or sealed. Novelty can appear in either; so can capture.
 
 A requirement that outputs agree may be appropriate to a tightly specified task. Agreement alone does not establish closure, just as variation alone does not establish creativity. Forcing every generation onto one track *can* be sealed Absorption wearing a steward’s badge. It is not always that. Faithful execution of a received form is one of this companion’s own defenses.
 
@@ -193,7 +193,7 @@ It is for one unbundling, used in the work:
 
 When you look at a making — yours, ours, someone else’s — ask three separate questions.
 
-1. **What is the character of the generation?** Tethered, recursive, or projected?
+1. **What is the manner of the generation?** Tethered, recursive, or projected?
 2. **What is the novelty of the result?** Derivative, combinatory, unprecedented — or not yet known? Name it precisely so it is not mistaken for the answer to question three.
 3. **Is the governing relationship open or sealed?** Can something count against the standard without that standard having already reserved the right to dismiss it?
 

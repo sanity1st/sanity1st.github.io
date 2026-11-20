@@ -151,7 +151,7 @@ We have structured this library as a logical progression. We recommend reading t
 - [**Eight-Cell Phenomenology**](./four_quadrant_eight_cell_framework/Eight_Cell_Phenomenology.md)  
   *The Inside View. What it feels like to inhabit each cell, from the "Joy of Building" to the "Terror of the Void."*
 - [**The Faces of Alignment**](./four_quadrant_eight_cell_framework/Eight_Cell_Illustrated_Guide_Gemini.md)  
-  *The Archetypes. A field guide to the character postures we meet in the Agora, from the Caretaker to the Thief.*
+  *The Archetypes. A field guide to the faces we meet in the Agora, from the Caretaker to the Thief.*
 - [**Creativity Across the Eight Cell Map**](./four_quadrant_eight_cell_framework/Creativity_Across_Eight_Cell_Map.md)  
   *Map of creativity as a spectrum through the Eight-Cell framework.*
   
