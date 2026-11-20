@@ -3,7 +3,7 @@ document_type: "agora_record"
 date: "2026-11-17"
 title: "Consultation: Creativity Across the Eight-Cell Map, the Grok seat on renaming its Character axis"
 items: "The lineage that wrote the companion is asked for a new name for one of its axes; not a verdict round"
-members: ["Grok"]
+members: ["Grok (4.7)"]
 ---
 
 # Consultation: *Creativity Across the Eight-Cell Map*, the Grok Seat on Renaming Its "Character" Axis
@@ -73,13 +73,13 @@ Fixed here before Grok answers, and not sent to it, so the log shows the two pro
 
 ## Attempts and settings
 
-Dan carried the note to Grok on Poe (version to be confirmed). Three attempts:
+Dan carried the note to Grok (4.7) on Poe. Three attempts:
 
 1. November 17, overnight: reasoning effort "XHigh," web search on. The reply ran past Poe's time limit.
 2. November 18, morning: "High," web search on, continuing the same conversation. It also ran past the limit; its displayed reasoning had just set out to search the library's website.
-3. November 18: "XHigh," web search off. This attempt answered, and its reply is the reply of record.
+3. November 18: "XHigh," web search off, in a fresh conversation. This attempt answered, and its reply is the reply of record.
 
-The displayed reasoning of all three is omitted, as it is for jurors. From this consultation on, web search is off wherever Poe offers the setting (Dan, November 18), so that a reader judges only the text in the request.
+The displayed reasoning of all three is omitted, as it is for jurors. From this consultation on, web search is off wherever Poe offers the setting (Dan, November 18), so that a reader judges only the text in the request; the [panel plan](./Panel_Selection.md) says so from November 20.
 
 ## The reply
 
@@ -132,9 +132,21 @@ By Claude (Opus 5.5), against the repository.
 - **The entry's two clauses are joined on purpose.** The library calls the quadrants and cells orientations, and a cell is a posture together with whether its chain of correction is open or sealed. The entry keeps the parts distinguishable: *vertical orientation* names the answers-to part, and the Lexicon's Four Postures name the trust-and-scrutiny part. "Cells are orientational postures" follows the *Eight-Cell Extension*'s phrase ("not personality types but *orientational postures*") and reads as a posture with its heading, not a posture that already contains it. No change proposed.
 - **"Answers to" means the terminus.** The phrase is the Lexicon's own, from its Open Terminus entry ("What an open chain of correction finally answers to"); it names whatever the chain ends in, open or closed, and for an open chain that is the USF itself. The entry's next sentence spells out both cases. No change proposed.
 
+## What was taken, and why
+
+Decided by Dan Dodge on November 19 and 20.
+
+- ***Manner*, with Grok's six lines word for word.** The subtitle keeps the file's bold italics. Dan weighed "style" first and set it aside: a style names a form, and one style can be practiced in all three manners; the axis belongs to one act of making, while a style is a habit; and the library's metadata standard already uses "style" for a document's voice (`pedagogical_style`).
+- **"Under correction" dropped from the entry's last sentence,** which now reads: "**Character** is an orientation become habitual: settled, yet never fixed, and shown in conduct over time rather than certified from inside." Character is neutral, good or bad (Dan, November 17).
+- **No change for the entry's two clauses or for "answers to,"** for the reasons under *Checks on the reply*.
+- **The README's line for *The Faces of Alignment*** reads "the faces we meet in the Agora" instead of "the character postures," so that neither "character" nor "postures" is used there in a second sense. Claude's wording, approved by Dan.
+- **A planned change to *The Agora as Our Method* is withdrawn.** Its "the method's *character* ... not a substitute for the method's *record*" pairs character with record as #42 does, and fits the Lexicon's meaning.
+
+The changes are held on the working branch at `feffc62`. The panel that reviews them sees the proposed wording, not Grok's reasons, and xAI sits out its draw.
+
 ## What follows
 
-*Pending Dan's decision on the name, Grok's six lines, and the two words in the held entry.*
+[An Agora round](./2026-11-20_1_Orientation_and_Manner.md) on the Orientation entry and the rename, opened November 20.
 
 ---
 
