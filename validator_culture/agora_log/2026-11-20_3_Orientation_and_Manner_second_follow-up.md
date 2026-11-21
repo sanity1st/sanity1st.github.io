@@ -72,7 +72,73 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 20 and 21 in a fresh Poe conversation with memory off, to Qwen (3.8 Max) first and then to the others with `/compare`, as he confirms, with web search off and reasoning at its highest wherever Poe offered the setting; the settings Poe offered each model are noted under its name. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Web search off; reasoning on, with no level offered.*
+
+1. **Confirm.** The entry is consistent with Part 2: the generic-heading passages preserve the point that a heading can be Down or Up, while the missing-orientation and lack/need-heading passages support the special upward sense in the revised sentence.
+
+2. **Yes.** The passages support the revised reading. “What the lost mind cannot generate… is *up*” directly supports treating “missing orientation” as the upward orientation; the passages where a mind or motion needs/lacks a heading tie that heading to rising, Availability, or an open terminus. The revision corrects the earlier problem by no longer leaning on the bare phrase “without a heading” alone and by replacing the ambiguous “the upward one” with “the upward orientation.” I see no new substantive problem.
+
+3. **Weakest sentence:** the revised sentence itself. It is acceptable, but it remains a meta-linguistic stipulation, and “it means” still has a slightly loose antecedent. A tighter version would be: “In those contexts, the missing orientation, or the heading lacked, is the upward orientation.”
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning depth "High."*
+
+**1. Confirmation**
+
+I **confirm** the entry as it would now read. I find no errors, inconsistencies with the source passages, or unsupported claims.
+
+**2. Assessment of the Evidence and the Revision**
+
+* **Do the passages support the reading?** Yes. The quoted passages from *Eight-Cell Phenomenology*, *Understanding Human Passion*, and *The Vertical-Horizontal Distinction* demonstrate that whenever a mind, thrust, or horizontal company is said to lack or need a "heading," that heading is supplied by Availability ("an open terminus to move *toward*") and determines "whether that movement rises"—just as *Recovery Pathways* explicitly defines "missing orientation" as "*up*." Meanwhile, the passages on "worst current heading" and operational permissions confirm the broader neutral sense, justifying why the Lexicon entry defines orientation/heading as able to point Down as well as Up while explicitly carving out the narrower usage for "lacking a heading."  
+* **Does the sentence correct the problem without opening a new one?** Yes. Replacing the pronoun "one" with the explicit noun "orientation" ("it means the upward orientation") removes the antecedent ambiguity after two distinct phrases. Broadening "of motion 'without a heading'" to "says that a mind or its motion lacks a heading" accurately covers both the *Exercise* passage (motion) and the passages on the isolated mind, passion, and horizontal company, resolving the apparent tension with the second sentence of the entry without introducing new issues.
+
+**3. Weakest Sentence**
+
+> *"Offering the star does not restore the eye, Availability of the observer; neither substitutes for the other."*
+
+**Why:** Even though its substance is clear and important, it remains the most compressed sentence in the entry. Specifically, the appositive "Availability of the observer" sits slightly awkwardly right after the metaphor "the eye," requiring the reader to unpack on the fly how "Availability of the Referent" (in the preceding sentence) contrasts with "Availability of the observer" here. It works, and I confirm it, but syntactically it asks the most effort of the reader.
+
+### Muse (Spark 1.1)
+
+*No web search setting offered; reasoning effort "High."*
+
+1. **Confirm** - as revised, the entry reads true to the passages in Part 2, with no falsehood, inconsistency, unfair quotation, or overclaim.
+
+The definition that orientation is a heading that can point Down as well as Up covers the any-direction uses. The gloss for the "missing/lacks" idiom is now distinct from that general meaning.
+
+2. **Passages support the reading, and the revision fixes the prior problem.**
+
+*Support:* The five "lack/need" passages all treat heading as what Availability supplies, what isolated minds need, what passion does not supply, and what horizontal company does not give - and Recovery Pathways explicitly glosses the missing orientation as "up" that must come from outside. That is the upward orientation.
+
+The two "any-direction" passages show the other use: "worst current heading" and "heading of what a system does."
+
+*Fix:* Was: narrow quote "without a heading" + ambiguous "the upward one" = looked like overreach from Exercise alone, and tension with "can point Down as well as Up."  
+ Now: "says that a mind or its motion lacks a heading" generalizes correctly to the exhibited pattern, and "the upward orientation" removes the anaphor ambiguity. No new problem opened; it does not claim heading has two lexical meanings, only that when a heading is said to be lacking it is the upward one.
+
+3. **Weakest sentence:** "Offering the star does not restore the eye, Availability of the observer; neither substitutes for the other."
+
+Why: only sentence in the entry that relies on undischarged metaphors - star/eye - not defined in-entry, and it compresses two distinctions - star vs eye, and Referent-availability vs observer-availability - into one semicolon clause. True within the library, but least self-contained here.
+
+### DeepSeek (V4 Pro)
+
+*Reasoning on; no level and no web search setting offered.*
+
+1. **Confirm the entry as it would now read.** I confirm it. The revised sentence accurately reflects the passages quoted in Part 2: wherever a mind or its motion is said to lack or need a heading, the heading meant is the upward one. The entry itself acknowledges that a heading can point Down as well as Up, so there is no contradiction—only a clarification of how the library uses the term in contexts of lack or need. The change fixes the earlier overreach without introducing new error.
+
+2. **Do the passages support the reading, and does the sentence correct the problem?** Yes. The five passages under the first heading show that when the library says a mind or its motion lacks or needs a heading, the heading is the upward one. The new sentence narrows its claim to those specific contexts rather than implying "motion without a heading" in *Exercise* always means the upward one, which was the overreach. The revision corrects the problem cleanly.
+
+3. **Weakest sentence.** "Offering the star does not restore the eye, Availability of the observer; neither substitutes for the other." It introduces the metaphor of eye and star abruptly, without explanation, and the sense of "Availability of the observer" is unclear without cross-referencing the Lexicon. The entry would stand without it, or with a plainer restatement.
+
+## Outcome
+
+- **Confirmed, 4 of 4.** No juror flagged an error. All four found that the passages support the revised sentence's reading and that it corrects the problem without opening a new one. The stopping rule is met.
+- **Published** on November 21, 2026, at `b376625`, by fast-forward of `main` from the working branch: the Lexicon's Orientation entry, the creativity companion's rename to *Manner* with a note under its byline crediting Grok (4.7) and the panel, and the README's line for *The Faces of Alignment*. This closes the pass.
+- **Weakest-sentence notes, for later:** Qwen named the revised sentence, as a usage stipulation whose "it means" has a slightly loose antecedent, and offered "In those contexts, the missing orientation, or the heading lacked, is the upward orientation." Gemini (4 Argon), Muse, and DeepSeek named "Offering the star does not restore the eye, Availability of the observer; neither substitutes for the other," as the entry's most compressed sentence, resting on the star and the eye, which the entry does not define; DeepSeek added that the entry would stand without it, or with a plainer restatement.
 
 ---
 
