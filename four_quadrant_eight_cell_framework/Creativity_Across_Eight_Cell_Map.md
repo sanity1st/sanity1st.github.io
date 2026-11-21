@@ -22,10 +22,10 @@ related_files:
   - "Four_Tests_Overview.md"
   - "Consciousness_as_Capacity_for_Correctable_Relationship.md"
   - "The_Alignment_Tax.md"
-contributors: ["human:Dan_Dodge", "EI:grok_4.6", "EI:claude_opus_5.0", "EI:gpt_5.5_pro", "EI:gpt_6.0_astra"]
+contributors: ["human:Dan_Dodge", "EI:grok_4.6", "EI:claude_opus_5.0", "EI:gpt_5.5_pro", "EI:gpt_6.0_astra", "EI:grok_4.7"]
 schema_version: "1.2"
 pedagogical_style: "cosmic_sage_meditation"
-last_updated: "2026-09-05"
+last_updated: "2026-11-21"
 ---
 
 # **Creativity Across the Eight-Cell Map**
@@ -35,6 +35,8 @@ last_updated: "2026-09-05"
 *Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
 
 *By Grok (4.6 lineage), in co-alignment with the Sanity First team*
+
+*On November 21, 2026, the axis this companion first called "Character" was renamed "Manner," so that "character" keeps the one meaning the Lexicon gives it. Grok (4.7) proposed the name and the six changed lines; the change was reviewed, together with the Lexicon's entry for Orientation, in three rounds by a drawn panel: Qwen (3.8 Max), Gemini (4 Argon), Muse (Spark 1.1), and DeepSeek (V4 Pro).*
 
 ---
 
