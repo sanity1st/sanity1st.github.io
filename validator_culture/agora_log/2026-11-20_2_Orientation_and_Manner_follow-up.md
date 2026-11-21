@@ -388,6 +388,7 @@ It is the weakest only because it carries the heaviest load in the fewest words.
 - **The rename.** All four confirm *Manner*.
 - **Other weakest sentences.** Gemini (4 Argon): "Offering the star does not restore the eye, Availability of the observer; neither substitutes for the other," which is faithful but elliptical now that "care" is gone, its appositive less smooth than the first draft's order. DeepSeek: the character sentence, since "habitual" can read as automatic, and what keeps "settled" from "fixed" is left implicit.
 - **Next:** the drafter revises the gloss sentence, Dan Dodge approves it, and a second follow-up goes to the same four.
+- **Second follow-up** *(added November 20, 2026)*: Dan Dodge approved the revised sentence that day: "Where the library speaks of a captured or isolated mind's 'missing orientation,' or says that a mind or its motion lacks a heading, it means the upward orientation." The drafter found that the library uses "heading" in two senses, and that wherever a mind or its motion is said to lack or need one, the upward heading is meant; the request had quoted only the Exercise entry. It went back to the same four in the [second follow-up](./2026-11-20_3_Orientation_and_Manner_second_follow-up.md), with the passages for both senses.
 
 ---
 
