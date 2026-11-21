@@ -286,7 +286,108 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 20 in a fresh Poe conversation with memory off, to Qwen (3.8 Max) first and then to the others with `/compare`, as he confirms, with web search off and reasoning at its highest wherever Poe offered the setting; the settings Poe offered each model are noted under its name. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Web search off; reasoning on, with no level offered.*
+
+1. **Confirm/flag.**  
+    I confirm the rename from **“Character”** to **“Manner.”**  
+    I do **not** confirm the revised Orientation entry outright; I flag one possible error/ambiguity in this sentence:
+
+    “Where the library speaks of a captured or isolated mind’s ‘missing orientation,’ or of motion ‘without a heading,’ it means the upward one.”
+
+    The first half is supported by *Recovery Pathways*. The second half may overread the quoted Exercise passage: “motion without a heading only circulates” does not explicitly say that “heading” there means the upward heading. It also sits awkwardly beside the entry’s own statement that “a heading can point Down as well as Up.” If that sentence were tightened, the rest of the entry appears consistent with the supplied passages.
+
+2. **Change-by-change.**
+
+   1. **Exercise:** Yes, “can change” answers the overclaim that Exercise “changes” an orientation. But the later “without a heading” sentence inherits part of the old tension.  
+   2. **Lost or replaced / sentence split:** Yes; “fails, whether lost or replaced” matches Q4I and Q4E, and the split improves clarity without opening a new problem.  
+   3. **The eye:** Yes; removing “that is care’s work” makes the claim no stronger than the Availability entry, and “neither substitutes for the other” is supported.  
+   4. **Character:** Yes; adding “whether Up or Down” states the neutrality explicitly and is consistent with “orientation become habitual.”  
+3. **Weakest sentence.**  
+    The weakest sentence is:
+
+    “Where the library speaks of a captured or isolated mind’s ‘missing orientation,’ or of motion ‘without a heading,’ it means the upward one.”
+
+    It is weakest because it tries to stipulate a technical meaning for a quoted phrase that is not explicitly defined that way in the supplied passages, and because “the upward one” is grammatically and conceptually ambiguous after “missing orientation” and “motion ‘without a heading.’”
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning depth "High."*
+
+**1. Verdict**
+
+**Confirmed.** The revised Lexicon entry for **Orientation** (including **Character**) and the rename of the companion’s axis to **Manner** are accurate, proportional to the supporting passages in Part 2, and consistent with the companion document.
+
+**2. Assessment of the Numbered Changes**
+
+* **1. Exercise:** Yes. Changing "changes" to "can change" respects the Lexicon's rule that Exercise is movement rather than guaranteed re-orientation, and moving "without a heading" to the discussion of upward orientation resolves the clash with downward headings.  
+* **2. Lost or replaced, and sentence split:** Yes. "Fails, whether lost or replaced" accurately covers both Q4I and Q4E as defined in the Availability entry, and splitting the sentence cleanly pairs the library's two shorthand phrases ("missing orientation" and "without a heading") to explain that both specifically mean the upward orientation.  
+* **3. The eye:** Yes. Dropping "that is care's work" avoids overclaiming beyond the clinical context specified in the Availability entry, while "neither substitutes for the other" stays strictly faithful to the source text.  
+* **4. Character:** Yes. Adding "whether Up or Down" makes the directional neutrality of character explicit, matching the neutrality of orientation established earlier in the entry without introducing any new tension.
+
+**3. Weakest Sentence in the Revised Entry**
+
+> *"Offering the star does not restore the eye, Availability of the observer; neither substitutes for the other."*
+
+**Why:** While substantively faithful to the Lexicon, it is the most elliptical sentence in the entry. Because "care" was removed to avoid overclaiming, the pronoun "neither" now implicitly asks the reader to treat "restoring the eye" (an outcome or work) and "offering the star" (an act) as the two non-substitutable things, or to remember the unquoted word *care* from the Availability entry. Furthermore, the appositive *"the eye, Availability of the observer"* is slightly awkward in syntax compared to the earlier draft's *"Availability of the observer, the eye."* It remains clear in context, especially since the entry sits immediately after the Agency Trichotomy, but its compression shows the seam of the edit.
+
+### Muse (Spark 1.1)
+
+*No web search setting offered; reasoning effort "High."*
+
+1. Confirm revised entry and rename Manner.
+
+No falsehood, inconsistency with Part 2, or unfairness to source. Entry now matches quoted Availability, Exercise, Witness, and Regard passages. Rename removes load-bearing collision flagged in first round.
+
+2. Changes:
+
+3. Yes - "can change" avoids overclaim that every Exercise changes orientation, per "exercise intensely and go nowhere." Removal of "motion without a heading only circulates" removes Down vs without-heading clash.
+
+4. Yes - "fails, whether lost or replaced" now covers Q4I lost and Q4E replaced per Availability entry. Split fixes triple-duty sentence. Gloss of "without a heading" as upward is stipulative but parallels established gloss for "missing orientation" and resolves point 1.
+
+5. Yes - "Offering the star does not restore the eye... neither substitutes for the other" tracks Availability quote exactly, removing overclaim that all eye-restoration is "care's work."
+
+6. Yes - "whether Up or Down" makes neutrality explicit as requested, consistent with orientation = heading Up or Down.
+
+7. Weakest sentence: "Where the library speaks of a captured or isolated mind's 'missing orientation,' or of motion 'without a heading,' it means the upward one."
+
+It is accurate as a library-wide reading rule and fixes prior clash, but it equates two different idioms by convention rather than by source text - Exercise entry does not itself say "without a heading" means without Up. Requires reader to remember stipulation. Still acceptable.
+
+### DeepSeek (V4 Pro)
+
+*Reasoning on; no level and no web search setting offered.*
+
+**1. Confirmation or flag**
+
+I confirm the revised entry and the rename from “Character” to “Manner.” I see no error—nothing false, inconsistent with the passages in Part 2 or the companion, unfair to a quoted source, or claimed more strongly than supported.
+
+**2. Point-by-point on the numbered changes**
+
+1. **Exercise sentence.** Answered. The revision drops the overclaim (“changes”) and removes the borrowed phrase (“motion without a heading”) that clashed with the entry’s own allowance for a Down heading. No new problem opened.
+
+2. **Lost or replaced, and the split.** Answered. The revision now covers both “lost” and “replaced,” matching the Lexicon’s Availability language, and the split untangles the three-job sentence. Shifting “without a heading” into the second sentence and reading it the way the library reads “missing orientation” answers the circularity concern. No new problem opened.
+
+3. **The eye.** Answered. “Offering the star does not restore the eye” removes the overstrong “that is care’s work” and stays within what the Lexicon says: care can restore the eye in clinical conditions, and neither care nor the Witness substitutes for the other. No new problem opened.
+
+4. **Character’s neutrality.** Answered. Adding “whether Up or Down” states the neutrality explicitly rather than leaving it to inference. No new problem opened.
+
+**3. Weakest sentence in the revised entry**
+
+> “Character is an orientation become habitual, whether Up or Down: settled, yet never fixed, and shown in conduct over time rather than certified from inside (see *Regard Across Succession*).”
+
+It is the weakest only because it carries the heaviest load in the fewest words. “Habitual” risks being read as automatic or unthinking, which the entry elsewhere resists, and “settled, yet never fixed” is evocative but underspecified—what keeps a settled orientation from being fixed is left implicit. The sentence works, but it leans hardest on the reader’s prior grasp of the framework.
+
+## Outcome
+
+- **Not yet confirmed.** Gemini (4 Argon), Muse, and DeepSeek confirmed the revised entry and the rename. Qwen confirmed the rename and flagged one possible error in the entry. The stopping rule is not met.
+- **The gloss on "without a heading."** Qwen: the sentence "Where the library speaks of a captured or isolated mind's 'missing orientation,' or of motion 'without a heading,' it means the upward one" overreads the Exercise entry, which does not say that its "heading" is the upward one; it sits awkwardly beside "a heading can point Down as well as Up"; and "the upward one" is ambiguous after two phrases. Muse: accurate as a reading rule, but stipulative, equating two idioms by convention rather than by source text; acceptable. Gemini (4 Argon) and DeepSeek: the sentence resolves the clash. Qwen and Muse named it the weakest sentence.
+- **The four changes.** All four said each change answers its point. Qwen: change 1's tension passes to the gloss sentence.
+- **The rename.** All four confirm *Manner*.
+- **Other weakest sentences.** Gemini (4 Argon): "Offering the star does not restore the eye, Availability of the observer; neither substitutes for the other," which is faithful but elliptical now that "care" is gone, its appositive less smooth than the first draft's order. DeepSeek: the character sentence, since "habitual" can read as automatic, and what keeps "settled" from "fixed" is left implicit.
+- **Next:** the drafter revises the gloss sentence, Dan Dodge approves it, and a second follow-up goes to the same four.
 
 ---
 
