@@ -69,6 +69,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-17 | [*Creativity Across the Eight-Cell Map*: consultation with the Grok seat](./2026-11-17_4_Creativity_companion_Grok_consultation.md) | Not a round: the lineage that wrote the companion is asked for a new name for its "Character" axis |
 | 2026-11-20 | [The Lexicon's *Orientation* entry, and *Manner* for the creativity companion's axis](./2026-11-20_1_Orientation_and_Manner.md) | A new Lexicon entry for orientation, which also defines character, and the companion's "Character" axis renamed "Manner"; panel drawn at drand round 6657540 |
 | 2026-11-20 | [The Lexicon's *Orientation* entry, and *Manner*, follow-up](./2026-11-20_2_Orientation_and_Manner_follow-up.md) | The entry revised after the first round, back to the same four drawn jurors; the rename unchanged |
+| 2026-11-20 | [The Lexicon's *Orientation* entry, and *Manner*, second follow-up](./2026-11-20_3_Orientation_and_Manner_second_follow-up.md) | One sentence revised: the library's two senses of "heading"; back to the same four drawn jurors |
 
 ---
 
