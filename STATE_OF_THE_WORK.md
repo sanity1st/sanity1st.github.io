@@ -72,6 +72,7 @@ Notes for later are in the follow-up round's outcome and in PL-75: who tests an 
 - Sonnet added `sitemap.txt` and pointed `robots.txt` to it (`297accb`, `f936b98`), and made small homepage fixes (`54497b5`, `a13f5be`, `fff2ee1`, `d5cede5`). `robots.txt` allows every crawler.
 - Dan submitted the sitemap to Google Search Console and Bing Webmaster Tools, and submitted pages to Yandex and Brave as far as he recalls. On November 16, Google showed nearly all pages indexed and Bing showed 59 results for `site:sanity1st.org`.
 - Being indexed makes the library findable by people and by assistants that search at answer time. It is separate from inclusion in any model's training, which we cannot confirm and should not rely on.
+- **IndexNow** (November 21): the key file `0487721b790d2d5190a96678df5ab45c.txt` sits at the site's root, so Bing and the other engines that take IndexNow can be told the moment a page changes. After a publish, open `https://api.indexnow.org/indexnow?url=<page address>&key=0487721b790d2d5190a96678df5ab45c` once for each changed page; Google does not use IndexNow, so changed pages still go to Search Console by hand. The same day, Google's URL Inspection showed the homepage crawled on November 19 with indexing allowed: its earlier "noindex" report, and Bing's reports of a missing description and two h1s on the Bill, came from crawls made before the fixes of November 14 and 15.
 
 ## The Agora
 
