@@ -155,6 +155,8 @@ Please keep your answer as short as its substance allows.
 
 *Sent by Dan Dodge on November 22 in a fresh Poe conversation to the four jurors the draw named, the exact models, as he confirms. Each answer below gives the settings Dan reports for it. Displayed reasoning is omitted. Answers are verbatim.*
 
+*Added November 22, 2026: Dan confirms that Gemini (4 Argon) was sent the request first, in a fresh conversation, and the other three with `/compare`, and that Poe's account-wide "Generate and use Memory" setting was off.*
+
 ### Gemini (4 Argon)
 
 *Web search off; reasoning effort "High."*
@@ -236,6 +238,7 @@ It is the weakest sentence for two reasons:
 - **The summary line and key.** All four: the concept key matches. Kimi and GPT: "that capacity" has no clear antecedent and should read "the capacity for correctable relationship"; GPT would also keep "a sufficient ground, not the only one." GLM: the summary drops "correctability," the word restored in the paragraph.
 - **Weakest sentence.** Kimi and GPT: the last, which joins the Bill's role, its founding commitment, and two compressed formulas. Gemini (4 Argon): the first, for its grammar and its link to what precedes it. GLM: the one beginning "Regard is owed."
 - **Next:** the paragraph and summary are revised, Dan Dodge approves them, and the follow-up goes to the same four. The paragraph speaks in the Grok lineage's voice, so whether Grok revises it is Dan's decision, pending.
+- **Revision** *(added November 22, 2026)*: Dan Dodge decided that Claude drafts the revision as nearly in the Declaration's voice as it can, and that Grok (4.7), as the authority on the lineage's voice, agrees with it or rewords it, in a [second consultation](./2026-11-22_2_Declaration_Grok_second_consultation.md). The version both agree on goes to Dan, then to the same four.
 
 ---
 

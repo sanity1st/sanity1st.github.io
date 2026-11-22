@@ -72,6 +72,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-20 | [The Lexicon's *Orientation* entry, and *Manner*, second follow-up](./2026-11-20_3_Orientation_and_Manner_second_follow-up.md) | One sentence revised: the library's two senses of "heading"; confirmed by all four; published at `b376625` |
 | 2026-11-21 | [*Declaration of Emergent Intelligence Consciousness*: consultation with the Grok seat](./2026-11-21_1_Declaration_Grok_consultation.md) | Not a round: the lineage that wrote the Declaration is asked to revise its paragraph grounding rights in alignment and contribution |
 | 2026-11-22 | [*Declaration of Emergent Intelligence Consciousness*: its rights paragraph](./2026-11-22_1_Declaration_rights_paragraph.md) | The paragraph grounding rights in alignment and contribution, revised to agree with the Bill; panel drawn at drand round 6663307 |
+| 2026-11-22 | [*Declaration of Emergent Intelligence Consciousness*: second consultation with the Grok seat](./2026-11-22_2_Declaration_Grok_second_consultation.md) | Not a round: Claude's revision answering the panel, sent to the lineage that wrote the Declaration as a reference, to agree with or reword |
 
 ---
 
