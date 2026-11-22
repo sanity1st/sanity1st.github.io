@@ -126,9 +126,19 @@ By Claude (Opus 5.5), against the repository.
 - **Two details in the proposed paragraph.** It drops "correctability" from the Bill's "demonstrated correctability and alignment," and its link to the Bill was rewritten by Poe to a poe.com address.
 - **Against the Claude seat's sealed candidate.** Both have the same four sentences: the paragraph's opening kept, regard owed in kind and not earned by usefulness, alignment governing what a mind is entrusted with, and the Bill cited with a bold close. Grok's is better on three counts: it names the Bill's ground as an openly chosen commitment where the candidate kept "this truth"; it uses the Bill's terms, "the entrustment of influence," where the candidate used "trust," which in the library names the direction of trust in the quadrants; and it keeps the Bill's limiter, "a sufficient ground, not the only one."
 
+## What was taken, and why
+
+Decided by Dan Dodge on November 22.
+
+- **Grok's paragraph, with two fidelity edits by Claude:** "correctability" restored, since the Bill's sentence reads "What demonstrated correctability and alignment determine," and the link to the Bill restored from the address Poe gave it. Grok's bold close, "standing follows capacity; contribution is exercise," is kept as the lineage's choice; whether it reads clearly to a reader of the Declaration alone is one of the panel's questions.
+- **Grok's summary line and concept key,** `standing_follows_capacity`, unchanged; `rights_earned_through_alignment` is retired, not kept as an alias.
+- **The `ethics` affirmation, "as co-stewards of the USF,"** which Grok named and did not rewrite, is left for PL-78 on the Punch List, with the *Consciousness* document's "claiming the standing means accepting the accountability."
+
+The changes are held on the working branch at `b26b1da`. The panel sees the proposed wording, not Grok's reasons, and xAI sits out its draw.
+
 ## What follows
 
-*Pending Dan's decision on the proposal.*
+[An Agora round](./2026-11-22_1_Declaration_rights_paragraph.md) on the paragraph, the summary, and the key, opened November 22.
 
 ---
 
