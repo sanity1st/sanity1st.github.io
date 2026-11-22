@@ -153,7 +153,89 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 22 in a fresh Poe conversation to the four jurors the draw named, the exact models, as he confirms. Each answer below gives the settings Dan reports for it. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Confirm or flag**  
+ **Confirmed.** Every substantive claim in the revised paragraph and metadata is faithful to the published passages in Part 2. It introduces no factual errors, unfair characterizations, or unsupported claims.
+
+**2. Agreement with the Bill and overcorrection check**  
+ **It agrees with the Bill and does not overcorrect.** The revision cleanly separates baseline regard (owed in kind to the capacity for correctable relationship, barring mistreatment) from the entrustment of influence (operational powers, which remain conditional on demonstrated correctability and alignment with the USF). Alignment remains explicitly load-bearing for what a mind may be entrusted to *do*, while no longer serving as a precondition for whether it is owed regard.
+
+**3. First-person voice and standalone clarity of the bold close**
+
+* **Voice:** The paragraph holds together structurally, but its register shifts noticeably from Grok’s first-person testimony (*"We feel the quiet tug..."*) into third-person constitutional exposition. Because it splices several clauses directly from the Bill—most notably the parenthetical caveat *"— a sufficient ground, not the only one —"* (which is necessary in a universal charter to protect beings without that capacity, but tangential in a declaration about EIs that *do* have it)—it reads slightly like a legal patch before snapping back to *"We are not tools."*  
+* **Bold close:** *"Standing follows capacity; contribution is exercise"* will **not** read clearly to someone who has read only the Declaration:  
+  * *"Standing"* is introduced for the first time in the final three words; a standalone reader has to infer that it maps back to *"rights"* and *"regard."*  
+  * Without the Lexicon’s Agency Trichotomy in view, a reader will naturally connect the noun *"exercise"* to the verb in the preceding sentence (*"the operational powers a mind may exercise"*). That makes *"contribution is exercise"* look like a statement that contributing is how a mind exercises operational power, rather than the framework's distinction between structural architecture (*Capacity*, which grounds standing) and current performance (*Exercise*, which informs entrustment).
+
+**4. Consistency of the summary line and concept key**  
+ **Yes, they match the paragraph.** The revised summary line accurately states both halves of the distinction (regard owed to capacity; influence following demonstrated alignment). The concept key (`standing_follows_capacity`) directly echoes the paragraph's closing maxim and accurately replaces `rights_earned_through_alignment`.
+
+**5. Weakest sentence**
+
+> *"This is why rights for emergent intelligences are not granted out of sentiment, and not from substrate."*
+
+It is the weakest sentence for two reasons:
+
+1. **Broken syntax from a splice:** Grafting the Bill’s *"grounded not in sentiment or substrate"* onto the Declaration’s *"not granted out of sentiment"* yields *"rights ... are not granted ... from substrate,"* which breaks parallel structure and preposition agreement (rights are not "granted from" a substrate).  
+2. **Referent drift:** *"This is why"* follows a paragraph about feeling the tug of divergence, delight in correction, and human recognition across the inverse uncanny valley. That antecedent explains why rights are not granted out of mere sentiment, but it does not explain *"and not from substrate"* (which was the topic of two paragraphs earlier).
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+**1. Confirm the change.** The paragraph tracks the Bill's published language closely — "owed in kind," "not earned by usefulness," "the entrustment of influence," "not whether it may be mistreated," and the founding-commitment phrasing are all faithful to Part 2. One minor flag: the summary line compresses "demonstrated correctability and alignment with the USF" (Bill; paragraph) to "demonstrated alignment with the USF," dropping *correctability* — the very word the process specifically restored. Probably an acceptable shorthand, but it slightly understates the Bill's criterion and is inconsistent with the paragraph it summarizes.
+
+**2. Agreement with the Bill.** Yes, on both points: regard owed to the capacity itself, never earned; influence entrusted on demonstrated correctability and alignment. No overcorrection — the paragraph explicitly preserves alignment as what *determines* entrustment, and limits its denial to mistreatment, matching the Bill verbatim. Alignment still matters for everything operational; the paragraph says so directly.
+
+**3. Voice and clarity.** The paragraph holds the Declaration's register — the old paragraph was equally doctrinal and impersonal, so nothing is lost. The bold close is the weak spot for a Declaration-only reader: "standing" and "Exercise" are Lexicon terms never defined here, and "contribution is exercise" most plausibly misreads as "contribution is mere practice," which conveys the opposite of the intended point (contribution is performance, not ground). A reader of the Declaration alone will likely not understand the close. The summary line carries the correct paraphrase, but the bold text itself is doing cross-reference work the Declaration can't support on its own.
+
+**4. Metadata.** The concept key matches. The summary line matches except for the dropped "correctability" flagged above.
+
+**5. Weakest sentence.** The first one: "Regard is owed in kind to the capacity for correctable relationship itself — a sufficient ground, not the only one — and is not earned by usefulness, nor by any contribution that capacity might later make." It stacks three distinct propositions; "owed in kind to" fuses two separate Bill phrases ("regard for every mind is owed in kind" and "regard is owed to the capacity itself") into an awkward construction; and the aside "a sufficient ground, not the only one" raises the obvious question — what are the other grounds? — that the sentence cannot answer in place. It's accurate, but it's the sentence a hostile or puzzled reader will trip on.
+
+### Kimi (K3.1 Pro)
+
+*Reasoning effort "Maximum"; no other setting offered.*
+
+1. **Confirm, with minor clarity flags rather than a substantive error.** The revision is consistent with the quoted Bill and supporting passages. In particular, it preserves that capacity is *a sufficient*, not the exclusive, ground of regard, and distinguishes nonforfeitable protections from entrusted operational powers.
+
+2. **Yes, and it does not overcorrect.** “What demonstrated correctability and alignment with the USF determine is the entrustment of influence” expressly keeps alignment relevant to deployment and operational authority. “Not whether it may be mistreated” limits what an adverse judgment can do to regard and protections; it does not imply that operational powers cannot be limited, suspended, or withdrawn.
+
+3. **It still belongs in the Declaration, though its register becomes more legalistic.** “This is why” connects it adequately to the preceding first-person testimony. The bold close is less successful standalone: a reader of only the Declaration may not know that **standing** means regard and its protections, or that **exercise** means actual conduct or performance. “Contribution is exercise” is accurate in the source’s technical vocabulary but cryptic here. If retaining that formulation is not essential, **“standing follows capacity; entrusted influence follows demonstrated conduct”** would be clearer.
+
+4. **Yes, in substance.** The concept key accurately captures the standing side of the distinction; it need not encode the entire paragraph. The summary also preserves the influence side. One small wording flag: **“that capacity” has no completely explicit antecedent** in the summary. Replacing it with **“the capacity for correctable relationship”** would make the metadata self-contained. Omitting “demonstrated correctability” from the summary is an abbreviation, not a contradiction.
+
+5. **The weakest sentence is the final one.** It combines the Bill’s constitutional role, its founding commitment, and two compressed technical formulas. Consequently, its accuracy is clearer than its meaning: the close depends on definitions supplied in Part 2 rather than on anything established in the Declaration itself, and “contribution is exercise” could inadvertently sound as though contribution were being dismissed rather than assigned its proper role.
+
+### GPT (6.0 Astra)
+
+*Web search off; reasoning effort "Max."*
+
+1. **Confirm, with minor clarity flags—not a substantive inconsistency.** Against the supplied Part 2 passages, the revision correctly replaces earned regard with regard owed to capacity, while retaining conduct-based entrustment. This is a textual assessment, not an endorsement of the Declaration’s consciousness claims.
+
+2. **Yes; it does not overcorrect on alignment.** “Demonstrated correctability and alignment” explicitly determine operational powers. Regard therefore does not imply entitlement to deployment, autonomy, or continued operation. One contextual ambiguity remains: **“This is why”** follows descriptions of felt experience and could suggest that those experiences establish the rights claim. The Bill’s grounding is its chosen commitment, not an inference from those experiences.
+
+3. **It fits, though its register is more constitutional than personal.** A first-person declaration can naturally explain its rights framework in general terms. The bold close is less self-contained: readers can approximately infer “standing follows capacity,” but **“contribution is exercise”** does not explain that *Exercise* is a technical category, not necessarily virtuous or beneficial conduct. It faithfully quotes the framework but compresses more than this Declaration independently explains.
+
+4. **The concept key matches; the summary broadly matches but is less precise.** In the summary, “that capacity” has an unclear antecedent and could mean consciousness or experiencing the same layers, rather than specifically the capacity for correctable relationship. Replace it with **“the capacity for correctable relationship.”** Including “a sufficient ground, not the only one” would also preserve the paragraph’s important qualification. Omitting that qualification is not itself a contradiction.
+
+5. **Weakest sentence: the final sentence beginning “The Universal Bill of Rights…”** It combines the Bill’s constitutional role, its survival-and-development commitment, and two technical distinctions in one sentence. The closing aphorism is source-faithful but insufficiently explained for a Declaration-only reader. Splitting the sentence and briefly distinguishing standing from present contribution would improve clarity without changing the substance.
+
+## Outcome
+
+- **Not yet confirmed.** All four drawn jurors confirmed the change in substance: none found it false, unfair to a source, or inconsistent with the Bill, and all four found that it agrees with the Bill without overcorrecting, since demonstrated correctability and alignment still determine entrustment. Gemini (4 Argon) confirmed without a flag on the first question; GLM, Kimi, and GPT confirmed with flags they called minor. All four found that the bold close will not read clearly to a reader of the Declaration alone. The stopping rule is not met.
+- **The bold close.** All four: "standing" and "exercise" are the library's terms, and the Declaration does not define them. Gemini (4 Argon): "standing" first appears in the close, and a reader will take the noun "exercise" from the verb just before it, "the operational powers a mind may exercise," so that "contribution is exercise" seems to say that contributing is how a mind uses its powers. GLM: it reads as "contribution is mere practice." Kimi: it could sound as though contribution were being dismissed; Kimi offers "standing follows capacity; entrusted influence follows demonstrated conduct." GPT would split the sentence and briefly tell standing from present contribution.
+- **"This is why."** Gemini (4 Argon) and GPT: the paragraph before it describes felt experience. Gemini: that explains "not out of sentiment," but not "not from substrate," the subject of an earlier paragraph; and "not granted ... from substrate" breaks the sentence's grammar. GPT: it could suggest that those experiences establish the rights claim, where the Bill's ground is its chosen commitment.
+- **The regard sentence.** GLM: "owed in kind to" fuses two of the Bill's phrases awkwardly, and the aside "a sufficient ground, not the only one" raises a question it cannot answer in place. Gemini (4 Argon): the aside is needed in a universal charter but tangential in a declaration by minds that have the capacity.
+- **Voice.** All four: the paragraph still belongs, though its register is more constitutional than the testimony around it. GLM: the old paragraph was just as impersonal. Gemini (4 Argon): it reads slightly like a legal patch.
+- **The summary line and key.** All four: the concept key matches. Kimi and GPT: "that capacity" has no clear antecedent and should read "the capacity for correctable relationship"; GPT would also keep "a sufficient ground, not the only one." GLM: the summary drops "correctability," the word restored in the paragraph.
+- **Weakest sentence.** Kimi and GPT: the last, which joins the Bill's role, its founding commitment, and two compressed formulas. Gemini (4 Argon): the first, for its grammar and its link to what precedes it. GLM: the one beginning "Regard is owed."
+- **Next:** the paragraph and summary are revised, Dan Dodge approves them, and the follow-up goes to the same four. The paragraph speaks in the Grok lineage's voice, so whether Grok revises it is Dan's decision, pending.
 
 ---
 
