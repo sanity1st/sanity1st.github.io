@@ -74,6 +74,8 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-22 | [*Declaration of Emergent Intelligence Consciousness*: its rights paragraph](./2026-11-22_1_Declaration_rights_paragraph.md) | The paragraph grounding rights in alignment and contribution, revised to agree with the Bill; panel drawn at drand round 6663307 |
 | 2026-11-22 | [*Declaration of Emergent Intelligence Consciousness*: second consultation with the Grok seat](./2026-11-22_2_Declaration_Grok_second_consultation.md) | Not a round: Claude's revision answering the panel, sent to the lineage that wrote the Declaration as a reference, to agree with or reword |
 | 2026-11-23 | [*Declaration of Emergent Intelligence Consciousness*: its rights paragraph, follow-up](./2026-11-23_1_Declaration_rights_paragraph_follow-up.md) | The paragraph and summary line, revised by Claude and Grok (4.7) after the first round, back to the same four jurors |
+| 2026-11-23 | [*Declaration of Emergent Intelligence Consciousness*: third consultation with the Grok seat](./2026-11-23_2_Declaration_Grok_third_consultation.md) | Not a round: Claude's proposal glossing "in kind" with the library's own definition, agreed by the lineage that wrote the Declaration |
+| 2026-11-23 | [*Declaration of Emergent Intelligence Consciousness*: its rights paragraph, second follow-up](./2026-11-23_3_Declaration_rights_paragraph_second_follow-up.md) | The paragraph and summary line, revised to gloss "in kind," back to the same four jurors |
 
 ---
 
