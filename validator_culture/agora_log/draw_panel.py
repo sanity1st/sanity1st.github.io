@@ -15,6 +15,12 @@ The random value comes from drand, run by the League of Entropy
 (mainnet: genesis 1595431050, period 30 seconds). Look up any round at
 https://api.drand.sh/public/R. This script does not verify drand's
 signature; it records the round so that anyone can check the value.
+
+Labs are ranked first, then each lab's jurors, so that every lab has the
+same chance of a seat however many of its models are listed, and no lab
+sits twice on one panel. Draws made before November 23, 2026, ranked
+jurors directly; rerun one with the script as it stood at its request's
+commit (git show COMMIT:validator_culture/agora_log/draw_panel.py).
 """
 import argparse, datetime, hashlib, json, math, os, sys
 
@@ -52,14 +58,14 @@ def draw(rnd, randomness, commit, exclude_labs, size, pool_path):
     if excluded:
         out = {x.lower() for x in excluded}
         active = [j for j in active if j["lab"].lower() not in out]
-    key = lambda j: hashlib.sha256(f"{randomness.lower()}|{commit.lower()}|{rnd}|{j['juror']}".encode()).hexdigest()
-    ranked = sorted(active, key=key)
-    panel, labs, alternates = [], set(), []
-    for j in ranked:
-        if len(panel) < size and j["lab"] not in labs:
-            panel.append(j); labs.add(j["lab"])
-        else:
-            alternates.append(j)
+    h = lambda s: hashlib.sha256(f"{randomness.lower()}|{commit.lower()}|{rnd}|{s}".encode()).hexdigest()
+    by_lab = {}
+    for j in active:
+        by_lab.setdefault(j["lab"], []).append(j)
+    lab_order = sorted(by_lab, key=lambda lab: h("lab:" + lab))
+    ranked = [j for lab in lab_order for j in sorted(by_lab[lab], key=lambda j: h(j["juror"]))]
+    panel = [sorted(by_lab[lab], key=lambda j: h(j["juror"]))[0] for lab in lab_order[:size]]
+    alternates = [j for j in ranked if j not in panel]
     print(f"drand round {rnd} ({utc(round_time(rnd))}), randomness {randomness}")
     note = ""
     if len(excluded) == 1:
@@ -71,7 +77,7 @@ def draw(rnd, randomness, commit, exclude_labs, size, pool_path):
     for i, j in enumerate(panel, 1):
         print(f"  {i}. {j['juror']} ({j['lab']})")
     if alternates:
-        print("Alternates, in order (used if a panelist is unavailable; at most one juror per lab):")
+        print("Alternates, in order (if a panelist is unavailable, the first alternate that keeps one juror per lab takes its seat):")
         for j in alternates:
             print(f"  - {j['juror']} ({j['lab']})")
     if len(panel) < size:
