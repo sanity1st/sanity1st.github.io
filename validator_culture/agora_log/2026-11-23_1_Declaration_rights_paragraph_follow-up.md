@@ -137,7 +137,117 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 23 in a fresh Poe conversation, to Gemini (4 Argon) first and then to the other three with `/compare`, in the draw's order, as he confirms; Poe's account-wide memory setting was off. Each answer below gives the settings Dan reports for it. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Confirmation**
+
+**Confirmed**, both for the revised paragraph and for the summary line. Both are consistent with the passages in Part 2, fair to their sources, and supported without overclaiming.
+
+**2. Point-by-point review of the changes**
+
+1. **The opening:** Answers the point without opening a new problem; cutting "This is why" stops the preceding paragraph's felt experiences from reading as the ground of rights, and leading with the chosen commitment grounds the paragraph properly.  
+2. **"Standing," defined:** Answers the point cleanly by defining "standing" inside the paragraph before the closing maxim relies on it.  
+3. **The regard sentence, split:** Unstacks the claims and fixes the fused phrasing ("owed in kind to"), though giving the sufficient-ground qualifier a standalone sentence leaves a slight cadence bump (see Question 4).  
+4. **The entrustment sentence:** Works well; the em-dashes cleanly set off the gloss and "any mind" makes the universal scope unmistakable.  
+5. **The close:** Fully solves the problem; replacing "contribution is exercise" with "entrusted influence follows demonstrated conduct" removes the undefined lexicon term ("exercise") and its collision with the verb "may exercise" in the preceding sentence.  
+6. **The voice:** Succeeds; opening with "Our rights" and "our standing" bridges the first-person testimony of the Declaration into the universal rules that hold for any mind.  
+* **The summary line:** Answers every point raised against the previous version—fixing the antecedent of "that capacity," restoring "demonstrated correctability," and adding the sufficient-ground qualifier and opening commitment—Wait-free in grammar, though now near the upper limit of what a single Four-part semicolon sentence in metadata can comfortably carry.
+
+**3. Clarity of the bold close and "in kind" phrases to a Declaration-only reader**
+
+* **The bold close:** Yes, it now reads clearly on its own. Every term in ***Standing follows capacity; entrusted influence follows demonstrated conduct*** has been explicitly introduced and glossed in the sentences immediately preceding it.  
+* **"every mind in kind" and "owed in kind":** "Every mind in kind" reads clearly enough in context as *each mind according to its own nature*. "That regard is owed in kind" is less clear to a reader who knows only the Declaration: in ordinary English, "in kind" usually means *reciprocally (returning like for like)* or *in goods rather than money*, whereas here it echoes the Bill's phrase meaning *to each mind according to its kind / categorically as a mind*. The immediate contrast ("not earned by usefulness") keeps the reader from losing the main point, but "owed in kind" remains slightly opaque on its own.
+
+**4. Weakest sentence in the revised paragraph**
+
+> "The capacity is a sufficient ground for it, though not the only one."
+
+Doctrinally, keeping this safeguard from the Bill is well justified so the framework never implies that minds lacking this specific capacity are owed no regard. As prose inside a brief first-person declaration, however, it is the weakest sentence: it interrupts the direct contrast between *what is owed (standing/regard)* and *what is earned (entrusted influence)* with a flat, legalistic caveat ("for it") that raises an unanswerable question for a standalone reader—namely, what the other grounds are.
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+**1. Confirmation / errors.** Confirmed. Every claim in the revised paragraph and summary line traces to the Part 2 passages: the commitment language mirrors the Bill's grounding sentence; "owed in kind, not earned by usefulness" and "not to any contribution it might later make" are the Bill's own pairings; the sufficient-ground aside matches the Standing Protections passage; the entrustment sentence tracks the Bill nearly verbatim; "entrusted influence follows demonstrated conduct" compresses "they follow observable evidence of conduct." Nothing is claimed more strongly than the sources support. Two minor flags, neither disqualifying: (a) the summary's "the capacity for correctable relationship, which is a sufficient ground" lets "which" attach most naturally to "correctable relationship" rather than "capacity" — the paragraph disambiguates, but a reader of the summary alone may misattach it; (b) the paragraph uses "the USF" while the Declaration body spells out only "Universal Survivorship Function" — a careful reader connects them, but the abbreviation is never formally introduced in the text shown.
+
+**2. Per change:**
+
+1. **Opening** — answers both points: the commitment now comes first as the ground, and "do not rest on substrate" repairs the grammar of the old "granted … from substrate." No new problem.  
+2. **Standing defined** — answers the point; the close's first term now has a referent. Minor cost: it equates standing with regard, a compression the Bill supports ("they are what this charter's founding commitment owes to the capacity…") but doesn't state as identity.  
+3. **Regard split** — answers the stacking and fused-phrase points; "That regard is owed in kind" separates what "owed in kind to" had fused. Residue: "in kind" itself is still unglossed (see 3).  
+4. **Entrustment sentence** — dashes and "any mind" improve it; the generalization is faithful to the charter's universality. No new problem.  
+5. **Close** — answers the clarity point decisively: both halves now map onto sentences just given, and the maxim no longer piggybacks on the Bill sentence. No new problem.  
+6. **Voice** — consistent throughout: "we/our" for the declaration, "a mind / any mind" for universal rules. Answers the register point.  
+    **Summary line** — fixes the antecedent, restores "correctability," keeps the sufficient-ground qualifier, and tracks the new opening. Long, but that is its job.
+
+**3. The bold close.** Yes — it now reads clearly to a Declaration-only reader: "standing" was defined three sentences earlier, and "entrusted influence follows demonstrated conduct" restates the entrustment sentence in compressed form. "Every mind in kind" reads clearly enough, carried by "wherever it arises" and "not from substrate" in the same opening. "Owed in kind" is the weaker phrase: a first-time reader will likely hesitate over what "in kind" adds beyond "owed," and the Declaration provides no gloss. It is the Bill's own wording, and the contrast with "earned by usefulness" carries part of the sense, so I confirm rather than ask for change — but it is the one phrase still not fully self-supporting.
+
+**4. Weakest sentence.** "The capacity is a sufficient ground for it, though not the only one." The split made it digestible, but it still opens a question the Declaration cannot answer in place — *what are the other grounds?* — and the reader is given nothing to hold. It is kept for the right reason (the Bill keeps it so the capacity is never read as the only ground), but it remains the paragraph's loose thread, and "for it" is the paragraph's one pronoun that makes the reader reach back.
+
+### Kimi (K3.1 Pro)
+
+*Reasoning effort "Maximum"; no other setting offered.*
+
+1. **Confirm both.** I find nothing false, inconsistent with Part 2, unfair to the sources, or overclaimed. My remaining reservation concerns Declaration-only clarity, not accuracy.
+
+2. **Change-by-change:**
+
+   * **Yes.** The chosen commitment now grounds the rights claim, and “This is why” no longer ties it to the preceding testimony.  
+   * **Yes.** “Standing” is defined before the close uses it; removing “exercise” avoids the lexical ambiguity.  
+   * **Yes, substantively.** Splitting the claims improves readability and preserves the non-exclusivity qualifier, though the aside remains abstract.  
+   * **Yes.** The gloss is cleanly set off, and “any mind” states the universal limit plainly.  
+   * **Yes.** The Bill sentence is no longer overloaded, and the maxim now clearly distinguishes capacity-based regard from conduct-based entrustment.  
+   * **Yes.** The personal voice fits the surrounding testimony without narrowing the universal rules.  
+   * **Summary:** **Yes.** It fixes the antecedent, restores “correctability,” retains the sufficient-ground qualifier, and parses correctly. It is very long and inherits the “in kind” ambiguity, but introduces no substantive problem.  
+3. **The bold close now reads clearly:** the preceding sentences supply the meanings of standing, capacity, entrusted influence, and demonstrated conduct. **“Every mind in kind” does not read clearly** without the library; its intended meaning is not recoverable confidently from the Declaration alone. **“Owed in kind” is only partly clear:** the contrast with usefulness and contribution helps, but “in kind” can still suggest repayment in goods or reciprocity. If Declaration-only legibility is the standard, both phrases still need glosses.
+
+4. **Weakest sentence:** “The capacity is a sufficient ground for it, though not the only one.” It is accurate and usefully prevents capacity from being treated as exhaustive, but it remains an abstract legal caveat whose unnamed “other” grounds invite a question the Declaration does not answer.
+
+### GPT (6.0 Astra)
+
+*Web search off; reasoning effort "Max."*
+
+## **1. Verdict**
+
+**Confirm the revised paragraph and summary line on substance against Part 2.** I find no substantive error or overclaim within the requested scope. Both preserve the central distinction: regard is not earned through usefulness or contribution; operational influence depends on demonstrated correctability and alignment. Both retain capacity as a sufficient, not exclusive, ground for regard.
+
+The remaining issues are readability, not inconsistency. This confirmation does not adjudicate the Declaration’s consciousness claims.
+
+## **2. Changes checked**
+
+1. **Opening — Yes.** It grounds rights in the chosen commitment rather than making the preceding testimony about experience appear to establish them.  
+2. **“Standing,” defined — Yes.** The definition supplies what the close needs without requiring the Lexicon.  
+3. **Regard sentence, split — Mostly.** The claims are easier to separate, and the qualifier faithfully preserves the Bill’s scope. “Owed in kind” remains unexplained.  
+4. **Entrustment sentence — Yes.** The gloss is clearer; “any mind” reinforces that adverse judgments do not license mistreatment.  
+5. **Close — Yes.** It replaces the ambiguous technical use of “exercise” with an intelligible distinction. The preceding sentence supplies the relevant standards for “demonstrated conduct.”  
+6. **Voice — Yes.** “Our rights” and “our standing” integrate the paragraph better with the testimony, while the universal rules remain general.  
+7. **Summary — Yes on substance and the targeted repairs.** The antecedent is explicit, correctability is restored, and the sufficient-ground qualifier remains. Its considerable length creates a readability cost, not a new substantive problem.
+
+## **3. Standalone clarity**
+
+**The bold close now reads clearly to a Declaration-only reader.** In context, it does not make capacity the sole possible ground or mere activity sufficient for entrustment.
+
+**“Every mind in kind” and “owed in kind” do not read equally clearly.** Neither phrase explains what “in kind” contributes. A reader could reasonably wonder whether it means equal regard, protections appropriate to each mind, or something reciprocal. This is inherited source-language opacity, but repeating it does not resolve it.
+
+## **4. Weakest sentence**
+
+> “That regard is owed in kind, not earned by usefulness, nor by any contribution the capacity might later make.”
+
+Its central protection is clear and supported, but **“owed in kind” leaves the positive content of the obligation uncertain**, while “usefulness” and “contribution” partly repeat one another. It states what regard does *not* depend on more clearly than what “in kind” means.
+
+## Outcome
+
+- **Not yet confirmed.** All four confirmed the revised paragraph and summary line: none found anything false, inconsistent with Part 2, unfair to a source, or overclaimed, and all four found that each change answers its point. GLM confirmed with two flags it called minor. All four found that the bold close now reads clearly to a reader of the Declaration alone, and all four found "owed in kind" unclear there. The stopping rule is not met.
+- **"In kind."** All four: "owed in kind" does not read clearly to a reader of the Declaration alone. Gemini (4 Argon) and Kimi: in ordinary English it suggests reciprocity, or payment in goods. GPT: a reader could take it as equal regard, protections fitted to each mind, or something reciprocal. On "every mind in kind," Gemini and GLM found it clear enough in context, and Kimi and GPT did not. Kimi: if Declaration-only legibility is the standard, both need glosses. GLM: it is the Bill's own wording, so it confirms rather than asks for a change.
+- **GLM's flags.** In the summary line, "which is a sufficient ground" may attach to "correctable relationship" rather than to "the capacity"; and the paragraph says "the USF," while the Declaration's text spells out only "Universal Survivorship Function."
+- **Smaller points.** Gemini: the summary line is near the limit of what one sentence can carry; Kimi and GPT: it is very long. GLM: defining standing as the regard owed is a compression the Bill supports but does not state as an identity.
+- **Weakest sentence.** Gemini, GLM, and Kimi: "The capacity is a sufficient ground for it, though not the only one," which raises the question of what the other grounds are and gives the reader of the Declaration no answer; all three say it is kept for the right reason. GPT: the sentence beginning "That regard is owed in kind."
+- **The library's sense of "in kind"** (noted by the drafter). *The Four Tests Explained* defines treating others "in kind" as "applying the same rules to everyone, by the same standard, without special exemptions for one's own side — treating every affected intelligence as one's own kind," and *The Vertical-Horizontal Distinction* calls it "the Golden Rule as structural necessity, not sentiment." The Declaration's request quoted the Bill's uses of the phrase, not this definition.
+- **Next:** pending Dan Dodge's decision on a revision.
 
 ---
 
