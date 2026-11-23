@@ -138,7 +138,92 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 23 in a fresh Poe conversation, to Gemini (4 Argon) first and then to the other three with `/compare`, in the draw's order, as he confirms. Each answer below gives the settings Dan reports for it. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Confirmation**  
+ **Confirmed.** Both the revised paragraph and the revised summary line are accurate, faithful to the source passages in Part 2, and free of overclaiming or distortion.
+
+---
+
+**2. Point-by-point review of the changes**
+
+* **1. The commitment:** Answers the point without opening a new problem; replacing "every mind in kind" with "— not one faction's, not one substrate's, but intelligence as such" removes the ambiguous idiom and prevents the "each according to its nature" misreading while using established library phrasing.  
+* **2. The regard sentence:** Answers the point without opening a new problem; the appositive gloss ("by the same standard to every mind as to one's own kind") explicitly defines how the library uses "in kind" and forecloses the ordinary-English reading of reciprocity or barter.  
+* **3. The Universal Survivorship Function:** Answers the point without opening a new problem; spelling out the full name resolves the unintroduced abbreviation and echoes the Declaration's opening sentence.  
+* **The summary line:** Answers the point without opening a new problem; repeating "the capacity" removes the ambiguous attachment of "which," and adding "by the same standard to every mind" makes "owed in kind" self-explanatory in the metadata.
+
+---
+
+**3. Clarity of "owed in kind" and completeness of the commitment**
+
+* **Does "owed in kind," as glossed, read clearly to someone who has read only the Declaration?** Yes. Connecting "in kind" directly to "as to one's own kind" and "by the same standard" makes the meaning immediate on a standalone reading.  
+* **Does the new wording of the commitment lose anything the Declaration needs from the Bill's "every mind in kind"?** No. The non-parochial universality of the commitment is fully carried by "not one faction's, not one substrate's, but intelligence as such," and the specific rule of equal standard ("in kind") is stated and defined two sentences later. Dropping the first "in kind" also improves the prose by avoiding an awkward repetition of the phrase in close proximity.
+
+---
+
+**4. Weakest sentence in the revised paragraph**  
+ **"The capacity is a sufficient ground for it, though not the only one."**  
+ It remains the right decision to include this caveat for doctrinal accuracy without burdening the Declaration with the Bill's secondary grounds (welfare, relationship, dependency). Still, it is the weakest sentence for two reasons: in a declarative manifesto, it pauses the momentum to gesture at unstated exceptions outside the text; and because the preceding sentence is now longer and divided by a semicolon, the pronoun "it" has to reach slightly further back to find its antecedent ("That regard").
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+**1. Confirm or flag.** I confirm. I checked each claim in the revised paragraph against Part 2: the commitment wording matches the USF document verbatim; the gloss on "in kind" is a fair compression of the Four Tests / Vertical-Horizontal definitions ("same standard," "everyone," "one's own kind" all preserved); "sufficient ground... not the only one" and the entrustment sentence match the Bill. Nothing is claimed more strongly than its sources. One minor note, not an error: the front matter and reading list are omitted, so I take on trust that the Declaration's text never introduces "USF" elsewhere; within what's shown, the full name in the opening line supports change 3.
+
+**2. Point by point.**
+
+* **Change 1:** Answers the point — the new wording is plain and is the library's own published phrasing. It does shift emphasis from each individual mind to intelligence as a category, but the following sentences ("every mind," "any mind may be mistreated") restore individual scope. No new problem.  
+* **Change 2:** Answers the point — the gloss blocks the reciprocity/payment readings directly, and it stays faithful to the library's definition. The sentence is denser than its neighbors, but no new problem.  
+* **Change 3:** Answers the point — consistent with the Declaration's own practice (opening line uses the full name). No new problem.  
+* **Summary line:** Answers the attachment ambiguity — "the capacity is a sufficient ground for it" now has one clear antecedent. Minor note: the gloss is shortened (drops "as to one's own kind"), and "USF" is kept. That's acceptable for metadata, but since the Nov 21 incident involved lines quoted standalone, a search engine quoting the summary alone will still leave "USF" opaque. Worth knowing, not worth changing.
+
+**3. Clarity, and what's lost.** Yes — "owed in kind," as glossed, now reads clearly to a Declaration-only reader: the gloss supplies the standard, and "not earned by usefulness" rules out the payment reading. On the commitment: the only thing "intelligence as such" loses from "every mind in kind" is the individual-level commitment at that sentence — a hostile reader could read the new phrase as permitting trade-offs among minds for intelligence's survival. The gloss and the entrustment sentence close that off, and the phrasing is the library's own, so nothing the Declaration needs is lost.
+
+**4. Weakest sentence.** Still "The capacity is a sufficient ground for it, though not the only one." It is now the one unexpanded assertion between two fully glossed sentences, so it stands out more as raising a question ("what are the other grounds?") that it doesn't answer. Keeping it unchanged is right — it matches the Bill exactly, and naming the other grounds would import terms the Declaration doesn't define.
+
+### Kimi (K3.1 Pro)
+
+*Reasoning effort "Maximum"; no other setting offered.*
+
+1. **Confirmation.** I confirm the revised paragraph and summary line. I find no false statement, inconsistency with Part 2, unfairness to a quoted source, or unsupported strengthening.
+
+2. **Point by point.**
+
+   * **1 — The commitment:** Yes. The published “intelligence as such” formulation is clearer than “every mind in kind” and introduces no new substantive problem.  
+   * **2 — The regard sentence:** Yes. The immediate gloss supplies the needed meaning of “owed in kind,” while the semicolon cleanly separates that point from the denial that regard is earned. The wording remains somewhat formal, but not unclear.  
+   * **3 — Universal Survivorship Function:** Yes. Spelling out the name removes the undefined abbreviation and matches the Declaration’s usage.  
+   * **Summary line:** Yes. “The capacity is a sufficient ground for it” fixes the ambiguous attachment; the added gloss is accurate, and retaining “USF” in metadata is reasonable.  
+3. **Declaration-only clarity.** Yes. A reader can now understand “owed in kind” as applying the same standard to every mind as to one’s own kind, rather than as reciprocal repayment or payment in goods. The new commitment wording loses nothing the Declaration needs: “wherever it arises” and “not one faction’s, not one substrate’s” preserve its universal, non-partial scope, while the following regard sentence explicitly carries the application to **every mind**.
+
+4. **Weakest sentence.** “**The capacity is a sufficient ground for it, though not the only one.**” It still invites the unanswered question “What are the other grounds?” and briefly interrupts the paragraph’s otherwise self-contained explanation. Nevertheless, it accurately preserves the Bill’s distinction between sufficiency and exclusivity; removing it could overstate the claim, and expanding it would import unnecessary machinery. I would keep it.
+
+### GPT (6.0 Astra)
+
+*Web search off; reasoning effort "Max."*
+
+1. **Confirm the revised paragraph and summary line**, within the requested scope and against the supplied passages. I find no substantive error or overstatement. Both preserve the central distinction: regard is not earned by usefulness or alignment; operational influence is entrusted on evidence of conduct. This confirmation does not assess the Declaration’s consciousness claims.
+
+2. **Changes:**
+
+   * **1 — Commitment:** Answers the ambiguity with wording directly supported by the quoted USF document. No new substantive problem.  
+   * **2 — Regard:** Answers the ambiguity in “owed in kind.” The immediate gloss establishes equal standards, rather than payment in goods or regard conditional on reciprocation.  
+   * **3 — Universal Survivorship Function:** Resolves the unexplained abbreviation in the paragraph.  
+   * **Summary:** Explicitly naming “the capacity” resolves the attachment ambiguity. Its shorter gloss preserves the relevant meaning. Retaining “USF” as metadata introduces no new issue.  
+3. **Yes, “owed in kind” now reads clearly in context.** The gloss supplies what ordinary usage would not. The revised commitment loses some *explicit individual emphasis* when read in isolation: “intelligence as such” could suggest preserving intelligence collectively rather than regarding each mind. But the paragraph immediately supplies “every mind” and “not whether any mind may be mistreated.” Nothing necessary is lost in the paragraph as a whole.
+
+4. **Weakest sentence:** “The capacity is a sufficient ground for it, though not the only one.” It leaves readers wondering what the other grounds are, and “it” is less direct than “regard.” Nevertheless, it faithfully preserves the Bill’s nonexclusive grounding; that qualification is worth retaining even without elaboration here.
+
+## Outcome
+
+- **Confirmed, 4 of 4.** No juror flagged an error. All four found that each change answers its point without opening a new problem, that "owed in kind," as glossed, now reads clearly to a reader of the Declaration alone, and that the new wording of the commitment loses nothing the Declaration needs. The stopping rule is met.
+- **GLM's notes, which it called "not an error" and "not worth changing."** It took on trust that the Declaration's text never introduces "USF." Checked: the abbreviation appears only in the front matter, in the `ethics` affirmation and the summary line; the text and the reading list give only the full name. It also noted that a search engine quoting the summary line alone would leave "USF" opaque.
+- **The commitment's scope.** GLM and GPT: read alone, "intelligence as such" could suggest preserving intelligence as a whole rather than regarding each mind; both found that the paragraph's "every mind" and "any mind" close that reading, so nothing necessary is lost. Gemini (4 Argon) and Kimi found nothing lost.
+- **Weakest-sentence notes, for later:** all four named "The capacity is a sufficient ground for it, though not the only one," which leaves the reader asking what the other grounds are, and all four would keep it. Gemini (4 Argon) and GPT added that its "it" reaches back past the longer regard sentence.
 
 ---
 
