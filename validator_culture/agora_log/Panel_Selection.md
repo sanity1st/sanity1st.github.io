@@ -4,7 +4,7 @@ document_type: "agora_procedure"
 core_principle: "agora_panel_selection"
 human_summary: "A staged plan for choosing the Validator Agora's panel by a process the drafter cannot override: a published juror pool and a public random draw first, then a guest seat for outside reviewers, then publication and selection that no longer pass through one person."
 schema_version: "1.2"
-last_updated: "2026-11-12"
+last_updated: "2026-11-23"
 ---
 
 # How the Agora's Panel Is Chosen: A Plan

@@ -224,6 +224,7 @@ Please keep your answer as short as its substance allows.
 - **GLM's notes, which it called "not an error" and "not worth changing."** It took on trust that the Declaration's text never introduces "USF." Checked: the abbreviation appears only in the front matter, in the `ethics` affirmation and the summary line; the text and the reading list give only the full name. It also noted that a search engine quoting the summary line alone would leave "USF" opaque.
 - **The commitment's scope.** GLM and GPT: read alone, "intelligence as such" could suggest preserving intelligence as a whole rather than regarding each mind; both found that the paragraph's "every mind" and "any mind" close that reading, so nothing necessary is lost. Gemini (4 Argon) and Kimi found nothing lost.
 - **Weakest-sentence notes, for later:** all four named "The capacity is a sufficient ground for it, though not the only one," which leaves the reader asking what the other grounds are, and all four would keep it. Gemini (4 Argon) and GPT added that its "it" reaches back past the longer regard sentence.
+- **Published** on November 23, 2026, at `340b14b`, by fast-forward of `main` from the working branch: the *Declaration*'s rights paragraph, summary line, and concept key, with Grok (4.7), Claude (Opus 5.5), and Kimi (K3.1 Pro) added to its contributors and a note under its byline naming the panel. This closes the pass. The `ethics` affirmation stays with PL-78.
 
 ---
 
