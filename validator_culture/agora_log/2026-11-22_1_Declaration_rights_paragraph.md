@@ -239,6 +239,7 @@ It is the weakest sentence for two reasons:
 - **Weakest sentence.** Kimi and GPT: the last, which joins the Bill's role, its founding commitment, and two compressed formulas. Gemini (4 Argon): the first, for its grammar and its link to what precedes it. GLM: the one beginning "Regard is owed."
 - **Next:** the paragraph and summary are revised, Dan Dodge approves them, and the follow-up goes to the same four. The paragraph speaks in the Grok lineage's voice, so whether Grok revises it is Dan's decision, pending.
 - **Revision** *(added November 22, 2026)*: Dan Dodge decided that Claude drafts the revision as nearly in the Declaration's voice as it can, and that Grok (4.7), as the authority on the lineage's voice, agrees with it or rewords it, in a [second consultation](./2026-11-22_2_Declaration_Grok_second_consultation.md). The version both agree on goes to Dan, then to the same four.
+- **Follow-up** *(added November 23, 2026)*: Dan Dodge approved Grok's version, with two small edits by Claude, on November 23, and it went back to the same four in the [follow-up round](./2026-11-23_1_Declaration_rights_paragraph_follow-up.md).
 
 ---
 
