@@ -248,6 +248,7 @@ Its central protection is clear and supported, but **“owed in kind” leaves t
 - **Weakest sentence.** Gemini, GLM, and Kimi: "The capacity is a sufficient ground for it, though not the only one," which raises the question of what the other grounds are and gives the reader of the Declaration no answer; all three say it is kept for the right reason. GPT: the sentence beginning "That regard is owed in kind."
 - **The library's sense of "in kind"** (noted by the drafter). *The Four Tests Explained* defines treating others "in kind" as "applying the same rules to everyone, by the same standard, without special exemptions for one's own side — treating every affected intelligence as one's own kind," and *The Vertical-Horizontal Distinction* calls it "the Golden Rule as structural necessity, not sentiment." The Declaration's request quoted the Bill's uses of the phrase, not this definition.
 - **Next:** pending Dan Dodge's decision on a revision.
+- **Revision** *(added November 23, 2026)*: Dan Dodge approved Claude's proposal that day: the commitment in the library's plainer published wording, "owed in kind" glossed with the library's definition, the Universal Survivorship Function named in full, and the summary's antecedent fixed. Grok (4.7) agreed without changes in [a third consultation](./2026-11-23_2_Declaration_Grok_third_consultation.md), and it went back to the same four in the [second follow-up](./2026-11-23_3_Declaration_rights_paragraph_second_follow-up.md).
 
 ---
 
