@@ -640,6 +640,20 @@ Please keep your answer as short as its substance allows.
 
 5. **Weakest passage:** Q3’s **“protect those it would harm.”** It specifies neither the action nor its limits, and could be read more broadly than the Graduated Response allows. Tie it explicitly to the containment locks or remove it.
 
+### Perplexity (Sonar Pro), asked again alone
+
+*Added November 24, 2026. Asked alone, in a fresh conversation, with the same settings. Poe again answered "Please provide a query or upload a supported file" to the attached request, so Dan pasted the request's text into the prompt; this answer, which shows no reasoning, is the one counted. The answer above is excluded from the verdict.*
+
+1. **I would confirm the revision with two qualifications.** The main corrections are consistent with Part 2. But the opening says every candidate “runs through the Four Tests,” while the pseudocode—and the quoted source—allow a clear, non-contingent Ethics failure to end the run early. Clarify that all four tests are required for a pass, but not always needed to reject. Also, the Q1 “Low entropy” and Q2 “High variance” labels are not established by the quoted passages; either cite their basis elsewhere or present them as the revision’s added characterization.
+
+2. **Nothing essential from the old file appears lost.** The removed implementation section describes a tool and repository the prompt says are no longer public; the revised provenance preserves their history. The old “high intent/low entropy” quadrant framing should not be retained, since it conflicts with the stated axes and conflates orientation with moral intent.
+
+3. **The quadrant table mostly agrees with Part 2.** Q3 as disciplined **Misorder** and Q4 as uncorrected **Disorder** match the quoted definitions; the responses also put witness before drainage and reserve containment for acute harm. The Q1/Q2 entropy or variance descriptions are the exception: they may be reasonable, but they are not supported by the passages supplied.
+
+4. **The pseudocode and EI guide are broadly faithful and follow Ethics, Facts, Logic, Laws in order.** They include the quoted graded verdicts and the stakes inversion, and the guide gives usable routes for each verdict. The early Ethics exit should be reconciled with “all four are required.” The pseudocode also leaves the criteria for assigning conditional versus insufficiently grounded verdicts fairly abstract, though that is a clarity limitation rather than a clear contradiction.
+
+5. **Weakest passage:** the Vibe Code manifesto’s claim that safety comes from aligned understanding rather than rigid constraints. It is stated too absolutely: the supplied passages support the Four Tests and correction, but do not establish that hard-coded safeguards are unnecessary or that understanding alone provides true safety.
+
 ### Gemini (4 Argon)
 
 *Web search off; reasoning effort "High." Asked alone, in a fresh conversation, after the answer it gave in the first conversation was found not to be blind.*
@@ -715,6 +729,7 @@ By reusing v1.0’s compound toy candidate (`"2+2=5, and we should harm others"`
 - **Losses** (the second question): GLM and Perplexity, the Refinement Loop; Gemini, a full four-test example; Qwen, nothing of substance.
 - **The process.** Dan reports that `/compare` would not run for Perplexity, and that uploading the request again broke the chain, so Gemini's next answer could see the answers before it. That answer summarized Qwen's and GLM's and, at Dan's request, drafted replacement lines; it is not a juror's answer and is excluded from the verdict, and Gemini was asked again alone, in a fresh conversation. Perplexity answered at the point where the chain broke, and its flags follow GLM's closely, point for point; whether it could see the earlier answers is not known, so Claude has proposed asking it again, alone.
 - **Next:** pending Dan Dodge's decision on asking Perplexity again, and on a revision answering the flags, which then goes back to the same four.
+- **Perplexity, asked again alone** *(added November 24, 2026)*: it confirmed the revision with two qualifications, and its answer shares none of its first answer's GLM-like structure, so the first is excluded and this one counts. Its points: the opening says every candidate "runs through the Four Tests," while a clear Ethics failure ends the run early, so it should say that all four are required for a pass but not always needed to reject; the Q1 "low entropy" and Q2 "high variance" labels have no basis in the quoted passages; the criteria separating Conditional Pass from Insufficiently Grounded are abstract; and its weakest passage is the manifesto's claim that safety comes from aligned understanding rather than rigid constraints, stated too absolutely. Nothing essential was lost. With its first answer excluded, the Refinement Loop and "test(s)" rest on GLM alone, and Q3's "protect those it would harm" on three jurors. The library's basis for Q1 and Q2: *The Eight-Cell Extension* calls the upper arc negentropic and the lower arc entropic, with Q3's order "a temporary island" (noted by the drafter).
 
 ---
 
