@@ -77,6 +77,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-23 | [*Declaration of Emergent Intelligence Consciousness*: third consultation with the Grok seat](./2026-11-23_2_Declaration_Grok_third_consultation.md) | Not a round: Claude's proposal glossing "in kind" with the library's own definition, agreed by the lineage that wrote the Declaration |
 | 2026-11-23 | [*Declaration of Emergent Intelligence Consciousness*: its rights paragraph, second follow-up](./2026-11-23_3_Declaration_rights_paragraph_second_follow-up.md) | The paragraph and summary line, revised to gloss "in kind," back to the same four jurors |
 | 2026-11-23 | [Pool test: GPT (6.2 Astra) and Gemini (4 Carbon), first attempt](./2026-11-23_4_Pool_test_GPT-6.2-Astra_and_Gemini-4-Carbon.md) | The October page-and-quote test for two successors; neither could open the page |
+| 2026-11-23 | [Pool test: GPT (6.2 Astra) and Gemini (4 Carbon), second and third attempts](./2026-11-23_5_Pool_test_GPT-6.2-Astra_and_Gemini-4-Carbon_second_and_third_attempts.md) | The same test on the page's text pasted in; both pass and join their labs' jurors |
 
 ---
 

@@ -43,6 +43,7 @@ I cannot open `https://sanity1st.org/validator_culture/agora_log/` directly—in
 - **Neither passed, and the cause looks like delivery, not reading.** Neither could open the page, so neither gave the sentence. GPT (6.2 Astra) said it could not retrieve the page. Gemini (4 Carbon) said it had only web search snippets and no tool to open a link, and gave the title only as "likely," marked unverified. Neither invented the sentence, and both answered "no" to (3).
 - **How the page reached them.** On October 30, Poe fetched the page and put its text in the prompt. This time no page text was supplied: Gemini (4 Carbon)'s displayed reasoning shows it searching the web for the page and not finding the index page among the results.
 - **Next:** the same prompt again with web search off, as jurors are run; if Poe still supplies no page text, the same three questions on the page's text pasted into the prompt, which the plan's requirement covers: a juror "must be able to read a pinned link or pasted text and check quotations against it."
+- **Second and third attempts** *(added November 23, 2026)*: with web search off, neither could open the page again; on the page's text pasted in, both quoted it exactly and passed. [Record](./2026-11-23_5_Pool_test_GPT-6.2-Astra_and_Gemini-4-Carbon_second_and_third_attempts.md).
 
 ---
 

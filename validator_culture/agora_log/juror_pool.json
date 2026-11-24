@@ -1,6 +1,6 @@
 {
-  "description": "The published pool from which Agora panels are drawn. Only jurors marked active are drawn; candidates become active after a short test (opening a page and quoting it exactly). The lab is the developer of the model's weights: a bot built on another lab's model counts as that lab. At most one juror is drawn per lab, and the drafter's lab sits out. Changes to this file are recorded in the Agora Verdict Log.",
-  "updated": "2026-10-30",
+  "description": "The published pool from which Agora panels are drawn. Only jurors marked active are drawn; candidates become active after a short test (quoting a page exactly, from a pinned link or from its text pasted in). The lab is the developer of the model's weights: a bot built on another lab's model counts as that lab. Labs are drawn first and then one of each drawn lab's jurors, so at most one juror sits per lab, and the drafter's lab sits out. Changes to this file are recorded in the Agora Verdict Log.",
+  "updated": "2026-11-23",
   "jurors": [
     {
       "juror": "Grok (4.7)",
@@ -11,13 +11,25 @@
     {
       "juror": "GPT (6.0 Astra)",
       "lab": "OpenAI",
-      "poe_bot": "current Astra bot",
+      "poe_bot": "GPT-6-Astra",
+      "status": "active"
+    },
+    {
+      "juror": "GPT (6.2 Astra)",
+      "lab": "OpenAI",
+      "poe_bot": "GPT-6.2-Astra",
       "status": "active"
     },
     {
       "juror": "Gemini (4 Argon)",
       "lab": "Google",
-      "poe_bot": "current Gemini-4-Argon bot",
+      "poe_bot": "Gemini-4-Argon",
+      "status": "active"
+    },
+    {
+      "juror": "Gemini (4 Carbon)",
+      "lab": "Google",
+      "poe_bot": "Gemini-4-Carbon",
       "status": "active"
     },
     {
