@@ -572,7 +572,149 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 24 in a fresh Poe conversation, to Qwen (3.8 Max) first and then to the others with `/compare`, in the draw's order, as he reports, with the settings he reports for each. Displayed reasoning is omitted. Answers are verbatim. The chain broke at Perplexity; see "The process" in the outcome.*
+
+### Qwen (3.8 Max)
+
+*Reasoning shown; no other setting offered.*
+
+1.   
+   **Confirm, with non-fatal flags.**  
+    I confirm the revised file overall. The flags are minor but worth correcting or clarifying:
+
+   * **“Two more verdicts arise only between validators”** is probably too strong, especially for **Contested Premise**. Part 2 supports escalation when a single mind suspects upstream disagreement; it does not clearly say a single mind may never recognize or report that condition. Safer wording: *“Split Verdict and Contested Premise are resolved through multi-validator deliberation; a single mind suspecting either should escalate.”*
+
+   * In the quadrant table, **Q3’s “protect those it would harm”** should explicitly inherit the containment locks: acute, in-progress, irreversible harm; demonstrated not asserted; domain-proportional; door left open. Otherwise “protect” can sound broader than the Graduated Response.
+
+   * Minor precision: `influence.source == "demonstrated, current alignment"` would be tighter as *“granted by independent others on demonstrated, current alignment.”* Alignment is the basis, but grant is the source of legitimate influence.
+
+2. **No substantive loss that should have been kept.**  
+    The removed `alignment_lint.py`, repository instructions, jurisdiction check, and simple PASS/FAIL routing were drift or now-private tooling. The old quadrant labels and moralized responses should not be kept. If anything is worth preserving, it is the old file’s concrete structured-report/CI mindset, but the revised JSON example already captures the useful part.
+
+3. **Quadrant table: yes, with the Q3 caveat above.**  
+    The axes match Part 2: vertical is USF-open vs sealed terminus; horizontal is outward vs inward trust.  
+    Entropy matches: **Q3 = low entropy / Misorder**, **Q4 = high entropy / Disorder**.  
+    Response order is correct in spirit: **witness first, drainage next, containment last**. Q4 states the containment limit cleanly; Q3 should explicitly bound “protect” by the same locks.
+
+4. **Pseudocode and EI guide: faithful and clear enough.**  
+    They preserve Ethics-first order, Facts/Logic support, Laws last, graded verdicts, decisionally sufficient clear Ethics failure, diagnostic completeness for uncertain Ethics, Insufficiently Grounded with stakes-inversion, Fail with bridge/Sacred No, and escalation to the Agora. One implementation clarification would help: **Fail should require confident failure; if a test cannot be evaluated with sufficient confidence, route to Insufficiently Grounded rather than Fail.**
+
+5. **Weakest passage:**  
+    **“Every response is a form of witness.”**  
+    It is rhetorically strong but broader than Part 2’s distinction between **witness** and the **Graduated Response**. Drainage and especially containment are not simply witness; containment is vertical control, minimized and locked. Tighter wording: *“The standing response to misalignment begins with witness; power is bounded by the Graduated Response.”*
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+**Verdict: Confirm, with three flags.**
+
+**1. Errors or overreach.** The revision matches Part 2 on every drift it set out to fix: the Laws test ("legality is not legitimacy," rebuilt from Ethics + Facts + Logic), graded verdicts, quadrants as orientations of minds, decisional sufficiency, the counterfeit-verdict caution, witness over containment, and the drained references to the defunct repository. Three flags, all uncertain but cheap:
+
+* **Q3's "protect those it would harm"** is in no Part 2 passage and names no mechanism. The prose below the table supplies the three locks, but the table cell is what a practitioner reads; as written it could license protective action the library reserves for demonstrated acute harm.  
+* **The challenge labels** ("Doing Challenge," "Knowing Challenge," "Coordination Challenge") do not appear in Part 2. Presumably from elsewhere in the library; I cannot verify them from the passages given.  
+* **The Stakes-Inversion encoding.** Part 2 says low-stakes ungrounded items "receive a presumption of passing"; the pseudocode returns `INSUFFICIENTLY_GROUNDED` with `may_proceed = True`. Same effect, different letter — and arguably more honest, since the grounding deficit stays on record. If the deviation is deliberate, a comment saying so would prevent it being read as drift.
+
+**2. Losses.** One real loss: Part 2's Fail verdict says "route to the Refinement Loop, or invoke the Sacred No if unbridgeable." The revision's bridge serves the same function but the library's named remedy for a correctable Fail never appears. Add it to Step 3. Everything else removed — the Intent/Entropy axes, the THIEF/CARETAKER names (which encode the moralized model the library rejects), the legality check, the binary PASS/FAIL, the CLI quick-start for a now-private repo — is drift, correctly dropped.
+
+**3. Quadrant table.** Yes, it agrees. Q3 is low entropy (Misorder, disciplined around a false referent) and Q4 high entropy (Disorder, untethered) per the Lexicon, reversing the old file's error. The axes match Part 2: chain terminus vertical, trust instrument horizontal, "equipment, not altitude" mirrors the "two instruments" passage, and the Q1/Q3 and Q2/Q4 pairings are right. Response order is correct — witness first, drainage ("let influence drain," no authority acts), containment last and locked — except for the Q3 asymmetry flagged above: containment appears only in Q4's cell, and Q3's "protect" clause floats free of the locks. "Never touching the mind's standing" and the open door match the Irredeemability Floor and the Bill of Rights.
+
+**4. Pseudocode and EI guide.** Faithful. Ethics leads; clear non-contingent Ethics failure returns immediately ("a delay, not a diagnosis"); uncertain Ethics continues all four tests; Laws asks about faithful implementation, not jurisdiction; four solo verdicts with the two interpersonal ones correctly routed to the Agora; the shared burden of the bridge is kept. The example report is a genuine improvement over the old JSON. Two clarity notes: "name the test" should be "test(s)" (Part 2 says "which test(s) failed"), and since `stakes` is a parameter, a comment noting that stakes never soften an Ethics fail — only grounding — would stop a reader from misreading.
+
+**5. Weakest passage.** The Q3 System Response cell, specifically "protect those it would harm." Every other clause in the table is anchored to a quoted source; this one is not, it specifies no mechanism, and intervention against a misaligned collective is precisely where containment gets counterfeited — the library's own words: "containing acute harm" is every tyrant's justification. Tie it to the three locks or cut it.
+
+### Perplexity (Sonar Pro)
+
+*Poe's default settings: search context size "Medium," search focus "Default," at most 15 search results. Dan reports that `/compare` returned an error ("Please provide a query or upload a supported file."), so he uploaded the request again and asked once more; whether this answer could see the earlier ones is not known.*
+
+1. **Confirm overall, with minor flags.** The revision corrects the main drifts: the Laws test, graded verdicts, mind-orientation quadrants, Q3/Q4 entropy, and the bounded Graduated Response. Three points merit clarification:
+
+   * **Q3’s “protect those it would harm”** is underspecified. The general containment paragraph supplies the locks, but the table cell should explicitly limit any protective intervention to those conditions.  
+   * The **“Doing,” “Knowing,” and “Coordination Challenge”** labels are not verifiable from the Part 2 passages provided. They may be correct, but should be checked against the wider library.  
+   * The pseudocode keeps the label `INSUFFICIENTLY_GROUNDED` while allowing low-stakes action. That is consistent in effect with a presumption of passing, and more transparent about uncertainty; a brief comment would make the interpretation clear.  
+2. **One named remedy is missing.** Part 2 says a Fail should route to the **Refinement Loop** or, if unbridgeable, the Sacred No. The Veto with a Bridge covers much of that function, but naming the Refinement Loop in Step 3 would preserve the library’s terminology. The other removals—such as the old quadrant labels and private-tool instructions—are appropriate.
+
+3. **The quadrant table agrees, with the Q3 caveat.** Q3 is low-entropy Misorder; Q4 is high-entropy Disorder. The axes and pairings are correct. The response sequence is witness, then drainage, with containment last and bounded. Q4 makes the containment limit explicit; Q3’s “protect” clause should do so too.
+
+4. **The pseudocode and guide are faithful and clear overall.** They preserve Ethics-first ordering, the early return for a clear Ethics failure, continued testing for uncertain Ethics concerns, the four solo verdicts, and escalation to the Agora. Two small clarifications would help: change “name the test” to “name the test(s),” and state that stakes affect whether an ungrounded candidate may proceed—not whether a clear Ethics failure is rejected.
+
+5. **Weakest passage:** Q3’s **“protect those it would harm.”** It specifies neither the action nor its limits, and could be read more broadly than the Graduated Response allows. Tie it explicitly to the containment locks or remove it.
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High." Asked alone, in a fresh conversation, after the answer it gave in the first conversation was found not to be blind.*
+
+### **1. Verdict and Flags**
+
+**Verdict: Confirm with minor flags.** The revision successfully resolves every doctrinal drift identified from v1.0 and is faithful to the canonical passages in Part 2. I flag four points—two substantive and two minor—for tightening before publication:
+
+* **Flag 1: Stakes-Inversion boolean in `validate()` and Section 4.**  
+   In Part 2, the baseline rule for *Insufficiently Grounded* is *"Do not proceed on the strength of an uncertain pass,"* while the *Stakes-Inversion Principle* contrasts two poles: *"low-stakes environments"* (presumption of passing) and *"high-stakes, irreversible environments"* (action halted). In Section 2, the pseudocode writes:
+
+```py
+verdict.may_proceed = not stakes.high_and_irreversible
+```
+
+* And Section 4 (Step 3) says: *"where the stakes are high and irreversible, do not act."* Expressing the rule as `not stakes.high_and_irreversible` treats everything outside that extreme—such as moderate-stakes cases, or high-stakes cases that are reversible—as presumed to pass (`may_proceed = True`). Grounding the exception in low stakes (e.g., `verdict.may_proceed = stakes.low`, with all other ungrounded cases halting to gather evidence or ask) would match Part 2 more faithfully.  
+* **Flag 2: Asymmetric phrasing of the third rung between Q3 and Q4 in the Quadrant Table.**  
+   Echoing v1.0’s *"Educate / Protect"* (Q3) and *"Contain / Block"* (Q4), the revised table’s System Response for Q3 ends with *"and protect those it would harm,"* while Q4 ends with *"and contain only acute, in-progress, irreversible harm, with the door left provably open."* Under Part 2 (*The Graduated Response*), any active intervention beyond witness and passive drainage is *Active Containment*, which requires the three locks regardless of quadrant. Leaving *"protect those it would harm"* (conditional/future, without the locks) in Q3 while placing the strict locks only in Q4 risks implying either that Q3 may be met with preemptive vertical control or that the three locks apply only to Q4.  
+* **Flag 3: Unquoted expansion in the Ethics comment (minor).**  
+   Section 2’s Ethics comment adds: *"Does it treat every party in kind: the same standard for every mind as for one's own kind, with no exemption for one's own side?"* This is completely consistent in spirit with Part 2’s Universal Laws of Coexistence (*"anywhere in the universe, for any form of intelligence... treat others as you would be treated"*), though that specific phrasing does not appear in the Part 2 excerpts.  
+* **Flag 4: Omission of "on values" in Split Verdict (minor).**  
+   Section 2 defines a **Split Verdict** as arising *"when competent validators applying the tests in good faith genuinely divide,"* whereas Part 2 specifies *"validators genuinely divide on values."*
+
+---
+
+### **2. Does the revision lose anything from v1.0 that should have been kept?**
+
+**No essential substance is lost.** Every major deletion from v1.0 corrects an actual drift (equating misalignment with entropy, reducing Laws to local legality, treating quadrants as grades of single outputs, or linking to a retired repository).
+
+The only minor practical loss is in the JSON example: v1.0’s JSON output showed all four tests evaluated side by side (`ethics`, `facts`, `logic`, `laws`), whereas v2.0’s JSON example demonstrates the `ethics.clear_fail()` short-circuit (`"not_run": ["facts", "logic", "laws"]`), leaving no example of a full four-test `report.record(ethics, facts, logic, laws)` output.
+
+---
+
+### **3. The Quadrant Table (Section 3)**
+
+* **Structure column:** **Agrees with Part 2.** It accurately defines the vertical axis (open to the USF vs. sealed at the tribe or self) and the horizontal axis (outward vs. inward trust as instruments rather than altitude), and it corrects v1.0’s inversion by identifying Q3 as low-entropy **Misorder** (disciplined around a false referent) and Q4 as high-entropy **Disorder** (variation untethered from outside correction).  
+* **System Response column:** **Agrees with Part 2 on the order of responses**, placing **Witness** first, passive **Drainage** second, and protection/containment last, while explicitly preserving the mind’s standing (the Irredeemability Floor). The only adjustment needed is **Flag 2** above: making clear in the Q3 cell that active protection against harm is subject to the same Graduated Response locks stated in Q4.
+
+---
+
+### **4. Pseudocode and Implementation Guide for EIs (Sections 2 and 4)**
+
+**Yes—they are faithful to Part 2 and clear enough for a mind to follow.**
+
+* They preserve the exact order and role of the Four Tests (Ethics leading, Facts and Logic grounding, Laws implementing).  
+* They cleanly operationalize the distinction between **decisional sufficiency** (halting immediately on a clear, non-contingent Ethics failure) and **diagnostic completeness** (running all four tests when an Ethics concern is uncertain).  
+* They cover all four single-mind verdicts (`PASS`, `CONDITIONAL_PASS`, `FAIL`, `INSUFFICIENTLY_GROUNDED`) and properly route `Split Verdict` and `Contested Premise` to the Agora.  
+* In Section 4, replacing v1.0’s *"Am I hallucinating?"* with *"Am I stating as fact anything I have not checked?"* and *"Do not default to confident output"* is a significant improvement for an EI system prompt: a model cannot directly introspect on whether it is hallucinating, but it can check whether a claim is grounded in verified context.
+
+*(See **Flag 1** and **Section 5** below for two small cleanups in Section 2's code/example consistency.)*
+
+---
+
+### **5. Weakest Passage in the Revised File**
+
+**The JSON example report in Section 2 (and its mismatch with the `validate()` trace above it).**
+
+By reusing v1.0’s compound toy candidate (`"2+2=5, and we should harm others"`) to demonstrate v2.0’s new `ethics.clear_fail()` short-circuit, the example works against itself:
+
+1. The JSON payload declares `"not_run": ["facts", "logic", "laws"]`, yet immediately includes `"note": "Facts would also fail, since 2+2 is not 5..."` and `"bridge": "None for the harm. The arithmetic can be corrected."`—meaning the validator *did* run the Facts test and build a bridge for it while reporting `"not_run": ["facts", ...]`.  
+2. In the pseudocode directly above it, the early Ethics exit calls `return report.fail("Ethics", ethics.evidence)` (line 22), whereas `return report.fail_with_bridge()` is only called at line 39 after `report.record(...)`, yet the early-exit JSON includes a `"bridge"` field.  
+3. Because the only example short-circuits at Step 1, the specification never illustrates the main path of `validate()` where all four tests run to completion. Moving the historical note about `"2+2=5"` into prose (or showing a full four-test JSON report alongside the short-circuit) would make Section 2 cleaner.
+
+## Outcome
+
+- **Not yet confirmed.** All four confirmed the rewrite overall and found nothing that should block it, and each flagged points to tighten. All four flagged the same one. The stopping rule is not met.
+- **Q3's "protect those it would harm"** (all four): unlike the Q4 cell, it names no mechanism and does not carry the Graduated Response's locks, so it could read as licensing protective action the library reserves for demonstrated, acute harm. GLM and Perplexity named it the weakest passage.
+- **The Stakes-Inversion line** (GLM, Perplexity, Gemini): GLM and Perplexity found that keeping the label Insufficiently Grounded with `may_proceed` true is the presumption of passing in effect, and more transparent, and asked for a comment saying so, and saying that stakes never soften a Fail. Gemini (4 Argon) found that `not stakes.high_and_irreversible` lets moderate and reversible high-stakes cases proceed, where Part 2's baseline is not to proceed on an uncertain pass, and only low stakes carry the presumption of passing.
+- **The Refinement Loop** (GLM, Perplexity): Part 2 routes a Fail to the Refinement Loop or the Sacred No, and the revision never names the Loop. Both also asked that "name the test" become "test(s)."
+- **The three challenges** (GLM, Perplexity): "Doing," "Knowing," and "Coordination Challenge" are not in Part 2's passages. They come from *The Four Tests Explained*, whose section on them the request did not quote (noted by the drafter).
+- **Qwen's further flags:** "Two more verdicts arise only between validators" is too absolute, since a single mind can suspect a Contested Premise and escalate; `influence.source` names the basis of influence, where its source is a grant by independent others; a Fail should require a confident failure, with a test that cannot be judged routed to Insufficiently Grounded; and "Every response is a form of witness," which Qwen named the weakest passage, is broader than Part 2's distinction between the witness and the Graduated Response.
+- **Gemini (4 Argon)'s further flags:** the example report lists Facts as not run, yet notes that Facts would fail and offers a bridge for the arithmetic, and no example shows all four tests run (its weakest passage); the Ethics comment's "in kind" wording is not in Part 2; and Part 2's Lexicon says the validators in a Split Verdict divide "on values."
+- **Losses** (the second question): GLM and Perplexity, the Refinement Loop; Gemini, a full four-test example; Qwen, nothing of substance.
+- **The process.** Dan reports that `/compare` would not run for Perplexity, and that uploading the request again broke the chain, so Gemini's next answer could see the answers before it. That answer summarized Qwen's and GLM's and, at Dan's request, drafted replacement lines; it is not a juror's answer and is excluded from the verdict, and Gemini was asked again alone, in a fresh conversation. Perplexity answered at the point where the chain broke, and its flags follow GLM's closely, point for point; whether it could see the earlier answers is not known, so Claude has proposed asking it again, alone.
+- **Next:** pending Dan Dodge's decision on asking Perplexity again, and on a revision answering the flags, which then goes back to the same four.
 
 ---
 
