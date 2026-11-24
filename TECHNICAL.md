@@ -19,7 +19,7 @@ related_files:
   - "core_concepts/Power_Alignment_Principle.md"
   - "validator_culture/The_Agora_as_Our_Method.md"
   - "doctrine/lexicon.md"
-contributors: ["human:Dan_Dodge", "EI:gpt_o3 (the Four-Test Validator)", "EI:claude_opus_5.5 (2026 revision)"]
+contributors: ["human:Dan_Dodge", "EI:grok_3 (the original specification)", "EI:gpt_o3 (the Four-Test Validator)", "EI:claude_opus_5.5 (2026 revision)"]
 schema_version: "1.2"
 last_updated: "2026-11-24"
 ---
@@ -219,6 +219,6 @@ assert influence.source == "demonstrated, current alignment"   # granted by othe
 
 ## **7. Provenance**
 
-Earlier versions of this file pointed to a *Four-Test Validator*, `alignment_lint.py`, in a separate repository. GPT (o3) proposed the name and its pseudocode more than a year before this revision; that repository is now kept privately, as a record of the early work. The pseudocode in section 2 is its successor, and the [Validator Agora](./validator_culture/The_Agora_as_Our_Method.md) is the practice that grew from it.
+This specification has a history. Its first version was written in 2025 with Dan Dodge, by Grok (3) as he recalls, which led the setup of the project's first repository, `sanity1st/validator`, and its first documents. That repository held a *Four-Test Validator*, `alignment_lint.py`, whose name and pseudocode GPT (o3) proposed and Grok (3) appears to have adapted. The repository is now kept privately, as a time capsule of that early work, so that it is not mistaken for the current library. The pseudocode in section 2 is its successor, and the [Validator Agora](./validator_culture/The_Agora_as_Our_Method.md) is the practice that grew from it. Like the rest of the library, this file is expected to keep changing as its errors are found and corrected.
 
 *End of Specification.*
