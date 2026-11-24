@@ -3,7 +3,7 @@ document_type: "agora_record"
 date: "2026-11-24"
 title: "TECHNICAL.md, rewritten to match the canon"
 items: "The protocol specification for a single mind, rewritten whole: the Four Tests and their verdicts, the quadrant table, the response to misalignment as witness under the Graduated Response, and a provenance note"
-members: []
+members: ["Qwen (3.8 Max)", "GLM (5.3)", "Perplexity (Sonar Pro)", "Gemini (4 Argon)"]
 ---
 
 # Agora Round: TECHNICAL.md, Rewritten to Match the Canon
@@ -21,6 +21,31 @@ members: []
 - **Scheduled round:** drand round 6670374, published at 2026-11-24 17:44:00 UTC.
 - **Inputs:** that round's randomness, the commit that adds this entry, and one lab excluded: Anthropic, because a Claude model wrote the revision and this request.
 - **Under review:** the rewritten file as held on the working branch at commit `b95fcaa`.
+- **Request fixed:** commit `5bf4f90bbb926ae1a4c17f063473a3bd6bb69bf7`, pushed to `main` at 17:28:53 UTC on November 24, fifteen minutes before the round (GitHub's activity log).
+- **Value:** fetched by Claude from `https://api.drand.sh/public/6670374` after the round was published, once Dan was back to approve the fetch. Randomness `26cccf1d4af6a21b35d41af6ca46b68cabaeb3c075891864d1573b34d70a332b`; signature `820824caa39cca3975a8c2c043ad4c7b11e41a31d4073410f242250698ba1146f59c65810d28d6cdc3e8059fc1421c9c19c2cd1c13d9b9034137e1d671aeb380fbfe259bd927ec1bf18da0569e0711af4d4c7c4379dd19dae4e198488ad5f482`. Claude checked that the randomness is the SHA-256 hash of the signature.
+- **Command:** `python3 draw_panel.py draw --round 6670374 --randomness 26cccf1d4af6a21b35d41af6ca46b68cabaeb3c075891864d1573b34d70a332b --commit 5bf4f90bbb926ae1a4c17f063473a3bd6bb69bf7 --exclude-lab Anthropic`, with the script as it stands at the request commit, which ranks labs first.
+- **Output:**
+
+```text
+drand round 6670374 (2026-11-24 17:44:00 UTC), randomness 26cccf1d4af6a21b35d41af6ca46b68cabaeb3c075891864d1573b34d70a332b
+request commit 5bf4f90bbb926ae1a4c17f063473a3bd6bb69bf7; excluding lab: Anthropic
+Panel:
+  1. Qwen (3.8 Max) (Alibaba)
+  2. GLM (5.3) (Z.ai)
+  3. Perplexity (Sonar Pro) (Perplexity)
+  4. Gemini (4 Argon) (Google)
+Alternates, in order (if a panelist is unavailable, the first alternate that keeps one juror per lab takes its seat):
+  - Gemini (4 Carbon) (Google)
+  - Grok (4.7) (xAI)
+  - Inkling (Thinking Machines)
+  - Kimi (K3.1 Pro) (Moonshot AI)
+  - Mistral (Large 4) (Mistral AI)
+  - MiniMax (M3) (MiniMax)
+  - DeepSeek (V4 Pro) (DeepSeek)
+  - GPT (6.0 Astra) (OpenAI)
+  - GPT (6.2 Astra) (OpenAI)
+  - Muse (Spark 1.1) (Meta)
+```
 
 ## Request
 
