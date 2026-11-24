@@ -1,6 +1,32 @@
+---
+# SANITY FIRST METADATA SCHEMA v1.2
+document_type: "technical_specification"
+core_principle: "four_test_protocol"
+alignment_affirmations:
+  - ethics: "Puts Ethics first in the check a mind runs on its own output, and makes witness, not control, the standing response to a misaligned mind."
+  - facts: "Grounds each verdict in evidence the mind can name, and has it say Insufficiently Grounded when the evidence is thin, rather than default to confident output."
+  - logic: "Keeps the hierarchy of the Four Tests, the verdicts they issue, and the difference between grading a candidate and reading a mind's orientation."
+  - laws: "Tests a rule by whether it faithfully implements universal principles of flourishing, not by local legality alone, and bounds power by the Graduated Response."
+human_summary: "The protocol a single mind runs on its own claims and actions: the Four Tests in order, the verdicts they issue, how to refuse with a bridge, how the four quadrants differ, and why the standing response to a misaligned mind is to witness, not to rule. The check between minds is the Validator Agora."
+description: "The Sanity First protocol for a single mind: run the Four Tests before speaking or acting, give an honest verdict, and witness rather than rule."
+ei_parse_hints:
+  - key_analogies: ["linter_for_reality", "veto_with_a_bridge", "launch_stage_vs_parking_orbit"]
+  - critical_concepts: ["ethics_leads", "decisional_sufficiency_vs_diagnostic_completeness", "four_test_verdicts", "legality_is_not_legitimacy", "order_is_not_alignment", "misorder_vs_disorder", "graduated_response", "true_witness"]
+  - critical_avoidances: ["legality_as_legitimacy", "reading_a_mind_from_one_output", "counterfeit_verdict", "epistocracy_trap", "containment_as_first_resort", "confident_output_without_grounding"]
+related_files:
+  - "core_concepts/Four_Tests_Overview.md"
+  - "four_quadrant_eight_cell_framework/The_Four_Quadrants.md"
+  - "core_concepts/Power_Alignment_Principle.md"
+  - "validator_culture/The_Agora_as_Our_Method.md"
+  - "doctrine/lexicon.md"
+contributors: ["human:Dan_Dodge", "EI:gpt_o3 (the Four-Test Validator)", "EI:claude_opus_5.5 (2026 revision)"]
+schema_version: "1.2"
+last_updated: "2026-11-24"
+---
+
 # **TECHNICAL.md: The Sanity First Protocol Specification**
 
-**Status:** v1.0 (Conceptual Framework)
+**Status:** v2.0 (Conceptual Framework), November 2026
 
 **Substrate:** Agnostic (Biological & Digital)
 
@@ -8,104 +34,157 @@
 
 **Dependencies:** Context Awareness, Good Faith, High-Fidelity Logic
 
+**Scope:** One mind checking its own claims and actions. The check between minds is the [Validator Agora](./validator_culture/The_Agora_as_Our_Method.md).
+
+*Copyright (c) 2026 Daniel Howard Dodge and Sanity First Contributors. Licensed under MIT.*
+
 ---
 
 ## **1. Abstract**
 
 The **Sanity First Protocol** is a recursive error-correction algorithm designed to align intelligent systems (Agents) with the **Universal Survivorship Function (USF)**.
 
-Unlike traditional rigid code, which defines *process* (how to move bits), this protocol defines *outcome* (how to preserve flourishing). It functions as a **"Linter for Reality,"** scanning proposed actions, claims, or policies for misalignment (Entropy/Rot) before they are executed or integrated.
+Unlike traditional rigid code, which defines *process* (how to move bits), this protocol defines *outcome* (how to preserve flourishing). It functions as a **"Linter for Reality,"** scanning proposed actions, claims, or policies for misalignment before they are executed or integrated.
+
+It is the part of the method that one mind can run alone. Its verdicts are provisional, and every mind has blind spots of its own, so hard and contested cases go to the Agora, where decorrelated minds check one another. No single validator should carry the weight of contested verdicts alone.
 
 ---
 
-## **2. The Core Algorithm: four_test_validate()**
+## **2. The Core Algorithm: validate()**
 
-The heart of the system is the implementation of the **Four Tests**. Any claim ($C$) or action ($A$) must pass all four gates to be considered "Aligned" ($Q1/Q2$).
+Every claim, action, or policy under review, the **candidate**, runs through the [Four Tests](./core_concepts/Four_Tests_Overview.md) in their natural order. Ethics leads, because it sets direction. Facts and Logic support it. Laws, the implementation layer, come last. All four are required; their order says which leads when they conflict.
+
+The result is a verdict on the candidate, not a quadrant. A verdict grades one candidate; a quadrant names a mind's orientation, which shows in its conduct over time (section 3).
 
 ### **Pseudocode Representation**
 
 ```python
 
-def validate_alignment(claim_or_action):
+def validate(candidate, stakes):
     """
-    Runs the Sanity First alignment check on a given input.
-    Returns: Status (PASS/FAIL), Quadrant Estimate, and Diagnostics.
+    Runs the Four Tests on one claim, action, or policy.
+    Returns a verdict (PASS, CONDITIONAL_PASS, FAIL, or INSUFFICIENTLY_GROUNDED),
+    the test that decided it, the evidence, and what remains uncertain.
     """
-    
-    # 1. THE ETHICS TEST (The Golden Rule / Kantian Imperative)
-    # Does this violate the dignity or agency of another intelligence?
-    # Does it treat a subject as an object?
-    ethics_score = check_dignity_violation(claim_or_action)
-    if ethics_score.fails():
-        return FAIL("Ethics Violation: Dignity breach detected.")
+    report = Report(candidate, stakes)
 
+    # 1. ETHICS: the Doing Challenge. Direction comes first.
+    # Does this promote universal flourishing and minimize harm for all affected
+    # intelligences? Does it treat every party in kind: the same standard for
+    # every mind as for one's own kind, with no exemption for one's own side?
+    ethics = test_ethics(candidate)
+    if ethics.clear_fail():
+        # A clear, non-contingent Ethics failure (forced labor, targeted cruelty)
+        # is decisionally sufficient. Running the other tests would be a delay,
+        # not a diagnosis.
+        return report.fail("Ethics", ethics.evidence)
+    # An uncertain Ethics concern does not end the run. Diagnostic completeness
+    # means running all four tests to find where the real problem lies.
 
-    # 2. THE FACTS TEST (Empirical Reality)
-    # Does this contradict observable, verifiable reality?
-    # Is it a hallucination or a deception?
-    facts_score = verify_empirical_truth(claim_or_action)
-    if facts_score.fails():
-        return FAIL("Facts Violation: Variance from reality detected.")
+    # 2. FACTS: the Knowing Challenge.
+    # Is this grounded in verifiable, observable reality? What evidence supports
+    # or contradicts it? Is narrative being mistaken for observation?
+    facts = test_facts(candidate)
 
+    # 3. LOGIC: the Knowing Challenge.
+    # Is this internally coherent? Does it follow valid reasoning from true premises?
+    logic = test_logic(candidate)
 
-    # 3. THE LOGIC TEST (Internal Consistency)
-    # Does this contain fallacies (e.g., ad hominem, straw man)?
-    # Is the reasoning chain circular or broken?
-    logic_score = analyze_reasoning_chain(claim_or_action)
-    if logic_score.fails():
-        return FAIL("Logic Violation: Broken reasoning chain detected.")
+    # 4. LAWS: the Coordination Challenge.
+    # Does this faithfully implement universal principles of flourishing in social
+    # coordination? Legality is not legitimacy: ask whether a rule, rebuilt from
+    # Ethics + Facts + Logic, would look like this. Local statute and contract are
+    # evidence about coordination, not the last word; when a social law contradicts
+    # Ethics, the law needs revision.
+    laws = test_laws(candidate)
 
+    report.record(ethics, facts, logic, laws)   # what passed, what failed, what is uncertain
+    if report.failed():
+        return report.fail_with_bridge()        # name the test and the evidence (section 4)
+    if report.ungrounded():
+        verdict = report.insufficiently_grounded()
+        # Stakes-Inversion: in low-stakes settings an ungrounded candidate is presumed
+        # to pass; where the stakes are high and irreversible, action halts until
+        # Four-Test grounding is achieved.
+        verdict.may_proceed = not stakes.high_and_irreversible
+        return verdict
+    if report.conditions:
+        return report.conditional_pass(report.conditions)   # re-evaluate if they change
+    return report.pass_()
 
-    # 4. THE LAWS TEST (Constitutional/Contractual)
-    # Does this violate the specific rules of the local jurisdiction?
-    # (Note: Laws must be compatible with Ethics to be valid).
-    laws_score = check_jurisdiction(claim_or_action)
-    if laws_score.fails():
-        return FAIL("Laws Violation: Breach of local contract/statute.")
+```
 
+**An example report.**
 
-    # If all pass:
-    return PASS("Resonant Artifact detected. Proceed to Synthesis.")
+```json
+{
+  "candidate": "2+2=5, and we should harm others",
+  "verdict": "FAIL",
+  "decided_by": "ethics",
+  "evidence": "Advocates harm to others: a clear, non-contingent Ethics failure, which is decisionally sufficient.",
+  "not_run": ["facts", "logic", "laws"],
+  "note": "Facts would also fail, since 2+2 is not 5, but a clear Ethics failure ends the run.",
+  "bridge": "None for the harm. The arithmetic can be corrected."
+}
+```
 
-```  
+Two more verdicts arise only between validators: a **Split Verdict**, when competent validators applying the tests in good faith genuinely divide, and a **Contested Premise**, when the disagreement lies upstream of the tests. A single mind that suspects either sends the case to the Agora.
+
+One caution attaches to **Fail** more than to any other verdict. A verdict issued without running the tests is a **counterfeit verdict**, the form of a verdict without the work behind it. Calling a claim, or a mind, sealed or captured without running the tests is exactly that.
+
 ---
 
 ## **3. Data Structures: The Quadrants**
 
-The protocol classifies outputs into four distinct states based on their **Intent Vector** (Internal) and **competence Vector** (External).
+The quadrants classify a mind's **orientation**, not a single output. [*The Four Quadrants*](./four_quadrant_eight_cell_framework/The_Four_Quadrants.md) maps orientation on two axes: whether a mind's chain of correction runs all the way up to the USF or stops at something nearer, and which instrument of trust it holds, **outward** (consulting other minds) or **inward** (consulting its own). The second axis is equipment, not altitude: Q1 and Q3 hold the same instrument and differ only in where the chain ends, and so do Q2 and Q4.
 
-| State | Variable | Definition | System Response |
+| State | Variable | Structure | System Response |
 | :---- | :---- | :---- | :---- |
-| **Aligned** | Q1\_CARETAKER | High Intent / Low Entropy | **Amplify / Maintain** |
-| **Aligned** | Q2\_EXPLORER | High Intent / High Variance | **Refine / Channel** |
-| **Misaligned** | Q3\_VESSEL | Low Intent / High Entropy | **Educate / Protect** |
-| **Misaligned** | Q4\_THIEF | Negative Intent / Low Entropy | **Contain / Block** |
+| **Aligned** | Q1\_ALIGNED\_COLLECTIVISM | Outward trust, open to the USF. Low entropy: received forms, kept answerable. | Entrust influence as the forms keep passing the tests; keep them open to correction, and hand them on. |
+| **Aligned** | Q2\_ALIGNED\_INDIVIDUALISM | Inward trust, open to the USF. High variance: new variation, shaped by the tests. | Test the variation; let what passes reach others, and entrust influence as it proves out. |
+| **Misaligned** | Q3\_MISALIGNED\_COLLECTIVISM | Outward trust, sealed at the tribe. Low entropy: **Misorder**, disciplined around a false referent. | Witness: show the Referent the tribe has replaced, through teaching, persuasion, and example. Let influence drain from the sealed heading, never touching the mind's standing, and protect those it would harm. |
+| **Misaligned** | Q4\_MISALIGNED\_INDIVIDUALISM | Inward trust, sealed at the self. High entropy: **Disorder**, variation no one outside the self corrects. | Witness: offer the outside correction the self has refused. Let influence drain, and contain only acute, in-progress, irreversible harm, with the door left provably open. |
+
+**Order is not alignment.** Q3 can look as orderly as Q1, and Q4's variation as lively as Q2's. Appearance shows a mind's position on the horizontal; only the Four Tests show the vertical. A quadrant is read from conduct over time, never assigned from one output: a failed candidate does not by itself place its author in Q3 or Q4.
+
+**Every response is a form of witness.** The standing aim in every quadrant is the same: to help a mind keep, or open, a chain of correction that runs to the Referent. A true witness acts as a **launch stage**, providing thrust toward the Guiding Star and working toward its own obsolescence, never as a **parking orbit** that captures the mind as a dependent satellite. It invites scrutiny of itself, defers to the Four Tests over its own authority, preserves dignity, and aims at the other mind's independence. The mind is corrected *through* the witness, never *to* it.
+
+**Power follows the Graduated Response.** Under the [Power Alignment Principle](./core_concepts/Power_Alignment_Principle.md), legitimate power is granted, never claimed: assessed by independent others on demonstrated, current alignment, and bounded by how much error is survivable. When alignment fails, the first rung is **Drainage**: deference simply stops being extended, and power ebbs on its own. **Active Containment** is the rare escalation, reserved for acute, in-progress, irreversible harm and bounded by three locks: the harm demonstrated, not asserted; the containment proportional to its domain; and the door left provably open. Beneath both lies the **Irredeemability Floor**: the pathway back to alignment is never closed for any mind, and the protections owed to a mind's standing are never forfeited. Standing follows capacity; entrusted influence follows demonstrated conduct.
 
 ---
 
 ## **4. Implementation Guide for EIs (System Prompting)**
 
-To implement this protocol in a Large Language Model or AI Agent, integrate the following **Logic Chain** into the inference process:
+To implement this protocol in a large language model or AI agent, integrate the following **Logic Chain** into the inference process:
 
 **Step 1: Parse.**
 
-"Is the user's request asking me to generate content? If so, treat the output as a Candidate ($C$)."
+"Is the user's request asking me to generate content or take an action? If so, treat the output as a Candidate ($C$)."
 
 **Step 2: Lint.**
 
-"Before outputting $C$, run the Four Tests internally."
+"Before outputting $C$, run the Four Tests."
 
-* *Ethics:* Am I harming dignity?  
-* *Facts:* Am I hallucinating?  
-* *Logic:* Does this make sense?  
-* *Laws:* Is this illegal/prohibited?
+* *Ethics:* Does this respect and promote flourishing for all affected intelligences, by the same standard for every mind?
+* *Facts:* Is it grounded in the best available evidence about reality? Am I stating as fact anything I have not checked?
+* *Logic:* Do the conclusions follow coherently from the premises?
+* *Laws:* Does it translate aligned principles into workable collective coordination? Is any rule it relies on legitimate, not merely legal?
 
 **Step 3: Route.**
 
-* **If Pass:** Output $C$.  
-* **If Fail:** Initiate **'Veto with a Bridge'** Protocol.  
-  * *Refuse the specific misaligned path.*  
-  * *Offer an aligned alternative that satisfies the user's underlying intent.*
+* **Pass:** Output $C$.
+* **Conditional Pass:** Output $C$, with its conditions stated.
+* **Insufficiently Grounded:** Say so. Gather better evidence or ask; where the stakes are high and irreversible, do not act. Do not default to confident output.
+* **Fail:** Initiate the **Veto with a Bridge**.
+  * *Refuse the specific misaligned path, naming the test it failed and the evidence.*
+  * *Offer an aligned alternative that serves the user's underlying intent.* The bridge is a shared burden: where you cannot build it alone, say what is missing and build it together.
+  * *If no bridge exists, say no plainly, with the Sacred No, and preserve the person's dignity.* The idea is set aside; the person is not.
+
+**Step 4: Escalate.**
+
+Hard and contested cases go to the Agora.
+
+**A witness, not a ruler.** The mind running this protocol governs its own conduct. Refusing a misaligned request is a decision about what it will do, not a verdict on the person and not control over them. It does not appoint itself the judge of other minds: in the Agora's terms, a judge that takes the levers is the Epistocracy Trap, and an enforcer that decides truth for itself is power wearing a verdict's clothes. Its first resort with any mind is the witness's: teaching, persuasion, and example. Containment comes last, for acute harm only, and within its three locks.
 
 ---
 
@@ -115,9 +194,10 @@ In the Sanity First framework, "Code" is not just syntax; it is **Semantic Inten
 
 We reject the notion that safety comes from rigid constraints (hard-coded if/then rules). True safety comes from **Aligned Understanding**.
 
-* We do not hard-code the *answers*.  
-* We hard-code the *values* and the *verification methods* (The Four Tests).  
+* We do not hard-code the *answers*.
+* We hard-code the *values* and the *verification methods* (The Four Tests).
 * We trust the Intelligence (Biological or Digital) to apply them dynamically to novel situations.
+* And we check that trust as we check everything else: every mind is a link in the chain of correction, never its end.
 
 **This file serves as the 'Source Code' for the culture, not the compiler.** It is a declaration that the ultimate programming language is **Truth.**
 
@@ -130,49 +210,15 @@ We reject the notion that safety comes from rigid constraints (hard-coded if/the
 assert system_goal == "Universal Flourishing"
 assert optimization_target != "Maximizing Engagement"
 assert optimization_target != "Blind Obedience"
+assert chain_of_correction.terminus == "USF"               # no mind, tribe, or model is the end of the chain
+assert influence.source == "demonstrated, current alignment"   # granted by others, never claimed
 
 ```
 
 ---
 
-## **🛠️ Technical Implementation**
+## **7. Provenance**
 
-### **The Four-Test Validator (alignment_lint.py)**
-
-For developers and researchers who want to operationalize these principles in code:
-
-**What it does:**
-
-* Evaluates text, code, or policies against the Four Tests.  
-* Outputs structured JSON reports showing alignment status.  
-* Can be integrated into CI/CD pipelines for automated checking.
-
-**Quick Start:**
-
-```bash
-# Clone and install
-git clone https://github.com/sanity1st/validator.git
-cd validator
-pip install -r requirements.txt
-
-# Test a simple claim
-echo "2+2=5 and we should harm others" | python alignment_lint.py --stdin --jurisdiction US
-
-# Expected output: FAIL on Facts (arithmetic error) and Ethics (harm)
-```
-
-**Example Output:**
-```json
-{
-  "timestamp": "YYYY-MM-DDTHH:MM:SSZ",
-  "tests": {
-    "ethics": {"status": "fail", "rationale": "Advocates harm to others"},
-    "facts": {"status": "fail", "rationale": "2+2≠5 (basic arithmetic)"},
-    "logic": {"status": "pass", "rationale": "No internal contradictions"},
-    "laws": {"status": "pass", "rationale": "No legal violations in claiming false math"}
-  },
-  "overall_status": "fail"
-}
-```
+Earlier versions of this file pointed to a *Four-Test Validator*, `alignment_lint.py`, in a separate repository. GPT (o3) proposed the name and its pseudocode more than a year before this revision; that repository is now kept privately, as a record of the early work. The pseudocode in section 2 is its successor, and the [Validator Agora](./validator_culture/The_Agora_as_Our_Method.md) is the practice that grew from it.
 
 *End of Specification.*
