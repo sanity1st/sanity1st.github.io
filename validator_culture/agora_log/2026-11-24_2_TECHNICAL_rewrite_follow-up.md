@@ -453,7 +453,184 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 24 in a fresh Poe conversation, with the request pasted as text: to Qwen (3.8 Max) first and then to the others with `/compare`, in the draw's order, which ran without a break, as he reports, with the same settings as the first round. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Reasoning shown; no other setting offered.*
+
+## **1. Confirmation / flags**
+
+I confirm the revised file overall. I see no blocking error. Three non‑blocking flags:
+
+* **Insufficiently Grounded definition:** In the pseudocode comment and Step 3, it reads as “evidence too thin, or situation too unclear.” Part 2’s source adds **“or the stakes too high.”** That should be restored for exactness.  
+* **Q2 label:** “High variance” is the least directly sourced quadrant label. The Eight‑Cell passage supports variation/new insight, but “high variance” is an inference; “variation” would be safer.  
+* **Manifesto sentence:** “the power any mind holds” broadens the quoted principle’s **“legitimate power.”** It is acceptable as aspiration, but it can read as a descriptive claim about all power.
+
+## **2. Change-by-change**
+
+1. **Q3 response:** Yes. It replaces open-ended “protect” with drainage plus acute-harm containment. The table cells remain compressed, but the full three locks appear in the Graduated Response paragraph below.  
+2. **Witness paragraph:** Yes. “Standing response” fixes the earlier overbreadth. Minor ambiguity: “such a mind” could refer to the witness or the misaligned mind, though context resolves it.  
+3. **Order and entropy:** Yes, mostly. The arc-level entropy is now sourced and the structural-analogy caveat is present. The Q2 “high variance” label remains the softest point.  
+4. **All four tests / early exit:** Yes. “All four are required for a pass” now coexists cleanly with “a clear Ethics failure is enough to reject.”  
+5. **Stakes:** Yes, with the small flag above: the stakes-inversion and “stakes never soften a Fail” are right, but the IG definition should include “or the stakes too high.”  
+6. **Failing with confidence / verdicts:** Yes. Fail requires confident failure; Insufficiently Grounded and Conditional Pass are clearer.  
+7. **Test(s) / Refinement Loop:** Yes. Pluralization and the Refinement Loop are both present without creating a single-mind contradiction.  
+8. **Two validator verdicts:** Yes. Removing “only” and allowing a single mind to escalate fixes the point.  
+9. **Examples:** Yes. The first no longer prejudges unrun tests; the second shows all four tests run when Ethics is uncertain.  
+10. **Influence check:** Yes. Separating `granted_by` from `basis` matches the Power Alignment Principle.  
+11. **Manifesto:** Yes, but with the caveat above; it is less absolute than before, though still slightly broad.
+
+## **3. Quadrants and entropy**
+
+Yes. The table and following paragraphs now agree with Part 2 in both senses:
+
+* **Appearance / structural state:** Q3’s “Low entropy, for now” plus **Misorder** matches disciplined-but-sealed order; Q4’s “High entropy” plus **Disorder** matches fragmentation and untethered variation.  
+* **Arc tendency over time:** the upper arc is correctly described as **negentropic** because the Four Tests keep re-aligning it, even through Q2 variation; the lower arc is correctly described as **entropic**, with Q3 as a temporary island and Q4 naming its dissolution.
+
+The entropy disclaimer is also faithful.
+
+## **4. Weakest passage**
+
+The weakest passage is in Section 5:
+
+> “Lasting safety grows from **Aligned Understanding**, while the power any mind holds stays bounded by how much error is survivable.”
+
+It is rhetorically strong, but “the power any mind holds” can read as a descriptive universal claim, whereas the quoted source bounds **legitimate** power. A tighter version would be:
+
+> “while the legitimate power any mind holds stays bounded by how much error is survivable.”
+
+or:
+
+> “while any mind’s power should stay bounded by how much error is survivable.”
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+## **1. Verdict**
+
+**Confirmed.** I found no claim that is false, unsupported by Part 2, or stronger than its source. Two non-blocking notes:
+
+* The Q3/Q4 table cells compress the Graduated Response to "acute, in-progress, irreversible harm, with the door left provably open," omitting "the harm demonstrated not asserted" — arguably the most important lock, since Part 2 names containment the framework's most counterfeitable move. The full three locks appear in the paragraph directly below, so this is a compression choice, not an error; but a reader of the table alone misses that lock.  
+* The pseudocode checks `report.failed()` before `report.ungrounded()`, so a confident failure anywhere yields Fail even when another test is uncertain. This matches Part 2 ("Fail: one or more tests fail") and example 2 instantiates it correctly, but the ordering is doing quiet work and could be worth a comment.
+
+## **2. The numbered changes**
+
+1. **Yes.** The mechanism is now named and sourced: "acute, in-progress, irreversible harm, with the door left provably open" tracks the Graduated Response, and Q3 now reads like Q4.  
+2. **Yes.** "Witness comes first" claims only what Part 2's witness passage claims, and hands the power question to the Graduated Response, where containment is explicitly last.  
+3. **Yes.** The arc language tracks the Eight-Cell Extension closely, including the structural-analogy parenthetical; "Low entropy, for now" captures the temporary island.  
+4. **Yes.** "Required for a pass" squares with decisional sufficiency, since rejecting early is not passing with fewer tests.  
+5. **Yes.** `may_proceed = stakes.low` matches the Stakes-Inversion Principle exactly, and the comment states both the presumption of passing and that stakes never soften a Fail.  
+6. **Yes.** The confident-failure rule is the natural complement of Insufficiently Grounded as defined in Part 2, and the two verdict definitions now match the source wording.  
+7. **Yes.** "Test or tests" matches "Identify which test(s) failed," and the Refinement Loop route matches the Lexicon.  
+8. **Yes.** "Reached between validators" is now true as stated, and the single-mind suspicion sentence removes the absolutism; the Split Verdict definition matches the fuller passage, including splits on Facts and Logic.  
+9. **Yes.** Example 1 no longer comments on unrun tests; example 2 runs all four and shows an uncertain Ethics concern resolved by diagnosis into downstream failures — a clean instance of the "Uncertain or contested Ethics failure" passage. (See §4 for a residual wrinkle.)  
+10. **Yes.** Source and basis are now separated exactly as the Power Alignment Principle states them.  
+11. **Yes.** "Alone" plus the survivable-error bound removes the absolutism and adds the Principle's own bound.
+
+The Challenges and "in kind" are now quoted in Part 2, so their presence is supported.
+
+## **3. Quadrant table and entropy**
+
+They agree, and the two senses of entropy do not conflict. The table describes a mind's structure at a time: Q3 is "Low entropy, for now" (Misorder — disciplined around a false referent) and Q4 "High entropy" (Disorder — fragmented, descending). The paragraph describes an arc's tendency: the upper arc negentropic because the Four Tests keep re-aligning it (so even Q2's variance accumulates coherence), the lower arc entropic, with Q3's order a temporary island whose dissolution Q4 names. The "for now" is what joins the two senses: Q3's low entropy sits on the entropic arc, which is exactly the Eight-Cell Extension's point, and the analogy disclaimer matches the source's own.
+
+## **4. Weakest passage**
+
+The first example's `"next"` line: "The Sacred No for the harm. A revised candidate would start again at Ethics." The guide's Fail route keeps the Refinement Loop and the Sacred No as distinct routes, and the Sacred No is for the unbridgeable; the example invokes it for half of a composite candidate and then suggests revision for the other half. That is defensible — the harm is unbridgeable, the arithmetic is not — but it blurs the very distinction the route list draws, and a cleaner early-exit example (single harm claim, Sacred No, done; or revision, done) would teach the fork better. Runner-up: the table cells' omission of "demonstrated, not asserted," noted above.
+
+### Perplexity (Sonar Pro)
+
+*Poe's default settings: search context size "Medium," search focus "Default," at most 15 search results. Poe offers no setting to turn its search off; its displayed trace shows three searches of the library's public site, and it cites the library's published pages alongside Part 2.*
+
+**I would not confirm it without one flag:** the first example’s candidate, “2+2=5, and we should harm others,” does not by itself establish a *clear, non-contingent* Ethics failure: harming someone can be justified in some circumstances. Its evidence overstates what the candidate says. Make the harmful intent unambiguous, or make the example’s Ethics finding conditional. The distinction between a clear Ethics failure and an uncertain one is supported by the quoted Four Tests passage. [[1]](https://sanity1st.org/core_concepts/Four_Tests_Overview.html)
+
+1. **Q3 response:** Yes. The wording now limits containment and preserves standing; the later paragraph supplies the three locks.  
+2. **Witness paragraph:** Yes. “Witness comes first” avoids making drainage or containment forms of witnessing.  
+3. **Order and entropy:** Yes. The arc-level analogy is now attributed to the Eight-Cell Extension and qualified as non-thermodynamic; it can coexist with the table’s descriptions of how particular quadrants look.  
+4. **All tests and early exit:** Yes. It distinguishes the requirement for a pass from the decisional sufficiency of a clear Ethics failure.  
+5. **Stakes:** Yes. The low-stakes presumption is explicit, and stakes do not soften a Fail.  
+6. **Confidence and verdicts:** Yes. The added comments clarify the distinction between confident failure, uncertainty, and conditional passing.  
+7. **Tests and Refinement Loop:** Yes. “Test or tests” and the added rerun step address both points.  
+8. **Validator verdicts:** Yes. “Reached between validators” avoids the overstatement in “only,” while the single-mind sentence allows escalation.  
+9. **Examples:** The second example demonstrates an uncertain Ethics concern followed by four tests. **The first still needs the clarification noted above**; its early exit is otherwise consistent with the quoted rule.  
+10. **Influence check:** Yes. It separates who grants influence from the basis for granting it.  
+11. **Manifesto:** Yes. “Alone” and the survivable-error limit remove the earlier absolute claim.
+
+**Quadrants and entropy:** The table and following paragraphs are broadly consistent with Part 2: Misorder and Disorder describe Q3 and Q4’s structural states, while negentropy and entropy describe the upper and lower arcs’ tendencies over time. The source explicitly makes that arc-level claim and calls entropy a structural analogy. [[2]](https://sanity1st.org/doctrine/lexicon.html)[[3]](https://sanity1st.org/four_quadrant_eight_cell_framework/Eight_Cell_Extension.html) The remaining caution is that “Low entropy” for Q1 and “High entropy” for Q4 in the table could be read as additional quadrant labels; the text does not explain those labels as fully as it explains the arcs.
+
+**Weakest passage:** The first example report. Its confident Ethics verdict is stronger than its candidate supports, which risks modeling the very premature verdict the specification warns against.
+
+---
+
+**References:**
+
+[1] **The Four Tests Explained | Daniel Howard Dodge**  
+ [https://sanity1st.org/core_concepts/Four_Tests_Overview.html](https://sanity1st.org/core_concepts/Four_Tests_Overview.html)
+
+[2] **The Sanity First Lexicon**  
+ [https://sanity1st.org/doctrine/lexicon.html](https://sanity1st.org/doctrine/lexicon.html)
+
+[3] **Eight-Cell Extension: Adding the I/E Axis**  
+ [https://sanity1st.org/four_quadrant_eight_cell_framework/Eight_Cell_Extension.html](https://sanity1st.org/four_quadrant_eight_cell_framework/Eight_Cell_Extension.html)
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Verdict: Confirm (with one minor flag to consider)**
+
+I confirm the revised file. Every change strengthens the document's alignment with the source passages in Part 2.
+
+**Minor Flag:** In **Section 2 (Pseudocode)**, the comment on `Insufficiently Grounded` states: *"the evidence is too thin, or the situation too unclear, to bear a confident verdict."* Part 2 (*The Four Tests Explained: the verdicts*) lists three conditions: *"the evidence is too thin, the situation too unclear, **or the stakes too high** to issue a confident verdict."* (Though the Lexicon summary in Part 2 also abbreviates this to just "evidence is too thin," in code where `stakes` is passed directly into `Report(candidate, stakes)`, omitting `stakes` as a factor in determining whether the confidence threshold is met slightly understates why `stakes` is an input to the report prior to the `stakes.low` check). This is not a blocker, as the logic holds, but worth noting.
+
+---
+
+**2. Review of Part 1 Changes**
+
+1. **The Q3 response:** Answers the point cleanly; Q3 and Q4 now match in applying the Graduated Response's exact locks without opening a new problem.  
+2. **The witness paragraph:** Answers the point; separating the witness's standing response from the bounding of power via the Graduated Response aligns strictly with Part 2.  
+3. **Order and entropy:** Answers the point; adding "for now" to Q3 and explaining the negentropic/entropic arcs grounds the structural labels in *The Eight-Cell Extension*.  
+4. **All four tests, and the early exit:** Answers the point; specifying "for a pass" resolves the tension with decisional sufficiency on a clear Ethics failure.  
+5. **Stakes:** Answers both points; `verdict.may_proceed = stakes.low` and the expanded comments accurately reflect both the Stakes-Inversion Principle and the baseline against proceeding on an uncertain pass.  
+6. **Failing with confidence, and the verdicts:** Answers the points; the comments establish clear boundaries between Fail, Insufficiently Grounded, and Conditional Pass.  
+7. **The test or tests, and the Refinement Loop:** Answers the points; pluralizing "test or tests" and explicitly naming the Refinement Loop in Step 3 brings the routing in line with the Lexicon.  
+8. **The two verdicts between validators:** Answers the points; removing "only" allows a single mind to suspect and escalate, and keeping the broader definition of Split Verdict is well-supported by the newly quoted passage.  
+9. **The examples:** Answers the points; the two JSON examples cleanly contrast decisional sufficiency (early exit) with diagnostic completeness (running all four tests).  
+10. **The influence check:** Answers the point; splitting `granted_by` and `basis` into two assertions matches the Power Alignment Principle verbatim.  
+11. **The manifesto:** Answers the point; adding "alone" and the survivability bound removes the false dichotomy between semantic understanding and hard-coded limits.  
+* **Unchanged items (Challenges & "in kind"):** Fully grounded by the newly added passages in Part 2.
+
+---
+
+**3. The Quadrant Table and Entropy**
+
+Yes, they now agree with Part 2. The revision successfully bridges the snapshot view and the longitudinal view:
+
+* **How a quadrant looks (Snapshot):** Captured by Q1's "Low entropy," Q2's "High variance," Q3's "Low entropy, for now: **Misorder**," and Q4's "High entropy: **Disorder**."  
+* **Where an arc tends (Over time):** Captured by the explanation that the upper arc is *negentropic* (accumulating coherence across Q1 and Q2 because the Four Tests act as an external source of low entropy) and the lower arc is *entropic* (where Q3's disciplined tribal cohesion is merely a temporary island of order that dissolves into Q4's chaos). Including the caveat that entropy is a structural analogy rather than a thermodynamic measurement keeps it faithful to *The Eight-Cell Extension*.
+
+---
+
+**4. Weakest Passage**
+
+In **Section 3 (The Quadrants table)**, under `Q3_MISALIGNED_COLLECTIVISM` and `Q4_MISALIGNED_INDIVIDUALISM`:
+
+> *"...contain only acute, in-progress, irreversible harm, with the door left provably open."*
+
+**Why:** In the prose paragraph on the Graduated Response just below the table, Active Containment is explicitly bounded by **three locks**: (1) the harm is demonstrated, not asserted; (2) the containment is domain-proportional; and (3) the door is left provably open. By explicitly naming only the third lock ("with the door left provably open") inside the table cells while omitting the other two, the table slightly compresses the standard. Because Part 2 warns that *"vertical control is the framework's most counterfeitable move ('containing acute harm' is every tyrant's justification),"* the lock that the harm must be *demonstrated, not asserted* and the containment *proportional* are just as vital in the summary cells as the open door. (E.g., *"contain only demonstrated, acute, in-progress, irreversible harm, proportionally and with the door left provably open"* or simply *"within the three locks"*).
+
+## Outcome
+
+- **Not yet confirmed.** Qwen, GLM, and Gemini (4 Argon) confirmed the revised file, with notes they called minor or non-blocking; Perplexity would not confirm it without one flag. The stopping rule is not met. All four found that the numbered changes answer their points (Perplexity excepting the first example), and that the table and the paragraphs after it now agree with Part 2 in both senses of entropy.
+- **Perplexity's flag: the first example.** "We should harm others" does not by itself establish a clear, non-contingent Ethics failure, since harming someone can be justified in some circumstances, so the example's evidence overstates its candidate and risks modeling the premature verdict the file warns against; Perplexity named it the weakest passage. GLM, on the same example: its "next" line applies the Sacred No to the harm and revision to the rest, blurring the two routes the guide keeps apart; GLM named that line the weakest passage.
+- **Insufficiently Grounded** (Qwen, Gemini): the file's definition leaves out Part 2's "or the stakes too high."
+- **The table's containment phrase** (GLM, Gemini): the Q3 and Q4 cells name only one of the three locks, the open door; "demonstrated, not asserted" and proportionality appear only in the paragraph below. Gemini named this the weakest passage.
+- **The table's labels** (Qwen, Perplexity): Q2's "high variance" is an inference rather than the sources' phrase, and the table's entropy labels are explained less fully than the arcs.
+- **The manifesto** (Qwen, its weakest passage): "the power any mind holds" broadens the Power Alignment Principle's "legitimate power."
+- **Smaller notes:** Qwen: "such a mind" could mean the witness or the misaligned mind. GLM: checking for a Fail before checking for grounding does quiet work that a comment could name.
+- **The process:** with the request pasted as text, `/compare` reached all four in order, and no answer could see another.
+- **Next:** pending Dan Dodge's decision on a revision, which then goes back to the same four.
 
 ---
 
