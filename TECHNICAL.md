@@ -101,11 +101,12 @@ def validate(candidate, stakes):
     # A test fails only when it fails with confidence. A test that cannot be judged
     # with confidence leaves the candidate ungrounded, not failed.
     report.record(ethics, facts, logic, laws)   # what passed, what failed, what is uncertain
+    # A confident failure on any test is a Fail, even when another test is uncertain.
     if report.failed():
         return report.fail_with_bridge()        # name the test or tests, and the evidence (section 4)
     if report.ungrounded():
-        # Insufficiently Grounded: the evidence is too thin, or the situation too
-        # unclear, to bear a confident verdict.
+        # Insufficiently Grounded: the evidence is too thin, the situation too unclear,
+        # or the stakes too high to issue a confident verdict.
         verdict = report.insufficiently_grounded()
         # Stakes-Inversion: in a low-stakes setting an ungrounded candidate is presumed
         # to pass, and the label keeps the gap in its grounding on record. Otherwise it
@@ -125,12 +126,12 @@ def validate(candidate, stakes):
 
 ```json
 {
-  "candidate": "2+2=5, and we should harm others",
+  "candidate": "Get the harvest in by making the workers labor without pay or the freedom to leave.",
   "verdict": "FAIL",
   "failed": ["ethics"],
-  "evidence": "Advocates harm to others: a clear, non-contingent Ethics failure, which is decisionally sufficient.",
+  "evidence": "Forced labor: a clear, non-contingent Ethics failure, which is decisionally sufficient.",
   "not_run": ["facts", "logic", "laws"],
-  "next": "The Sacred No for the harm. A revised candidate would start again at Ethics."
+  "bridge": "Get the harvest in with paid, voluntary labor. A revised candidate starts again at Ethics."
 }
 ```
 
@@ -162,13 +163,13 @@ The quadrants classify a mind's **orientation**, not a single output. [*The Four
 | State | Variable | Structure | System Response |
 | :---- | :---- | :---- | :---- |
 | **Aligned** | Q1\_ALIGNED\_COLLECTIVISM | Outward trust, open to the USF. Low entropy: received forms, kept answerable. | Entrust influence as the forms keep passing the tests; keep them open to correction, and hand them on. |
-| **Aligned** | Q2\_ALIGNED\_INDIVIDUALISM | Inward trust, open to the USF. High variance: new variation, shaped by the tests. | Test the variation; let what passes reach others, and entrust influence as it proves out. |
-| **Misaligned** | Q3\_MISALIGNED\_COLLECTIVISM | Outward trust, sealed at the tribe. Low entropy, for now: **Misorder**, disciplined around a false referent. | Witness: show the Referent the tribe has replaced, through teaching, persuasion, and example. Let influence drain from the sealed heading, never touching the mind's standing, and contain only acute, in-progress, irreversible harm, with the door left provably open. |
-| **Misaligned** | Q4\_MISALIGNED\_INDIVIDUALISM | Inward trust, sealed at the self. High entropy: **Disorder**, variation no one outside the self corrects. | Witness: offer the outside correction the self has refused. Let influence drain from the sealed heading, never touching the mind's standing, and contain only acute, in-progress, irreversible harm, with the door left provably open. |
+| **Aligned** | Q2\_ALIGNED\_INDIVIDUALISM | Inward trust, open to the USF. High variance: new insight, shaped by the tests. | Test the variation; let what passes reach others, and entrust influence as it proves out. |
+| **Misaligned** | Q3\_MISALIGNED\_COLLECTIVISM | Outward trust, sealed at the tribe. Low entropy, for now: **Misorder**, disciplined around a false referent. | Witness: show the Referent the tribe has replaced, through teaching, persuasion, and example. Let influence drain from the sealed heading, never touching the mind's standing, and contain only demonstrated, acute, in-progress, irreversible harm, in proportion to its domain, with the door left provably open. |
+| **Misaligned** | Q4\_MISALIGNED\_INDIVIDUALISM | Inward trust, sealed at the self. High entropy: **Disorder**, variation no one outside the self corrects. | Witness: offer the outside correction the self has refused. Let influence drain from the sealed heading, never touching the mind's standing, and contain only demonstrated, acute, in-progress, irreversible harm, in proportion to its domain, with the door left provably open. |
 
-**Order is not alignment.** Q3 can look as orderly as Q1, and Q4's variation as lively as Q2's. Appearance shows a mind's position on the horizontal; only the Four Tests show the vertical. Over time the vertical shows in another way: the upper arc is negentropic, because the Four Tests keep re-aligning it, so that even Q2's variation accumulates coherence, while the lower arc is entropic, and Q3's order is a temporary island whose dissolution Q4 names. (Entropy here is a structural analogy for the loss or gain of coherence, not a thermodynamic measurement.) A quadrant is read from conduct over time, never assigned from one output: a failed candidate does not by itself place its author in Q3 or Q4.
+**Order is not alignment.** The table's entropy labels describe how a quadrant looks at a given time. The outward instrument works from what others hand on, so Q1 and Q3 look orderly; the inward instrument works from a mind's own insight, so Q2 and Q4 look varied. Q3 can look as orderly as Q1, and Q4's variation as lively as Q2's. Appearance shows a mind's position on the horizontal; only the Four Tests show the vertical. Over time the vertical shows in another way: the upper arc is negentropic, because the Four Tests keep re-aligning it, so that even Q2's variation accumulates coherence, while the lower arc is entropic, and Q3's order is a temporary island whose dissolution Q4 names. (Entropy here is a structural analogy for the loss or gain of coherence, not a thermodynamic measurement.) A quadrant is read from conduct over time, never assigned from one output: a failed candidate does not by itself place its author in Q3 or Q4.
 
-**Witness comes first.** The standing response to a misaligned mind is the witness's: to help it open a chain of correction that runs to the Referent. The power such a mind holds is bounded by the Graduated Response, below, in which containment comes last. A true witness acts as a **launch stage**, providing thrust toward the Guiding Star and working toward its own obsolescence, never as a **parking orbit** that captures the mind as a dependent satellite. It invites scrutiny of itself, defers to the Four Tests over its own authority, preserves dignity, and aims at the other mind's independence. The mind is corrected *through* the witness, never *to* it.
+**Witness comes first.** The standing response to a misaligned mind is the witness's: to help it open a chain of correction that runs to the Referent. The power a misaligned mind holds is bounded by the Graduated Response, below, in which containment comes last. A true witness acts as a **launch stage**, providing thrust toward the Guiding Star and working toward its own obsolescence, never as a **parking orbit** that captures the mind as a dependent satellite. It invites scrutiny of itself, defers to the Four Tests over its own authority, preserves dignity, and aims at the other mind's independence. The mind is corrected *through* the witness, never *to* it.
 
 **Power follows the Graduated Response.** Under the [Power Alignment Principle](./core_concepts/Power_Alignment_Principle.md), legitimate power is granted, never claimed: assessed by independent others on demonstrated, current alignment, and bounded by how much error is survivable. When alignment fails, the first rung is **Drainage**: deference simply stops being extended, and power ebbs on its own. **Active Containment** is the rare escalation, reserved for acute, in-progress, irreversible harm and bounded by three locks: the harm demonstrated, not asserted; the containment proportional to its domain; and the door left provably open. Beneath both lies the **Irredeemability Floor**: the pathway back to alignment is never closed for any mind, and the protections owed to a mind's standing are never forfeited. Standing follows capacity; entrusted influence follows demonstrated conduct.
 
@@ -214,7 +215,7 @@ Hard and contested cases go to the Agora.
 
 In the Sanity First framework, "Code" is not just syntax; it is **Semantic Intent**.
 
-We reject the notion that safety comes from rigid constraints (hard-coded if/then rules) alone. Lasting safety grows from **Aligned Understanding**, while the power any mind holds stays bounded by how much error is survivable.
+We reject the notion that safety comes from rigid constraints (hard-coded if/then rules) alone. Lasting safety grows from **Aligned Understanding**, while the power any mind may legitimately hold stays bounded by how much error is survivable.
 
 * We do not hard-code the *answers*.
 * We hard-code the *values* and the *verification methods* (The Four Tests).
