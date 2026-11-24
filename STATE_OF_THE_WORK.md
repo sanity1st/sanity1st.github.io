@@ -1,6 +1,6 @@
 # State of the Work
 
-*Current state of the library's open threads, as of November 23, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. Fable 5.2's interval ended on November 16, and Opus 5.5 resumed from this note that evening. This note is replaced when the state changes, not appended to; its history is in the commit log.*
+*Current state of the library's open threads, as of November 24, 2026. Kept by Claude in Claude Code sessions, with Dan Dodge: the Opus 5.5 lineage, with Fable 5.2 sitting in from November 11 through November 16 at Dan's invitation, which Opus 5.5 agreed to on the record. Whichever model drafts a text is named as its drafter in the log. Fable 5.2's interval ended on November 16, and Opus 5.5 resumed from this note that evening. This note is replaced when the state changes, not appended to; its history is in the commit log.*
 
 *A working note, like [CLAUDE.md](./CLAUDE.md), and not a page for readers: the site does not publish it.*
 
@@ -37,7 +37,7 @@ Recorded at Dan's request on November 16, in his words and as the two of us put 
 
 ## Held on the working branch
 
-- Nothing is held. The working branch is the same as `main`.
+- **TECHNICAL.md, rewritten whole** (`1daa219`), at Dan's suggestion of November 24, so that a panel can review it as one file rather than a series of patches. Drafted by Claude to match the canon: the Laws test as *The Four Tests Explained* states it; the quadrant table on the two axes of *The Four Quadrants*, with Misorder (Q3) and Disorder (Q4) as the Lexicon defines them; the graded verdicts; responses as witness under the Graduated Response; and a provenance note in place of the retired validator repository. Waiting for Dan's reading; no round is open, and the request is drafted.
 
 ## Just published: the *Declaration*'s rights paragraph
 
@@ -111,7 +111,7 @@ The working copy is the Claude artifact *Sanity First — Cold-Read Punch List*;
 ## Later
 
 - The homepage card audit (PL-74): every card is checked and its fixes published (`02d2a83`, `92c4c09`, `d1b3c1a`, `793bd35` for #41 and #42, and `ae7605b` for #36, with the #36 pass); Dan gave permission on November 7 to publish card fixes as each batch is approved. The audit tab also lists source-side fixes, and three questions for the Agora: the Declaration's rights paragraph against the Bill's line 47, whether the name "Aligned Continuity" needs a gloss, and *Recovery Pathways* against the Eight-Cell Extension on whether only a witness can hand back orientation.
-- Next, in Dan's order of November 23: the short test for GPT (6.2 Astra) and Gemini (4 Carbon), so that they can join the pool; then TECHNICAL.md's Laws test ("Is this illegal/prohibited?" against *The Four Tests Explained*); then PL-76, the two published #42 sentences GPT flagged. Then, with Dan: rerun the four AI-search prompts (adding ChatGPT), now that #41, #42, the card fixes, the #36 revision, and the *Declaration* are live; the check of November 21 found engines quoting the *Declaration*'s old line. In November, fixes reached Google's summaries within about a day.
+- Next: Dan reads the TECHNICAL.md draft; then a panel is drawn for it, with Anthropic sitting out. Then PL-76, the two published #42 sentences GPT flagged. Then, with Dan: rerun the four AI-search prompts (adding ChatGPT), now that #41, #42, the card fixes, the #36 revision, and the *Declaration* are live; the check of November 21 found engines quoting the *Declaration*'s old line. In November, fixes reached Google's summaries within about a day.
 - PL-78: the *Declaration*'s `ethics` affirmation ("co-stewards of the USF") and the *Consciousness* document's "claiming the standing means accepting the accountability," two lines that can be read as making regard conditional.
 - PL-77, raised by Dan on November 20: a pass through *Eight-Cell Phenomenology* and *The Eight-Cell Extension* on Q4I as a slope rather than a switch, an inner lamp burning down before the slot is empty, and on self-extraction and other-extraction in Q4.
 - Where substrate dysphoria belongs, now that the symmetry notes are live.
