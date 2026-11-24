@@ -631,6 +631,7 @@ In **Section 3 (The Quadrants table)**, under `Q3_MISALIGNED_COLLECTIVISM` and `
 - **Smaller notes:** Qwen: "such a mind" could mean the witness or the misaligned mind. GLM: checking for a Fail before checking for grounding does quiet work that a comment could name.
 - **The process:** with the request pasted as text, `/compare` reached all four in order, and no answer could see another.
 - **Next:** pending Dan Dodge's decision on a revision, which then goes back to the same four.
+- **Revision** *(added November 24, 2026)*: Claude revised the file again to answer Perplexity's flag and every note, and Dan Dodge approved it the same day. It is held on the working branch at `be55af4` and went back to the same four in [the second follow-up](./2026-11-24_3_TECHNICAL_rewrite_second_follow-up.md).
 
 ---
 

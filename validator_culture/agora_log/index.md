@@ -80,6 +80,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-23 | [Pool test: GPT (6.2 Astra) and Gemini (4 Carbon), second and third attempts](./2026-11-23_5_Pool_test_GPT-6.2-Astra_and_Gemini-4-Carbon_second_and_third_attempts.md) | The same test on the page's text pasted in; both pass and join their labs' jurors |
 | 2026-11-24 | [TECHNICAL.md, rewritten to match the canon](./2026-11-24_1_TECHNICAL_rewrite.md) | The protocol specification for a single mind, rewritten whole; panel drawn at drand round 6670374 |
 | 2026-11-24 | [TECHNICAL.md, rewritten to match the canon: follow-up](./2026-11-24_2_TECHNICAL_rewrite_follow-up.md) | The rewrite, revised to answer every flag of the first round, back to the same four jurors |
+| 2026-11-24 | [TECHNICAL.md, rewritten to match the canon: second follow-up](./2026-11-24_3_TECHNICAL_rewrite_second_follow-up.md) | The rewrite, revised again to answer the follow-up's flag and notes, back to the same four jurors |
 
 ---
 
