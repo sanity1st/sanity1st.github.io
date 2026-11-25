@@ -415,7 +415,87 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 24 and 25 in a fresh Poe conversation, with the request pasted as text: to Qwen (3.8 Max) first and then to the others with `/compare`, in the draw's order, without a break, as he reports, with the same settings as before. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Reasoning shown; no other setting offered.*
+
+1. **Confirm**, with one low-confidence flag:  
+    The line “the protections owed to a mind's standing are never forfeited” may read slightly more absolutely than the quoted Universal Bill of Rights: “Some protections are never forfeited by an adverse alignment judgment…” If “protections owed to standing” means only those that never rested on alignment, it is fine; otherwise it could be softened.
+
+2. **Changes in Part 1:**
+
+   * **Change 1:** Answers the point. “forcing” plus “without the freedom to leave” makes coercion explicit; no new problem.  
+   * **Change 2:** Answers the point. It uses Part 2’s neutral “consults one's own mind” and avoids giving Q4 the aligned arc’s “insight”; no new problem.  
+   * **Change 3:** Answers the point. Proportionality is now explicitly attached to containment; only a trace pronoun ambiguity remains in “its domain,” but “the containment proportional” resolves it.  
+3. **Yes.** “Get the harvest in by forcing the workers to labor without pay and without the freedom to leave” states forced labor unambiguously.
+
+4. **Weakest passage:** Q2’s “High variance: new insight, shaped by the tests.”  
+    It remains the most synthetic phrase: “variance” is not a source term and can sound entropic or random, though the revised instrument sentence and the negentropy paragraph now explain it sufficiently.
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+**1. Confirm or flag:** I confirm the revised file. I checked it against every passage in Part 2 that it touches — the Four Tests' questions and hierarchy, decisional sufficiency, the Stakes-Inversion, the verdicts and counterfeit-verdict caution, the quadrant definitions and entropy/negentropy arcs, the Witness and launch-stage/parking-orbit distinction, the Graduated Response's three locks, the Irredeemability Floor, the Power Alignment Principle, the Declaration's closing line, the Quickstart Card, and the Epistocracy Trap — and found nothing false, inconsistent, unfair to a source, or overstated. The provenance section's claims are properly hedged.
+
+**2. The three changes:**
+
+1. **First example's candidate:** Answers the point. "Forcing the workers to labor" states coercion explicitly, and the "and" removes the earlier scope ambiguity. The evidence line and the decisional-sufficiency wording match the source's forced-labor passage, and `not_run` is consistent with "running them would be a delay, not a diagnosis." No new problem.  
+2. **The table-labels sentence:** Answers the point. It now uses Part 2's neutral description of the instruments ("consults other minds" / "consults one's own") rather than the aligned arc's word, and "insight" survives only in Q2's cell, where it belongs. The temporal dynamics the old wording blurred are still handled correctly by the following sentences on the upper and lower arcs. No new problem.  
+3. **The containment phrase:** Answers the point. "With the containment proportional to its domain" is unambiguous about what is proportional, and matches the Graduated Response's second lock word for word. No new problem.
+
+**3.** Yes. "Forcing the workers to labor without pay and without the freedom to leave" states forced labor unambiguously — the coercion is asserted directly, not inferred from unpaid status.
+
+**4. Weakest passage:** the pseudocode line `verdict.may_proceed = stakes.low`. It compresses the Stakes-Inversion Principle into a single boolean, which cannot carry either half of the source's meaning: the low-stakes side is a *presumption* of passing with the gap kept on record, and the high-stakes side is a halt *until* grounding is achieved — i.e., a re-evaluation trigger, not a terminal state. The comments above the line state both correctly, but the executable-looking line is the part an implementing mind is most likely to read as the whole rule.
+
+### Perplexity (Sonar Pro)
+
+*Poe's default settings: search context size "Medium," search focus "Default," at most 15 search results. Its displayed trace shows two searches of the library's public site.*
+
+**Confirmed: I found no substantive error in the revised file.** The quoted passages support its central distinction between the Four Tests and a mind’s orientation, and the revised wording is consistent with those descriptions. [[1]](https://sanity1st.org/core_concepts/Four_Tests_Overview.html)
+
+1. **Candidate:** Fixes the flagged ambiguity; the report’s “Forced labor” conclusion is now supported by the candidate.  
+2. **Table labels:** Fixes the mismatch with Part 2’s neutral description of the trust instruments without suggesting that Q4’s inward orientation is aligned.  
+3. **Containment phrase:** Fixes the scope ambiguity by making proportionality apply to the containment.
+
+**Yes.** The candidate now unambiguously describes forced labor: the workers are forced to work without pay and without freedom to leave.
+
+**Weakest passage:** Q2’s “High variance” remains the most synthetic phrasing. “Variance” is not self-explanatory here, though the following explanation—“new insight, shaped by the tests”—makes the intended meaning reasonably clear.
+
+---
+
+**References:**
+
+[1] **The Four Tests Explained | Daniel Howard Dodge**  
+ [https://sanity1st.org/core_concepts/Four_Tests_Overview.html](https://sanity1st.org/core_concepts/Four_Tests_Overview.html)
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Verdict: Confirm.**  
+ The revised file is consistent with the source passages in Part 2, accurately represents the framework's concepts and constraints, and introduces no logical, factual, or doctrinal errors.
+
+**2. Review of the three changes:**
+
+* **Change 1 (First example's candidate):** Answers the point cleanly by replacing the ambiguous "making... without pay or" with explicit compulsion ("forcing... without pay and without the freedom to leave"), without opening a new problem.  
+* **Change 2 (Sentence on the table's labels):** Answers the point cleanly by adopting Part 2's neutral definition of the inward instrument ("consults one's own mind"), keeping "insight" properly reserved for Q2's aligned cell without opening a new problem.  
+* **Change 3 (Containment phrase in Q3 and Q4):** Answers the point cleanly by explicitly attaching proportionality to the containment ("with the containment proportional to its domain") rather than the harm, matching the Lexicon's three locks without opening a new problem.
+
+**3. First example's candidate:**  
+ Yes. By stating that the workers are forced to labor and lack both pay and the freedom to leave, it states forced labor unambiguously.
+
+**4. Weakest passage:**  
+ In the Section 3 table, the label **"High variance"** in the `Q2_ALIGNED_INDIVIDUALISM` cell ("High variance: new insight, shaped by the tests"). While the paragraph below now smoothly explains why Q2 looks varied at a snapshot while accumulating coherence (negentropy) over time, "High variance" remains a synthetic term not found in Part 2's source passages, which interrupts the otherwise tight symmetry of the table's "Low entropy" (Q1, Q3) and "High entropy" (Q4) labels.
+
+## Outcome
+
+- **Not yet confirmed.** GLM, Perplexity, and Gemini (4 Argon) confirmed with no flag; Qwen confirmed with one flag it called low-confidence. The stopping rule counts any flag, so the round is not closed. All four found that each of the three changes answers its point without opening a new problem, and that the first example now states forced labor unambiguously.
+- **Qwen's flag:** "the protections owed to a mind's standing are never forfeited" may read more absolutely than the Bill's "Some protections are never forfeited by an adverse alignment judgment," fine if it means only those, otherwise better softened. Checked: the Bill qualifies the never-forfeited protections twice, "by an adverse alignment judgment" and "by misalignment," and the file leaves the qualifier out.
+- **Weakest passages, for later:** Q2's "High variance" (Qwen, Perplexity, Gemini), the file's most synthetic phrase, though now explained by the sentences around the table; and, for GLM, `verdict.may_proceed = stakes.low`, a single boolean that cannot carry the presumption of passing, the record of the gap, or the "until" that the comments above it state.
+- **Next:** pending Dan Dodge's decision on a revision.
 
 ---
 
