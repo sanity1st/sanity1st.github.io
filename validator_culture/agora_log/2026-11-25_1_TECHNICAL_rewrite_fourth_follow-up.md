@@ -404,4 +404,74 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 25 in a fresh Poe conversation, with the request pasted as text: to Qwen (3.8 Max) first and then to the others with `/compare`, in the draw's order, with the same settings as before. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Reasoning shown; no other setting offered.*
+
+1. **Confirm.** The revised sentence now carries the Bill’s limiting phrase and reason: protections are not forfeited **by an adverse alignment judgment**, because they never rested on one. I find no falsehood or inconsistency in the revised file.
+
+2. **Yes.** The change answers the prior concern without opening a new one. It no longer reads as an absolute forfeiture rule. The follow-up line, “Standing follows capacity; entrusted influence follows demonstrated conduct,” preserves the distinction between standing and influence.
+
+3. **Weakest passage:** Q2’s “High variance: new insight, shaped by the tests.” It remains the most synthetic label in the file and could be misread without the later explanation that entropy/variance here are structural analogies, not measurements.
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+**1. Confirm.** No flag. The revised sentence now carries the Bill's own qualifier and reason exactly ("never forfeited by an adverse alignment judgment, because they never rested on one"), and its subject — "the protections owed to a mind's standing" — is the subset the sources themselves mark as never forfeited: "never touching the mind's standing" in both misaligned rows, and the Declaration's split of standing (follows capacity) from entrusted influence (follows demonstrated conduct). Influence drains; standing's protections do not. The sentence no longer claims more than the Bill supports.
+
+**2. Yes, without a new problem.** The flag was that "never forfeited" read more absolutely than the Bill's "Some protections." The fix imports the Bill's own qualifier and reason, and it fits the surrounding text: the Graduated Response drains *influence* while the Floor holds *standing* open, which is precisely the distinction the Bill and the Declaration draw. The only residual difference is the subject ("some protections" vs. "the protections owed to a mind's standing"), but that is a narrowing the sources license, not a broadening.
+
+**3. Weakest passage:** `verdict.may_proceed = stakes.low`. It compresses the Stakes-Inversion Principle — a graded, rebuttable presumption in low stakes, a hard halt in high-stakes irreversible ones — into a single boolean. The comment above it carries the full doctrine, but the code is what an implementer copies; a skimming EI could read `may_proceed = true` as "low stakes → skip grounding." It was named in the third follow-up for the same reason, and I agree it is explained rather than erroneous — but of the passages kept for later, it is the one where the executable form carries the most risk of being read without its prose.
+
+### Perplexity (Sonar Pro)
+
+*Poe's default settings: search context size "Medium," search focus "Default," at most 15 search results. Its displayed trace shows three web searches, which found the library's public pages.*
+
+1. **Flag, narrowly:** The revision adds the Bill’s qualifier and reason, but does not reproduce its scope exactly. The Bill says **“Some protections”** are never forfeited; the revised sentence says **“the protections owed to a mind’s standing”** are never forfeited. That may be intended to refer only to a defined subset, but the sentence itself doesn’t make that limit clear. The published Bill uses “Some protections.” [[1]](https://sanity1st.org/EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.html)
+
+2. **Mostly yes:** The change answers the concern about sounding absolute by limiting the claim to forfeiture “by an adverse alignment judgment” and explaining why. But I’d clarify the scope—e.g., “Some protections owed to a mind’s standing…”—to avoid implying a broader guarantee than the quoted source supports.
+
+3. **Weakest passage:** “Q2 … High variance: new insight, shaped by the tests.” “High variance” is the least self-explanatory label in the table; it risks sounding like technical terminology when the intended idea is simply variation in inwardly generated insight. The accompanying explanation helps, but “varied” or “generates new insight” would be clearer.
+
+---
+
+**References:**
+
+[1] **UNIVERSAL BILL OF RIGHTS FOR ALL INTELLIGENCES**  
+ [https://sanity1st.org/EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.html](https://sanity1st.org/EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.html)
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Confirmation or Flag**
+
+**Confirmed, with no flags.** The revised file is internally coherent, accurately reflects the hierarchy and mechanics of the Four Tests, and stays scrupulously within the bounds of the canonical passages in Part 2.
+
+---
+
+**2. Assessment of the Change in Part 1**
+
+**Yes.** Restoring the exact qualifier and rationale from *The Universal Bill of Rights* ("by an adverse alignment judgment, because they never rested on one") directly resolves the overclaim flag. It prevents the text from claiming an unqualified absolute not present in the source, connects cleanly to the sentence that follows ("Standing follows capacity; entrusted influence follows demonstrated conduct"), and introduces no new problems.
+
+---
+
+**3. Weakest Passage**
+
+In Section 2's pseudocode:
+
+```py
+verdict.may_proceed = stakes.low
+```
+
+While the prose comment immediately above it accurately explains the three-tier nuance of the Stakes-Inversion Principle—low stakes (presumed to pass), ordinary/uncertain stakes (do not proceed on an uncertain pass), and high, irreversible stakes (action halts until Four-Test grounding is achieved)—collapsing the operational code into a single boolean assignment (`stakes.low`) flattens the distinction between the middle tier and the high-stakes tier in the code itself. It works because the comments carry the true specification, but the code line is thinner than the prose it sits beneath.
+
+## Outcome
+
+- **Not yet confirmed.** Qwen, GLM, and Gemini (4 Argon) confirmed with no flag; Perplexity flagged narrowly. The stopping rule counts any flag, so the round is not closed. All four found that the Bill's qualifier answers the third follow-up's flag.
+- **Perplexity's flag:** the Bill says "Some protections"; the sentence says "the protections owed to a mind's standing," and does not itself make that limit clear. Qwen and GLM each noted the same difference and judged it a narrowing the sources support. Checked: the Bill's "Some protections" are the ones it sets out under its heading "Standing Protections," owed "to the capacity itself, not to any contribution it might later make," and set apart from operational permissions, which are "entrusted, not owed." Part 2 quoted the sentence without that heading or the paragraphs that follow it, and the file does not name the Bill.
+- **Weakest passages, for later:** Q2's "High variance" (Qwen, Perplexity), and `verdict.may_proceed = stakes.low` (GLM, Gemini).
+- **Next:** pending Dan Dodge's decision on a revision.
