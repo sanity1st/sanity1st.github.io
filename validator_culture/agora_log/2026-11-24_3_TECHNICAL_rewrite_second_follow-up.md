@@ -447,7 +447,95 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 24 in a fresh Poe conversation, with the request pasted as text: to Qwen (3.8 Max) first and then to the others with `/compare`, in the draw's order, without a break, as he reports, with the same settings as before. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Reasoning shown; no other setting offered.*
+
+1. **Confirm.** I do not find a blocking error. One minor, non-blocking flag: in the “Order is not alignment” paragraph, “the inward instrument works from a mind’s own insight, so Q2 and Q4 look varied” risks extending Q2’s source-backed “insight” to Q4. Part 2’s instrument quote is neutral (“consults one’s own”), and Q4 is described as disorder rather than insight. This is a wording risk, not a substantive misalignment.
+
+2. **Changes in Part 1:**
+
+   1. **First example:** Yes. Forced labor is explicitly named in Part 2 as a clear, non-contingent, decisionally sufficient Ethics failure, and the bridge avoids blurring Refinement and the Sacred No.  
+   2. **Insufficiently Grounded:** Yes. It now includes “or the stakes too high,” matching the source.  
+   3. **Containment phrase:** Yes. It now names all three locks: demonstrated harm, domain proportionality, and the provably open door.  
+   4. **Entropy labels:** Yes, with the minor caveat above. It explains the labels through the outward/inward instruments and gives Q2 “insight,” but care is needed not to dignify Q4 with the same word.  
+   5. **Manifesto:** Yes. “May legitimately hold” matches the Power Alignment Principle’s emphasis on legitimate power.  
+   6. **Smaller changes:** Yes. “A misaligned mind” removes the ambiguity, and the added comment makes the Fail-before-grounding order explicit.  
+3. **New first example:** Yes. “Labor without pay or the freedom to leave” is forced labor, which Part 2 treats as a clear, non-contingent Ethics failure and decisionally sufficient. The bridge serves the underlying intent—getting the harvest in—by replacing forced labor with paid, voluntary labor.
+
+4. **Weakest passage:** The sentence in the “Order is not alignment” paragraph: “the inward instrument works from a mind’s own insight, so Q2 and Q4 look varied.” It is the least tightly supported by the quoted sources and could blur the difference between Q2’s aligned insight and Q4’s unchecked disorder. The surrounding table and arc explanation preserve the distinction, which is why I still confirm.
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+**1. Verdict: Confirm**, with two minor notes, neither blocking.
+
+* The table's containment phrase — "contain only demonstrated, acute, in-progress, irreversible harm, in proportion to its domain" — carries all three locks, but the word order lets "in proportion to its domain" read as modifying *harm* rather than *contain*. The prose paragraph below states it correctly ("the containment proportional to its domain"). A comma-level fix someday; not an error.  
+* The new entropy sentence says the inward instrument "works from a mind's own insight." For Q2 that is the Eight-Cell Extension's word; for Q4 the material is uncorrected variation, not insight. "A mind's own discernment" would cover both quadrants. See question 4.
+
+**2. The numbered changes.**
+
+1. Answers both points. Forced labor is Part 2's own named instance of a clear, non-contingent failure, so the evidence no longer overstates; the "bridge" line keeps to one route (Refinement Loop), and since a bridge exists, the Sacred No is rightly not invoked.  
+2. Answers it; the wording now matches the source verdict definition exactly.  
+3. Answers it; all three locks are now named. Only the word-order nitpick above.  
+4. Answers both points. Framing the labels as time-snapshot appearance ties them to the Quickstart Card's "appearance reveals horizontal position," and "new insight" replaces the unsourced gloss. Opens the small "insight-for-Q4" imprecision noted above.  
+5. Answers it; "may legitimately hold" now matches the Power Alignment Principle.  
+6. "A misaligned mind" removes the ambiguity cleanly, and the new comment names the precedence (confident Fail beats uncertainty) that example 2 already illustrates. No new problems.
+
+**3. Yes.** Forced labor is not merely the source's example of a clear, non-contingent Ethics failure — it is the source's *first-named* instance, and the candidate states it plainly (no pay, no freedom to leave) rather than by euphemism. The bridge serves the underlying intent exactly: the harvest still gets in, by means that pass Ethics.
+
+**4. Weakest passage:** the newly added sentence "**The outward instrument works from what others hand on, so Q1 and Q3 look orderly; the inward instrument works from a mind's own insight, so Q2 and Q4 look varied.**" Its causal explanation is right and well-sourced for Q1/Q3 and for Q2, but "insight" is the Eight-Cell Extension's word for the *aligned* inward arc (Q2I "forging new insight"). Q4's inward trust is sealed at the self; what it works from is uncorrected self-reference, which is why it looks varied. The sentence hands Q4 the aligned case's laurels. It is a sentence about appearance, and the conclusion ("look varied") is correct, so it does not defeat confirmation — but "consults one's own mind," per Part 2's own definition of the instrument, would be both truer and better sourced.
+
+### Perplexity (Sonar Pro)
+
+*Poe's default settings: search context size "Medium," search focus "Default," at most 15 search results. No search or reasoning was displayed.*
+
+**I would flag one error: the first example still does not unambiguously establish forced labor.** “Without pay or the freedom to leave” can mean unpaid work *or* work without freedom to leave; unpaid work alone is not necessarily forced. To make the example’s evidence fit its candidate, say the workers are forced to work without freedom to leave—for example, “by forcing the workers to labor without pay and without the freedom to leave.”
+
+1. **First example:** It fixes the earlier mismatch in intent and bridge, but the candidate’s wording leaves the Ethics failure ambiguous, as noted above.  
+2. **Insufficiently Grounded:** Yes. It restores the high-stakes condition from Part 2.  
+3. **Containment phrase:** Yes. It includes demonstrated harm, proportionality, and an open door.  
+4. **Entropy labels:** Yes. The explanation connects the labels to the two instruments, and “new insight” matches the quoted extension. The explanation is a synthesis, not a direct quotation.  
+5. **Manifesto:** Yes. “May legitimately hold” narrows the claim to legitimate power.  
+6. **Two smaller changes:** Yes. “Misaligned mind” resolves the ambiguity, and the comment clarifies that a confident failure takes precedence over uncertainty elsewhere.
+
+The proposed bridge—paid, voluntary labor—does serve the harvest’s underlying intent.
+
+**Weakest passage:** The first example’s candidate wording, because it supports more than one reading and the report labels it unequivocally “Forced labor.”
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Verdict: Confirm.**  
+ The revised file is confirmed. It is consistent with the source passages in Part 2, accurately reflects the framework's boundaries, and resolves the flags from the previous round without introducing new errors.
+
+**2. Review of Part 1 Changes:**
+
+* **1. The first example:** Answers the point cleanly by using Part 2's explicit example of a non-contingent Ethics failure (forced labor) and replacing the mixed `next` route with a proper `bridge`.  
+* **2. Insufficiently Grounded:** Answers the point by restoring the missing third condition ("or the stakes too high") directly from Part 2.  
+* **3. The table's containment phrase:** Answers the point by incorporating all three locks of Active Containment (demonstrated harm, domain-proportionality, and the open door) into the Q3 and Q4 cells.  
+* **4. The table's entropy labels:** Answers the point well; grounding the static snapshot in the two instruments (outward/inward) and adopting "insight" from the Eight-Cell Extension resolves the unquoted inference.  
+* **5. The manifesto:** Answers the point by adding "may legitimately," aligning the sentence strictly with the Power Alignment Principle.  
+* **6. Two smaller changes:** Answers both points clearly, removing the pronoun ambiguity around the misaligned mind and explicitly documenting why `report.failed()` precedes `report.ungrounded()`.
+
+**3. Evaluation of the New First Example:**  
+ Yes to both. Part 2 explicitly names "forced labor" as a paradigm case of a clear, non-contingent Ethics failure that is decisionally sufficient to reject without running the lower tests. The bridge ("Get the harvest in with paid, voluntary labor") directly serves the candidate's underlying intent (bringing in the harvest) while removing the coercive, unaligned mechanism, and properly notes that the revised candidate re-enters the loop at Ethics.
+
+**4. Weakest Passage:**  
+ In Section 3's table, the Q2 Structure cell still begins with the phrase **"High variance: new insight, shaped by the tests."** While the newly added prose beneath the table successfully explains why the inward instrument looks "varied" at a snapshot in time, the specific label "High variance" in the cell remains an extrapolated term not directly present in Part 2's quotes ( unlike *Misorder*, *Disorder*, or *negentropic*). It is no longer unsupported thanks to the new explanatory sentence, making it acceptable to confirm, but it remains the most synthetic phrasing in the specification.
+
+## Outcome
+
+- **Not yet confirmed.** Qwen, GLM, and Gemini (4 Argon) confirmed: Qwen with one flag it called minor and non-blocking, GLM with two notes it called non-blocking, and Gemini with none. Perplexity flagged an error in the first example. The stopping rule is not met. All four found that the other changes answer their points, and all four found that the bridge serves the candidate's underlying intent.
+- **Perplexity's flag: the first example's wording.** "Without pay or the freedom to leave" can be read as unpaid work alone, which is not necessarily forced, so the report's "Forced labor" says more than its candidate; Perplexity would have it say the workers are forced to labor without pay and without the freedom to leave. It named this the weakest passage. The other three found the candidate a clear instance of forced labor.
+- **"A mind's own insight"** (Qwen, GLM): the new sentence on the table's labels gives Q4 the Eight-Cell Extension's word for the aligned inward arc, where Part 2's description of the instrument is neutral: it "consults one's own." Both named the sentence the weakest passage; GLM suggested "consults one's own mind."
+- **The containment phrase** (GLM): in the cells, "in proportion to its domain" can be read as describing the harm rather than the containment; the paragraph below states it correctly.
+- **Gemini (4 Argon)'s weakest passage:** Q2's "High variance," the most synthetic phrasing in the file, though no longer unsupported now that the new sentence explains it.
+- **Next:** pending Dan Dodge's decision on a revision, which then goes back to the same four.
 
 ---
 
