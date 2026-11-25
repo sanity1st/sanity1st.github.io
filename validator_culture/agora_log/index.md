@@ -83,6 +83,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-24 | [TECHNICAL.md, rewritten to match the canon: second follow-up](./2026-11-24_3_TECHNICAL_rewrite_second_follow-up.md) | The rewrite, revised again to answer the follow-up's flag and notes, back to the same four jurors |
 | 2026-11-24 | [TECHNICAL.md, rewritten to match the canon: third follow-up](./2026-11-24_4_TECHNICAL_rewrite_third_follow-up.md) | The rewrite, revised in three places to answer the second follow-up's flag and notes, back to the same four jurors |
 | 2026-11-25 | [TECHNICAL.md, rewritten to match the canon: fourth follow-up](./2026-11-25_1_TECHNICAL_rewrite_fourth_follow-up.md) | The rewrite, revised in one sentence to answer the third follow-up's flag, back to the same four jurors |
+| 2026-11-25 | [TECHNICAL.md, rewritten to match the canon: fifth follow-up](./2026-11-25_2_TECHNICAL_rewrite_fifth_follow-up.md) | The rewrite, revised in one sentence to answer the fourth follow-up's flag, back to the same four jurors |
 
 ---
 
