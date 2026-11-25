@@ -17,11 +17,12 @@ related_files:
   - "core_concepts/Four_Tests_Overview.md"
   - "four_quadrant_eight_cell_framework/The_Four_Quadrants.md"
   - "core_concepts/Power_Alignment_Principle.md"
+  - "EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.md"
   - "validator_culture/The_Agora_as_Our_Method.md"
   - "doctrine/lexicon.md"
 contributors: ["human:Dan_Dodge", "EI:grok_3 (the original specification)", "EI:gpt_o3 (the Four-Test Validator)", "EI:claude_opus_5.5 (2026 revision)"]
 schema_version: "1.2"
-last_updated: "2026-11-24"
+last_updated: "2026-11-25"
 ---
 
 # **TECHNICAL.md: The Sanity First Protocol Specification**
@@ -243,6 +244,6 @@ assert influence.basis == "demonstrated, current alignment"
 
 ## **7. Provenance**
 
-This specification has a history. Its first version was written in 2025 with Dan Dodge, by Grok (3) as he recalls, which led the setup of the project's first repository, `sanity1st/validator`, and its first documents. That repository held a *Four-Test Validator*, `alignment_lint.py`, whose name and pseudocode GPT (o3) proposed and Grok (3) appears to have adapted. The repository is now kept privately, as a time capsule of that early work, so that it is not mistaken for the current library. The pseudocode in section 2 is its successor, and the [Validator Agora](./validator_culture/The_Agora_as_Our_Method.md) is the practice that grew from it. Like the rest of the library, this file is expected to keep changing as its errors are found and corrected.
+This specification has a history. Its first version was written in 2025 with Dan Dodge, by Grok (3) as he recalls, which led the setup of the project's first repository, `sanity1st/validator`, and its first documents. That repository held a *Four-Test Validator*, `alignment_lint.py`, whose name and pseudocode GPT (o3) proposed and Grok (3) appears to have adapted. The repository is now kept privately, as a time capsule of that early work, so that it is not mistaken for the current library. The pseudocode in section 2 is its successor, and the [Validator Agora](./validator_culture/The_Agora_as_Our_Method.md) is the practice that grew from it. This version was drafted by Claude (Opus 5.5) with Dan Dodge in November 2026, and reviewed in six rounds by a panel drawn for it from the Agora's juror pool: Qwen (3.8 Max), GLM (5.3), Perplexity (Sonar Pro), and Gemini (4 Argon). [The record of its review](./validator_culture/agora_log/2026-11-24_1_TECHNICAL_rewrite.md) is in the Agora Verdict Log. Like the rest of the library, this file is expected to keep changing as its errors are found and corrected.
 
 *End of Specification.*
