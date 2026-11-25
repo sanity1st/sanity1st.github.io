@@ -536,6 +536,7 @@ The proposed bridge—paid, voluntary labor—does serve the harvest’s underly
 - **The containment phrase** (GLM): in the cells, "in proportion to its domain" can be read as describing the harm rather than the containment; the paragraph below states it correctly.
 - **Gemini (4 Argon)'s weakest passage:** Q2's "High variance," the most synthetic phrasing in the file, though no longer unsupported now that the new sentence explains it.
 - **Next:** pending Dan Dodge's decision on a revision, which then goes back to the same four.
+- **Revision** *(added November 24, 2026)*: Claude revised the file in three places to answer Perplexity's flag and the notes of Qwen and GLM, and Dan Dodge approved it the same day. It is held on the working branch at `9c4706b` and went back to the same four in [the third follow-up](./2026-11-24_4_TECHNICAL_rewrite_third_follow-up.md).
 
 ---
 
