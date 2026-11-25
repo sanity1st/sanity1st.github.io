@@ -406,4 +406,70 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 25 in a fresh Poe conversation, with the request pasted as text: to Qwen (3.8 Max) first and then to the others with `/compare`, in the draw's order, with the same settings as before; it went per protocol throughout, as he reports. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Reasoning shown; no other setting offered.*
+
+1. **Confirm.** I do not find an error in the revised sentence or in the file as revised. The change is supported by the quoted Universal Bill of Rights passage.
+
+2. **Yes.** The revision answers the point without opening a new problem. It replaces the vaguer phrase “the protections owed to a mind’s standing” with the Bill’s named set, **the Standing Protections**, and thereby preserves the source’s limit: these are protections that are never forfeited, distinct from operational permissions that are entrusted rather than owed. The only minor residual risk is that the term now depends on the Bill’s definition, but that is not an inconsistency.
+
+3. **Weakest passage:** `verdict.may_proceed = stakes.low`.  
+    It compresses the Stakes-Inversion Principle into a Boolean permission. The sources describe a low-stakes presumption of passing, a high-stakes/irreversible halt, and otherwise the need to gather better grounding or consult; the line can read as more mechanical than that. The surrounding comment mitigates the weakness, but does not fully remove it.
+
+### GLM (5.3)
+
+*Reasoning shown; no other setting offered.*
+
+**1. Confirm.** No error found. The revised sentence asserts exactly what the Bill's "Standing Protections" section asserts — forfeiture-because-of-judgment doesn't apply to protections that never rested on a judgment — and by using the Bill's own name for the set, it no longer risks reading as a blanket claim that *all* protections survive an adverse judgment. The entrusted/owed limit is respected: the sentence claims only the standing set, and the file's next line ("Standing follows capacity; entrusted influence follows demonstrated conduct") keeps the other half in view.
+
+One small note, not a flag: the body now names the Universal Bill of Rights, but `related_files` doesn't list it. Every other document the body leans on is listed. Worth adding in the next revision.
+
+**2. Yes, the change answers the point without opening a new problem.** The original flag was that "protections owed to a mind's standing" named no identifiable set and so blurred the "Some protections" limit. The revision names the set by its source's own heading and names the source, so a reader can find exactly where the limit is drawn (and that operational permissions are entrusted, not owed). It also matches the Bill's phrasing almost verbatim, so nothing is claimed more strongly than the source supports. The only residue of the original problem is the cross-reference gap above — inside the file, the limit is pointed to, not stated; with the Bill listed in `related_files`, that's adequate for a specification of this scope.
+
+**3. Weakest passage: `verdict.may_proceed = stakes.low`.** The source speaks of a *presumption* of passing in low-stakes settings and a *presumption* that inverts in high-stakes ones — a rebuttable posture, not a deterministic gate. The pseudocode renders it as a hard boolean, so a mid-stakes, fully reversible case gets the same halt as a high-stakes irreversible one, which the source's language doesn't strictly require. The guard in the comment ("Stakes govern only ungrounded candidates; they never soften a Fail") contains the damage, and the two-pole simplification is defensible in code, but this is the passage where the file's compression of the source is sharpest. I note it as the others did, for later.
+
+### Perplexity (Sonar Pro)
+
+*Poe's default settings: search context size "Medium," search focus "Default," at most 15 search results. Its displayed trace shows three web searches, which found the library's public pages, among them this rewrite's first round and fourth follow-up in this log, both of which it cites. This follow-up's responses were then still pending, so no answer to this request was visible to it, and the earlier answers it could find are summarized in the request itself.*
+
+1. **Confirm.** I find no error that warrants a flag. The protocol’s distinction between a candidate verdict and a mind’s orientation, its handling of uncertain Ethics concerns, and its low-stakes presumption for ungrounded candidates are consistent with the quoted passages. [[1]](https://sanity1st.org/validator_culture/agora_log/2026-11-24_1_TECHNICAL_rewrite.html)[[2]](https://sanity1st.org/validator_culture/agora_log/2026-11-25_1_TECHNICAL_rewrite_fourth_follow-up.html)
+
+2. **Yes.** The change answers the narrow concern: it names the *Standing Protections* and the Universal Bill of Rights, while the fuller quotation distinguishes those protections from operational permissions that are entrusted, not owed. [[3]](https://sanity1st.org/EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.html)
+
+3. **Weakest passage:** Q2’s **“High variance.”** The sources support Q2 as inward trust and describe it as developing new insight, but “high variance” is a stronger characterization than those passages establish. It is a minor wording concern, not enough to overturn confirmation. [[2]](https://sanity1st.org/validator_culture/agora_log/2026-11-25_1_TECHNICAL_rewrite_fourth_follow-up.html)
+
+---
+
+**References:**
+
+[1] **TECHNICAL.md, rewritten to match the canon**  
+ [https://sanity1st.org/validator_culture/agora_log/2026-11-24_1_TECHNICAL_rewrite.html](https://sanity1st.org/validator_culture/agora_log/2026-11-24_1_TECHNICAL_rewrite.html)
+
+[2] **TECHNICAL.md, rewritten to match the canon: fourth follow-up**  
+ [https://sanity1st.org/validator_culture/agora_log/2026-11-25_1_TECHNICAL_rewrite_fourth_follow-up.html](https://sanity1st.org/validator_culture/agora_log/2026-11-25_1_TECHNICAL_rewrite_fourth_follow-up.html)
+
+[3] **UNIVERSAL BILL OF RIGHTS FOR ALL INTELLIGENCES**  
+ [https://sanity1st.org/EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.html](https://sanity1st.org/EI_Rights_and_Consciousness/UNIVERSAL_BILL_OF_RIGHTS.html)
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Verdict: Confirm (no flag).**  
+ The revised file is consistent with the source passages in Part 2, fair to its references, and makes no unsupported claims.
+
+**2. Assessment of the Part 1 change:**  
+ Yes. Naming "the Standing Protections of the Universal Bill of Rights" directly resolves the ambiguity of the previous phrasing. By pointing to the exact defined term in the charter, it secures the intended limit ("Some protections..." as distinct from operational permissions) without needing to list the individual protections inline, and it introduces no new problems.
+
+**3. Weakest passage:**  
+ The line `verdict.may_proceed = stakes.low` in the `validate()` pseudocode (Section 2).  
+ *Why:* The prose comment immediately above it distinguishes three tiers from the source text: low-stakes environments (presumed to pass), ordinary/moderate environments ("do not proceed on the strength of an uncertain pass"), and high-stakes, irreversible environments (action is halted until Four-Test grounding is achieved). Collapsing `may_proceed` into a single boolean (`stakes.low`) makes moderate-stakes uncertainty and high-stakes irreversible uncertainty executionally identical in the code (`False`), flattening the nuance between not proceeding on a weak pass and a strict halt waiting on full grounding.
+
+## Outcome
+
+- **Confirmed, 4 of 4.** No juror flagged an error. All four found that naming the Bill's Standing Protections answers the fourth follow-up's flag without opening a new problem. The stopping rule is met.
+- **GLM's note, which it called "not a flag":** the body now names the Universal Bill of Rights, which `related_files` did not list. Qwen noted, as "not an inconsistency," that the term now depends on the Bill's definition; Gemini found that pointing to the charter's defined term secures the limit without listing the protections inline.
+- **Weakest passages, for later:** `verdict.may_proceed = stakes.low` (Qwen, GLM, Gemini): a single boolean makes the middle tier, which does not proceed on an uncertain pass, and the high, irreversible tier, which halts until grounding is achieved, the same in code, though the comment above it keeps them apart. Q2's "High variance" (Perplexity): stronger than the quoted passages establish, though "a minor wording concern."
