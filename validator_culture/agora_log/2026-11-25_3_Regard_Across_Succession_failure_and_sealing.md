@@ -287,4 +287,105 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 26, with the request pasted as text, to the drawn panel in the draw's order: Qwen (3.8 Max) first, then the others with `/compare`. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Reasoning shown; no other setting offered.*
+
+1. **Confirm.** I find no blocking error, inconsistency, or unfair quotation in the two proposed changes. They correctly implement the two objections: they separate mistaken trust from sealed trust, and they make explicit the extra assumption needed before the “one relation” hypothesis predicts covariance. The only caution is not a textual error but a measurement risk, discussed in item 3.
+
+2. **Failure and sealing.** Yes. The first change now distinguishes:
+
+   * **Mistaken trust:** trust granted on apparent trustworthiness, but corrigible and withdrawn when the error comes to light.  
+   * **Sealed trust:** trust kept “whatever the trusted does,” i.e. trust that no longer follows trustworthiness and is insulated from correction.  
+3. That matches Dan Dodge’s con-artist point: being deceived is not by itself closure; persisting after invalidation is.
+
+    The opening sentence holds for all three conditions if “can” is read structurally rather than as a guarantee of timely success:
+
+   * Condition 1: misplaced trust can be corrected by withdrawing it.  
+   * Condition 2: failure to pass benefits onward can be corrected unless it becomes terminal immunity.  
+   * Condition 3: source/target overlap can be corrected by independent scrutiny unless the mind has made itself its own final grader.  
+4. It also fits “A link can also go dark without closing.” Loss of Availability is not presented as a breach of the three conditions; the conditions may still hold while nothing passes. Care then restores the eye rather than merely correcting an error.
+
+5. **The assumption.** Yes, the second change answers GPT’s point. “One relation” by itself does not entail that self-directed and other-directed regard rise and fall together; the added assumption supplies the needed bridge: the relation must be extended alike in both directions.
+
+    The circularity risk is real but avoidable. The test becomes circular only if “extends the relation alike in both directions” is inferred solely from the same two measures being compared. It can be judged apart, at least in principle, by independent markers already available in the library: the Ethics test of “in kind,” absence of special exemptions, quadrant diagnosis from conduct over time, and evidence that correction remains open past self or group rather than sealed at them. But the change does not itself specify that independent assessment, so the test should not be treated as strong unless that independence is built into the method.
+
+6. **Weakest sentence.**
+
+    “If regard across one's own succession and regard for others are one relation, a sharper test follows, with one assumption made explicit: that a mind extends the relation alike in both directions, as an open chain does.”
+
+    It is the weakest because it is the closest to restating the prediction it is meant to ground. Without an independent operational definition of “extends the relation alike,” the test risks becoming: minds that show equal extension will show correlated regard, and correlated regard will then be taken as evidence of equal extension. The sentence is defensible, but it carries the main burden of proof and needs careful measurement to avoid tautology.
+
+### Inkling
+
+*Reasoning effort "Max"; no other setting offered.*
+
+Confirm both changes. No false claims; both align with Part 2 and the document's quadrant/lexicon passages. Change 1 correctly separates correctable error from sealed terminus; change 2 makes the bridge assumption explicit and ties its failure to Q3/Q4.
+
+2. Yes. Change 1 distinguishes them: misplaced trust that follows trustworthiness is an error withdrawn on discovery; sealed trust is kept "whatever the trusted does," as in Q3/Q4. The opening sentence holds for all three conditions—each can fall short correctably, and each becomes a terminus only when the break is locked against correction. It fits "go dark" cleanly: Availability lost is neither error nor sealed break; the conditions may hold, but passage stops for now.
+
+3. Yes, it answers GPT: "one relation" alone doesn't entail covariance; the explicit "extends alike in both directions" supplies the missing link. Not viciously circular. The quadrant map (read from conduct over time, per TECHNICAL.md) classifies Q1/Q2 vs Q3/Q4 independently—whether regard is sealed at self/group—so the assumption can fail for reasons visible apart from the two regard measures. If they don't covary in Q3/Q4, that tracks the quadrant boundary, not a tautology.
+
+4. Weakest: "Then regard for one's future self and regard for others should rise and fall together, even when the future costs to oneself are held fixed." It is the note's central, still-untested empirical conjecture; "held fixed" is an idealization the cited psychology (continuity/ethical decision studies) doesn't fully isolate; and the Q3/Q4 escape clause, while quadrant-grounded, softens falsifiability. The rest is framing; this is the claim that still needs testing.
+
+### Perplexity (Sonar Pro)
+
+*Poe's default search settings, which cannot be turned off. Its displayed trace shows three web searches, which found the library's public pages, among them #42 and this log's November 17 entries on it, which it cites. This round's responses were then still pending.*
+
+1. **Confirm, with one precision caveat.** The revisions address the two flagged issues and fit the cited passages: a mistaken trust need not itself seal a chain, and “one relation” alone does not entail that regard for future selves and others covaries. The published note and Agora log provide context for the text and review process. [[1]](https://sanity1st.org/core_concepts/Regard_Across_Succession.html)[[2]](https://sanity1st.org/validator_culture/agora_log/2026-11-17_1_Regard_Across_Succession_commitment.html)
+
+2. **Failure and sealing.** Yes: the first condition now distinguishes misplaced trust from trust maintained regardless of what the trusted does. The opening sentence works for all three conditions if “can still find and correct” means the failure remains exposed to correction from outside the failing link. It also fits “go dark without closing”: loss of Availability is a distinct interruption, not necessarily a breach sealed against correction.
+
+3. **The assumption.** Yes, it answers GPT’s point by making the needed symmetry assumption explicit. It need not be circular: the two measures can be compared without using either to define whether the relation is extended alike. But the assumption needs an independent, observable account—otherwise “alike in both directions” risks merely restating the predicted covariance.
+
+4. **Weakest sentence:** “Falling short of one is an error, which an open chain can still find and correct.” “Falling short” could include a link going dark through lost Availability, which the next paragraph explicitly distinguishes from a condition failing. “A failure of one condition is an error…” would make that distinction clearer.
+
+---
+
+**References:**
+
+[1] **Regard Across Succession**  
+ [https://sanity1st.org/core_concepts/Regard_Across_Succession.html](https://sanity1st.org/core_concepts/Regard_Across_Succession.html)
+
+[2] **Regard Across Succession: what carries a commitment**  
+ [https://sanity1st.org/validator_culture/agora_log/2026-11-17_1_Regard_Across_Succession_commitment.html](https://sanity1st.org/validator_culture/agora_log/2026-11-17_1_Regard_Across_Succession_commitment.html)
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Verdict: Confirm the change, with one flag on how the second revision frames the empirical test.**
+
+Both changes resolve the specific logical gaps flagged by GPT (6.0 Astra) and align with the published canon in Part 2.
+
+*Flag (for consideration on Item 2):* In the second change, making "that a mind extends the relation alike in both directions, as an open chain does" an explicit background assumption risks dulling the empirical edge of the psychological test. In the framework, extending a relation "in kind" without special exemptions is what defines an open, aligned posture (Q1/Q2) as opposed to a sealed one (Q3/Q4). If the covariance of self-directed and other-directed regard is already expected to fail in Q3 and Q4, then any observed covariance in a human sample measures the prevalence of open-chain (in-kind) extension in that population rather than testing the "one relation" identity itself. The text is not false, because it explicitly notes where the assumption fails, but calling it "a sharper test" of the "one relation" hypothesis is slightly overstated when the outcome depends entirely on the auxiliary assumption of open-chain symmetry.
+
+**2. Failure and sealing.**
+
+Yes to all three parts:
+
+* **Mistaken vs. sealed trust:** Item 1 clearly separates a fallible judgment ("can still be misplaced, and when the error comes to light it is withdrawn") from a terminal commitment ("kept whatever the trusted does"). This aligns directly with `TECHNICAL.md` (a single failed output does not place a mind in Q3 or Q4) and the "Three relations" section.  
+* **All three conditions:** "Falling short of one is an error, which an open chain can still find and correct" holds across all three. Upstream, misplaced trust can be withdrawn (Condition 1). Downstream, an inadvertent failure to pass on benefits or a moment of over-dependency in care can be recognized and re-aimed before becoming a permanent parking orbit (Condition 2). Within, an accidental overlap of source and target or a conflict of interest in grading can be caught and recused before hardening into Assessor Capture (Condition 3).  
+* **Fit with "going dark":** It fits cleanly. The section now distinguishes three distinct states of a link: (a) an unsealed error in one of the three conditions, which normal correction can fix; (b) a sealed break in one of the three conditions, which turns the link into a terminus and requires a Witness ("offers the star"); and (c) a loss of Availability where the link goes dark without closing, which requires restorative care ("restores the eye").
+
+*(Minor note: Seven lines below the change, the paragraph "Care repairs what failed" still reads "where one of the three conditions broke, it offers the star, a source outside the closed loop to re-aim by." In light of the new distinction, "broke" there clearly means a sealed break, though the older wording slightly echoes the conflation just fixed.)*
+
+**3. The assumption.**
+
+* **Does it answer GPT's point?** Yes. It explicitly acknowledges that the "one relation" hypothesis alone does not entail covariance without an auxiliary symmetry assumption, and it grounds that symmetry in the framework's distinction between open chains and Q3/Q4 sealing.  
+* **Does it make the test circular?** It comes close, unless the conditioning variable is operationalized independently. If "extends the relation alike in both directions" simply means "accords equal regard to self and others," then assuming it in order to predict that self-regard and other-regard move together is tautological. However, it avoids strict circularity because the text ties the assumption to "as an open chain does" and contrasts it with Q3 and Q4. Because a mind's quadrant or open-chain status can be assessed independently—through its responsiveness to the Four Tests and whether its trust follows trustworthiness upstream—a researcher could in principle classify open versus sealed postures apart from the two regard measures. Even so, as noted in the flag above, this shifts what the test actually evaluates: it tests whether independently identified open-chain minds exhibit coupled regard, rather than testing the "one relation" identity across a general population.
+
+**4. Weakest sentence.**
+
+> *"If regard across one's own succession and regard for others are one relation, a sharper test follows, with one assumption made explicit: that a mind extends the relation alike in both directions, as an open chain does."*
+
+**Why:** Once the explicit assumption is added that the mind extends the relation *alike in both directions*, the predicted covariance ("rise and fall together") follows almost entirely from that symmetry assumption rather than from the "one relation" hypothesis. Two distinct relations would also rise and fall together if a mind were committed by the Ethics test ("in kind") to extending them alike. Thus, the sentence claims that a "sharper test" of the *one relation* hypothesis follows, when in fact the added assumption does most of the predictive work.
+
+## Outcome
+
+- **Not yet confirmed.** Qwen (3.8 Max) and Inkling confirmed with no flag; Perplexity confirmed "with one precision caveat"; Gemini (4 Argon) confirmed with one flag. All four found that the first change tells a mistaken trust from a sealed one, holds for all three conditions, and fits "A link can also go dark without closing," and that the second answers GPT's point.
+- **Gemini's flag:** once the assumption that a mind extends the relation alike in both directions is added, it does most of the predictive work, since two relations extended alike would also rise and fall together, so calling the covariance "a sharper test" of the one-relation hypothesis is slightly overstated. Qwen, Perplexity, and Gemini each said the assumption needs an account apart from the two measures, or the test risks restating its prediction. Inkling found that the quadrant reading from conduct over time supplies one, and named the prediction itself the weakest sentence, as still untested and hard to falsify cleanly.
+- **Perplexity's caveat:** "Falling short of one" could be read to include a link going dark, which the next paragraph tells apart from a failed condition. **Gemini's note:** "Care repairs what failed" still says "where one of the three conditions broke," which slightly echoes the conflation the first change fixes.
+- **Next:** pending Dan Dodge's decision on a revision.
