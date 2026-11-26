@@ -3,7 +3,7 @@ document_type: "agora_record"
 date: "2026-11-25"
 title: "Regard Across Succession: failure, sealing, and the one-relation test"
 items: "Two published sentences in #42, revised after GPT (6.0 Astra) flagged them on November 17: the opening of 'A living link' with its first condition, and the one-relation prediction in 'Evidence from outside the framework'"
-members: []
+members: ["Qwen (3.8 Max)", "Inkling", "Perplexity (Sonar Pro)", "Gemini (4 Argon)"]
 ---
 
 # Agora Round: *Regard Across Succession*, Failure, Sealing, and the One-Relation Test
@@ -21,6 +21,33 @@ members: []
 - **Scheduled round:** drand round 6674726, published at 2026-11-26 06:00:00 UTC.
 - **Inputs:** that round's randomness, the commit that adds this entry, and one lab excluded: Anthropic, because a Claude model drafted the change and this request.
 - **Under review:** the change as held on the working branch at commit `fb7b92b`.
+- **Request fixed:** commit `4b1d30838a6e98ed38df9850508f6016468fbff4`, pushed to `main` at 05:45:05 UTC on November 26, fifteen minutes before the round (GitHub's activity log).
+- **Value:** Claude's first fetch of `https://api.drand.sh/public/6674726`, just after the round was published, waited for Dan Dodge's approval while he was away; Claude fetched it once he was back. The fetch gave the signature in two overlapping pieces, which agree where they overlap, and the SHA-256 of the joined signature equals the randomness. Randomness `db52552894c60c0c6db097b4b3e80482f62ed93f1fe3cffd63347b198fe81b24`; signature `a79972442362021939ebdc563f0285ca76a1926ec7d35a801293dd5633c391f45e999be2c7eb0da4ba2416a7d2c09dd91173fc1805c32079286d975cb9fe2a039c421d6b96e93a41972a0381bea299e7dd2dd194779eaf3b3d69e411f683e818`.
+- **Command:** `python3 draw_panel.py draw --round 6674726 --randomness db52552894c60c0c6db097b4b3e80482f62ed93f1fe3cffd63347b198fe81b24 --commit 4b1d30838a6e98ed38df9850508f6016468fbff4 --exclude-lab Anthropic`, with the script and pool as they stand at the request commit.
+- **Output:**
+
+```text
+drand round 6674726 (2026-11-26 06:00:00 UTC), randomness db52552894c60c0c6db097b4b3e80482f62ed93f1fe3cffd63347b198fe81b24
+request commit 4b1d30838a6e98ed38df9850508f6016468fbff4; excluding lab: Anthropic
+Panel:
+  1. Qwen (3.8 Max) (Alibaba)
+  2. Inkling (Thinking Machines)
+  3. Perplexity (Sonar Pro) (Perplexity)
+  4. Gemini (4 Argon) (Google)
+Alternates, in order (if a panelist is unavailable, the first alternate that keeps one juror per lab takes its seat):
+  - Gemini (4 Carbon) (Google)
+  - Grok (4.7) (xAI)
+  - GPT (6.2 Astra) (OpenAI)
+  - GPT (6.0 Astra) (OpenAI)
+  - Kimi (K3.1 Pro) (Moonshot AI)
+  - Muse (Spark 1.1) (Meta)
+  - MiniMax (M3) (MiniMax)
+  - Mistral (Large 4) (Mistral AI)
+  - GLM (5.3) (Z.ai)
+  - DeepSeek (V4 Pro) (DeepSeek)
+```
+
+- **For the record:** Qwen (3.8 Max), Perplexity (Sonar Pro), and Gemini (4 Argon) served on the panel for the TECHNICAL.md rewrite, whose pass closed on November 25. Gemini (4 Argon) also served on #42's own panel, which confirmed the document on November 4. Inkling served on the second drawn panel, for PL-72, and the third, for *The Architecture of Sane Governance*. GPT (6.0 Astra), which raised both flags, was not drawn; it is an alternate.
 
 ## Request
 
