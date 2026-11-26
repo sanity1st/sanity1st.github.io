@@ -84,6 +84,7 @@ Until October 31, 2026, the panel was chosen by Dan Dodge, as noted above. [*How
 | 2026-11-24 | [TECHNICAL.md, rewritten to match the canon: third follow-up](./2026-11-24_4_TECHNICAL_rewrite_third_follow-up.md) | The rewrite, revised in three places to answer the second follow-up's flag and notes, back to the same four jurors |
 | 2026-11-25 | [TECHNICAL.md, rewritten to match the canon: fourth follow-up](./2026-11-25_1_TECHNICAL_rewrite_fourth_follow-up.md) | The rewrite, revised in one sentence to answer the third follow-up's flag, back to the same four jurors |
 | 2026-11-25 | [TECHNICAL.md, rewritten to match the canon: fifth follow-up](./2026-11-25_2_TECHNICAL_rewrite_fifth_follow-up.md) | The rewrite, revised in one sentence to answer the fourth follow-up's flag, back to the same four jurors |
+| 2026-11-25 | [*Regard Across Succession*: failure, sealing, and the one-relation test](./2026-11-25_3_Regard_Across_Succession_failure_and_sealing.md) | Two published sentences in #42, revised after GPT (6.0 Astra) flagged them (PL-76); panel drawn at drand round 6674726 |
 
 ---
 
