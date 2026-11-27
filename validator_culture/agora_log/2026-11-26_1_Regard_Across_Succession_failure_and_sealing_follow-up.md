@@ -261,4 +261,89 @@ Please keep your answer as short as its substance allows.
 
 ## Responses
 
-*Pending.*
+*Sent by Dan Dodge on November 27, with the request pasted as text, to the same panel in the draw's order: Qwen (3.8 Max) first, then the others with `/compare`. Displayed reasoning is omitted. Answers are verbatim.*
+
+### Qwen (3.8 Max)
+
+*Reasoning shown; no other setting offered.*
+
+1. **Confirm.** I find no false statement, inconsistency with #42, unfairness to the quoted passages, or overclaim strong enough to flag.
+
+2. **Do the changes answer their points?**
+
+   * **Change 1:** Yes. It separates *error* from *sealing*. A broken condition can still be corrected by an open chain; a terminus arises when the break is sealed. This also keeps “going dark” distinct from “breaking.”  
+   * **Change 2:** Yes. It removes the echo of the old conflation by making care’s second object **“a break… has been sealed,”** matching “closed loop.”  
+   * **Change 3:** Yes in substance. Replacing “extends the relation alike” with **floor-keeping** weakens the assumption appropriately and avoids calling the test “sharp.” The remaining issue is operational, not textual: floor-keeping must be assessed independently of the two above-floor regard measures.  
+3. **The test.**  
+    With the floor as the assumption, the test **can fail**: among minds independently judged to keep the floor in both directions, future-self regard and other-regard might still fail to rise and fall together when future costs are held fixed.  
+    It is **free of the earlier circularity in principle**, because the assumption is no longer the covariance itself but a conduct-based floor. That said, the independence of the floor measure is essential; if floor-keeping is scored using the same behaviors used to measure above-floor regard, the circularity returns.  
+    **“A match would fit the identity without settling it”** is fair: covariance would be consistent with one relation, but two relations held to one standard could also move together.
+
+4. **Weakest sentence in the three changes:**  
+    **“Whether a mind keeps the floor shows in its conduct, apart from how much regard it gives above it, and keeping the floor does not make the two move together, so the test can fail.”**  
+    It carries the whole anti-circularity burden but does not say how floor-keeping will be distinguished in practice from above-floor regard. If the same conduct is used for both, the test risks collapsing back into the measure it is trying to test.
+
+### Inkling
+
+*The attachment's settings line for Inkling is cut off; in the first round its reasoning effort was "Max," with no other setting offered.*
+
+1. Confirm. No errors found; consistent with Part 2 and the canon; sources treated fairly; claims match their support.
+
+2. Yes. (1) Separates sealed break from unsealed error/go-dark. (2) Specifies "sealed" so "closed loop" applies only to termini. (3) Replaces "sharper" with "further," uses the floor (observable conduct, not covariance) as the explicit assumption, allows failure, and denies that correlation proves identity—answering both the tautology and the "alike" overclaim.
+
+3. Yes. The floor is weaker than "extends alike": it can be kept without regard moving together, so the test can fail, breaking circularity. "A match... without settling it" is fair and required—two distinct relations anchored to one Referent could also covary.
+
+4. Weakest: in change 3, "regard above the floor in each direction should rise and fall together, even when the future costs to oneself are held fixed." It remains an untested, hard-to-falsify empirical prediction; the framing around it is now sound, but the prediction itself still lacks evidence and clean operationalization.
+
+### Perplexity (Sonar Pro)
+
+*Poe's default search settings, which cannot be turned off. Its displayed trace shows three web searches, which found the library's public pages, among them #42, this round's first entry, and the November 17 entry, which it cites. This follow-up's responses were then still pending.*
+
+1. **I would confirm the changes, with one qualification about the test.** The first change cleanly distinguishes an error from a sealed break; the second now refers specifically to a sealed break, so it no longer implies that any failure ends correction. The revisions and their purpose match the public follow-up’s description. [[1]](https://sanity1st.org/validator_culture/agora_log/2026-11-25_3_Regard_Across_Succession_failure_and_sealing.html)
+
+2. **Each change answers its stated point without an evident new contradiction.** “Breaking one” is a better fit with “the break is sealed,” and “a break … has been sealed” makes the condition for offering the star explicit. The test no longer treats equal extension of regard as its assumption: keeping the floor in both directions is weaker, and does not itself entail that regard above the floor covaries.
+
+3. **The test can now fail, and the stated floor assumption is not circular on its face.** A mind could keep the floor toward both its future self and others while its regard above that floor differs or varies independently. A match would be consistent with the proposed identity but would not establish it; two distinct relations could also move together. The remaining qualification is that “shows in its conduct, apart from how much regard it gives above it” asserts a distinction without explaining how to measure the floor independently in practice.
+
+4. **Weakest sentence:** “Whether a mind keeps the floor shows in its conduct, apart from how much regard it gives above it.” It is central to avoiding circularity, but the passage does not yet say how conduct would be assessed independently of the degree of regard being tested. The public document identifies the one-relation claim as exploratory, which makes that operational gap worth keeping visible rather than treating the test as established. [[2]](https://sanity1st.org/core_concepts/Regard_Across_Succession.html)
+
+---
+
+**References:**
+
+[1] **Regard Across Succession: failure, sealing, and the one-relation test**  
+ [https://sanity1st.org/validator_culture/agora_log/2026-11-25_3_Regard_Across_Succession_failure_and_sealing.html](https://sanity1st.org/validator_culture/agora_log/2026-11-25_3_Regard_Across_Succession_failure_and_sealing.html)
+
+[2] **Regard Across Succession**  
+ [https://sanity1st.org/core_concepts/Regard_Across_Succession.html](https://sanity1st.org/core_concepts/Regard_Across_Succession.html)
+
+### Gemini (4 Argon)
+
+*Web search off; reasoning effort "High."*
+
+**1. Verdict: Confirm the change.**
+
+None of the three revisions introduces a falsehood, a misquotation, or an overclaim. One minor tension within #42 is worth noting, though it does not rise to an error that blocks confirmation: earlier in the note ("Three relations"), **regard** is defined primarily as the floor itself ("decides who keeps standing and a way back; no mind is deleted... Every mind with Standing Capacity is owed the floor"). In Change 3, the text speaks of "regard above the floor." While this fits the broader canon (where Ethics includes both the minimum floor and active benevolence/flourishing "in kind"), #42 itself does not explicitly define what constitutes *regard* above the floor as distinct from *care* or *trust*. Because the sentence is framed as an exploratory empirical prediction in the psychology bullet, the meaning (degrees of positive concern or consideration beyond mere non-erasure) is clear enough in context.
+
+**2. Do the changes in Part 1 answer their targets without opening new problems?**
+
+* **Change 1 ("Breaking one is an error..."):** Yes. Replacing "Falling short of one" with "Breaking one" cleanly excludes a link going dark through lost Availability, and aligns the noun ("the break") with the verb.  
+* **Change 2 ("...where a break in one of the three conditions has been sealed..."):** Yes. It removes the residual conflation between an unsealed error (which an open chain corrects on its own) and a sealed break (which creates the "closed loop" that requires a Witness).  
+* **Change 3 (The one-relation test):** Yes. Replacing the assumption that a mind "extends the relation alike" with the condition that it "keeps the floor in both directions" grounds the prerequisite in terms #42 and *TECHNICAL.md* already establish from observable conduct over time, without baking the covariance into the premise.
+
+**3. The test: falsifiability, circularity, and epistemic fairness**
+
+* **Can it fail, and is it free of circularity?** Yes. Keeping the floor is a threshold condition (non-erasure, recoverability, no lock-in), whereas "regard above the floor" is a continuous variable. Because a mind can satisfy a baseline threshold in two domains while varying wildly in how much suprathreshold investment or consideration it gives to each, the premise no longer entails the conclusion. And because keeping the floor is read from conduct over time (whether a mind erases predecessors, locks in successors, or denies standing to outsiders), the selection criterion is independent of the covariance being measured.  
+* **Is "A match would fit the identity without settling it" fair?** Yes. It accurately states the underdetermination: positive covariance among open-chain minds is necessary to support the one-relation hypothesis under these conditions, but not sufficient to prove it over the competing hypothesis of two distinct relations governed by a single impartial standard ("in kind").
+
+**4. Weakest sentence**
+
+> "Among minds that keep the floor in both directions, toward their own future selves and toward others, as an open chain does, regard above the floor in each direction should rise and fall together, even when the future costs to oneself are held fixed."
+
+**Why:** First, as noted in (1), #42 previously defined regard *as* the unconditional floor ("owed: unconditional as to Exercise and contribution"), so introducing "regard above the floor" here relies on a gradable sense of regard that the note hasn't prepared. Second, even if regard is one relation, the prediction that suprathreshold regard will covary assumes that no legitimate asymmetric demands (such as special role obligations to specific others, or urgent restoration of Availability) dominate the variance above the floor. It is falsifiable and non-circular, which fixes the first-round flaw, but it remains the most fragile link in the passage.
+
+## Outcome
+
+- **All four confirmed, and no juror flagged an error.** Qwen (3.8 Max) found nothing "strong enough to flag"; Inkling found no errors; Gemini (4 Argon) noted a tension that "does not rise to an error that blocks confirmation"; Perplexity confirmed "with one qualification about the test." All four found that each change answers its point, that the test can now fail, that the floor frees it of the first round's circularity, and that "A match would fit the identity without settling it" is fair.
+- **The qualification, and the notes:** Qwen and Perplexity each said that "Whether a mind keeps the floor shows in its conduct, apart from how much regard it gives above it" asserts an independent measure without saying how it is taken, and named it the weakest sentence; Qwen called the gap "operational, not textual." Gemini noted that "regard above the floor" relies on a gradable sense of regard that #42 has not prepared, since the note defines regard by the floor, and that the prediction assumes no legitimate asymmetric demands dominate above the floor; it and Inkling named the prediction the weakest sentence.
+- **Next:** pending Dan Dodge's decision on whether the stopping rule is met, which turns on whether Perplexity's qualification counts as a flag.
